@@ -60,6 +60,7 @@ function normalizeJa(s) {
 }
 
 const problems = [];
+fs.mkdirSync(path.join(root, "site", "data"), { recursive: true });
 for (const doc of Object.values(DOCS)) {
   const files = fs.existsSync(alignedDir)
     ? fs.readdirSync(alignedDir).filter((f) => f.startsWith(doc.id + "-") && f.endsWith(".json")).sort()
