@@ -1,0 +1,1174 @@
+{
+  "doc": "rec",
+  "pages": [
+    21,
+    40
+  ],
+  "segments": [
+    {
+      "page": 21,
+      "type": "h3",
+      "en": "Context for the development of the TNFD metrics architecture",
+      "ja": "TNFD測定指標アーキテクチャ開発の状況"
+    },
+    {
+      "page": 21,
+      "type": "p",
+      "en": "For nature-related issues, metrics and targets (and the data that support them) are needed at three levels: global (the level of coordinated international policy); national (the level of national regulation and law); and local (the level of specific ecosystems and business dependencies and impacts on nature). This global and corporate reporting measurement architecture is already in place for climate change. The publication of the Greenhouse Gas Protocol in 2001 stimulated decades of research and methods development for corporate greenhouse gas accounting. International agreements such as the Paris Agreement and the development of data solutions have further enabled and accelerated reporting of Scope 1, 2 and 3 emissions.",
+      "ja": "自然関連課題については、3つのレベルで測定指標とターゲット（およびそれを支えるデータ）が必要である。グローバル（協調的な国際政策のレベル）、ナショナル（国内の規制や法律のレベル）、ローカル（特定の生態系やビジネスの自然に対する依存とインパクトのレベル）。気候変動に関しては、このようなグローバルかつ企業報告用の測定アーキテクチャがすでに構築されている。2001年のGHGプロトコルの発行は、企業が温室効果ガスに関する会計を行うための数十年にわたる研究と手法の開発を促した。パリ協定のような国際協定やデータソリューションの開発により、スコープ1、2、3排出量の報告がさらに可能になり、加速されている。"
+    },
+    {
+      "page": 21,
+      "type": "p",
+      "en": "The global and corporate measurement and reporting architecture is still in development for the other drivers of nature loss (Figure 7). The GBF indicator framework is in the process of finalisation, the UN System of Environmental-Economic Accounting – Ecosystem Accounting (UN SEEA) is increasingly applied at a national level and the Science Based Targets Network (SBTN) has recently released methods for the first science-based targets for nature. Nevertheless, there is no universally agreed global architecture for measurement and reporting for nature comparable to the Greenhouse Gas Protocol.",
+      "ja": "その他の自然の損失の要因についてはグローバルおよび企業の測定と報告の枠組みを開発中である（図7）。GBFの指標枠組みは現在最終段階にあり、国家レベルでの国連環境経済統合勘定 - 生態系勘定（UN SEEA）の採用はますます進み、科学に基づく目標ネットワーク（SBTN）は最近、自然に関する科学に基づく目標設定の初めての方法論を発表した。しかしながら、自然に関する測定と報告において、GHGプロトコルに匹敵するような普遍的に合意されたグローバル・アーキテクチャは存在しない。"
+    },
+    {
+      "page": 22,
+      "type": "caption",
+      "en": "Figure 7: The architecture for measurement and target setting – Climate and nature",
+      "ja": "図7：測定と目標設定のためのアーキテクチャ - 気候と自然"
+    },
+    {
+      "page": 22,
+      "type": "figure",
+      "en": "Climate architecture for action – Global architecture: Metrics: CO₂/CO₂ equivalent; Targets: Paris Agreement (UNFCCC). National accountability: Metrics: Same legislated (UNFCCC & TCFD-aligned); Targets: Nationally Determined Contributions (NDCs). Local assessment: Metrics: Same (TCFD-aligned & GHG Protocol); Targets: Sub-national targets (government, corporates, financial instutions) – Net zero",
+      "ja": "行動のための気候のアーキテクチャ - グローバル・アーキテクチャ：測定指標：CO₂/CO₂等価；ターゲット：パリ協定(UNFCCC)。国の説明責任：測定指標：同様 - 法制化(UNFCCCおよびTCFDと整合)；ターゲット：国別約束(NDC)。現地評価：測定指標：同様（TCFDと整合およびGHGプロトコル）；ターゲット：サブナショナルターゲット（政府、企業、金融機関） - ネットゼロ"
+    },
+    {
+      "page": 22,
+      "type": "figure",
+      "en": "Nature architecture for action – Global architecture: Metrics: Global measurement framework (UN SEEA EA); Targets: Kunming-Montreal Global Biodiversity Framework (CBD). National accountability: Metrics: National measurement standards (UN SEEA EA); Targets: National Biodiversity Strategies & Action Plans (NBSAPs). Local assessment: Metrics: State of nature metrics; Targets: Nature targets framework. Legend: In place / No agreed approach",
+      "ja": "行動のための自然のアーキテクチャ - グローバル・アーキテクチャ：測定指標：グローバル測定枠組み(UN SEEA EA)；ターゲット：昆明・モントリオール生物多様性枠組(CBD)。国の説明責任：測定指標：国の測定基準(UN SEEA EA)；ターゲット：生物多様性国家戦略・行動計画(NBSAP)。現地評価：測定指標：自然の状態に関する測定指標；ターゲット：自然に関するターゲットの枠組み。凡例：準備が整っている / 合意されたアプローチがない"
+    },
+    {
+      "page": 23,
+      "type": "p",
+      "en": "The absence of a widely adopted framework has presented the Taskforce with a significant challenge in making recommendations on metrics and targets, comparable with the TCFD recommendations and ISSB’s IFRS-S1 General Requirements and the expectation of GBF Target 15. The Taskforce has worked with a wide range of science partners and corporate reporting organisations, such as the UN Statistics Division, SBTN, GRI, the International Organization of Standardization (ISO) and CDP, over the two-year design and development phase to try to address this challenge and support companies looking to undertake quantitative reporting. The metrics architecture recommended by the Taskforce – a leading indicators approach much like that used in mainstream financial reporting and national economic reporting – is described in Section 4 and the TNFD disclosure metrics are provided in Annexes 1 and 2. The Taskforce has also developed additional guidance on target setting in the LEAP approach and co-developed with the SBTN summary guidance on SBTN’s methods for setting science-based targets for nature.12 Akin to how the TCFD and the Science Based Targets initiative enabled action to tackle climate change, TNFD and SBTN guidance can be used to address nature-related issues.",
+      "ja": "広く採用された枠組みがないことにより、TCFDの提言やIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」、GBFターゲット15の期待に匹敵するような、測定指標とターゲットに関する提言を行う上で、タスクフォースは大きな課題を抱えている。タスクフォースは、この課題に対処し、定量的報告を実施しようとする企業を支援するために、2年間の設計・開発フェーズにおいて、国連統計部、SBTN、GRI、国際標準化機構（ISO）、CDPなどの幅広い科学パートナーや企業報告組織と協力してきた。タスクフォースが推奨する測定指標アーキテクチャ（主要な財務報告や国家経済報告で使用されるものと同様の先行指標に関するアプローチ）については4節で解説し、TNFDの開示指標は別紙1と2に記載する。タスクフォースはまた、LEAPアプローチにおけるターゲット設定に関する追加ガイダンスを作成し、SBTNと共同で、自然に関する科学に基づく目標設定のためのSBTNの手法に関する要約ガイダンスを作成した12。TCFDと科学に基づく目標イニシアティブ（SBTi）が気候変動への取り組みを可能にしたように、自然関連課題に対処するためにTNFDとSBTNのガイダンスを利用できる。"
+    },
+    {
+      "page": 23,
+      "type": "h3",
+      "en": "Additional guidance to help organisations get started and build disclosure over time",
+      "ja": "組織が開示に着手し、時間をかけて開示を構築していくための追加ガイダンス"
+    },
+    {
+      "page": 23,
+      "type": "p",
+      "en": "The Taskforce set about designing its recommendations at pace, given the urgency of addressing nature loss globally. The TNFD hopes to catalyse early action by market participants and encourage learning and continuous improvement over time. As with climate-related reporting, and as familiarity with nature grows, management of nature-related issues will improve and disclosure ambition will increase over time.",
+      "ja": "タスクフォースは世界的な自然の損失への対処の緊急性を考慮し、本提言の設計を急ピッチで進めた。TNFDは市場参加者による早期の行動を促進し、長期にわたる学習と継続的な改善を促すことを期待している。気候関連報告と同様に、そして自然への理解が深まるにつれ、自然関連課題の管理は改善され、開示への意欲は時間の経過とともに高まるだろう。"
+    },
+    {
+      "page": 23,
+      "type": "p",
+      "en": "The Taskforce has prepared additional guidance to support that adoption pathway:",
+      "ja": "タスクフォースはその採用経路を支援するための追加ガイダンスを作成した。"
+    },
+    {
+      "page": 23,
+      "type": "li",
+      "en": "Getting started guidance with practical steps, considerations and insights from pilot testing to help organisations initiate their nature-related disclosures aligned with the TNFD recommendations;",
+      "ja": "開始ガイダンスTNFDの提言と整合する自然関連の開示を組織が開始するために役立つ、実践的なステップ、考慮事項、パイロットテストからの知見。"
+    },
+    {
+      "page": 23,
+      "type": "li",
+      "en": "Suggested ‘how to’ guidance on the identification and assessment of nature-related issues (the LEAP approach), building on existing market-leading frameworks such as the Natural Capital Protocol and SBTN target setting methods, and signposting to analytic tools and datasets from a range of leading science-based organisations, including IUCN, UNEP WCMC, WWF and many others;",
+      "ja": "自然資本プロトコルやSBTNの目標設定手法のような既存の市場をリードする枠組みを基礎とし、IUCN、UNEP WCMC、WWFをはじめとするさまざまな科学的根拠に基づく組織による分析ツールやデータセットへの案内を提供する、自然関連課題の特定と評価に関する「ハウツー」ガイダンス（LEAPアプローチ）を提案。"
+    },
+    {
+      "page": 23,
+      "type": "li",
+      "en": "Supplementary guidance by sector and types of ecosystem (biome) to support organisations in their particular economic and geographic contexts; and",
+      "ja": "セクター別および生態系のタイプ（バイオーム）別の補足ガイダンスで特定の経済的・地理的背景を持つ組織を支援。"
+    },
+    {
+      "page": 23,
+      "type": "li",
+      "en": "Additional guidance on two cross-cutting components of the LEAP approach: scenario analysis and engagement with Indigenous Peoples, Local Communities and affected stakeholders.",
+      "ja": "LEAPアプローチの2つの横断的構成要素に関する追加ガイダンス：シナリオ分析および先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント。"
+    },
+    {
+      "page": 23,
+      "type": "p",
+      "en": "The TNFD will continue to work with a range of partners to develop additional guidance materials to help to increase voluntary market adoption. This will also include market knowledge, training and capacity building initiatives to accelerate progress on a number of the challenges to nature-related assessment and corporate reporting. Section 6.2 provides further details.",
+      "ja": "TNFDは今後もさまざまなパートナーと協力し、自主的な市場導入の拡大を支援するための追加ガイダンスの作成を継続していく。これには自然関連評価や企業報告における多くの課題に関する進展を加速させるための、市場の知識、研修、能力開発に関するイニシアティブも含まれる。6.2節に詳細を記載した。"
+    },
+    {
+      "page": 23,
+      "type": "footnote",
+      "en": "12 When corporates apply TNFD’s recommendations to set targets, TNFD recommends they use methods developed by the SBTN to set science-based targets for nature.",
+      "ja": "12 企業がTNFDの提言を適用してターゲットを設定する場合、TNFDはSBTNによって開発された方法を使用して自然に関する科学に基づく目標を設定することを推奨する。"
+    },
+    {
+      "page": 24,
+      "type": "h1",
+      "en": "2. Foundations for understanding nature and business",
+      "ja": "2. 自然とビジネスを理解するための基礎"
+    },
+    {
+      "page": 24,
+      "type": "p",
+      "en": "The Taskforce has worked closely with the world’s leading scientific and conservation organisations to ensure the TNFD’s recommendations draw on authoritative and consensus-based definitions as the foundation of a market-accessible language system for understanding nature. The definitions have been refined based on feedback. The main definitions are provided in the glossary in Annex 5.",
+      "ja": "タスクフォースは、TNFDの提言が、自然を理解するために市場がアクセス可能な言語システムの基礎として、権威ある合意に基づいた定義を確実に利用できるよう、世界中の主要な科学・自然保護団体と緊密に連携してきた。定義はフィードバックを参考に改善された。主な定義は別紙5の用語集に記載した。"
+    },
+    {
+      "page": 24,
+      "type": "h3",
+      "en": "Understanding nature",
+      "ja": "自然を理解する"
+    },
+    {
+      "page": 24,
+      "type": "p",
+      "en": "Nature refers to the natural world, emphasising the diversity of living organisms, including people, and their interactions with each other and their environment.13 It is made up of four realms: land, ocean, freshwater and atmosphere (Figure 8).14 These are major components of the natural world that differ fundamentally in their organisation and function. The four realms provide an entry point for understanding how organisations and people depend, and have impacts, on nature. The TNFD’s biome guidance is organised around the four realms.",
+      "ja": "自然とは自然界を指し、人間を含む生物の多様性、生物間の相互作用、環境との相互作用に重点を置く13。それは4つの領域で構成されている：陸、海洋、淡水、大気である（図8）14。これらは構造と機能が根本的に異なる、自然界の主な構成要素である。この4つの領域は、組織や人間がどのように自然に依存し、インパクトを与えているかを理解するための入り口を提供する。TNFDのバイオームガイダンスは、この4つの領域を中心に構成されている。"
+    },
+    {
+      "page": 24,
+      "type": "p",
+      "en": "While it has become common among some policy makers, regulators and market participants to use the words ‘nature’ and ‘biodiversity’ interchangeably, they are in fact distinct concepts. Biodiversity refers to the variability among living organisms across these realms. It is an essential and integral characteristic of nature that enables ecosystems to be productive, resilient and able to adapt.15",
+      "ja": "一部の政策立案者、規制当局、市場参加者の間では、「自然」と「生物多様性」という言葉を同じ意味で使うことが一般的になっているが、実際には両者は異なる概念である。生物多様性とは、これらすべての領域にわたる生物の間の変異性を指す。それは自然の本質的かつ不可欠な特性であり、生態系が生産的で回復力があり、変化に適応できることを意味する15。"
+    },
+    {
+      "page": 24,
+      "type": "caption",
+      "en": "Figure 8: Nature’s four realms – Land, ocean, freshwater and atmosphere",
+      "ja": "図8：自然の4つの領域 - 陸、海洋、淡水、大気"
+    },
+    {
+      "page": 24,
+      "type": "figure",
+      "en": "Land / Freshwater / Ocean / Atmosphere / Society",
+      "ja": "陸 / 淡水 / 海洋 / 大気 / 社会"
+    },
+    {
+      "page": 24,
+      "type": "p",
+      "en": "Society lies at the centre of the framework, interacting with and across all four realms. This includes people, corporates and financial institutions, all of whom depend and have impacts on nature. Members of society contribute to, and are affected by, nature loss. This reflects that people are part of nature, not separate from it. The interactions of Indigenous Peoples and Local Communities with nature are particularly significant (see Box 1).",
+      "ja": "社会は枠組みの中心に位置し、4つの領域すべてと相互に、そして横断的に作用する。社会には人間、企業、金融機関が含まれ、すべてが自然に依存し、またインパクトを及ぼしている。社会に所属するものは自然の損失に加担する一方で、その影響も受けている。これは、人間が自然から切り離された存在ではなく、自然の一部であることを反映している。先住民族と地域社会と自然との相互作用は特に重要である（ボックス1参照）。"
+    },
+    {
+      "page": 24,
+      "type": "footnote",
+      "en": "13 Díaz, S et al. (2015) The IPBES Conceptual Framework – connecting nature and people",
+      "ja": "13 Díaz, S et al. (2015) The IPBES Conceptual Framework – connecting nature and people"
+    },
+    {
+      "page": 24,
+      "type": "footnote",
+      "en": "14 Science Based Target Network (2022) SBTN Glossary. The inclusion of atmosphere reflects the importance of air quality and the close association between climate- and nature-related risks and opportunities, while acknowledging that links with climate mitigation and adaptation occur across all realms.",
+      "ja": "14 科学に基づく目標ネットワーク(2022) SBTN用語集. 大気を含めることは、大気の質の重要性、気候と自然関連のリスクと機会との密接な関連性を反映するものであり、同時に、気候の緩和と適応との関連性があらゆる領域で生じることを認識するものである。"
+    },
+    {
+      "page": 24,
+      "type": "footnote",
+      "en": "15 Dasgupta, P (2021) The economics of biodiversity: The Dasgupta Review",
+      "ja": "15 Dasgupta, P (2021) 生物多様性の経済学: ダスグプタ・レビュー"
+    },
+    {
+      "page": 25,
+      "type": "h4",
+      "en": "Box 1: The importance of Indigenous Peoples and Local Communities",
+      "ja": "ボックス1：先住民族と地域社会の重要性"
+    },
+    {
+      "page": 25,
+      "type": "quote",
+      "en": "Indigenous Peoples and Local Communities have proven highly effective in the protection of ecosystems through their knowledge, community-led practices and institutions. Indigenous Peoples and Local Communities make up less than 5% of the world’s population and manage less than half of terrestrial landscapes and a third of inland waters,16 yet they have succeeded in protecting 80% of our global biodiversity.17 Biodiversity declines 30% less and 30% slower in Indigenous lands than in lands not managed by Indigenous Peoples.18 At the same time, Indigenous Peoples and Local Communities’ close relation with nature – for cultural, social and spiritual reasons, for their well-being, and for access to food, shelter and water – makes them particularly susceptible to adverse impacts from nature loss.",
+      "ja": "先住民族と地域社会は、彼らが有する知識、地域社会が主導する慣行や制度を通じて、生態系の保護において非常に効果的であることを証明してきた。先住民族と地域社会は世界人口の5%未満であり、陸域のランドスケープの半分以下、内陸水域の3分の1しか管理していない16。しかし、彼らは世界の生物多様性の80%を保護することに成功している17。先住民族の土地では、先住民族が管理していない土地に比べて、生物多様性の減少が30%少なく、減少の速度も30%遅い18。同時に、先住民族と地域社会は自然と密接な関係（文化的、社会的、精神的な理由、幸福のため、食料、住居、水へのアクセスのため）にあるため、彼らは自然の損失による悪影響を特に受けやすい。"
+    },
+    {
+      "page": 25,
+      "type": "quote",
+      "en": "In recognition of this, the TNFD has developed additional guidance on engagement by companies and financial institutions with Indigenous Peoples, Local Communities and affected stakeholders for the assessment, management and disclosure of nature-related dependencies, impacts, risks and opportunities. The TNFD’s recommendations also include a general requirement and recommended disclosure on engagement and human rights, as described in Section 3.",
+      "ja": "この認識のもと、TNFDは自然関連の依存、インパクト、リスクと機会を評価、管理、開示するために、企業や金融機関が先住民族、地域社会と影響を受けるステークホルダーと実施するエンゲージメントに関する追加ガイダンスを開発した。3節に記載するように、TNFDの提言には、エンゲージメントと人権に関する一般要件と開示提言も含まれる。"
+    },
+    {
+      "page": 25,
+      "type": "p",
+      "en": "The TNFD defines natural capital as the stock of renewable and non-renewable natural resources, such as plants, animals, air, water, soils and minerals, that combine to yield a flow of benefits to people.19 Natural capital consists of stocks of environmental assets – naturally occurring living and non-living components of the Earth, such as forests, wetlands, coral reefs and agricultural areas.20 Ecosystem assets are a sub-set of environmental assets that relate to diverse ecosystems.",
+      "ja": "TNFDでは自然資本は、組み合わさることで人々に便益をもたらす、植物、動物、空気、水、土壌、鉱物などの再生可能および非再生可能な自然資源のストックであると定義している19。自然資本は、森林、湿地帯、サンゴ礁、農地など、地球上に自然に存在する生物および非生物の構成要素である環境資産のストックで構成される20。生態系資産は多様な生態系に関連する環境資産のサブセットである。"
+    },
+    {
+      "page": 25,
+      "type": "p",
+      "en": "An ecosystem is a dynamic complex of plant, animal and microorganism communities and the non-living environment that interacts as a functional unit.21 Ecosystems are organised into biomes,22 which can be thought of in simple terms as types of ecosystem. They are global-scale zones, generally defined by the type of plant life that they support in response to average rainfall and temperature patterns.23 Examples are tundra, coral reefs and savannas.",
+      "ja": "生態系は機能的な単位として相互に作用する、植物、動物、微生物群集と非生物環境の動的な複合体である21。生態系はバイオームとして整理され22、これは簡単に言えば、生態系の一種と考えることができる。これは、地球規模のゾーンであり、一般に、平均的な降雨量と気温のパターンに対応して生育する植物の種類によって定義される23。例えば、ツンドラ、サンゴ礁、サバンナなどである。"
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "16 WWF, UN Environment Programme-World Conservation Monitoring Centre (UNEP-WCMC), et al. (2021) The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland.",
+      "ja": "16 WWF, 国連環境計画世界自然保全モニタリングセンター(UNEP-WCMC), et al. (2021) The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland."
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "17 Garnett, S. T., et al. (2018) A spatial overview of the global importance of Indigenous lands for conservation. Nature Sustainability, 1(7), 369-374.",
+      "ja": "17 Garnett, S. T., et al. (2018) A spatial overview of the global importance of Indigenous lands for conservation. Nature Sustainability, 1(7), 369-374."
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "18 Purvis, A., et al. (2019) IPBES Global assessment on biodiversity and ecosystem services – Chapter 2.2 Status and Trends – Nature.",
+      "ja": "18 Purvis, A., et al. (2019) IPBES生物多様性と生態系サービスに関する地球規模評価 – Chapter 2.2 Status and Trends – Nature."
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "19 Capitals Coalition (2016) Natural Capital Protocol. The TNFD framework focuses on the renewable – or living – elements of nature. Non-living resources, including energy and minerals, are only considered in the TNFD framework to the extent that they affect the health of living nature.",
+      "ja": "19 キャピタル・コアリション（2016）自然資本プロトコル。TNFDフレームワークは再生可能な、すなわち生きている自然の要素に重点を置いている。エネルギーや鉱物を含む非生物資源は、生きている自然の健全性に影響を与える範囲でのみTNFDフレームワークで考慮される。"
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "20 The TNFD aligns with the UN System of Environmental-Economic Accounting Ecosystem Accounting (UN SEEA EA) in its definitions and list of environmental assets and ecosystem assets. United Nations (2021) System of Environmental-Economic Accounting – Ecosystem Accounting",
+      "ja": "20 TNFDは環境資産および生態系資産の定義とリストにおいて、国連環境経済統合勘定 - 生態系勘定（UN SEEA EA）と整合している。United Nations (2021) 環境経済統合勘定 - 生態系勘定"
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "21 Adapted from United Nations et al. (2021) System of Environmental-Economic Accounting",
+      "ja": "21 引用元：United Nations et al. (2021) System of Environmental-Economic Accounting"
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "22 According to the International Union for Conservation on Nature (IUCN) Global Ecosystem Typology, which is the basis for UN SEEA Ecosystem Accounting.",
+      "ja": "22 国際自然保護連合（IUCN）の世界生態系類型論によると、バイオームはUNSEEA生態系勘定の基礎である。"
+    },
+    {
+      "page": 25,
+      "type": "footnote",
+      "en": "23 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Global assessment report on biodiversity and ecosystem services",
+      "ja": "23 生物多様性及び生態系サービスに関する政府間プラットフォーム（IPBES）(2019) 生物多様性と生態系サービスに関する地球規模評価"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "Ecosystems produce flows of benefits to people and the economy, or ecosystem services. Ecosystem services form the basis for understanding corporate dependence on natural capital and are crucial for corporate risk management. Any depreciation in natural capital will have a negative effect on ecosystem services.",
+      "ja": "生態系は人々や経済にとっての便益の流れ、すなわち生態系サービスを生み出す。生態系サービスは、企業の自然資本への依存を理解するための基礎となり、企業のリスク管理にとってきわめて重要である。自然資本の価値が減少することは、生態系サービスにマイナスの影響を及ぼす。"
+    },
+    {
+      "page": 26,
+      "type": "h3",
+      "en": "Ecosystem services",
+      "ja": "生態系サービス"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "Ecosystem services are the contributions made by ecosystems that benefit economic and other human activity. For example, the provision of timber and fuel wood in a forest, freshwater from a river, the recreational and tourism opportunities of a forest or coral reef, the mitigation of flood and the pollination of crops.",
+      "ja": "生態系サービスとは、経済活動やその他の人間活動に恩恵をもたらす、生態系による人への貢献のことである。例えば、森林における木材や燃料の供給、河川からの淡水の供給、森林やサンゴ礁のレクリエーションや観光の機会、洪水緩和、農作物の花粉媒介などである。"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "Ecosystem services fall into three categories: provisioning services, such as the provision of crops, wood or water; regulating and maintenance services, such as water flow regulation and climate regulation services; and cultural services, such as recreation and tourism opportunities. See TNFD additional guidance on the LEAP approach for further details.",
+      "ja": "生態系サービスは3つのカテゴリーに分類される。それは、農作物、木材、水などを供給する供給サービス、水流調整や気候の調節などの調節・維持サービス、そして、レクリエーションや観光の機会などの文化的サービスがある。詳細はTNFDのLEAPアプローチに関する追加ガイダンスを参照。"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "How nature, society and the economy fit together, with environmental assets providing ecosystem services that benefit business and wider society, is illustrated in Figure 9. Box 2 provides more detailed definitions of key concepts for understanding nature.",
+      "ja": "自然、社会、経済がどのように組み合わされ、環境資産が生態系サービスを提供することで、ビジネスやより広い社会に利益をもたらすかを図9に示す。ボックス2には、自然を理解するための主要概念の詳細な定義が示されている。"
+    },
+    {
+      "page": 26,
+      "type": "caption",
+      "en": "Figure 9: Nature, business and society",
+      "ja": "図9：自然、ビジネス、社会"
+    },
+    {
+      "page": 26,
+      "type": "figure",
+      "en": "Nature: Natural capital – Environmental assets (Ecosystem condition, Ecosystem extent, Ecosystem characteristics) → Ecosystem services → Benefits → Society, Economy",
+      "ja": "自然：自然資本 – 環境資産（生態系の状態、生態系の面積、生態系の特性）→生態系サービス→利益→社会、経済"
+    },
+    {
+      "page": 27,
+      "type": "h4",
+      "en": "Box 2: Definitions of concepts for understanding nature",
+      "ja": "ボックス2：自然を理解するための概念の定義"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Nature: The natural world, emphasising the diversity of living organisms, including people, and their interactions with each other and their environment.24",
+      "ja": "自然：自然界を指し、人間を含む生物の多様性、生物間の相互作用、環境との相互作用に重点を置く24。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Realms of nature: Land, ocean, freshwater and atmosphere. These are major components of the natural world that differ fundamentally in their organisation and function.",
+      "ja": "自然の領域：陸、海洋、淡水、大気これらは自然界の主な構成要素であり、根本的に異なる構成と機能を持つものである。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Biodiversity: The variability among living organisms from all sources including, inter alia, terrestrial, marine and other aquatic ecosystems and the ecological complexes of which they are part. This includes diversity within species, between species and of ecosystems.25",
+      "ja": "生物多様性：特に陸域、海洋、その他の水生生態系や、それらが属する生態系の複合体を含む、あらゆる発生源からの生物の間の変異性。これには、種内、種間、生態系の多様性が含まれる25。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Biome: Global-scale zones, generally defined by the type of plant life that they support in response to average rainfall and temperature patterns. Examples are tundra, coral reefs or savannas.26",
+      "ja": "バイオーム：地球規模のゾーン。一般的に、平均的な降雨量と気温のパターンに対応して生育する植物の種類によって定義される。例えば、ツンドラ、サンゴ礁、サバンナなどである26。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Ecosystem: A dynamic complex of plant, animal and microorganism communities and the non-living environment, interacting as a functional unit.27",
+      "ja": "生態系：機能的な単位として相互に作用する植物、動物、微生物群集と非生物環境の動的な複合体27。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Environmental assets: The naturally occurring living and non-living components of the Earth, together constituting the biophysical environment, which may provide benefits to humanity.28",
+      "ja": "環境資産：地球上に自然に存在する生物および非生物の構成要素であり、一体となって生物物理学的環境を構成し、人類に対する便益を提供する場合があるもの28。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Natural capital: The stock of renewable and non-renewable natural resources such as plants, animals, air, water, soils and minerals that combine to yield a flow of benefits to people.29",
+      "ja": "自然資本：植物、動物、空気、水、土壌、鉱物などの再生可能・非再生可能自然資源のストックであり、組み合わされることで人に対する便益の流れを生む29。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Ecosystem services: The contributions of ecosystems to the benefits that are used in economic and other human activity.30",
+      "ja": "生態系サービス：経済活動やその他の人間活動に利用される便益に対する生態系の寄与30。"
+    },
+    {
+      "page": 27,
+      "type": "quote",
+      "en": "Additional terms are defined in the TNFD Glossary.",
+      "ja": "追加の用語がTNFD用語集で定義されている。"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "24 Díaz, S. et al. (2015) The IPBES Conceptual Framework – connecting nature and people",
+      "ja": "24 Díaz, S. et al. (2015) The IPBES Conceptual Framework – connecting nature and people"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "25 Convention on Biological Diversity (1992) Convention on Biological Diversity, Article 2 Use of Terms",
+      "ja": "25 生物多様性条約(1992) 生物多様性条約、第2条用語"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "26 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Global assessment report on biodiversity and ecosystem services",
+      "ja": "26 生物多様性及び生態系サービスに関する政府間プラットフォーム（IPBES）(2019) 生物多様性と生態系サービスに関する地球規模評価"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "27 Convention on Biological Diversity (1992) Convention on Biological Diversity, Article 2; Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Global assessment report on biodiversity and ecosystem services",
+      "ja": "27 生物多様性条約(1992) 生物多様性条約、第2条; 生物多様性及び生態系サービスに関する政府間プラットフォーム（IPBES）(2019) 生物多様性と生態系サービスに関する地球規模評価"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "28 United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting",
+      "ja": "28 United Nations et al. (2021) 環境経済統合勘定 - 生態系勘定"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "29 Capitals Coalition (2016) Nature Capital Protocol",
+      "ja": "29 キャピタル・コアリション（2016）自然資本プロトコル"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "30 United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting",
+      "ja": "30 United Nations et al. (2021) 環境経済統合勘定 - 生態系勘定（UN SEEA EA）"
+    },
+    {
+      "page": 28,
+      "type": "p",
+      "en": "A comprehensive typology of realms, biomes, environmental assets and ecosystem services is provided in Figure 10, building on the IUCN Global Ecosystem Typology and UN SEEA Ecosystem Accounting. Nature can be understood through a set of biomes, categorised into four realms. Nature can also be understood as a set of assets that provide ecosystem services. The TNFD additional guidance by sector and biome is structured around these fundamental core concepts.",
+      "ja": "領域、バイオーム、環境資産、生態系サービスの包括的な類型を、IUCNグローバル生態系類型とUNSEEA生態系勘定に基づき、図10にまとめた。自然は4つの領域に分類されたバイオームの集まりを通して理解することができる。同時に、自然は生態系サービスを提供する資産の集まりとして理解することもできる。TNFDのセクター別、バイオーム別の追加ガイダンスは、これらの基本的な中核となる概念を中心として構成されている。"
+    },
+    {
+      "page": 28,
+      "type": "caption",
+      "en": "Figure 10: Fundamental concepts for understanding nature: Realms, biomes, assets and services",
+      "ja": "図10：自然を理解するための基本概念：領域、バイオーム、環境資産、生態系サービス"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Realms: Land; Freshwater; Ocean; Atmosphere",
+      "ja": "領域：陸；淡水；海洋；大気"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Biomes: Tropical and sub-tropical forests (T1); Temperate boreal forests and woodlands (T2); Shrublands and shrubby woodlands (T3); Savannas and grasslands (T4); Deserts and semi deserts (T5); Polar/alpine (T6); Intensive land use systems (T7); Rivers and streams (F1); Lakes (F2); Artificial wetlands (F3); Vegetated wetlands (TF1); Subterranean freshwaters (SF1); Artificial subterranean freshwaters (SF2); Subterranean cave and rock systems (S1); Artificial subterranean spaces (S2); Marine shelf (M1); Open ocean waters (M2); Deep sea floors (M3); Artificial marine systems (M4); Subterranean tidal (SM1); Shoreline systems (MT1); Maritime vegetation (MT2); Artificial shorelines (MT3); Coastal inlets and lagoons (FM1); Brackish tidal systems (MFT1)",
+      "ja": "バイオーム：熱帯・亜熱帯林(T1)；温帯北方林と森林地帯(T2)；灌木地と低木林(T3)；サバンナと草原(T4)；砂漠と半砂漠(T5)；極地/高山帯(T6)；集約的土地利用システム(T7)；河川(F1)；湖(F2)；人工湿地(F3)；植生湿地(TF1)；地下淡水(SF1)；人工地中淡水(SF2)；地下洞窟と岩石システム(S1)；人工地下空間(S2)；海洋大陸棚(M1)；外洋(M2)；深海底(M3)；人工海洋システム(M4)；地中潮汐(SM1)；海岸線システム(MT1)；海上植生(MT2)；人工海岸(MT3)；沿岸の入り江と湾(FM1)；汽水潮汐システム(MFT1)"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Environmental assets: Atmospheric systems; Renewable energy resources; Underwater mineral and energy resources; Land; Marine (ocean) ecosystems; Terrestrial (land based) ecosystems; Cultivated biological resources; Mineral and energy resources; Water resources; Subterranean marine ecosystems; Subterranean terrestrial ecosystems; Subterranean freshwater ecosystems; Freshwater ecosystems",
+      "ja": "環境資産：大気系；再生可能エネルギー資源；海底鉱物・エネルギー資源；陸；海洋（外洋）生態系；陸域生態系；栽培生物資源；鉱物・エネルギー資源；水資源；地下海洋生態系；地下陸域生態系；地下淡水生態系；淡水生態系"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Ecosystem services – Provisioning services: Water supply; Genetic material; Biomass provisioning; Other provisioning services",
+      "ja": "生態系サービス – 供給サービス：淡水供給；遺伝物質；バイオマスの供給；その他の供給サービス"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Regulating & maintenance services: Pollination; Biological control; Flood mitigation; Local (micro and meso) climate regulation; Solid waste remediation; Water flow regulation; Global climate regulation; Soil quality regulation; Water purification; Air filtration; Soil and sediment retention; Rainfall pattern regulation; Nursery population and habitat maintenance; Storm mitigation; Noise attenuation; Other regulating and maintenance services",
+      "ja": "調整・維持サービス：花粉媒介；生物的防除；洪水緩和；地域の（微・中）気候の調整；固体廃棄物浄化；水流調整；世界的な気候の調整；土質調節；水質浄化；大気浄化；土壌と土砂の保持；降雨パターンの調整；生育地の個体数と生息環境の維持；暴風雨の緩和；騒音減衰；その他の調整および維持サービス"
+    },
+    {
+      "page": 28,
+      "type": "figure",
+      "en": "Cultural services: Recreation-related services; Visual amenity services; Education, scientific and research services; Spiritual, artistic and symbolic services; Other cultural services",
+      "ja": "文化的サービス：レクリエーション関連サービス；視覚的アメニティー・サービス；教育、科学、研究サービス；精神的、芸術的、象徴的サービス；その他の文化的サービス"
+    },
+    {
+      "page": 29,
+      "type": "h2",
+      "en": "2.1. Nature-related issues",
+      "ja": "2.1. 自然関連課題"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "Organisations have dependencies and impacts on nature. These give rise to nature-related risks and opportunities (Figure 11). These four concepts are collectively referred to by the TNFD as nature-related issues and include:",
+      "ja": "組織には自然に対する依存とインパクトがある。これらにより自然関連のリスクと機会が生じる（図11）。これら4つの概念を総称して、TNFDは自然関連課題と呼んでいる。"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Dependencies – of the organisation on nature;",
+      "ja": "依存 - 組織の自然に対するもの"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Impacts – on nature caused, or contributed to, by the organisation;",
+      "ja": "インパクト - 自然に対して組織が引き起こす、または寄与するもの"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Risks – to the organisation stemming from their dependencies and impacts; and",
+      "ja": "リスク - 組織に対するもので、依存やインパクトに起因するもの"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Opportunities – for the organisation that benefit nature through positive impacts or mitigation of negative impacts on nature.",
+      "ja": "機会 - 組織のためのもので、自然に対するプラスのインパクトまたは自然に対するマイナスのインパクトの緩和を通じて自然に利益をもたらすもの"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "It is essential to evaluate dependencies and impacts on nature to assess the risks and opportunities to an organisation. Disclosures should cover all four types of nature-related issue, as well as an organisation’s responses to them.",
+      "ja": "組織にとってのリスクと機会を評価するためには、自然に対する依存とインパクトを診断することが不可欠である。開示は、4つのタイプの自然関連課題すべて、およびそれらに対する組織の対応を対象とすべきである。"
+    },
+    {
+      "page": 29,
+      "type": "caption",
+      "en": "Figure 11: Nature-related dependencies, impacts, risks and opportunities",
+      "ja": "図11：自然関連の依存、インパクト、リスクと機会"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "Nature / Business / Dependencies / Impacts / Risks / Opportunities",
+      "ja": "自然 / ビジネス / 依存 / インパクト / リスク / 機会"
+    },
+    {
+      "page": 30,
+      "type": "h2",
+      "en": "2.2. Nature-related dependencies and impacts",
+      "ja": "2.2. 自然関連の依存とインパクト"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "Organisations’ business activities depend on reliable and cost-effective access to ecosystem services. This dependence in turn affects investors’ perceptions of the business’s value. Organisations also have impacts on ecosystems and their provision of ecosystem services. These impacts may be positive or negative. Dependencies and impacts interact and compound over time, as negative impacts undermine the availability of ecosystem services on which organisations may also depend. Box 3 provides more detailed definitions of impacts and dependencies.",
+      "ja": "組織の事業活動は、確実で費用対効果の高い方法で生態系サービスにアクセスできることに依存している。この依存は、ひいては投資家の事業価値に対する認識にも影響を与える。組織はまた、生態系やそこからの生態系サービスの提供にインパクトも与える。これらのインパクトはプラスにもマイナスにもなりうる。マイナスの影響は組織も依存する生態系サービスの利用可能性を損なうため、依存とインパクトは相互に影響し合い、時間の経過とともに複合化する。ボックス3にインパクトと依存の詳細な定義を示す。"
+    },
+    {
+      "page": 30,
+      "type": "h4",
+      "en": "Box 3: Definitions of impacts and dependencies",
+      "ja": "ボックス3：インパクトと依存の定義"
+    },
+    {
+      "page": 30,
+      "type": "h4",
+      "en": "Dependencies",
+      "ja": "依存"
+    },
+    {
+      "page": 30,
+      "type": "quote",
+      "en": "Dependencies are aspects of environmental assets and ecosystem services that a person or an organisation relies on to function. A company’s business model, for example, may be dependent on the ecosystem services of water flow, water quality regulation and the regulation of hazards like fires and floods; provision of suitable habitat for pollinators, who in turn provide a service directly to economies; and carbon sequestration.31",
+      "ja": "依存は環境資産や生態系サービスの中で、個人や組織が機能するために依存する側面である。例えば、ある企業のビジネスモデルが、水流と水質の調整、火災や洪水などのハザードの調整、経済に直接サービスを供給する花粉媒介者に適した生息地の供給、および炭素隔離、といった生態系サービスに依存する場合がある31。"
+    },
+    {
+      "page": 30,
+      "type": "h4",
+      "en": "Impacts",
+      "ja": "インパクト"
+    },
+    {
+      "page": 30,
+      "type": "quote",
+      "en": "Impacts refer to a change in the state of nature (quality or quantity), which may result in changes to the capacity of nature to provide social and economic functions. Impacts can be positive or negative. They can be the result of an organisation’s or another party’s actions.32",
+      "ja": "インパクトとは自然の状態（質または量）の変化を指し、その結果、社会的・経済的機能を提供する自然の能力が変化する場合がある。インパクトはプラスにもマイナスにもなりうる。これは組織または他者の行為の結果として生じる32。"
+    },
+    {
+      "page": 30,
+      "type": "quote",
+      "en": "Impacts may be:",
+      "ja": "インパクトは以下のいずれかである。"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Direct – a change in the state of nature caused by a business activity with a direct causal link;",
+      "ja": "直接的－直接的な因果関係のある事業活動によって引き起こされる自然の状態の変化"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Indirect – a change in the state of nature caused by a business activity with an indirect causal link (e.g. indirectly caused by climate change generated by greenhouse gas emissions); and/or",
+      "ja": "間接的－間接的な因果関係のある事業活動によって引き起こされる自然の状態の変化（例えば、温室効果ガスの排出により発生する気候変動により間接的に引き起こされるなど）、および／または"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Cumulative – a change in the state of nature (direct or indirect) that occurs due to the interaction of activities of different actors operating in a landscape or freshwater/marine area.",
+      "ja": "累積的－陸域または淡水・海洋域で操業するさまざまな主体の活動の相互作用によって起きる自然の状態の変化（直接的または間接的）。"
+    },
+    {
+      "page": 30,
+      "type": "footnote",
+      "en": "31 Science Based Targets Network (2023) SBTN Glossary of Terms",
+      "ja": "31 科学に基づく目標ネットワーク（SBTN）(2023) SBTN用語集"
+    },
+    {
+      "page": 30,
+      "type": "footnote",
+      "en": "32 Science Based Targets Network (2023) SBTN Glossary of Terms, Climate Disclosure Standards Board (2021) Application guidance for biodiversity – related disclosures",
+      "ja": "32 科学に基づく目標ネットワーク（SBTN）(2023) SBTN用語集, 気候情報開示基準委員会（CDSB）(2021) 生物多様性関連開示のための適用ガイダンス"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Consistent with the Natural Capital Protocol, the TNFD recommends that dependencies and impacts are identified and measured using dependency and impact pathways that consider:",
+      "ja": "自然資本プロトコルに沿って、TNFDは以下の項目を考慮する依存とインパクト経路を用いて依存とインパクトを特定し、測定することを推奨する。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "1. Impact drivers and external factors;",
+      "ja": "1. インパクト要因と外部要因"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "2. Changes to the state of nature; and",
+      "ja": "2. 自然の状態に対して加えられる変化"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "3. Changes to the availability of ecosystem services.",
+      "ja": "3. 生態系サービスの利用可能性の変化"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "A dependency pathway describes how a particular business activity depends upon ecosystem services and specific features of natural capital (stocks of environmental assets). It identifies how observed or potential changes in natural capital (caused by specific business activities and external factors) affect the costs and/or benefits of doing business.",
+      "ja": "依存経路は、特定の事業活動が生態系サービスや自然資本（環境資産のストック）の特定の特徴にどのように依存しているかについて説明する。これは自然資本において観察された、あるいは潜在的な変化（特定の事業活動や外部要因によって引き起こされる）が、事業を行う上でのコストおよび／または便益にどのように影響するかを特定する。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "An impact pathway describes how, as a result of a specific business activity, a particular impact driver can lead to changes in natural capital (stocks of environmental assets) and flows of ecosystem services, and how these changes affect different stakeholders.",
+      "ja": "インパクト経路は、特定の事業活動の結果として、特定のインパクト要因が自然資本（環境資産のストック）と生態系サービスのフローにどのような変化をもたらしうるか、また、これらの変化がさまざまなステークホルダーにどのような影響を及ぼすかを示す。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Organisations can refer to the TNFD additional guidance on the Evaluate phase of the LEAP approach and the Natural Capital Protocol for further details of dependency and impact pathways.33",
+      "ja": "組織はTNFDのLEAPアプローチの診断フェーズに関する追加ガイダンス、および依存とインパクト経路の詳細について自然資本プロトコルを参照のこと33。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Impact drivers are measurable quantities of a natural resource that are used as an input to production and measurable non-product outputs of a business activity that affects nature.",
+      "ja": "インパクト要因は、生産に投入される自然資源の測定可能な量または自然に影響を与える事業活動からの製品以外の測定可能な排出（output）の量である。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Impact drivers are categorised into the five drivers of nature change (Figure 12). Impacts can be positive or negative. A single impact driver may be associated with multiple impacts (changes to the state of nature). For example, greenhouse gas emissions affect multiple ecosystems.",
+      "ja": "インパクト要因は5つの自然の変化の要因に分類される（図12）。インパクトはプラスにもマイナスにもなりうる。単一のインパクト要因が複数のインパクト（自然の状態に対して加えられる変化）と関連する場合がある。例えば、温室効果ガスの排出は複数の生態系に影響を与える。"
+    },
+    {
+      "page": 31,
+      "type": "caption",
+      "en": "Figure 12: The five drivers of nature change",
+      "ja": "図12：5つの自然の変化の要因"
+    },
+    {
+      "page": 31,
+      "type": "figure",
+      "en": "Drivers of nature change – Climate change: Emissions production / Emissions reduction, Sequestration; • Carbon credit markets and innovations – Paris Article 6, REDD+ etc. • Carbon farming – soil, seaweed, mangroves, forests etc.",
+      "ja": "自然の変化の要因 – 気候変動：排出 / 排出削減、隔離；• 炭素クレジット市場とイノベーション（パリ協定第6条、REDD+など） • 炭素農業 - 土壌、海藻、マングローブ、森林など"
+    },
+    {
+      "page": 31,
+      "type": "figure",
+      "en": "Land/ freshwater/ ocean use change: Degradation of environmental asset quality / Regeneration of environmental asset quality; • Rewilding • Conservation and restoration",
+      "ja": "陸、淡水、海洋利用の変化：環境資産の質の劣化 / 環境資産の質の再生；• 再野生化 • 保全と復元"
+    },
+    {
+      "page": 31,
+      "type": "figure",
+      "en": "Resource use/ replenishment: Depletion in quality and quantity of ecosystem services / Increase in quality and quantity of ecosystem services; • Conservation and restoration, to increase provision of ecosystem servicess (e.g. harvesting water, returning waste water to water catchments) • Cultivation of native species beyond baseline (e.g. mushrooms for mycelium-based products)",
+      "ja": "資源使用、資源補充：生態系サービスの質と量の低下 / 生態系サービスの質と量の上昇；• 生態系サービスの提供を増やすための保全と復元（例：雨水利用、廃水を集水域に戻すなど） • ベースラインを超える在来種の栽培（例：菌糸体ベースの製品用のキノコ類）"
+    },
+    {
+      "page": 31,
+      "type": "figure",
+      "en": "Pollution/ pollution removal: Production (pollution) / Pollution removal, reduction, reuse, recycling and transformation; • Circular economy principles and business models from waste reuse and recycling to innovations that transform waste into new resources",
+      "ja": "汚染、汚染除去：生産（汚染） / 汚染除去、削減、再利用、リサイクル、変換；• 廃棄物の再利用とリサイクルから、廃棄物を新たな資源に変えるイノベーションまで、循環経済の原則とビジネスモデル"
+    },
+    {
+      "page": 31,
+      "type": "figure",
+      "en": "Invasive alien species introduction/ removal: Introduce invasive alien species, Decrease in stock and diversity of native species / Remove invasive alien species, Increase in stock and diversity of native species; • Businesses that get paid to remove invasive species • Businesses that harvest native species (wildlife sanctuaries, rhino bond, growing coral reefs etc.)",
+      "ja": "侵略的外来種の導入・除去：侵略的外来種の導入、在来種の数と多様性の減少 / 侵略的外来種の除去、在来種の数と多様性の増加；• 侵入種の除去で報酬を得る企業 • 在来種を収穫するビジネス（野生生物保護区、サイ債権、サンゴ礁の育成など）。"
+    },
+    {
+      "page": 31,
+      "type": "footnote",
+      "en": "33 Capitals Coalition (2016) Natural Capital Protocol",
+      "ja": "33 キャピタル・コアリション（2016）自然資本プロトコル"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "External factors include both natural forces and human activities outside the organisation that affect the state of nature. These could include a natural disaster or the pollution released by another organisation.",
+      "ja": "外部要因には、自然の力と、自然の状態に影響を与える組織外の人間活動の両方が含まれる。これは自然災害や他組織による汚染を含む可能性がある。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "As outlined in Figure 13, changes to the state of nature can be positive (enhancement) or negative (degradation), and refer to changes to:",
+      "ja": "図13に概説したように、自然の状態に対する変化は、プラス（向上）にもマイナス（劣化）にもなり、次のような変化を意味する。"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "The condition and extent of ecosystems; and34",
+      "ja": "生態系の状態と範囲34"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Species population size and extinction risk.",
+      "ja": "種の個体数と絶滅リスク"
+    },
+    {
+      "page": 32,
+      "type": "caption",
+      "en": "Figure 13: Components of state of nature measurement",
+      "ja": "図13：自然の状態を測定する構成要素"
+    },
+    {
+      "page": 32,
+      "type": "figure",
+      "en": "State of nature: Ecosystems (Extent, Condition); Species (Population size, Extinction risk)",
+      "ja": "自然の状態：生態系（範囲、状態）；種（個体数、絶滅リスク）"
+    },
+    {
+      "page": 32,
+      "type": "footnote",
+      "en": "34 Adapted from United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting",
+      "ja": "34 引用元：United Nations et al. (2021) 環境経済統合勘定 - 生態系勘定"
+    },
+    {
+      "page": 33,
+      "type": "h2",
+      "en": "2.3. Nature-related risks and opportunities",
+      "ja": "2.3. 自然関連のリスクと機会"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Nature-related risks and opportunities arise from an organisation’s dependencies and impacts on nature (Figure 14).",
+      "ja": "自然関連のリスクと機会は組織の自然に対する依存とインパクトから生じる（図14）。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "The TNFD’s risk and opportunity definitions align with the International Organization for Standardization (ISO) 31000 Risk Management Standard, according to which risk is the ‘effect of uncertainty on objectives’ and an effect is a positive or negative deviation from what is expected.35",
+      "ja": "TNFDのリスクと機会の定義は、国際標準化機構（ISO）31000リスクマネジメント規格に整合している。それによると、リスクとは「目的に対する不確かさの影響」であり、影響とは「期待されていることからプラスまたはマイナス方向に乖離すること」である35。"
+    },
+    {
+      "page": 33,
+      "type": "h3",
+      "en": "Nature-related risks",
+      "ja": "自然関連リスク"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Nature-related risks are potential threats posed to an organisation that arise from its and wider society’s dependencies and impacts on nature.36 Risks can be physical risks, transition risks or systemic risks.",
+      "ja": "自然関連リスクとは、自然に対する依存とインパクトから生じ、組織にもたらされる潜在的な脅威のことである36。リスクには物理的リスク、移行リスク、システミックリスクがある。"
+    },
+    {
+      "page": 33,
+      "type": "h4",
+      "en": "Nature-related physical risks",
+      "ja": "自然関連の物理的リスク"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Nature-related physical risks are risks to an organisation that result from the degradation of nature and consequential loss of ecosystem services. These risks can be acute or chronic (Table 1). Nature-related physical risks arise as a result of changes in the biotic (living) and abiotic (non-living) conditions that support healthy, functioning ecosystems. These risks are usually location specific.",
+      "ja": "自然関連の物理的リスクとは、自然の劣化とそれに伴う生態系サービスの喪失に起因して組織に生じるリスクである。これらのリスクは急性的または慢性的である（表1）。自然関連の物理的リスクは、健全に機能する生態系を支える生物的（生きている）および非生物的（生きていない）な自然の状態が変化することで生じる。こうしたリスクは通常、地域固有である。"
+    },
+    {
+      "page": 33,
+      "type": "caption",
+      "en": "Figure 14: Connections between nature-related dependencies and impacts and risks and opportunities – Impact and dependency pathways",
+      "ja": "図14：自然関連の依存およびインパクトとリスクおよび機会の間の関連性 - インパクトと依存の経路"
+    },
+    {
+      "page": 33,
+      "type": "figure",
+      "en": "Business model and value chain / Impact drivers / External drivers of change / State of nature: Ecosystem assets (Changes to state) / Ecosystem services (Changes to flow) / Other organisations, society and nature / Nature-related risks and opportunities / Impact pathway / Dependency pathway",
+      "ja": "ビジネスモデルとバリューチェーン / インパクト要因 / 変化の外部要因 / 自然の状態：生態系資産（状態の変化） / 生態系サービス（流れの変化） / その他の組織、社会、自然 / 自然関連のリスクと機会 / インパクト経路 / 依存経路"
+    },
+    {
+      "page": 33,
+      "type": "footnote",
+      "en": "35 International Organization for Standardization (2018) ISO 31000, Risk Management – Guidelines",
+      "ja": "35 国際標準化機構（ISO）(2018) ISO 31000, Risk Management – Guidelines"
+    },
+    {
+      "page": 33,
+      "type": "footnote",
+      "en": "36 Climate Disclosure Standards Board (2021) Application guidance for biodiversity-related disclosures; Task Force on Climate-Related Financial Disclosures (2017) Recommendations of the Task Force on Climate-related Financial Disclosures; Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors; Financial Stability Board (2022) FSB Supervisory and Regulatory Approaches to Climate-related Risks Final report; International Association of Insurance Supervisors (2021) Application Paper on the Supervision of Climate-related Risks in the Insurance Sector",
+      "ja": "36 気候情報開示基準委員会（CDSB）(2021) 生物多様性関連開示のための適用ガイダンス; 気候関連財務情報開示タスクフォース（TCFD）(2017) 気候関連財務情報開示タスクフォースによる提言；気候変動リスク等に係る金融当局ネットワーク（NGFS）(2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors; 金融安定理事会（FSB）(2022) FSB気候関連リスクに対する規制・監督手法・最終報告書; 保険監督者国際機構（IAIS）(2021) Application Paper on the Supervision of Climate-related Risks in the Insurance Sector"
+    },
+    {
+      "page": 34,
+      "type": "caption",
+      "en": "Table 1: Categories of nature-related physical risks",
+      "ja": "表1：自然関連の物理的リスクのカテゴリー"
+    },
+    {
+      "page": 34,
+      "type": "table",
+      "en": "| Category | Description |\n|---|---|\n| Acute risks | Occurrence of short term, specific events that change the state of nature. For example, oil spills, forest fires or pests affecting a harvest. |\n| Chronic risks | Gradual changes to the state of nature. For example, pollution stemming from pesticide use or climate change. |",
+      "ja": "| カテゴリー | 説明 |\n|---|---|\n| 急性リスク | 自然の状態を変化させるような、短期的な特定の出来事の発生。例えば、原油の流出、森林火災、収穫に影響を及ぼす害虫の発生などである。 |\n| 慢性リスク | 自然の状態の段階的な変化。例えば、農薬の使用や気候変動に起因する汚染などである。 |"
+    },
+    {
+      "page": 34,
+      "type": "caption",
+      "en": "Table 2: Categories of nature-related transition risks",
+      "ja": "表2：自然関連の移行リスクのカテゴリー"
+    },
+    {
+      "page": 34,
+      "type": "table",
+      "en": "| Category | Description |\n|---|---|\n| Policy | Changes in the policy context due to new (or enforcement of existing) policies to create positive impacts on nature or mitigate negative impacts on nature. |\n| Market | Changing dynamics in overall markets, including changes in consumer preferences, which arise from changing physical, regulatory, technological and reputational conditions and stakeholder dynamics. For example, the market value of a company is affected by assets that have decreased in value because there is insufficient freshwater for the production process, or the value of the business’ production process is reduced by the emergence of new technologies that require less water to operate. |\n| Technology | Substitution of products or services with a reduced impact on nature and/or reduced dependency on nature. For example, the replacement of plastics with biodegradable containers. |\n| Reputational | Changes in perception concerning an organisation’s actual or perceived nature impacts, including at the local, economic and societal level. This can result from direct company impacts, industry impacts and/or impacts of activities upstream and/or downstream in a value chain. |\n| Liability | Liability risks that arise directly or indirectly from legal claims. As laws, regulations and case law related to an organisation’s preparedness for nature action evolves, the incident or probability of contingent liabilities arising from an organisation may increase.37 |",
+      "ja": "| カテゴリー | 説明 |\n|---|---|\n| 政策 | 自然に対するプラスのインパクトの創出または自然に対するマイナスのインパクトの緩和に関連する新たな政策（または既存の政策の施行）によって政策状況が変化すること。 |\n| 市場 | 物理的な状態、規制、技術、評判などの状況やステークホルダーの力学が変化した結果、消費者の嗜好の変化を含め市場全体の力学が変化すること。例えば、生産工程に必要な淡水が不足しているために価値が低下した資産や、より少ない水で操業できる新技術の出現によって事業における生産工程の価値が低下した資産によって、企業の市場価値は影響を受ける。 |\n| 技術 | 自然に対するインパクトの軽減および／または自然に対する依存の軽減による製品やサービスの代替。例えば、プラスチックを生分解性容器に置き換えることが挙げられる。 |\n| 評判 | 地域的、経済的、社会的レベルを含む、企業における実際の、または認識されている自然に対するインパクトに関する認識の変化。これは直接的な企業からのインパクト、産業界からのインパクト、および／またはバリューチェーンの上流および／または下流からのインパクトから生じる可能性がある。 |\n| 賠償責任 | 法的請求から直接的または間接的に生じる賠償責任リスク。組織の自然に対する行動への備えに関する法律、規制、判例法が発展するにつれて、組織から偶発債務が発生する事件や確率が高まる場合がある37。 |"
+    },
+    {
+      "page": 34,
+      "type": "footnote",
+      "en": "37 Adapted from Implementing the Recommendations of the TCFD, Appendix Table A1.3",
+      "ja": "37 引用元：気候関連財務情報開示タスクフォースの提言の実施、付録の表A1.3"
+    },
+    {
+      "page": 35,
+      "type": "h4",
+      "en": "Nature-related transition risks",
+      "ja": "自然関連の移行リスク"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Nature-related transition risks are risks to an organisation that result from a misalignment of economic actors with actions aimed at protecting, restoring and/or reducing negative impacts on nature. These risks can be prompted, for example, by changes in regulation and policy, legal precedent, technology or investor sentiment and consumer preferences. Categories of nature-related transition risks include policy risk, market risk, technology risk, reputational risk and liability risk (Table 2).38",
+      "ja": "自然関連の移行リスクとは、自然を保護し、復元させ、および／または自然に対するマイナスのインパクトを軽減させることを目的とした行動をとる経済主体間の不整合から生じる組織のリスクである。こうしたリスクは、例えば規制や政策、判例、技術、投資家心理、消費者嗜好の変化によって引き起こされる可能性がある。自然関連の移行リスクのカテゴリーには、政策リスク、市場リスク、技術リスク、評判リスク、賠償責任リスク（表2）が含まれる38。"
+    },
+    {
+      "page": 35,
+      "type": "h4",
+      "en": "Nature-related systemic risks",
+      "ja": "自然関連のシステミックリスク"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Nature-related systemic risks are risks to an organisation that arise from the breakdown of the entire system, rather than the failure of individual parts. These risks are characterised by modest tipping points combining indirectly to produce large failures, where one loss triggers a chain of others, and prevents the system from reverting to its prior equilibrium (Figure 15).39",
+      "ja": "自然関連のシステミックリスクとは、個々のシステムの構成要素の破綻ではなく、システム全体の崩壊から生じる組織のリスクである。これらのリスクには、目立たない転換点が間接的に組み合わさった結果、大規模な破綻を引き起こすという特徴がある。1つの損失が他の損失の連鎖を引き起こし、システムが以前の均衡に戻るのを妨げる（図15）39。"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "There are two categories of nature-related systemic risk:",
+      "ja": "自然関連のシステミックリスクには2つのカテゴリーがある。"
+    },
+    {
+      "page": 35,
+      "type": "li",
+      "en": "Ecosystem stability risk: Risk of the destabilisation of a critical natural system, so it can no longer provide ecosystem services in the same manner as before. For example, tipping points are reached and regime shifts and/or ecosystem collapses occur that generate forms of physical and/or transition risk.",
+      "ja": "生態系の安定性リスク：重要な自然システムが不安定化し、以前と同様に生態系サービスを提供できなくなるという事態が発生するリスク。例えば、転換点に達し、レジームシフトおよび／または生態系の崩壊が起こり、物理的リスクおよび／または移行リスクが発生する。"
+    },
+    {
+      "page": 35,
+      "type": "li",
+      "en": "Financial stability risk: Risk that a materialisation and compounding of physical and/or transition risks leads to the destabilisation of an entire financial system.",
+      "ja": "金融安定性リスク：物理的リスクおよび／または移行リスクが顕在化し複合することにより、金融システム全体の不安定化につながるリスク"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Systemic risks are of significant interest to policy makers and market regulators because of their potential to cause sudden disruption to societies, economies and the functioning of financial markets. But they also need to be considered by businesses and financial institutions given the potential for them to have unforeseen and significant financial implications.",
+      "ja": "システミックリスクは社会、経済、金融市場の機能に突発的な混乱を引き起こす可能性があるため、政策立案者や市場規制当局にとっての大きな関心事である。しかし、予期せぬ重大な財務的影響をもたらす可能性があることから、企業や金融機関も考慮する必要がある。"
+    },
+    {
+      "page": 35,
+      "type": "footnote",
+      "en": "38 Consistent with the TCFD, liability risk is included as a sub-category of transition risk. That is, potential financial losses stemming directly or indirectly from legal claims. A recent body of work has suggested that the specific characteristics of liability risk – as both a consequence of transition-related actions and a driver of transition – may mean it warrants separate consideration for organisations. Other work has suggested liability risk is associated with both transition and physical risks and could be a sub-set of both physical and transition risk categories. See Network for Greening the Financial System (2019) A call for action: climate change as a source of financial risk; Network for Greening the Financial System (2021) Climate-related litigation: raising awareness about a growing source of risk",
+      "ja": "38 TCFDと同じく、賠償責任リスクは移行リスクのサブカテゴリーと整理される。つまり、賠償責任リスクは法的請求に直接的または間接的に起因する潜在的な金銭的損失である。最近の研究例では、移行に関連する行動の結果として、また移行を進める推進力としての賠償責任リスクには固有の特徴があることから、組織に関する賠償責任リスクを独立したものとして検討する必要があることが示唆されている。他の研究では、賠償責任リスクは移行リスクと物理的リスクの両方と関連しており、移行リスクと物理的リスクの両方のカテゴリーのサブセットである可能性が示唆されている。気候変動リスク等に係る金融当局ネットワーク（NGFS）(2019) A call for action: climate change as a source of financial risk; 気候変動リスク等に係る金融当局ネットワーク（NGFS）(2021) Climate-related litigation: raising awareness about a growing source of riskを参照。"
+    },
+    {
+      "page": 35,
+      "type": "footnote",
+      "en": "39 Goldin, I & Mariathasan, M. (2014) The Butterfly Defect: how globalisation creates systemic risks and what to do about it; International Risk Governance Council (2018) IRGC Guidelines for the governance of systemic risks; Kaufmann, G. & Scott, K. (2003) What is systemic risk, and do bank regulators retard or contribute to it?",
+      "ja": "39 Goldin, I & Mariathasan, M. (2014) The Butterfly Defect: How Globalization Creates Systemic Risks, and What to Do About It; International Risk Governance Council (2018) IRGC Guidelines for the governance of systemic risks; Kaufmann, G. & Scott, K. (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It?"
+    },
+    {
+      "page": 36,
+      "type": "caption",
+      "en": "Figure 15: Nature-related risk categories",
+      "ja": "図15：自然関連リスクのカテゴリー"
+    },
+    {
+      "page": 36,
+      "type": "figure",
+      "en": "Physical risk / Transition risk – Potentially generate – Systemic risks: Ecosystem stability risk / Financial stability risk – Potentially compounding. Sources can be systemic or non-systemic",
+      "ja": "物理的リスク / 移行リスク – 発生の可能性 – システミックリスク：生態系の安定性リスク / 金融安定性リスク – 複合化の可能性。発生源にはシステミックと非システミックのものがある"
+    },
+    {
+      "page": 36,
+      "type": "p",
+      "en": "Nature-related risks can result from both dependencies and impacts on nature through:",
+      "ja": "自然関連リスクは、自然に対する依存とインパクトの両方から生じる可能性がある："
+    },
+    {
+      "page": 36,
+      "type": "li",
+      "en": "1. Changes to the state of nature itself, caused by business impact drivers or external factors;",
+      "ja": "1. 事業のインパクト要因または外部要因によって引き起こされる、自然の状態自体の変化"
+    },
+    {
+      "page": 36,
+      "type": "li",
+      "en": "2. Changes to the flow of ecosystem services associated with the changes to the state of nature; and",
+      "ja": "2. 自然の状態の変化に伴う生態系サービスの流れの変化"
+    },
+    {
+      "page": 36,
+      "type": "li",
+      "en": "3. Impacts to society resulting from business impacts on nature that may affect the organisation, for example, through lack of access to land due to damaged stakeholder relations, or damage to reputation following the release of pollutants that affect the health of local communities.",
+      "ja": "3. 事業が自然に与えるインパクトから社会に対するインパクトが生じ、結果として組織に影響を与える可能性があるもの。例えば、ステークホルダーとの関係が損なわれたことによる土地へのアクセスの欠如や、地域社会の健康に影響を与える汚染物質の放出に伴う評判の低下など。"
+    },
+    {
+      "page": 36,
+      "type": "h3",
+      "en": "Nature-related opportunities",
+      "ja": "自然関連の機会"
+    },
+    {
+      "page": 36,
+      "type": "p",
+      "en": "Nature-related opportunities are activities that create positive outcomes for organisations and nature through positive impacts or mitigation of negative impacts on nature. TNFD opportunity categories are split into those related to business performance and those related to sustainability performance (see Figure 16). These two categories are not mutually exclusive.",
+      "ja": "自然関連の機会とは、自然に対するプラスのインパクトの創出、またはマイナスのインパクトの緩和を通じて、組織と自然にとってプラスの成果を生み出す活動を意味する。TNFDの機会カテゴリーは、ビジネスパフォーマンスに関するものとサステナビリティ・パフォーマンスに関するものに分類される（図16を参照）。この2つのカテゴリーは互いに排他的なものではない。"
+    },
+    {
+      "page": 36,
+      "type": "p",
+      "en": "Nature-related opportunities can occur:",
+      "ja": "自然関連の機会は、下記の場合に発生する可能性がある："
+    },
+    {
+      "page": 36,
+      "type": "li",
+      "en": "When organisations avoid, reduce, mitigate or manage nature-related risks, for example, connected to the loss of nature and its associated ecosystem services that the organisation and society depend on; or",
+      "ja": "組織や社会が依存する自然やそれに関連する生態系サービスの損失に伴う自然関連リスクを、組織が回避、軽減、緩和、管理する場合、または"
+    },
+    {
+      "page": 36,
+      "type": "li",
+      "en": "Through the strategic transformation of business models, products, services, markets and investments that actively work to halt or reverse the loss of nature, including the implementation of conservation, restoration and nature-based solutions, or support for them through financing or insurance.40",
+      "ja": "ビジネスモデル、製品、サービス、市場、投資の戦略的変革を通じて、自然の喪失を食い止めたり、復元させたりすることに積極的に取り組み、自然保護、復元、自然に根ざした解決策の実施、あるいは融資や保険による支援などを行う場合40"
+    },
+    {
+      "page": 36,
+      "type": "footnote",
+      "en": "40 The International Finance Corporation (2023) Biodiversity Finance Reference Guide provides an indicative list of investment activities that contribute to protecting, maintaining, or enhancing biodiversity and ecosystem services and sustainably managing living natural resources through the adoption of practices that integrate conservation needs and sustainable development.",
+      "ja": "40 国際金融公社（IFC）(2023) Biodiversity Finance Reference Guideでは、保全に対するニーズと持続可能な開発を統合する取り組みの採用を通じ、生物多様性と生態系サービスの保護、維持、強化、および生物天然資源の持続可能な管理に貢献する投資活動の指標リストを提供している。"
+    },
+    {
+      "page": 37,
+      "type": "caption",
+      "en": "Figure 16: Nature-related opportunity categories",
+      "ja": "図16：自然関連の機会のカテゴリー"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Nature-related opportunity categories – Business performance",
+      "ja": "自然関連の機会のカテゴリー – 企業のパフォーマンス"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Markets: Changing dynamics in overall markets, such as access to new markets or locations, that arise from other opportunity categories as a result of changing conditions, including consumer demands, consumer and investor sentiment and stakeholder dynamics",
+      "ja": "市場：消費者の需要、消費者や投資家のセンチメント、ステークホルダーの動向など、状況の変化によって他の機会カテゴリーから生じる、新しい市場や地域へのアクセスなど、市場全体における原動力の変化。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Capital flow and financing: Access to capital markets, improved financing terms or financial products connected to positive nature impacts or the mitigation of negative impacts",
+      "ja": "資本フローと資金調達：自然へのポジティブなインパクトまたはマイナスのインパクトの緩和に関連する資本市場、融資条件の改善、または金融商品へのアクセス。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Resource efficiency: Actions an organisation can take within its own operations or value chain in order to avoid or reduce impacts and dependencies on nature (for example, by using less natural resources), while achieving co-benefits such as improved operational efficiency or reduced costs (for example, micro-irrigation, which maximises plant health, reduces water use and reduces costs)",
+      "ja": "資源効率：自然に対するインパクトと依存を回避または軽減するために、組織が自らの事業やバリューチェーンの中で取ることのできる行動（例えば、より少ない自然資源を利用する）であり、同時に業務効率の改善やコスト削減などのコベネフィットを達成するための行動（例えば、植物の健全性を最大化し、水の使用量を削減し、コストを削減するマイクロ灌漑）。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Products and services: Value proposition related to the creation or delivery of products and services that protect, manage or restore nature, including technological innovations",
+      "ja": "製品とサービス：技術革新を含め、自然の保護、管理、復元のための製品やサービスの創造や提供に関する価値提案。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Reputational capital: Changes in perception concerning a company’s actual or perceived nature impacts, including the consequent impacts on society and engagement of stakeholders",
+      "ja": "評判資本：その後の社会へのインパクトやステークホルダーとのエンゲージメントを含む、組織の実質上または認識上の自然へのインパクトに関する認識の変化。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Sustainability performance opportunity categories – Sustainable use of natural resources: Substitution of natural resources by recycled, regenerative, renewable and /or ethically responsibly sourced organic inputs",
+      "ja": "持続可能性パフォーマンスの機会のカテゴリー – 自然資源の持続可能な利用：リサイクル、再生、再生可能、および／または倫理的、責任ある方法で調達された有機物によって自然資源を置き換え。"
+    },
+    {
+      "page": 37,
+      "type": "figure",
+      "en": "Ecosystem protection, restoration and regeneration: Activities that support the protection, regeneration or restoration of habitats and ecosystems, including areas both within and outside the organisation’s direct control",
+      "ja": "生態系の保護、復元、再生：生息地や生態系の保護、再生、回復を支援する活動（組織が直接管理する区域の内外両方を含む）。"
+    },
+    {
+      "page": 38,
+      "type": "h3",
+      "en": "Responding to nature-related risks and opportunities: The mitigation hierarchy",
+      "ja": "自然関連のリスクと機会への対応：ミティゲーション・ヒエラルキー"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "In responding to risks and opportunities, business actions that avoid or minimise negative impacts on nature should be prioritised over pursuit of restoration efforts or mitigation of existing damage through reconstructive or compensatory measures. This is in line with mitigation hierarchy principles such as the SBTN AR3T framework (Figure 17).41",
+      "ja": "リスクと機会への対応において、自然へのマイナスのインパクトを回避または最小化する事業活動は、復元の取り組み、または再生・補償措置による既存の損害の緩和の追求よりも優先されるべきである。これはSBTNのAR3Tフレームワークなどのミティゲーション・ヒエラルキーの原則に沿ったものである（図17）41。"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "The AR3T framework includes four types of actions that should be followed sequentially:",
+      "ja": "AR3Tフレームワークには4つのタイプのアクションがあり、それらは順番に実行されるべきである。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Avoid: Prevent negative impacts from happening in the first place; eliminate negative impacts entirely;",
+      "ja": "回避：マイナスのインパクトを未然に防ぎ、マイナスのインパクトを完全に排除する。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Reduce: Minimise negative impacts that cannot be fully eliminated;",
+      "ja": "軽減：完全に排除できないマイナスのインパクトを最小化する。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Restore: Initiate or accelerate the recovery of an ecosystem with respect to its health, integrity and sustainability, with a focus on permanent changes in state; and",
+      "ja": "復元：恒久的な自然の状態の変化に焦点を当て、生態系の健全性、十全性、サステナビリティに関して、生態系の復元を開始または促進する。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Regenerate: Take actions designed within existing land/ocean/freshwater uses to increase the biophysical function and/or ecological productivity of an ecosystem or its components, often with a focus on a few specific ecosystem services.",
+      "ja": "再生：生態系またはその構成要素の生物物理学的な機能および／または生態学的な生産性を高めるために、既存の陸／海洋／淡水の利用の範囲内で計画された行動を取る。しばしば数種類の特定の生態系サービスに焦点をあてる。"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "It further includes transformative action, which covers the ways organisations can contribute to needed systemic change inside and outside their value chains.",
+      "ja": "さらに、バリューチェーンの内外で必要とされるシステミックな変化に組織が貢献する方法をなどの、変革に向けた行動も含まれる。"
+    },
+    {
+      "page": 38,
+      "type": "caption",
+      "en": "Figure 17: The SBTN AR3T Action Framework Mitigation Hierarchy",
+      "ja": "図17：SBTNのAR3Tアクション・フレームワークのミティゲーション・ヒエラルキー"
+    },
+    {
+      "page": 38,
+      "type": "figure",
+      "en": "Transform / Restore & regenerate / Reduce / Avoid (SBTN (2023) Step 4. Act)",
+      "ja": "変革 / 復元と再生 / 軽減 / 回避(SBTN (2023) Step 4. Act)"
+    },
+    {
+      "page": 38,
+      "type": "footnote",
+      "en": "41 Adapted from: WWF (2022) A biodiversity guide for business; SBTN (2023) Step 4. Act",
+      "ja": "41 引用元：WWF (2022) A biodiversity guide for business; SBTN (2023) Step 4. Act"
+    },
+    {
+      "page": 39,
+      "type": "h2",
+      "en": "2.4. Financial effects",
+      "ja": "2.4. 財務的影響"
+    },
+    {
+      "page": 39,
+      "type": "p",
+      "en": "Nature-related risks and opportunities have financial effects for an organisation through changes to:",
+      "ja": "自然関連のリスクと機会は以下の変化を通じて組織に財務的影響を与える。"
+    },
+    {
+      "page": 39,
+      "type": "li",
+      "en": "Revenue, expenses and capital expenditure;",
+      "ja": "収益、費用、資本支出"
+    },
+    {
+      "page": 39,
+      "type": "li",
+      "en": "Access to and cost of capital (through, for example, re-ratings of its credit risk or insurance premiums); and",
+      "ja": "資本へのアクセスと資本コスト（例えば、信用リスクや保険料の再評価を通じて変化が生じる）"
+    },
+    {
+      "page": 39,
+      "type": "li",
+      "en": "Carrying amount of assets and liabilities on the balance sheet.",
+      "ja": "貸借対照表上の資産と負債の帳簿価額"
+    },
+    {
+      "page": 39,
+      "type": "p",
+      "en": "These transmission channels can have a positive or negative effect on credit, operational, market, liquidity, liability, reputational and strategic risk (Figure 18).",
+      "ja": "これらの伝達経路は、信用、業務、市場、流動性、賠償責任、評判、戦略に関するリスクに対し、プラスまたはマイナスの影響を及ぼす可能性がある（図18）。"
+    },
+    {
+      "page": 39,
+      "type": "caption",
+      "en": "Figure 18: Links between nature-related risks and opportunities, business performance and financial effects for an organisation",
+      "ja": "図18：自然関連のリスクと機会、組織のビジネスパフォーマンス、と財務的影響との関連性"
+    },
+    {
+      "page": 39,
+      "type": "figure",
+      "en": "Nature-related risks: Systemic risks (Ecosystem stability risk, Financial stability risk); Physical risks (Acute risks, Chronic risks); Transition risks (Policy risk, Liability risk, Reputational risk, Market risk, Technology risk)",
+      "ja": "自然関連リスク：システミックリスク（生態系の安定性リスク、金融安定性リスク）；物理的リスク（急性リスク、慢性リスク）；移行リスク（政策リスク、賠償責任リスク、評判リスク、市場リスク、技術リスク）"
+    },
+    {
+      "page": 39,
+      "type": "figure",
+      "en": "Nature-related opportunities: Business performance (Markets, Capital flow and financing, Products and services, Resource efficiency, Reputational capital); Sustainability performance (Sustainable use of natural resources; Ecosystem protection, restoration and regeneration)",
+      "ja": "自然関連の機会：企業のパフォーマンス（市場、資本フローと資金調達、製品とサービス、資源効率、評判資本）；サステナビリティパフォーマンス（自然資源の持続可能な利用；生態系の保護、復元、再生）"
+    },
+    {
+      "page": 39,
+      "type": "figure",
+      "en": "Strategic planning and risk management: Resilience (nature-related risks); Impact mitigation (nature-related opportunities). Financial effects: Income statement (Revenue, Expenditure); Cash flow statement; Balance sheet (Assets and liabilities, Capital and financing)",
+      "ja": "戦略立案とリスク管理：レジリエンス（自然関連リスク）；インパクトの緩和（自然関連の機会）。財務的影響：損益計算書（収益、支出）；キャッシュフロー計算書；貸借対照表（資産と負債、資本と資金調達）",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 40,
+      "type": "h1",
+      "en": "3. Recommendations & guidance",
+      "ja": "3. 提言とガイダンス"
+    },
+    {
+      "page": 40,
+      "type": "p",
+      "en": "The TNFD disclosure framework consists of conceptual foundations for nature-related disclosures, a set of general requirements, a set of recommended disclosures structured around the four recommendation pillars of governance, strategy, risk and impact management, and metrics and targets (Figure 19). This draws from, and is consistent with, the approach of TCFD and the ISSB.",
+      "ja": "TNFDの開示フレームワークは、自然関連開示のための基本概念、一般要件一式、開示提言一式で構成され、さらに開示提言一式は、ガバナンス、戦略、リスクとインパクトの管理、測定指標とターゲットという4つの提言の柱を中心として構成されている（図19）。これはTCFDとISSBのアプローチから導いたものであり、それらと整合している。"
+    },
+    {
+      "page": 40,
+      "type": "caption",
+      "en": "Figure 19: Architecture of the TNFD recommendations and alignment with ISSB and TCFD",
+      "ja": "図19：TNFDの提言のアーキテクチャーとISSBおよびTCFDとの整合性"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "Conceptual foundations: Key concepts and approaches shaping the design of the recommendations",
+      "ja": "基本概念：提言のデザインを形作る主要なコンセプトとアプローチ"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "General requirements: Six general requirements that cut across the four pillars of recommendations",
+      "ja": "一般要件：提言の4つの柱を横断する6つの一般要件"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "Recommendations: Widely adoptable recommendations tied to the same four pillars as TCFD",
+      "ja": "提言：TCFDと同じ4つの柱に関連し採用が望める提言"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "Recommended disclosures: 14 recommended disclosures that organisations should provide alongside financial statements as part of the same reporting package to provide decision useful information. Aligned with TCFD’s 11 recommendations and extended with an additional three for nature.",
+      "ja": "開示提言：意思決定に有用な情報を提供するために、組織が財務諸表とともに同じ報告パッケージの一部として、提供すべき14項目の開示提言。TCFDの11項目の提言と整合性を取り、さらに自然に関する3項目の提言を追加した。"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "Guidance for all sectors: Guidance for implementing the recommended disclosures for all organisations",
+      "ja": "全セクター向けガイダンス：開示提言を実行に移すための全組織向けガイダンス"
+    },
+    {
+      "page": 40,
+      "type": "figure",
+      "en": "Additional guidance for certain sectors and biomes: Guidance that highlights important considerations for certain sectors and biomes, and provides a fuller picture of potential nature-related dependencies, impacts, risks and opportunities in those sectors and biomes. Additional guidance is provided for the financial sector and for non-financial sectors and biomes with the most significant dependencies and impacts on nature. (ISSB / TCFD)",
+      "ja": "特定のセクターとバイオームに関する追加ガイダンス：特定のセクターやバイオームにおける重要な考慮事項に注目し、それらのセクターやバイオームにおける潜在的な自然関連の依存、インパクト、リスクと機会の全体像を示すガイダンス。自然に対する依存とインパクトが最も大きい金融セクター、非金融セクター、バイオームについては、追加ガイダンスが提供されている。(ISSB / TCFD)"
+    }
+  ]
+}

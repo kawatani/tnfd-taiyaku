@@ -1,0 +1,747 @@
+{
+  "doc": "rec",
+  "pages": [
+    141,
+    154
+  ],
+  "segments": [
+    {
+      "page": 141,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Sustainable production / sustainable consumption and production | The use of services and related products, which respond to basic needs and bring a better quality of life while minimising the use of natural resources and toxic materials as well as the emissions of waste and pollutants over the life cycle of the service or product so as not to jeopardise the needs of future generations.<br>United Nations Environment Programme Sustainable Consumption and Production Policies |\n| Sustainable use of natural resources opportunity | Substitution of natural resources by recycled, regenerative, renewable and/or ethically responsibly sourced organic inputs.<br>TNFD |\n| Sustainably managed | The use of components of biological diversity in a way and at a rate that does not lead to the long-term decline of biological diversity, thereby maintaining its potential to meet the needs and aspirations of present and future generations.<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Target | Specific quantitative and time-bound objective, preferably with a defined means of measurement.<br>Science Based Targets Network (2020) Science Based Targets for Nature: Initial Guidance for Business |\n| Technology risk | Substitution of products or services with a reduced impact on nature and/or reduced dependency on nature.<br>For example, loss of pollinators may be replaced by mechanical pollination technologies.<br>Adapted from Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |\n| Threatened ecosystem | Ecosystem assessed as facing a high risk of collapse in the medium term.<br>International Union for Conservation of Nature (2017) Guidelines for the Application of IUCN Red list of Ecosystems Categories and Criteria |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 持続可能な生産／持続可能な消費と生産 | 基本的なニーズに応え、より良い生活の質をもたらすサービスや関連製品を利用すること。その一方で、サービスや製品のライフサイクルを通じて、自然資源や有害物質の使用、廃棄物や汚染物質の排出を最小限に抑え、将来の世代のニーズを脅かさないようにすること。<br>国連環境計画Sustainable Consumption and Production Policies |\n| 自然資源の持続可能な利用の機会 | 自然資源をリサイクル、再生、再生可能とし、および／または倫理的に責任ある方法で調達された有機投入物に置き換えること。<br>TNFD |\n| 持続可能に管理された | 生物多様性の構成要素を、生物多様性の長期的な減少につながらないような方法と速度で利用することで、現在および将来の世代のニーズと希望を満たす可能性を維持すること。<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| ターゲット | 具体的な定量的かつ期限付きの目標であり、測定手段が明確であることが望ましい。<br>科学に基づく目標ネットワーク (2020) 自然に関する科学に基づく目標設定：企業のための初期ガイダンス |\n| 技術リスク | 自然に対するインパクトの軽減、および／または自然への依存の軽減による製品やサービスの代替。<br>例えば、花粉媒介者の喪失は機械的花粉媒介技術で代替できる可能性がある。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |\n| 脅かされた生態系 | 中期的に崩壊のリスクが高いと評価された生態系。<br>International Union for Conservation of Nature (2017) Guidelines for the Application of IUCN Red list of Ecosystems Categories and Criteria |"
+    },
+    {
+      "page": 142,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Threatened species | Species assessed as facing a high risk of extinction in the wild in the medium term.<br>International Union for Conservation of Nature (2012) IUCN red list categories and criteria |\n| Traceable | The ability to follow a product or its components through stages of the supply chain (e.g. production, processing, manufacturing and distribution).<br>Accountability Framework Initiative (2019) Terms and Definitions |\n| Traditional knowledge | The knowledge, innovations and practices of Indigenous and Local Communities embodying traditional lifestyles relevant for the conservation and sustainable use of biological diversity.<br>Convention on Biological Diversity (2019) Glossary of relevant key terms in the context of Article 8(j) and Related Provisions |\n| Unintentional/ intentional introduction of invasive alien species | Species whose intentional or unintentional introduction and/or spread by human action outside their natural distribution threatens biological diversity, food security and human health and well-being. ‘Alien’ refers to the species having been introduced outside its natural distribution (‘exotic’, “non-native’ and ‘nonindigenous’ are synonyms for ‘alien’). ‘Invasive’ means tending to expand into and modify ecosystems to which it has been introduced. Thus, a species may be alien without being invasive, or, in the case of a species native to a region, it may increase and become invasive, without actually being an alien species.<br>Adapted from Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services IPBES Glossary, European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Upstream | All activities associated with suppliers, such as. production or cultivation, sourcing of commodities or goods and the transportation of commodities to manufacturing facilities.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |\n| Valuation | The process of estimating the relative importance, worth or usefulness of natural capital to people (or to a business) in a particular context. Valuation may involve qualitative, quantitative or monetary approaches, or a combination of these.<br>Capitals Coalition (2016) Natural Capital Protocol |\n| Valuation technique | The specific method used to determine the importance, worth or usefulness of something in a particular context.<br>Capitals Coalition (2016) Natural Capital Protocol |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 絶滅のおそれのある種 | 中期的に野生で絶滅のリスクが高いと評価された種。<br>International Union for Conservation of Nature (2012) IUCN red list categories and criteria |\n| 追跡可能 | サプライチェーンの全段階（生産、加工、製造、流通など）を通じ、製品とその構成部品を追跡できること。<br>Accountability Framework Initiative (2019) Terms and Definitions |\n| 伝統的知識 | 生物多様性の保全と持続可能な利用に関連する、伝統的な生活様式を体現する先住民族と地域社会の知識、革新、慣行。<br>生物多様性条約 (2019) Glossary of relevant key terms in the context of Article 8(j) and Related Provisions |\n| 侵略的外来種の非意図的／意図的導入 | 自然な分布域外に人間の行為によって意図的または非意図的に導入され、または拡散することで、生物多様性、食料安全保障、人間の健康と福利を脅かす種。「外来」とは、自然分布外に導入された種を指す（「外国産」、「非在来」、「非原産」は「外来」の同義語である）。「侵略的」とは、導入された生態系に拡大し、それを改変する傾向があることを意味する。従って、ある種が侵略的ではない外来種である場合もあり、また、ある地域の原産種であり、実際には外来種でなくても、増加して侵略的になる場合もある。<br>引用元：生物多様性及び生態系サービスに関する政府間プラットフォームIPBES用語集 , 欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| 上流 | 一次産品または品物の生産、栽培、調達、および製造施設への一次産品の輸送など、サプライヤーに関連するすべての活動。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |\n| 評価 | 特定の状況において、人々（またはビジネス）にとっての自然資本の相対的な重要性、価値、有用性を推定するプロセス。評価には、定性的、定量的、金銭的アプローチ、またはこれらの組み合わせが含まれる。<br>キャピタル・コアリション（2016）自然資本プロトコル |\n| 評価手法 | 特定の文脈において、何かの重要性、価値、有用性を判断するために用いられる特定の方法。<br>キャピタル・コアリション（2016）自然資本プロトコル |"
+    },
+    {
+      "page": 143,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Value chain | The full range of interactions, resources and relationships related to a reporting entity’s business model and the external environment in which it operates.<br>A value chain encompasses the interactions, resources and relationships an entity uses and depends on to create its products or services from conception to delivery, consumption and end-of-life, including interactions, resources and relationships in the entity’s operations, such as human resources; those along its supply, marketing and distribution channels, such as materials and service sourcing, and product and service sale and delivery; and the financing, geographical, geopolitical and regulatory environments in which the entity operates.<br>International Financial Reporting Standard (2023) S1 General Requirements for Disclosure of Sustainability-related Financial Information |\n| Voluntary conservation/ voluntary restoration | Voluntary conservation and restoration refer to conservation and restoration activities that are not required by statutes or regulations.<br>TNFD |\n| Vulnerability | The propensity or predisposition to be adversely affected. Vulnerability encompasses a variety of concepts and elements, including sensitivity or susceptibility to harm and lack of capacity to cope and adapt.<br>IPCC (2022), Annex II: Glossary in: Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change |\n| Waste | Any substance or object that the holder discards, intends to discard or is required to discard. Waste can be defined according to the national legislation at the point of generation.<br>Adapted from United Nations Environment Programme (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, GRI (2022) GRI Standards Glossary |\n| Waste disposal | Disposal is any operation which is not recovery, even where the operation has as a secondary consequence the recovery of energy.<br>Note: Disposal is the end-of-life management of discarded products, materials and resources in a sink or through a chemical or thermal transformation that makes these products, materials and resources unavailable for further use.<br>GRI (2022) GRI Standards Glossary from EU (2008) Waste Framework Directive (Directive 2008/98/EC) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| バリューチェーン | 報告企業のビジネスモデルと、その企業が経営する外部環境に関連する、あらゆる相互作用、資源、関係。<br>バリューチェーンとは、企業が製品やサービスを生み出すために、構想から納品、消費、使用済みに至るまで使用し、依存する相互作用、資源、関係を包含するものであり、人的資源など企業の事業における相互作用、資源、関係、材料やサービスの調達、製品やサービスの販売や配達など、供給、マーケティング、流通チャネルに沿ったもの、および、資金調達、地理的、地政学的、規制環境など、その企業が営業する環境も含まれる。<br>国際財務報告基準 (2023) S1 General Requirements for Disclosure of Sustainability-related Financial Information |\n| 自主的保全／自主的復元 | 自主的な保全と復元とは、法律や規則で義務付けられていない保全と復元の活動を指す。<br>TNFD |\n| 脆弱性 | 悪影響を受けやすい傾向や素因脆弱性には、危害に対する感受性や影響されやすさ、対処・適応能力の欠如など、さまざまな概念や要素が包含される。<br>IPCC (2022) Climate Change 2022: Impacts, Adaptation and Vulnerability. Contribution of Working Group II to the Sixth Assessment Report of the Intergovernmental Panel on Climate Change, Annex II, Glossary |\n| 廃棄物 | 保有者が廃棄する、廃棄するつもりである、または廃棄する必要がある物質または物体。廃棄物はそれが発生した時点の国内法に従い定義することができる。<br>引用元：国連環境計画 (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal、GRI（2022）GRIスタンダード用語集 |\n| 廃棄物処理 | 廃棄とは、たとえその作業がエネルギーの回収という二次的な結果をもたらすものであったとしても、回収ではない作業を指す。<br>注：廃棄とは、処分場に排出された製品、材料、資源を使用済み管理する作業であり、または化学的・熱的変換により、これらの製品、材料、資源をそれ以上使用できなくする。<br>GRI（2022）GRIスタンダード用語集、引用元：EU (2008) Waste Framework Directive (Directive 2008/98/EC) |"
+    },
+    {
+      "page": 144,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Waste disposal methods | Methods by which waste is treated or disposed of. Examples include composting, deep well injection, incineration, landfill, onsite storage, recovery, recycling and reuse.<br>GRI (2022) GRI Standards Glossary from in UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |\n| Waste incineration | Controlled burning of waste at high temperatures.<br>GRI (2022) GRI Standards Glossary from UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |\n| Waste recovered | Components of products or materials that have become waste that are prepared to fulfill a purpose in place of new products, components or materials that would otherwise have been used for that purpose.<br>United Nations Environment Programme (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Waste and their Disposal |\n| Waste recycled | Reprocessing of products or components of products that have become waste to make new materials.<br>United Nations Environment Programme (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Waste and their Disposal |\n| Waste reused | Products or components of products that have become waste that are prepared to be put to use for the same purpose for which they were conceived.<br>Adapted from European Union (2008) Waste Framework Directive (Directive 2008/98/EC) |\n| Wastewater discharge | Sum of effluents, used water or other water leaving the boundaries of the organisation and released to surface water, groundwater, seawater or a third party, for which the organisation has no further use, over the course of the reporting period.<br>Adapted from GRI (2022) GRI Standards Glossary<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Wastewater temperature | A critical parameter to monitor for any biological wastewater treatment system. Bacteria in wastewater treatment systems function best when under a 20-35C temperature range.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 廃棄物処理方法 | 廃棄物の処理または処分方法。例えば、堆肥化、深井戸注入、焼却処理、埋め立て、敷地内貯蔵、回収、リサイクル、再利用などである。<br>GRI（2022）GRIスタンダード用語集、引用元：UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |\n| 廃棄物焼却処理 | 廃棄物の高温での制御された燃焼。<br>GRI（2022）GRIスタンダード用語集、引用元：UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |\n| 回収廃棄物 | 廃棄物となった製品の部品または材料であり、ある目的で使用されるはずだった新しい製品、部品または材料の代わりに、その目的を果たすために用意されるもの。<br>国連環境計画 (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Waste and their Disposal |\n| リサイクル廃棄物 | 廃棄物となった製品または製品の部品を再加工し、新しい材料を作ること。<br>国連環境計画 (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Waste and their Disposal |\n| 再利用廃棄物 | 廃棄物となった製品または製品の部品であり、それらが考案された目的と同じ目的で使用するために用意されるもの。<br>引用元：European Union (2008) Waste Framework Directive (Directive 2008/98/EC) |\n| 廃水排出量 | 報告期間中に組織の境界を離れ、地表水、地下水、海水または第三者に放出された排水、使用済み水、その他の水のうち、組織がそれ以上使用しないものの総量。<br>引用元：GRI（2022）GRIスタンダード用語集<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| 廃水温度 | 生物学的廃水処理システムにとって監視すべき重要なパラメータ。廃水処理システムのバクテリアは、20～35℃の温度範囲で最もよく機能する。<br>TNFD |"
+    },
+    {
+      "page": 145,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Water consumption | The amount of water drawn into the boundaries of the undertaking (or facility) and not discharged back to the water environment or a third party over the course of the reporting period. Water consumption is equal to water withdrawal less water discharge.<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Water produced | Water that enters the organisation’s boundary as a result of extraction (e.g. crude oil), processing (e.g. sugar cane crushing) or use of any raw material, and has to consequently be managed by the organisation.<br>CDP (2023) Water Security Questionnaire, GRI (2022) GRI Standards Glossary |\n| Water quality | The biological, chemical and physical properties of water, often assessed against a usage standard, such as whether its quality can support freshwater biodiversity, be used for drinking water for people, or irrigation. Note that standards and definitions of water quality vary across use cases.<br>United Nations Environment Programme (2008) Water Quality Index for Biodiversity Technical Development Document |\n| Water reduced | An organisation can reduce its water withdrawal and consumption and associated impacts through efficiency measures, such as water recycling and reuse, and process redesign.<br>TNFD |\n| Water reused/ recycled | Water and wastewater (treated or untreated) that has been used more than once before being discharged from the undertaking’s or shared facilities’ boundary, so that water demand is reduced. This may be in the same process (recycled) or in a different process within the same facility (own or shared with other undertakings) or in another of the undertaking’s facilities (reused).<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 水消費量 | 報告期間中に事業（または施設）の境界内に引き込まれ、水環境または第三者に排出されなかった水量。水消費量は取水量から排水量を差し引いた量である。<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| 生産に随伴する水 | 採掘（原油など）、処理（サトウキビの破砕など）、または原材料の利用の結果として組織の境界内に流入し、結果的に組織が管理する必要がある水。<br>CDP（2023）水セキュリティ質問書、GRI（2022）GRIスタンダード用語集 |\n| 水質 | 水の生物学的、化学的、物理的特性で、多くの場合、使用基準と照合して評価される。例えば、淡水の生物多様性を維持するための基準、人々の飲料水や灌漑用水に関する基準である。水質の基準ひいては定義は使用事例により異なることに留意すること。<br>国連環境計画 (2008) Water Quality Index for Biodiversity Technical Development Document |\n| 削減される水 | 組織は水のリサイクルや再利用、プロセスの再設計などの効率化対策を通じ、水の取水量や消費量、それに伴うインパクトを削減することができる。<br>TNFD |\n| 再利用／リサイクルされる水 | 水の必要量が減少するよう、事業または共有施設の境界から排出される前に複数回使用された水および廃水（処理済みまたは未処理）。これは、同じ工程（リサイクル）でも、同じ施設内の別の工程（自社所有または他の事業者と共有）でも、事業者の別の施設（再利用）でもよい。<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |"
+    },
+    {
+      "page": 146,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Water scarcity | Refers to the volumetric abundance, or lack thereof, of freshwater resources. Scarcity is human driven; it is a function of the volume of human water consumption relative to the volume of water resources in a given area. As such, an arid region with very little water, but no human water consumption would not be considered scarce, but rather arid. Water scarcity is a physical, objective reality that can be measured consistently across regions and over time. Water scarcity reflects the physical abundance of freshwater rather than whether that water is suitable for use. For instance, a region may have abundant water resources (and thus not be considered water scarce), but have such severe pollution that those supplies are unfit for human or ecological uses.<br>The CEO Water Mandate (2014) Corporate Water Disclosure Guidelines, European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Water sources | Water sources include water withdrawn from surface water, groundwater, seawater, produced water and third-party water.<br>GRI (2018) GRI 303: Water and Effluents |\n| Water stress (areas of) | Water stressed (region): defined in three levels: 25%, below which no water scarcity exists; 60%, indicating approaching scarcity; 75%, above which strong water scarcity is identified. Anything above the 60% figure, approaching scarcity, is considered ‘water stressed.<br>Adapted from UN Water (2021) Summary Progress Update 2021: SDG 6 — water and sanitation for all |\n| Water withdrawal | The sum of all water drawn into the boundaries of the undertaking from all sources for any use over the course of the reporting period.<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| Wild species | Refers to populations of any native species that have not been domesticated through multigenerational selection for particular traits, and which can survive independently of human intervention that may occur in any environment. This does not imply a complete absence of human management and recognises various intermediate states between wild and domesticated.<br>Intergovernmental Platform on Biodiversity and Ecosystem Services (2022) IPBES Sustainable Use of Wild Species Assessment, Chapter 1 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 水不足 | 淡水資源の存在量、または不足を表す。不足は人間により起きる。これはある地域の水資源量に対する人間の水消費量の関数である。そのため、水はほとんどないが人間により水消費量が無い乾燥地域は、不足しているとはみなされず、乾燥しているとみなされる。水不足は物理的で客観的な現実であり、地域や時間を超えて一貫して測定することができる。水不足は、その水が使用に適しているかどうかではなく、淡水の物理的な存在量を反映する。例えば、ある地域には豊富な水資源があるが（従って水不足とはみなされない）、汚染がひどく、その供給が人間や生態系の利用に適さない場合がある。<br>The CEO Water Mandate (2014) Corporate Water Disclosure Guidelines, 欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| 水源 | 水源には、地表水、地下水、海水、随伴水、第三者からの取水が含まれる。<br>GRI（2018）GRI 303：水と廃水 |\n| 水ストレス（の地域） | 水ストレスが存在する（地域）：3段階で定義される：25% を下回れば水不足は存在しない、60% は不足に近づいていることを示し、75% を超えると強い水不足が特定される。水不足に近づきつつある60% を超える数値は「水ストレスが存在する」とみなされる。<br>引用元：UN Water (2021) Summary Progress Update 2021: SDG 6 — water and sanitation for all |\n| 取水 | 報告期間中にあらゆる用途のためにすべての水源から事業の境界内に引き込まれたすべての水の合計。<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |\n| 野生種 | 特定の形質に対する多世代の淘汰による家畜化がされておらず、どのような環境においても人間の介入とは無関係に生存できる、あらゆる在来種の個体群を指す。これは人為的な管理がまったくないことを意味するものではなく、野生と家畜化の間にあるさまざまな中間状態を認めている。<br>生物多様性及び生態系サービスに関する政府間プラットフォーム (2022) IPBES Sustainable Use of Wild Species Assessment, Chapter 1 |"
+    },
+    {
+      "page": 147,
+      "type": "h3",
+      "en": "Acronyms",
+      "ja": "略語"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "AR3T – SBTN’s action framework for the mitigation hierarchy (Avoid, Reduce, Restore, Regenerate, Transformative action)",
+      "ja": "AR3T – 回避、軽減、復元、再生、変革活動（英：Avoid, Reduce, Restore, Regenerate, Transformative action）– ミティゲーション・ヒエラルキーに関するSBTNのアクション・フレームワーク"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "BCBS – Basel Committee on Banking Supervision",
+      "ja": "BCBS – バーゼル銀行監督委員会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "CBD – UN Convention on Biological Diversity",
+      "ja": "CBD – 国連生物多様性条約"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "CDP – Carbon Disclosure Project",
+      "ja": "CDP – カーボン・ディスクロージャー・プロジェクト"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "CDSB – Climate Disclosures Standards Board",
+      "ja": "CDSB – 気候情報開示基準委員会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "CIFF – Childrens’ Investment Fund Foundation",
+      "ja": "CIFF – チルドレンズ・インベストメント・ファンド財団"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "CITES – Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+      "ja": "CITES – 絶滅のおそれのある野生動植物の種の国際取引に関する条約"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "COP – Conference of the Parties",
+      "ja": "COP – 締約国会議"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "E/MSY – Extinctions per million species per year",
+      "ja": "E/MSY – 年間100万種当たりの絶滅数"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "EFRAG – European Financial Reporting Advisory Group",
+      "ja": "EFRAG – 欧州財務報告諮問グループ"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "ESRS – European Sustainability Reporting Standard",
+      "ja": "ESRS – 欧州サステナビリティ報告基準"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "FSB – Financial Sustainability Board",
+      "ja": "FSB – 金融安定理事会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "GBF – Kunming-Montreal Global Biodiversity Framework",
+      "ja": "GBF – 昆明・モントリオール生物多様性枠組"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "GEF – Global Environment Facility",
+      "ja": "GEF – 地球環境ファシリティ"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "GFI – Green Finance Institute",
+      "ja": "GFI – グリーン・ファイナンス・インスティテュート"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "GHG – Greenhouse gas",
+      "ja": "GHG – 温室効果ガス"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "HICL – High Impact Commodity List",
+      "ja": "HICL – 高インパクト一次産品リスト"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IAASB – International Auditing and Assurance Standards Board",
+      "ja": "IAASB – 国際監査・保証基準審議会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IAIS – International Association of Insurance Supervisors",
+      "ja": "IAIS – 保険監督者国際機構"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IFRS – International Financial Reporting Standards Foundation",
+      "ja": "IFRS – 国際財務報告基準財団"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IIFB – International Indigenous Forum on Biodiversity",
+      "ja": "IIFB – 生物多様性国際先住民フォーラム"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IPBES – Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+      "ja": "IPBES – 生物多様性及び生態系サービスに関する政府間プラットフォーム"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IPCC – Intergovernmental Panel on Climate Change",
+      "ja": "IPCC – 気候変動に関する政府間パネル"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IPLCs – Indigenous Peoples and Local Communities",
+      "ja": "IPLCs – 先住民族と地域社会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IRGC – International Risk Governance Council",
+      "ja": "IRGC – 国際リスク・ガバナンス協議会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "ISO – International Organization for Standardization",
+      "ja": "ISO – 国際標準化機構"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "ISSB – International Sustainability Standards Board",
+      "ja": "ISSB – 国際サステナビリティ基準審議会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "IUCN – International Union for Conservation of Nature",
+      "ja": "IUCN – 国際自然保護連合"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "JFSA – Financial Services Agency of Japan",
+      "ja": "JFSA – 金融庁"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "LEAP – Locate, Evaluate, Assess, Prepare – TNFD’s approach for identification and assessment of nature-related issues",
+      "ja": "LEAP – 発見、診断、評価、準備（英：Locate, Evaluate, Assess, Prepare）– 自然関連課題の特定と評価のためのTNFDのアプローチ"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "N – Nitrogen",
+      "ja": "N – 窒素"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "NGFS – The Network of Central Banks and Supervisors for Greening the Financial System",
+      "ja": "NGFS – 気候変動リスク等に係る金融当局ネットワーク"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "OECD – Organisation for Economic Co-operation and Development",
+      "ja": "OECD – 経済協力開発機構"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "P – Phosphorus",
+      "ja": "P – リン"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "SASB – Sustainability Accounting Standards Board",
+      "ja": "SASB – サステナビリティ会計基準審議会"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "SBTi – Science Based Targets initiative",
+      "ja": "SBTi – 科学に基づく目標イニシアティブ"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "SBTN – Science Based Targets Network",
+      "ja": "SBTN – 科学に基づく目標ネットワーク"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "SME – Small and Medium Size Enterprise",
+      "ja": "SME – 中小企業"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "SRC – Stockholm Resilience Centre",
+      "ja": "SRC – ストックホルム・レジリエンス・センター"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "TCFD – Task Force on Climate-Related Financial Disclosures",
+      "ja": "TCFD – 気候関連財務情報開示タスクフォース"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "UNDP – United Nations Development Program",
+      "ja": "UNDP – 国連開発計画"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "UNEP – United Nations Environment Programme",
+      "ja": "UNEP – 国連環境計画"
+    },
+    {
+      "page": 147,
+      "type": "li",
+      "en": "UNEP FI – United Nations Environment Programme Finance Initiative",
+      "ja": "UNEP FI – 国連環境計画金融イニシアティブ"
+    },
+    {
+      "page": 148,
+      "type": "li",
+      "en": "UNFCCC – United Nations Framework Convention on Climate Change",
+      "ja": "UNFCCC – 気候変動に関する国際連合枠組条約"
+    },
+    {
+      "page": 148,
+      "type": "li",
+      "en": "UNEP-WCMC – United Nations Environment Programme World Conservation Monitoring Centre",
+      "ja": "UNEP-WCMC – 国連環境計画世界自然保全モニタリングセンター"
+    },
+    {
+      "page": 148,
+      "type": "li",
+      "en": "UN SEEA EA – United Nations System of Environmental-Economic Accounting – Ecosystem Accounting",
+      "ja": "UN SEEA EA – 国連環境経済統合勘定 - 生態系勘定"
+    },
+    {
+      "page": 148,
+      "type": "li",
+      "en": "WEF – World Economic Forum",
+      "ja": "WEF – 世界経済フォーラム"
+    },
+    {
+      "page": 149,
+      "type": "h1",
+      "en": "Annex 6: Acknowledgements",
+      "ja": "別紙6：謝辞"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "The Taskforce is grateful to the thousands of individuals from organisations around the world who contributed to the design and development of the TNFD recommendations and guidance through online webinars, written feedback, pilot testing and by supporting the Taskforce members and TNFD Secretariat through participation in working groups.",
+      "ja": "タスクフォースは、オンラインウェビナー、文書によるフィードバック、パイロットテスト、作業部会への参加を通じてタスクフォースメンバーとTNFD事務局を支援することにより、TNFDの提言とガイダンスの設計と開発に貢献してくださった世界中の組織の数千人の方々に感謝する。"
+    },
+    {
+      "page": 149,
+      "type": "h3",
+      "en": "Administrative and organisational support",
+      "ja": "事務・組織サポート"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "The TNFD Secretariat has been generously supported and administratively hosted by the Green Finance Institute (GFI).",
+      "ja": "TNFD事務局はグリーン・ファイナンス・インスティテュート（GFI）の支援を受けて運営を行っている。"
+    },
+    {
+      "page": 149,
+      "type": "h3",
+      "en": "Stewardship Council",
+      "ja": "スチュワードシップ・カウンシル"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "The Taskforce is grateful for the leadership and generous financial support of the TNFD’s founders and funders, convened as the TNFD Stewardship Council. They have been a consistent source of inspiration and insight based on their collective knowledge, experience and relationships globally.",
+      "ja": "タスクフォースはTNFDスチュワードシップ・カウンシルとして招集されたTNFDの創設者と資金提供者のリーダーシップと寛大な財政的支援に感謝する。彼らはその知識、経験、そして世界的な関係性を結集させ、常にインスピレーションと知見を提供してきた源泉であった。"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "The governments of Australia, France, Germany, the Netherlands, Norway, Switzerland and the United Kingdom; the Global Environment Facility (GEF), the United Nations Development Program (UNDP), the United Nations Environment Program Finance Initiative (UNEP-FI), Global Canopy, the Children’s Investment Fund Foundation (CIFF) and the Macdoch Foundation.",
+      "ja": "スチュワードシップ・カウンシルには、オーストラリア、フランス、ドイツ、オランダ、ノルウェー、スイス、イギリスの政府、地球環境ファシリティ（GEF）、国連開発計画（UNDP）、国連環境計画金融イニシアティブ（UNEP-FI）、グローバル・キャノピー、チルドレンズ・インベストメント・ファンド財団（CIFF）、マクドック財団"
+    },
+    {
+      "page": 149,
+      "type": "h3",
+      "en": "Knowledge partners and other technical contributors",
+      "ja": "ナレッジ・パートナーおよびその他の技術貢献者"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "The Taskforce would like to thank its knowledge partners who provided critical input to the design of the TNFD recommendations and additional guidance.",
+      "ja": "タスクフォースは、TNFDの提言と追加ガイダンスの設計に重要な意見を提供してくれたナレッジ・パートナーに感謝したい。"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "Agence Française de Développement (AFD), Capitals Coalition, CDP, Cambridge Institute for Sustainability Leadership (CISL), Center for Global Commons at the University of Tokyo, Centre for Nature-based Climate Solutions (CNCS) at National University of Singapore, GRI, International Union for Conservation of Nature (IUCN), NatureFinance, Network for Greening the Financial System (NGFS), Organisation for Economic Co-operation and Development (OECD), International Organization for Standardization (ISO), International Sustainability Standards Board (ISSB), Science Based Targets Network (SBTN), Stockholm Resilience Centre at Stockholm University, with partners Beijer Institute and Global Economic Dynamics and the Biosphere (GEDB) Academy Program of the Royal Swedish Academy of Science, UNEP World Conservation Monitoring Centre (UNEP-WCMC), UN Statistics Division (UNSD), World Business Council for Sustainable Development (WBCSD), and WWF.",
+      "ja": "フランス開発庁（AFD）、キャピタル・コアリション、CDP、ケンブリッジ大学サステナビリティ・リーダーシップ研究所（CISL）、東京大学グローバル・コモンズ・センター、シンガポール国立大学Centre for Nature-based Climate Solutions（CNCS）、GRI、国際自然保護連合（IUCN）、NatureFinance、気候変動リスク等に係る金融当局ネットワーク（NGFS）、経済協力開発機構（OECD）、国際標準化機構（ISO）、国際サステナビリティ基準審議会（ISSB）、科学に基づく目標ネットワーク（SBTN）、ストックホルム大学ストックホルム・レジリエンス・センターおよびそのパートナーのBeijer Institute and Global Economic Dynamics and the Biosphere (GEDB)、スウェーデン王立科学アカデミーのアカデミー・プログラム、国連環境計画世界自然保全モニタリングセンター（UNEP-WCMC）、国連統計局（UNSD）、世界環境経済人会議（WBCSD）、WWF"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "In addition to knowledge partners, the TNFD is also very grateful to the many other technical contributors who provided input through review of technical areas of the TNFD recommendations and additional guidance development.",
+      "ja": "ナレッジ・パートナーに加え、TNFDの提言の技術分野のレビューや追加ガイダンスの作成を通じてインプットを提供してくれた他の多くの技術協力者にも大変感謝している。"
+    },
+    {
+      "page": 149,
+      "type": "p",
+      "en": "Accountability Counsel, Accounting for Nature, American Chemistry Council, Arcadis, Auckland University of Technology, BCG, Bennett Freeman Associates, Axa IM, Banque de France, The Biodiversity Consultancy, BirdLife International, Breakwater Strategy, CDC Biodiversité, Business for Nature, CDP, Center for Ecology and Hydrology, Clifford Chance, Climate Works Centre, Conservation International, Convention on Biological Diversity (CBD) Secretariat, Crowther Lab, De Nederlandsche Bank (DNB), Deakin University, Direction générale du Trésor (Ministère de l’Economie, des Finances et de la Souveraineté Industrielle et Numérique), Earth Commission, Ellen MacArthur Foundation, European Financial Reporting Advisory Group (EFRAG), Finance for Biodiversity Foundation, Flora & Fauna International (FFI), Forests & Finance, GIST Impact Advisory, Global Balance, Global Canopy Programme, Global Cement and Concrete Association, Global Fashion Agenda, Grantham Research Institute, Green Finance Institute, Institute of Ecology and Biodiversity, International Biodiversity Assessment Tool (IBAT) Alliance, Imperial College London, Inditex, Indian Institute of Technology Kanpur (IIT), International Council on Metals and Mining (ICMM), International Indigenous Forum on Biodiversity (IIFB), International Monetary Fund (IMF), International Organization for Standardization (ISO), International Science-Policy Platform for Biodiversity and Ecosystem Services (IPBES), IUCN Red List of Ecosystems, Ipieca, Key Biodiversity Area Secretariat, Lancaster University, London School of Economics/INSPIRE, Manaaki Whenua/Land Care, Marsh McLannan, Minter Ellison, National University of Singapore (NUS), Natural Capital Project at Stanford University, NatureFinance, Newcastle University, Norwegian University of Science and Technology, Ocean Conservancy, Oliver Wyman, Organisation for Economic Co-operation and Development (OECD), Pacific Institute, Partnership for Biodiversity Accounting Financials (PBAF), Plymouth University, Pollination, ProForest, Risilience, ShareAction, Shift, Slaughter and May, Stockholm Environment Institute (SEI), Sustainable Food Trust, Systemiq, TCFD Secretariat, Textile Exchange, The Nature Conservancy, Trase, Travers Smith, UK Better Building Council, UK Green Building Council, United Nations Development Programme (UNDP), United Nations Environment Programme Finance Initiative (UNEP FI), United Nations Food and Agriculture Organization (FAO), United Nations Principles for Responsible Investment (PRI), University of Bern, University of Cambridge, University of Leeds, University of Oxford, University of Melbourne, University of New South Wales, University of Queensland, University of York, Vivid Economics, Vizzuality, Wildlife Conservation Society (WCS), the Wildlife Trusts, World Bank Group, World Benchmarking Alliance, World Economic Forum, and World Green Building Council.",
+      "ja": "Accountability Counsel、Accounting for Nature、アメリカ化学評議会、Arcadis、オークランド工科大学、BCG、Bennett Freeman Associates、Axa IM、フランス銀行、The Biodiversity Consultancy、バードライフ・インターナショナル、Breakwater Strategy、CDC Biodiversité、ビジネス・フォー・ネイチャー、CDP、生態水文学センター、Clifford Chance、Climate Works Centre、コンサベーション・インターナショナル、生物多様性条約（CBD）事務局、Crowther Lab、オランダ銀行（DNB）、ディーキン大学、Direction générale du Trésor (Ministère de l’Economie, des Finances et de la Souveraineté Industrielle et Numérique)、アース・コミッション、エレン・マッカーサー財団、欧州財務報告諮問グループ（EFRAG）、生物多様性金融財団、フローラ & ファウナ・インターナショナル、Forests & Finance、GIST Impact Advisory、Global Balance、グローバルキャノピー・プログラム、Global Cement and Concrete Association、グローバル・ファッション・アジェンダ、グランサム研究所、グリーン・ファイナンス・インスティテュート、Institute of Ecology and Biodiversity、国際生物多様性評価ツール（IBAT）アライアンス、ロンドン王立大学、Inditex、インド工科大学カンプール校（IIT）、国際金属・鉱業評議会（ICMM）、生物多様性国際先住民フォーラム（IIFB）、国際通貨基金（IMF）、国際標準化機構（ISO）、生物多様性及び生態系サービスに関する政府間プラットフォーム（IPBES）、IUCN生態系レッドリスト、Ipieca、Key Biodiversity Area Secretariat、ランカスター大学、ロンドン・スクール・オブ・エコノミクス / INSPIRE、Manaaki Whenua/Land Care、Marsh McLannan、Minter Ellison、シンガポール国立大学（NUS）、スタンフォード大学自然資本プロジェクト、NatureFinance、ニューカッスル大学、ノルウェー科学技術大学、Ocean Conservancy、Oliver Wyman、経済協力開発機構（OECD）、パシフィック・インスティテュート、金融向け生物多様性会計パートナーシップ（PBAF）、プリマス大学、Pollination、ProForest、Risilience、ShareAction、Shift、Slaughter and May、ストックホルム環境研究所（SEI）、サステナブル・フード・トラスト、Systemiq、TCFD事務局、テキスタイル・エクスチェンジ、ネイチャー・コンサーバンシー、Trase、Travers Smith、UKベター・ビルディング協会、英国グリーンビルディング協会、国連開発計画（UNDP）、国連環境計画金融イニシアティブ（UNEP FI）、国連食糧農業機関（FAO）、国連責任投資原則（PRI）、ベルン大学、ケンブリッジ大学、リーズ大学、オックスフォード大学、メルボルン大学、ニューサウスウェールズ大学、クイーンズランド大学、ヨーク大学、Vivid Economics、Vizzuality、野生生物保護学会（WCS）、野生生物トラスト、世界銀行グループ、世界ベンチマーキング・アライアンス、世界経済フォーラム、World Green Building Council"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "The TNFD would also like to thank the members of the Nature-related Data Catalyst.",
+      "ja": "TNFDは自然関連データカタリストのメンバーにも感謝したい。"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "The TNFD would also like to thank the many other organisations and individuals who provided feedback on the draft framework and guidance in the four TNFD beta frameworks.",
+      "ja": "TNFDはまた、4つのTNFDベータ版フレームワークにおいて、フレームワーク草案とガイダンスに対するフィードバックを提供してくれた他の多くの組織や個人にも感謝したい。"
+    },
+    {
+      "page": 150,
+      "type": "h3",
+      "en": "Pilot programme partners",
+      "ja": "パイロットプログラム・パートナー"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "The Taskforce is very grateful to the over 200 corporates and financial institutions who tested the TNFD beta framework for their feedback that was fundamental to the design of TNFD recommendations and additional guidance. The TNFD is particularly grateful to its pilot programme partners who each ran a portfolio of pilots across geographies, key sectors and supply chains.",
+      "ja": "タスクフォースは、TNFDのベータ版フレームワークをテストした200社を超える企業や金融機関からのフィードバックが、TNFDの提言や追加ガイダンスの設計の基礎となったことに大変感謝している。TNFDは地理、主要セクター、サプライチェーンにまたがるパイロットテストのポートフォリオを個別に実施したパイロットプログラム・パートナーに特に感謝している。"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "Agence Française de Développement (AFD), FSD Africa through the African Natural Capital Alliance (ANCA), Global Canopy, International Council of Mining and Metals (ICMM), IPIECA, Textile Exchange, UNEP FI, and World Business Council for Sustainable Development (WBCSD).",
+      "ja": "フランス開発庁（AFD）、アフリカ自然資本同盟（ANCA）を通じたFSDアフリカ、グローバル・キャノピー（Global Canopy）、国際鉱業金属評議会（ICMM）、IPIECA、テキスタイル・エクスチェンジ、UNEP FI、持続可能な開発のための世界経済人会議（WBCSD）"
+    },
+    {
+      "page": 150,
+      "type": "h3",
+      "en": "Consultation group conveners",
+      "ja": "協議会主催者"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "TNFD would like to thank the following business associations who worked with our Taskforce member organisations to convene Consultation Groups that brought together market participants in approximately 20 countries to raise awareness about the TNFD framework and nature-related issues, anchored in their geographic context.",
+      "ja": "TNFDはタスクフォースメンバー組織と協力して協議会を主催し、約20カ国の市場参加者を集め、TNFDフレームワークや自然関連課題について、それぞれの地理的背景を踏まえながら認識を高めてくれた以下の事業者団体に感謝する。"
+    },
+    {
+      "page": 150,
+      "type": "p",
+      "en": "Asociación Nacional de Empresarios de Colombia (ANDI), Responsible Investment Association Australasia (RIAA), Confederation of Indian Industries (CII), Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS), Dutch Banking Association (Nederlandse Vereniging van Banken, NVB), Entreprises pour l’Environnement (EpE), Finance Denmark, Finance for Tomorrow, Global Compact Network Denmark, Global Compact Network Switzerland and Liechtenstein, Green Finance Institute (GFI), Keidanren Committee on Nature Conservation, Swiss Sustainable Finance, and World Business Council for Sustainable Development (WBCSD).",
+      "ja": "コロンビア全国企業家協会（ANDI）、オーストラレーシア責任投資協会（RIAA）、インド産業連盟（CII）、ブラジル持続可能な発展のための企業連合（CEBDS）、オランダ銀行協会（Nederlandse Vereniging van Banken, NVB）、Entreprises pour l’Environnement (EpE)、デンマーク金融協会（Finance Denmark）、明日のための金融協会（Finance for Tomorrow）、グローバル・コンパクト・ネットワーク・デンマーク（Global Compact Network Denmark）、グローバル・コンパクト・ネットワーク・スイス・リヒテンシュタイン（Global Compact Network Switzerland and Liechtenstein）、グリーン・ファイナンス・インスティテュート（GFI）、経団連自然保護協議会、スイス持続可能金融協会（Swiss Sustainable Finance）、持続可能な開発のための世界経済人会議（WBCSD）"
+    },
+    {
+      "page": 151,
+      "type": "h3",
+      "en": "TNFD Forum members",
+      "ja": "TNFDフォーラムのメンバー"
+    },
+    {
+      "page": 151,
+      "type": "p",
+      "en": "The TNFD is grateful to members of the TNFD Forum for their inputs to specific Taskforce Working Groups and research project activities.",
+      "ja": "TNFDは特定のタスクフォース作業部会や研究プロジェクト活動へのTNFDフォーラムのメンバーからのインプットに感謝する。"
+    },
+    {
+      "page": 151,
+      "type": "p",
+      "en": "Members include over 1,200 corporates, financial institutions, public sector institutions including regulators, pension funds and sovereign wealth funds, academic and research organisations, business associations, inter-governmental organisations, as well as conservation and civil society organisations. The TNFD Forum is a global multi-disciplinary consultative group of institutions. A full list of TNFD Forum members is available at: https://tnfd.global/about/the-tnfd-forum/",
+      "ja": "メンバーには、1,200社を超える企業、金融機関、規制当局を含む公的機関、年金基金、政府系ファンド、学術研究機関、経済団体、政府間組織、自然保護団体、市民社会組織などが含まれる。TNFDフォーラムは世界的な多分野の機関からなる協議グループである。TNFDフォーラムのメンバー一覧は以下を参照：https://tnfd.global/about/the-tnfd-forum/"
+    },
+    {
+      "page": 152,
+      "type": "h1",
+      "en": "Annex 7: Key references",
+      "ja": "別紙7：主な参考文献"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Biodiversity Indicators Partnership (2011) Indicators under the BIP",
+      "ja": "Biodiversity Indicators Partnership (2011) Indicators under the BIP"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Capitals Coalition (2016) Natural Capital Protocol",
+      "ja": "キャピタル・コアリション（2016）自然資本プロトコル"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "CDP (2022) CDP Non-Disclosure Campaign 2022",
+      "ja": "CDP（2022）2022 CDPノン・ディスクロージャー・キャンペーン"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "CDSB (2021) CDSB Framework Application Guidance for Biodiversity-related Disclosures",
+      "ja": "CDSB (2021) CDSB Framework Application Guidance for Biodiversity-related Disclosures"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "CISL (2022) Integrating Nature: The Case for Action on Nature-related Financial Risks",
+      "ja": "CISL (2022) Integrating Nature: The Case for Action on Nature-related Financial Risks"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Convention on Biological Diversity (1992) Article 2",
+      "ja": "生物多様性条約 (1992) 第2条"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Convention on Biological Diversity. (2022) COP15: Final text of the Kunming–Montreal Global Biodiversity Framework",
+      "ja": "生物多様性条約 (2022) 第15回締約国会議：昆明・モントリオール生物多様性枠組の最終テキスト"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Dasgupta, P (2021) The Economics of Biodiversity: The Dasgupta Review",
+      "ja": "Dasgupta, P (2021) 生物多様性の経済学：ダスグプタ・レビュー"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Díaz, S., Demissew, S., Carabias, J., Joly, C., Londsale, M., Ash, N., Larigauderie, A., Adhikari, J.R., Arico, S., Báldi, A., Bartuska, A., Baste, I.A., Bilgin, A., Brondizio, E., Chan, K.M., Figueroa, V.E., Duraiappah, A., Fischer, M., Hill, R. and Koetz, T (2015) The IPBES Conceptual Framework – Connecting Nature and People, 14, pp. 1-16",
+      "ja": "Díaz, S., Demissew, S., Carabias, J., Joly, C., Londsale, M., Ash, N., Larigauderie, A., Adhikari, J.R., Arico, S., Báldi, A., Bartuska, A., Baste, I.A., Bilgin, A., Brondizio, E., Chan, K.M., Figueroa, V.E., Duraiappah, A., Fischer, M., Hill, R. & Koetz, T (2015) The IPBES Conceptual Framework – Connecting Nature and People, 14, pp. 1-16"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "FSB (2022) Supervisory and Regulatory Approaches to Climate-related Risks: Final report",
+      "ja": "FSB (2022) 気候関連リスクに対する規制・監督手法：最終報告書"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Gann G.D., McDonald T., B. Walder, J. Aronson, C.R. Nelson, J. Jonson, J.G. Hallett, C. Eisenberg, M.R. Guariguata, J. Liu, F. Hua, C. Echeverría, E. Gonzales, N. Shaw, K. Decleer, K.W. Dixon (2019) International Principles and Standards for the Practice of Ecological Restoration. Second edition. Restoration Ecology 27 (S1): S1–S46",
+      "ja": "Gann G.D., McDonald T., B. Walder, J. Aronson, C.R. Nelson, J. Jonson, J.G. Hallett, C. Eisenberg, M.R. Guariguata, J. Liu, F. Hua, C. Echeverría, E. Gonzales, N. Shaw, K. Decleer, K.W. Dixon (2019) International Principles and Standards for the Practice of Ecological Restoration. Second edition. Restoration Ecology 27 (S1): S1–S46"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Garnett, S.T., Burgess, N.D., Fa, J.E., Fernández-Llamazares, A., Molnár, Z., Robinson, C.J., Watson, J.E.M., Zander, K.K., Austin, B., Brondizio, E.S., Collier, N.F., Duncan, T., Ellis, E., Geyle, H., Jackson, M.V., Jonas, H., Malmer, P., McGowan, B., Sivongxay, A. and Leiper, L. (2018) A spatial overview of the global importance of Indigenous lands for conservation. Nature Sustainability, 1(7), 369-374",
+      "ja": "Garnett, S.T., Burgess, N.D., Fa, J.E., Fernández-Llamazares, A., Molnár, Z., Robinson, C.J., Watson, J.E.M., Zander, K.K., Austin, B., Brondizio, E.S., Collier, N.F., Duncan, T., Ellis, E., Geyle, H., Jackson, M.V., Jonas, H., Malmer, P., McGowan, B., Sivongxay, A. & Leiper, L. (2018) A spatial overview of the global importance of Indigenous lands for conservation. Nature Sustainability, 1(7), 369-374"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Goldin, I and Mariathasan, M (2014) The Butterfly Defect: How globalisation creates systemic risks and what to do about it. Princeton University Press.",
+      "ja": "Goldin, I & Mariathasan, M (2014) The Butterfly Defect: How Globalization Creates Systemic Risks, and What to Do about It. Princeton University Press."
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "GRI (2021) GRI 1: Foundation 2021, Section 2.2",
+      "ja": "GRI（2021）GRI 1：基礎2021、セクション2.2"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "IAIS (2021) “Application Paper on the Supervision of Climate-related Risks in the Insurance Sector”",
+      "ja": "IAIS (2021) Application Paper on the Supervision of Climate-related Risks in the Insurance Sector"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "IPBES (2019) Global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+      "ja": "IPBES (2019) 生物多様性及び生態系サービスに関する政府間プラットフォーム・生物多様性と生態系サービスに関する地球規模世界評価報告書"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "IPBES (2019) Summary for policymakers of the global assessment report on biodiversity and ecosystem services of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+      "ja": "IPBES (2019) 生物多様性及び生態系サービスに関する政府間プラットフォーム・生物多様性と生態系サービスに関する地球規模世界評価報告書政策決定者向け要約"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "IRGC (2018) IRGC Guidelines for the Governance of Systemic Risks",
+      "ja": "IRGC (2018) IRGC Guidelines for the Governance of Systemic Risks"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "IUCN (2023) IUCN Global Ecosystem Typology",
+      "ja": "IUCN (2023) IUCN Global Ecosystem Typology"
+    },
+    {
+      "page": 152,
+      "type": "li",
+      "en": "Kaufmann, G & Scott, K (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It? The Independent Review VII(3), pp. 371-391",
+      "ja": "Kaufmann, G & Scott, K (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It? The Independent Review VII(3), pp. 371-391"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "NGFS (2023) Nature-related Financial Risks: a Conceptual Framework to guide Action by Central Banks and Supervisors",
+      "ja": "NGFS (2023) Nature-related Financial Risks: a Conceptual Framework to guide Action by Central Banks and Supervisors"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "NGFS (2022) Statement on Nature-related Financial Risks",
+      "ja": "NGFS (2022) Statement on Nature-related Financial Risks"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "NGFS (2021) Climate-related Litigation: Raising Awareness about a Growing Source of Risk",
+      "ja": "NGFS (2021) Climate-related Litigation: Raising Awareness about a Growing Source of Risk"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "NGFS (2019) A Call for Action: Climate Change as a Source of Financial Risk",
+      "ja": "NGFS (2019) A Call for Action: Climate Change as a Source of Financial Risk"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "OECD (2023, forthcoming) A Prudential Framework for Assessing Nature-related Financial Risks: Identifying and Navigating Biodiversity Risks",
+      "ja": "OECD（2023, 近日公開）A Prudential Framework for Assessing Nature-related Financial Risks: Identifying and Navigating Biodiversity Risks"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "OECD (2021) Due Diligence Guidance for Responsible Business Conduct",
+      "ja": "OECD（2021）責任ある企業行動のためのOECDデュー・ディリジェンス・ガイダンス"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "OECD, DAC (2022) Glossary of Key Terms in Evaluation and Results Based Management Development Assistance Committee",
+      "ja": "OECD, DAC (2022) Glossary of Key Terms in Evaluation and Results Based Management Development Assistance Committee"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Persson, L et al. (2022) Outside the Safe Operating Space of the Planetary Boundary for Novel Entities",
+      "ja": "Persson, L et al. (2022) Outside the Safe Operating Space of the Planetary Boundary for Novel Entities"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Purvis, A., Molnar, Z., Obura, D., Ichii, K., Willis, K., Chettri, N., Dulloo, E., Hendry, A., Gabrielyan, B., Gutt, J., Jacob, U., Keskin, E., Niamir, A., Öztürk, B., and Jaureguiberry, P (2019) IPBES Global Assessment on Biodiversity and Ecosystem Services – Chapter 2.2 Status and Trends – Nature",
+      "ja": "Purvis, A., Molnar, Z., Obura, D., Ichii, K., Willis, K., Chettri, N., Dulloo, E., Hendry, A., Gabrielyan, B., Gutt, J., Jacob, U., Keskin, E., Niamir, A., Öztürk, B., Jaureguiberry, P (2019) IPBES Global Assessment on Biodiversity and Ecosystem Services – Chapter 2.2 Status and Trends – Nature"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Richardson, K. et al. (2023) Earth beyond six of nine planetary boundaries. Science Advances, 9(37).",
+      "ja": "Richardson, K. et al. (2023) Earth beyond six of nine planetary boundaries. Science Advances, 9(37)."
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Rockstrom et al. (2009) A Safe Operating Space for Humanity",
+      "ja": "Rockström et al. (2009) A Safe Operating Space for Humanity"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "SBTN (2023) Glossary of Terms, Steps 1-3",
+      "ja": "SBTN (2023) 用語集 , Steps 1-3"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "SBTN (2023) High Impact Commodity List",
+      "ja": "SBTN (2023) 高インパクト一次産品商品リスト"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Stockholm Resilience Centre (2023) Planetary Boundaries",
+      "ja": "Stockholm Resilience Centre (2023) Planetary Boundaries"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "TCFD (2017) Final Report: Recommendations on Climate-Related Financial Disclosures",
+      "ja": "TCFD (2017) 最終報告書：気候関連財務情報開示に関する提言"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "TNFD (2022) Discussion Paper on Nature-related Data and Analytics",
+      "ja": "TNFD (2022) Discussion Paper on Nature-related Data and Analytics"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "UNEP-WCMC, Capitals Coalition, Arcadis and ICF (2022) Recommendations for a Standard on Biodiversity Measurement and Valuation. Aligning Accounting Approaches for Nature",
+      "ja": "UNEP-WCMC, Capitals Coalition, Arcadis & ICF (2022) Recommendations for a Standard on Biodiversity Measurement and Valuation. Aligning Accounting Approaches for Nature"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "United Nations (2021) System of Environmental-Economic Accounting – Ecosystem Accounting",
+      "ja": "United Nations (2021) 環境経済統合勘定 - 生態系勘定"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "United Nations (2015) Paris Agreement",
+      "ja": "United Nations (2015) パリ協定"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "United Nations (2015) Transforming our World: The 2030 Agenda for Sustainable Development",
+      "ja": "United Nations (2015) Transforming our World: The 2030 Agenda for Sustainable Development"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "UN Statistics Division, SEAA (2021) System of Environmental-Economic Accounting – Ecosystem Accounting: Final Draft",
+      "ja": "UN Statistics Division, SEAA (2021) 環境経済統合勘定 - 生態系勘定：最終草案"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "Wang-Erlandsson, L et al. (2022) A Planetary Boundary for Green Water",
+      "ja": "Wang-Erlandsson, L et al. (2022) A Planetary Boundary for Green Water"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "WEF (2023) Global Risks Report 2023",
+      "ja": "WEF（2023）グローバルリスク報告書2023年版"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "WWF, UNEP-WCMC, GEF Small Grants Programme, ICCA-Global Support Intiative, LandMark Global Platform of Indigenous and Community Lands, The Nature Conservancy, Conservation International, Wildlife Conservation Society, UNDP Equator Prize, International Land Coalition Secretariat, Conservation Matters LLC and IUCN (2021) The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland",
+      "ja": "WWF, UNEP-WCMC, GEF Small Grants Programme, ICCA-Global Support Intiative, LandMark Global Platform of Indigenous and Community Lands, The Nature Conservancy, Conservation International, Wildlife Conservation Society, UNDP Equator Prize, International Land Coalition Secretariat, Conservation Matters LLC & IUCN (2021) The state of Indigenous Peoples’ and Local Communities’ lands and territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland"
+    },
+    {
+      "page": 153,
+      "type": "li",
+      "en": "WWF (2022) A Biodiversity Guide for Business",
+      "ja": "WWF (2022) A Biodiversity Guide for Business"
+    }
+  ]
+}

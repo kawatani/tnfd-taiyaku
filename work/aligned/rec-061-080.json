@@ -1,0 +1,1030 @@
+{
+  "doc": "rec",
+  "pages": [
+    61,
+    80
+  ],
+  "segments": [
+    {
+      "page": 61,
+      "type": "h1",
+      "en": "4. Measuring nature-related dependencies, impacts, risks and opportunities",
+      "ja": "4. 自然関連の依存、インパクト、リスクと機会の測定"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "An initial survey by the Taskforce of the existing nature-related indicators and metrics in use for corporate reporting revealed over 3,000 unique metrics, with different definitions used for similar indicators, inconsistencies and uneven coverage across nature-related issues, and a focus on negative impact drivers. There were also concerns about data gaps and decision-usefulness for investors.",
+      "ja": "タスクフォースによる、企業報告のための既存の自然関連の指標と測定指標に関する最初の調査では、すでに3,000以上の独自の測定指標が使用されていること、類似の指標に対して異なる定義が使われていること、対象とする自然関連課題に一貫性がなく、対象範囲も不均一であること、マイナスのインパクト要因に焦点が当てられていることが明らかになった。また、データのギャップや投資家にとっての意思決定の有用性についても懸念があった。"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "The Taskforce’s approach is anchored in the principles that metrics should be:",
+      "ja": "タスクフォースのアプローチは、測定指標を以下のようなものとすべきであるという原則に基づいている。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Science-based and provide insights into the consequences of business and finance activities;",
+      "ja": "科学に基づき、ビジネスや金融活動が自然に及ぼす影響に関する知見を提供する。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Be sensitive enough to reflect change on an annual basis;",
+      "ja": "年単位の変化を反映するために十分な感度を備える。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Relevant to the business model and value chain of report preparers, recognising that issues within sectors, business models and value chains can vary significantly;",
+      "ja": "報告書作成者のビジネスモデルとバリューチェーンとの関連性があり、セクター、ビジネスモデル、バリューチェーン内での課題は大きく異なる可能性があることを認識する。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Proportionate, reflecting the practical capacity and cost constraints of report preparers to assemble, assess and report information on an annual reporting cycle basis;",
+      "ja": "見合っており、報告書作成者が年次報告サイクルベースで情報を収集、評価、報告するための実際的な能力およびコスト上の制約を反映する。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Decision-useful to the primary users of corporate sustainability reports, including providing current insights and comparability within and across sectors;",
+      "ja": "意思決定に有用であり、企業のサステナビリティ報告書の主要な利用者に対して、最新の知見やセクター内およびセクター間の比較可能性を提供する。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Subjectable to independent limited assurance in the medium term; and",
+      "ja": "中期的には独立した限定的保証（アシュアランス）の対象となる。"
+    },
+    {
+      "page": 61,
+      "type": "li",
+      "en": "Aligned to global and national policy goals and targets, such as the indicators and metrics in the GBF measurement framework and other international treaties – as organisations are now aligning to the Paris Agreement and net zero targets with respect to their climate-related corporate reporting – as well as other standards and target setting frameworks.59",
+      "ja": "世界や国の政策目標とターゲットと整合しており、例えば、GBFの測定枠組みやその他の国際条約における指標と測定指標、気候変動関連の企業報告に関しパリ協定やネットゼロ目標と整合化している組織、およびその他の基準や目標設定の枠組み、など59"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "The TNFD’s approach centres on impact driver metrics, but also acknowledges the importance of understanding changes to the state of nature and ecosystem services, and supports progress and alignment in this measurement area.",
+      "ja": "TNFDのアプローチは、インパクト要因の測定指標を中心としながらも、自然の状態や生態系サービスの変化を理解することの重要性も認めており、この測定分野での進展と調整を支援している。"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "The TNFD recognises that the scope, consistency and accessibility of some nature-related data currently available to market participants means that it is challenging to achieve all of these principles simultaneously.60 Nevertheless, rapid innovation in nature-related data, analytics and technology is underway. The Nature-related Data Catalyst initiative established by the TNFD is one effort to accelerate such solutions, and the TNFD has started an evaluation of the case for a global public nature-related data facility with a range of partner organisations.",
+      "ja": "TNFDは、現時点で市場参加者が入手可能な一部の自然関連データのスコープ、一貫性、アクセス可能性が原因で、これらの原則のすべてを同時に達成することは困難であると認識している60。それにもかかわらず、自然関連のデータ、分析、テクノロジーにおける急速な技術革新が進行中である。TNFDにより設けられた自然関連データカタリスト（Nature-related Data Catalyst）イニシアティブは、このようなソリューションを加速させるための取り組みのひとつであり、TNFDはさまざまなパートナー組織と共に、世界的な公共の自然関連データファシリティの実現可能性に関する評価を開始した。"
+    },
+    {
+      "page": 61,
+      "type": "footnote",
+      "en": "59 Including the GBF, ISSB IFRS-S1 and S2 standards; TCFD; Carbon Disclosure Standards Board (CDSB) and Sustainability Accounting Standards Board (SASB), which are now part of the ISSB; GRI, CDP and the European Financial Reporting Advisory Group (EFRAG); and corporate target setting methods developed by the Science Based Targets Network (SBTN).",
+      "ja": "59 以下を含む。GBF、ISSB IFRS S1「サステナビリティ関連財務情報の開示に関する全般的要求事項」およびS2「気候関連開示」の基準、TCFD、現在はISSBの一部となっている気候情報開示基準委員会（CDSB）とサステナビリティ会計基準審議会（SASB）、GRI、CDP、欧州財務報告諮問グループ（EFRAG）、および科学に基づく目標ネットワーク（SBTN）が開発した企業のターゲット設定方法。"
+    },
+    {
+      "page": 61,
+      "type": "footnote",
+      "en": "60 Taskforce on Nature-related Financial Disclosures (2022) A landscape assessment of nature-related data and analytics availability",
+      "ja": "60 Taskforce on Nature-related Financial Disclosures (2022) A landscape assessment of nature-related data and analytics availability"
+    },
+    {
+      "page": 62,
+      "type": "h3",
+      "en": "Box 4: Definitions of indicators and metrics",
+      "ja": "ボックス4：指標と測定指標の定義"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "An indicator is a quantitative or qualitative factor or variable that provides a simple and reliable means to measure performance.61 An indicator can be measured through one or multiple metrics. A metric is a system or standard of measurement.62 Metrics for each category should correspond to related indicators in order to create a suite of related indicators across all metrics categories.",
+      "ja": "指標はパフォーマンスを測定するためのシンプルで信頼できる手段を提供する、定量的または定性的な要因または変数である61。指標または複数の測定指標を通じて測定することができる。測定指標は測定のシステムまたは基準である62。すべての測定指標カテゴリーにわたって関連する指標一式を作成するために、各カテゴリーの測定指標を関連する指標と対応させるべきである。",
+      "flag": "ja-split-differs"
+    },
+    {
+      "page": 62,
+      "type": "caption",
+      "en": "Figure 22: Indicators and metrics",
+      "ja": "図22：指標と測定指標"
+    },
+    {
+      "page": 62,
+      "type": "figure",
+      "en": "Indicator / Metric 1.1 / Metric 1.2",
+      "ja": "指標／測定指標1.1／測定指標1.2"
+    },
+    {
+      "page": 62,
+      "type": "figure",
+      "en": "Ocean – Example: Extent of ocean use change – Extent of ocean ecosystem use change (km2) by type of ecosystem and business activity",
+      "ja": "海洋 – 例：海洋利用面積の変化 – 海洋生態系の利用面積の変化（km2）（生態系の種類別、事業活動別）"
+    },
+    {
+      "page": 62,
+      "type": "figure",
+      "en": "Freshwater – Example: Wastewater discharged – Volume of wastewater (m3) and concentration of key pollutants (mg/litre) – Total / Freshwater / Other",
+      "ja": "淡水 – 例：廃水排出 – 廃水量（m3）と主要汚染物質の濃度（mg/リットル）‒ 合計／淡水／その他"
+    },
+    {
+      "page": 62,
+      "type": "figure",
+      "en": "Land – Example: High-risk natural commodities sourced from land – Quantity (tonnes) of high-risk natural commodities sourced form land, by commodity / Quantity (tonnes) of high-risk natural commodities sourced from land under a sustainable management plan or certification programme",
+      "ja": "陸 – 例：土地から調達される高リスク天然一次産品 – 土地から調達される高リスク天然一次産品の量（トン）（一次産品別）／持続可能な管理計画または認証プログラムが導入された土地から調達される高リスク天然一次産品の量（トン）"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "Indicators and metrics can be measured for different parts of the value chain, i.e. direct operations, upstream and downstream.",
+      "ja": "指標と測定指標は、バリューチェーンのさまざまな部分、つまり直接操業、上流、下流について測定が可能である。"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "Indicators and metrics can also be measured for different levels of the organisation, i.e. site, project, product or service, or corporate-level metrics. Metrics levels should be hierarchical (i.e. corporate-level metrics are the aggregation of site or project-level metrics).",
+      "ja": "指標と測定指標は、組織の異なるレベル、すなわち、事業拠点、プロジェクト、製品、サービス、企業というレベルごとに測定することもできる。測定指標のレベルは階層的であるべきである（すなわち、企業レベルの測定指標は、事業拠点またはプロジェクトレベルの測定指標の集計）。"
+    },
+    {
+      "page": 62,
+      "type": "footnote",
+      "en": "61 Organisation for Economic Cooperation and Development (2002) Glossary of key terms in evaluation and results based management Development Assistance Committee",
+      "ja": "61 経済協力開発機構（OECD）(2002) Glossary of key terms in evaluation and results based management Development Assistance Committee"
+    },
+    {
+      "page": 62,
+      "type": "footnote",
+      "en": "62 Biodiversity Indicators Partnership (2011) Guidance for national biodiversity indicator development and use",
+      "ja": "62 Biodiversity Indicators Partnership (2011) Guidance for national biodiversity indicator development and use"
+    },
+    {
+      "page": 63,
+      "type": "h2",
+      "en": "4.1. The TNFD metrics architecture: A leading indicators approach",
+      "ja": "4.1. TNFD測定指標アーキテクチャ：先行指標アプローチ"
+    },
+    {
+      "page": 63,
+      "type": "p",
+      "en": "To reconcile the large number of indicators associated with nature-related issues, and the needs of market participants for a relatively small set of indicators that can be compared and subjected to third-party assurance on an annual basis as a key requirement for disclosure, the TNFD has adopted a leading indicators approach. This is a similar approach to that taken to mainstream financial reporting (the profit and loss, balance sheet and cashflow statements represent a set of leading indicators) and macro-economic reporting, which focus for example, on GDP, unemployment and inflation. The TNFD’s metrics approach includes different categories of metrics, shown in Figure 24. These include:",
+      "ja": "自然関連課題に関連する多数の指標と、開示の主要な要件として年次ベースで比較され、第三者による保証（アシュアランス）を受けることができる比較的少数の指標セットに対する市場参加者のニーズとを調和させるため、TNFDは先行指標アプローチを採用している。これは主要な財務報告（損益計算書、貸借対照表、キャッシュフロー計算書は先行指標一式を表す）、例えばGDP、失業率、インフレ率に重点を置くマクロ経済報告と同様のアプローチである。TNFDの測定指標アプローチには、図24に示すように、さまざまなカテゴリーの測定指標がある。これには以下が含まれる。"
+    },
+    {
+      "page": 63,
+      "type": "li",
+      "en": "A small set of core metrics – ‘core global metrics’ that apply to all sectors and ‘core sector metrics’ for each sector – to be disclosed on a comply or explain basis; and",
+      "ja": "コンプライ・オア・エクスプレインに基づいて開示される少数の中核的な測定指標の一式、すなわち、すべてのセクターに適用される「グローバル中核開示指標」と各セクターの「セクター中核開示指標」"
+    },
+    {
+      "page": 63,
+      "type": "li",
+      "en": "A larger set of additional metrics, which are recommended for disclosure, where relevant, to best represent an organisation’s material nature-related issues, based on their specific circumstances.",
+      "ja": "より大きな追加測定指標の一式、これらは関連する場合に、組織の状況に応じて、組織のマテリアルな自然関連課題を最もよく表すために開示が推奨される。"
+    },
+    {
+      "page": 63,
+      "type": "p",
+      "en": "The TNFD’s metrics enable assessment and disclosure of positive as well as negative impacts, as illustrated in Figure 23.",
+      "ja": "図23に図示したように、TNFDの測定指標により、プラスとマイナスの両方のインパクトの評価と開示が可能になる。"
+    },
+    {
+      "page": 63,
+      "type": "caption",
+      "en": "Figure 23: Drivers of nature change – reflecting both negative and positive impacts",
+      "ja": "図23：自然の変化の要因 - マイナスとプラスの両方のインパクトを反映"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Drivers of nature change: Climate change / Land/ freshwater/ ocean use change / Resource use/ replenishment / Pollution/ pollution removal / Invasive alien species introduction/ removal",
+      "ja": "自然の変化の要因：気候変動／陸、淡水、海洋利用の変化／資源使用、資源補充／汚染、汚染除去／侵略的外来種の導入・除去"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Climate change: Emissions production → Emissions reduction, Sequestration – • Carbon credit markets and innovations – Paris Article 6, REDD+ etc. • Carbon farming – soil, seaweed, mangroves, forests etc.",
+      "ja": "気候変動：排出 → 排出削減、隔離 – • 炭素クレジット市場とイノベーション（パリ協定第6条、REDD+ など） • 炭素農業 - 土壌、海藻、マングローブ、森林など"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Land/freshwater/ocean use change: Degradation of environmental asset quality → Regeneration of environmental asset quality – • Rewilding • Conservation and restoration",
+      "ja": "陸、淡水、海洋利用の変化：環境資産の質の劣化 → 環境資産の質の再生 – • 再野生化 • 保全と復元"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Resource use/replenishment: Depletion in quality and quantity of ecosystem services → Increase in quality and quantity of ecosystem services – • Conservation and restoration, to increase provision of ecosystem servicess (e.g. harvesting water, returning waste water to water catchments) • Cultivation of native species beyond baseline (e.g. mushrooms for mycelium-based products)",
+      "ja": "資源使用、資源補充：生態系サービスの質と量の低下 → 生態系サービスの質と量の上昇 – • 生態系サービスの提供を増やすための保全と復元（例：雨水利用、廃水を集水域に戻すなど） • ベースラインを超える在来種の栽培（例：菌糸体ベースの製品用のキノコ類）"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Pollution/pollution removal: Production (pollution) → Pollution removal, reduction, reuse, recycling and transformation – • Circular economy principles and business models from waste reuse and recycling to innovations that transform waste into new resources",
+      "ja": "汚染、汚染除去：生産（汚染） → 汚染除去、削減、再利用、リサイクル、変換 – • 廃棄物の再利用とリサイクルから、廃棄物を新たな資源に変えるイノベーションまで、循環経済の原則とビジネスモデル"
+    },
+    {
+      "page": 63,
+      "type": "figure",
+      "en": "Invasive alien species introduction/removal: Introduce invasive alien species, Decrease in stock and diversity of native species → Remove invasive alien species, Increase in stock and diversity of native species – • Businesses that get paid to remove invasive species • Businesses that harvest native species (wildlife sanctuaries, rhino bond, growing coral reefs etc.)",
+      "ja": "侵略的外来種の導入・除去：侵略的外来種の導入、在来種の数と多様性の減少 → 侵略的外来種の除去、在来種の数と多様性の増加 – • 侵入種の除去で報酬を得る企業 • 在来種を収穫するビジネス（野生生物保護区、サイ債権、サンゴ礁の育成など）。",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "The TNFD’s recommended disclosure metrics are listed in Annex 1 (core disclosure metrics) and Annex 2 (additional disclosure metrics). These will be subject to a periodic review mechanism to ensure the TNFD measurement architecture remains fit for purpose as knowledge, data and analytics, tools and other frameworks evolve.63",
+      "ja": "TNFDが提言する開示指標は、別紙1（中核開示指標）と別紙2（追加開示指標）にまとめられている。これらは、知識、データ、分析、ツール、その他のフレームワークが進化しても、TNFDの測定アーキテクチャが目的に適合し続けるよう、定期的な見直しが行われる63。"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "Definitions for key terminology related to the core disclosure metrics are provided in the TNFD glossary of terms (Annex 4 and full glossary). The TNFD will also update its definitions over time, learning from the further development of relevant standards and global initiatives.",
+      "ja": "中核開示指標に関連する主要な用語の定義は、TNFD用語集に記載されている（別紙4と完全な用語集）。TNFDはまた、関連する基準のさらなる発展やグローバルなイニシアティブから学びつつ、時間をかけて定義を更新していく。"
+    },
+    {
+      "page": 64,
+      "type": "caption",
+      "en": "Figure 24 TNFD metrics architecture",
+      "ja": "図24：TNFD測定指標アーキテクチャ"
+    },
+    {
+      "page": 64,
+      "type": "figure",
+      "en": "Locate – The interface with nature: Ecosystem integrity / Biodiversity importance / Physical water risks / Other corporate data → Assessment metrics: Location prioritisation metrics",
+      "ja": "自然との接点の発見：生態系の十全性／生物多様性の重要性／水に関する物理的リスク／他の企業データ → 評価測定指標：地域の優先順位付けの測定指標"
+    },
+    {
+      "page": 64,
+      "type": "figure",
+      "en": "Evaluate – Dependencies & impacts: Impact drivers / State of nature / Ecosystem services → Dependency & impact metrics",
+      "ja": "依存とインパクトの診断：インパクト要因／自然の状態／生態系サービス → 依存とインパクトの測定指標"
+    },
+    {
+      "page": 64,
+      "type": "figure",
+      "en": "Assess – Risks & opportunities: Physical risks / Transition risks / Systemic risks / Opportunities → Risk & opportunity metrics",
+      "ja": "リスクと機会の評価：物理的リスク／移行リスク／システミックリスク／機会 → リスクと機会の測定指標"
+    },
+    {
+      "page": 64,
+      "type": "figure",
+      "en": "Prepare – To respond & report: DIRO management / Governance / Strategy → Response metrics",
+      "ja": "対応し報告するための準備：DIRO管理／ガバナンス／戦略 → 対応測定指標"
+    },
+    {
+      "page": 64,
+      "type": "figure",
+      "en": "Disclosure metrics: Additional metrics / Core sector metrics (Financial institutions; Food, Apparel & textiles; ....) / Core global metrics",
+      "ja": "開示指標：追加測定指標／セクター中核開示指標（金融機関；食品、アパレル、テキスタイル；....）／グローバル中核開示指標"
+    },
+    {
+      "page": 64,
+      "type": "footnote",
+      "en": "63 For example: reviews of the monitoring framework for the GBF; major assessment reports undertaken by IPBES, including its ‘Methodological assessment of the impact and dependence of business on biodiversity and nature’s contributions to people’; advances in state of nature measurement and biodiversity footprinting methodologies that meet the needs of report users and are practical for report preparers; and changes in regulatory arrangements and/or the information needs of financial institutions, including in the global baseline of sustainability reporting standards being developed by the ISSB and/or elsewhere.",
+      "ja": "63 以下の例がある。GBFのモニタリング枠組みの見直し、「生物多様性および自然の人間への貢献に対するビジネスのインパクトおよび依存の方法論的評価（Methodological assessment of the impact and dependence of business on biodiversity and nature’s contributions to people）」を含むIPBESが実施した主要な評価報告書、報告書利用者のニーズを満たし、報告書作成者にとって実用的な自然の状態の測定と生物多様性フットプリント算定の方法論の進歩、および、ISSBやその他の機関によって策定されつつあるサステナビリティ報告基準のグローバルなベースラインを含む、規制の取り決めや金融機関の情報ニーズの変化。"
+    },
+    {
+      "page": 65,
+      "type": "caption",
+      "en": "Figure 25: Metrics for disclosure – How does it work?",
+      "ja": "図25：開示のための測定指標 - どのように機能するのか？"
+    },
+    {
+      "page": 65,
+      "type": "figure",
+      "en": "3 Additional metrics – Recommended for disclosure, where relevant, to best represent an organisation’s material nature-related issues, based on their specific circumstances – TNFD Recommendations Annex 2",
+      "ja": "3追加測定指標 – これらは組織の状況に応じて、組織のマテリアルな自然関連課題を最もよく表すために関連する場合には開示が推奨される – TNFDの提言別紙2"
+    },
+    {
+      "page": 65,
+      "type": "figure",
+      "en": "2 Core sector metrics – Strongly recommended; Comply or explain, once final – Food / Apparel & textiles / Construction materials – Sector guidance: Relevant sector guidance, once published; Metrics issued in draft for consultation",
+      "ja": "2セクター中核開示指標 – 強く推奨；コンプライ・オア・エクスプレイン、最終決定 – 食品／アパレルおよびテキスタイル／建設資材 – セクター別ガイダンス：関連セクターのガイダンス（発行済み）；コンサルテーションのために草案で提示された測定指標",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 65,
+      "type": "figure",
+      "en": "1 Core global metrics – Comply or explain – Dependencies and impacts / Risks and opportunities – TNFD Recommendations Annex 1",
+      "ja": "1グローバル中核開示指標 – コンプライ・オア・エクスプレイン – 依存とインパクト／リスクと機会 – TNFDの提言別紙1"
+    },
+    {
+      "page": 66,
+      "type": "h3",
+      "en": "Sector metrics",
+      "ja": "セクター測定指標"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "Sector-specific metrics form an important part of the TNFD metrics architecture. This reflects the diversity of business models across value chains and their interface with biomes across and within sectors. Metrics that are specific to sectors can help financial institutions to compare organisations within that sector, which often face common nature-related issues.",
+      "ja": "セクター別の測定指標はTNFD測定指標アーキテクチャの重要な部分を形成する。これはセクターを超えた、あるいはセクター内における、バリューチェーンおよびそれらのバイオームとの接点全体にわたるビジネスモデルの多様性を反映している。セクターに固有の測定指標は、金融機関にとって共通の自然関連課題に直面することが多い同じセクター内の組織間の比較に役立つ。"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "The TNFD’s core sector metrics are provided in each sector guidance document. Where there is not yet TNFD sector guidance, an organisation can refer to industry best practice and guidance from organisations such as GRI or SASB.",
+      "ja": "TNFDのセクター中核開示指標は、各セクターのガイダンス文書に記載されている。TNFDのセクター別ガイダンスがまだない場合、組織は業界のベストプラクティスやGRIやSASBなどの組織のガイダンスを参照する。"
+    },
+    {
+      "page": 66,
+      "type": "h3",
+      "en": "Value chain reporting",
+      "ja": "バリューチェーンに関する報告"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "Measuring upstream and downstream nature-related issues precisely for disclosure may be difficult for organisations currently. The TNFD expects that data and analytics improvements and technology innovations will make reporting of these metrics for upstream and downstream nature-related issues easier in future. However, the Taskforce recognises that it will take time for organisations to trace their full value chains upstream and downstream to the degree required to undertake a full analysis. If needed, organisations may use secondary data to estimate their nature-related issues as an initial step, see Box 5.",
+      "ja": "開示のために上流と下流の自然関連課題を正確に測定することが、現時点では組織にとり困難な場合がある。TNFDは、データと分析の改善と技術革新により、上流から下流までの自然関連課題に対するこれらの測定指標の報告が将来的に容易になることを期待している。しかし、タスクフォースは、完全な分析を行うために必要な程度まで、組織がバリューチェーンの上流と下流を完全に追跡するには時間がかかることを認識している。必要であれば、組織は最初の段階として、二次データを用いて自然関連課題を推定することができる（ボックス5を参照）。"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "In the case of financial institutions, most impacts and dependencies are generated through their portfolios, i.e. their financial activities, rather than their direct operations. The TNFD recommends that financial institutions disclose according to the TNFD core global metrics for their own operations. Organisations should refer to the TNFD guidance for financial institutions on metrics for quantifying their nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "金融機関の場合、ほとんどのインパクトと依存は、直接操業よりも、そのポートフォリオ、すなわち金融活動、を通じて発生する。TNFDは、金融機関が自らの事業活動に関し、TNFDのグローバル中核開示指標に従って開示することを推奨している。組織は自然関連の依存、インパクト、リスクと機会を定量化するための測定指標に関し、金融機関向けTNFDガイダンスを参照するべきである。"
+    },
+    {
+      "page": 66,
+      "type": "h3",
+      "en": "Translation of nature-related dependencies and impacts into financial risks and opportunities",
+      "ja": "自然関連の依存とインパクトの金融リスクと機会への換算"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "Translating an evaluation of nature-related dependencies and impacts into an assessment of financial risks and opportunities is currently a challenging area for many organisations, in particular quantitatively identifying all points of contact with nature and translating biophysical metrics into financial values. When reporting risk and opportunity metrics, organisations are encouraged to describe where they are unable to measure the financial effects of a material dependency or impact and provide their best estimates. The TNFD does not provide prescriptive guidance on how to quantify nature-related risks and opportunities at this point. However, TNFD additional guidance on the identification and assessment of nature-related issues (the LEAP approach) provides further detail on translating an evaluation of nature-related dependencies and impacts to an assessment of financial risks and opportunities and on risk assessment methods to estimate the magnitude of risks and opportunities.",
+      "ja": "自然関連の依存とインパクトの診断を金融リスクと機会の評価に換算することは、現時点で多くの組織にとって取り組みが難しい分野であり、特に、自然とのすべての接点を定量的に特定し、生物物理学的な測定指標を金銭価値に換算することは難しい。リスクと機会の測定指標を報告するにあたり、組織はマテリアルな依存またはインパクトの財務的影響を測定できない場合について説明し、最善の推定値を提示することが奨励される。TNFDは、自然関連のリスクと機会を定量化する方法に関し、現時点では手引きとなるガイダンスを提供していない。ただし、TNFDの自然関連課題の特定と評価に関する追加ガイダンス（LEAPアプローチ）で、自然関連の依存とインパクトの診断を金融リスクと機会の評価に変換すること、およびリスクと機会の大きさを推定するためのリスク評価手法に関するさらなる詳細を提供している。"
+    },
+    {
+      "page": 67,
+      "type": "h3",
+      "en": "Box 5: Use of secondary data, including proxy data and industry averages",
+      "ja": "ボックス5：プロキシデータおよび業界平均を含む二次データの使用"
+    },
+    {
+      "page": 67,
+      "type": "quote",
+      "en": "Proxy data does not apply specifically to the locations in the organisation’s value chain but instead provides averages to estimate nature-related issues, for example, by sector or country. Such data is often provided by third parties.",
+      "ja": "プロキシデータは組織のバリューチェーンに含まれる地域に特定して適用されるものではなく、例えばセクター別や国別に自然関連課題を推定するための平均値を提供するものである。このようなデータは第三者から提供されることが多い。"
+    },
+    {
+      "page": 67,
+      "type": "quote",
+      "en": "Use of proxy data may make analyses more tractable, allow an organisation to identify likely nature-related issues without investing in full traceability, and provide the organisation with enough information to be able to start to disclose against the TNFD’s recommended disclosures.",
+      "ja": "プロキシデータを使用することで、分析がより扱いやすくなり、組織は完全なトレーサビリティに投資することなく、自然関連課題である可能性の高い課題を特定することができ、TNFDの開示提言に照らして開示を開始するために十分な情報を組織に提供することができる。"
+    },
+    {
+      "page": 67,
+      "type": "quote",
+      "en": "However, proxies rely on estimation and have limitations compared to direct measurement. Proxies can also make it difficult to measure performance – if an organisation is only a relatively small part of the total market for a product in the country, its contribution is unlikely to show up in industry/market/national average data. Strong and weak performers cannot be easily distinguished from analysis based on proxy data. Financial institutions looking to aggregate or compare data across companies cannot do so reliably if some use data directly from suppliers and others use proxy data.",
+      "ja": "しかし、プロキシは推定に頼っており、直接測定に比べると限界がある。プロキシは、パフォーマンスの測定を困難にすることもある。ある組織が、その国のある製品の総市場の比較的小さな一部でしかない場合、その寄与が業界、市場、全国平均のデータに現れる可能性は低い。プロキシデータに基づく分析では、強いパフォーマーと弱いパフォーマーを簡単に区別することができない。ある企業がサプライヤーから直接入手したデータを使用し、他の企業がプロキシデータを使用している場合、企業間のデータを集計または比較しようとする金融機関は、信頼性をもってそれを行うことはできない。"
+    },
+    {
+      "page": 67,
+      "type": "quote",
+      "en": "If an organisation uses proxy data for the TNFD disclosures, the organisation should:",
+      "ja": "組織がTNFDの情報開示にプロキシデータを使用する場合、組織は以下を行うべきである。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Clearly document the proxy selection process, the data sources used, and any assumptions made during the assessment;",
+      "ja": "プロキシの選択プロセス、使用したデータソース、評価中に行った仮定を明確に文書化する。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Understand the limitations of proxy use compared to direct measurements;",
+      "ja": "直接測定と比較したプロキシ使用の限界を理解する。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Consider the purpose of using proxies and whether they are sufficient for that purpose and the intended audience and the specific nature-related issues concerned;",
+      "ja": "プロキシを使用する目的、その目的にとってプロキシが十分であるかどうか、また意図する対象者、関係する特定の自然関連課題について検討する。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Select proxies that have a well-established relationship with the targeted attributes, have been scientifically validated and used in similar contexts previously, with consideration of the biome, specific ecosystem or location in which the proxy is being applied;",
+      "ja": "対象とする属性との関係が確立され、科学的に正当性が検証され、以前に同様の状況で使用されたことのあるプロキシを、プロキシが適用されるバイオーム、特定の生態系、または地域を考慮して選択する。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "When possible, combine multiple proxies to gain a more comprehensive understanding;",
+      "ja": "可能であれば、より包括的な理解を得るために複数のプロキシを組み合わせる。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "When possible, validate and ground truth proxies against location-specific nature-related data;",
+      "ja": "可能であれば、地域固有の自然関連データと照らして、プロキシの正当性を検証し、比較照合する。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Engage experts including ecologists in the process of selecting and interpreting proxy data; and",
+      "ja": "生態学者を含む専門家を、プロキシデータの選択と解釈のプロセスに参加させる。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "Regularly review and update the proxy usage to ensure relevance and accuracy to account for technological developments and greater access to data.",
+      "ja": "技術の発展やデータへのアクセスの増加を考慮し、妥当性と正確性を確保するために、プロキシの使用状況を定期的に見直し、更新する。"
+    },
+    {
+      "page": 67,
+      "type": "quote",
+      "en": "In general, organisations should view use of proxy data as a transitional measure until higher traceability can be achieved. TNFD Guidance on the LEAP approach provides further guidance on the use of proxy data.",
+      "ja": "組織は一般的に、プロキシデータの使用を、より高いトレーサビリティが達成されるまでの過渡的な手段とみなすべきである。LEAPアプローチに関するTNFDガイダンスは、プロキシデータの使用に関する更なるガイダンスを提供する。"
+    },
+    {
+      "page": 68,
+      "type": "h1",
+      "en": "5. Overview of additional guidance",
+      "ja": "5. 追加ガイダンスの概要"
+    },
+    {
+      "page": 68,
+      "type": "p",
+      "en": "The ability to disclose material nature-related issues in mainstream corporate reporting is premised on having the knowledge and capacity to identify and assess the organisation’s nature-related issues. To address those capacity building needs and support voluntary adoption of the TNFD recommendations, the TNFD has produced a set of additional guidance to support organisations in identifying, assessing, managing and disclosing their nature-related dependencies, impacts, risks and opportunities. These documents provide guidance but are not compulsory for organisations looking to report against the TNFD recommended disclosures.64 They cover:",
+      "ja": "主要な企業報告において、マテリアルな自然関連課題を開示する能力は、組織が自然関連課題を特定し、評価する知識と能力を有することが前提である。こうした能力構築のニーズに対処し、TNFDの提言の自主的な採用を支援するため、TNFDは自然関連の依存、インパクト、リスクと機会の特定、評価、管理、開示において組織を支援するための一連の追加ガイダンスを作成した。これらの文書はガイダンスを提供するもので、TNFDの開示提言に沿って報告する組織に対する義務付けではない64。それらは以下に関するものである。"
+    },
+    {
+      "page": 68,
+      "type": "li",
+      "en": "Identifying and assessing nature-related issues (the LEAP approach) for all sectors;",
+      "ja": "すべてのセクターを対象とした自然関連課題の特定と評価（LEAPアプローチ）"
+    },
+    {
+      "page": 68,
+      "type": "li",
+      "en": "Sector-specific and biome-specific aspects of the LEAP approach;",
+      "ja": "セクター固有およびバイオーム固有のLEAPアプローチの側面"
+    },
+    {
+      "page": 68,
+      "type": "li",
+      "en": "Target setting;",
+      "ja": "ターゲット設定"
+    },
+    {
+      "page": 68,
+      "type": "li",
+      "en": "Scenario analysis; and",
+      "ja": "シナリオ分析"
+    },
+    {
+      "page": 68,
+      "type": "li",
+      "en": "Engagement of Indigenous Peoples, Local Communities and affected stakeholders.",
+      "ja": "先住民族、地域社会、影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 68,
+      "type": "p",
+      "en": "These guidance documents will be revised periodically based on feedback from market participants. Additional guidance will be developed on further topics of interest.",
+      "ja": "これらのガイダンス文書は、市場参加者からのフィードバックに基づいて定期的に改訂される。関心のあるテーマについてさらに追加ガイダンスを作成する予定である。"
+    },
+    {
+      "page": 68,
+      "type": "caption",
+      "en": "Figure 26: TNFD additional guidance",
+      "ja": "図26：TNFD追加ガイダンス"
+    },
+    {
+      "page": 68,
+      "type": "figure",
+      "en": "The TNFD Recommendations & Additional Guidance",
+      "ja": "TNFDの提言と追加ガイダンス"
+    },
+    {
+      "page": 68,
+      "type": "figure",
+      "en": "The TNFD recommendations – Use of which constitutes adoption of the TNFD recommendations: Recommendation / Getting started with TNFD",
+      "ja": "TNFDの提言 – それを使用すると、TNFDの提言を採用したものとみなされる：提言／TNFDを始めるには"
+    },
+    {
+      "page": 68,
+      "type": "figure",
+      "en": "Additional guidance – Suggested by the TNFD and not required to prepare or make disclosure statements: Identifying and assessing nature-related issues: The LEAP approach / Sector guidance / Biome guidance / Scenario analysis / Target setting / Engagement with Indigenous Peoples, Local Communities and affected stakeholders",
+      "ja": "追加ガイダンス – TNFDで提案されているが、開示書の作成と公表は義務付けられていない：自然関連課題の特定と評価LEAPアプローチ／セクター別ガイダンス／バイオーム別ガイダンス／シナリオ分析／ターゲット設定／先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 68,
+      "type": "footnote",
+      "en": "64 Note that the additional guidance for financial institutions includes disclosure guidance and core disclosure metrics for financial institutions.",
+      "ja": "64 金融機関のための追加ガイダンスには、金融機関向けの開示ガイダンスおよび中核開示指標が含まれる。"
+    },
+    {
+      "page": 69,
+      "type": "h2",
+      "en": "5.1. Guidance for identifying and assessing nature-related issues (the LEAP approach)",
+      "ja": "5.1. 自然関連課題の特定と評価のガイダンス（LEAPアプローチ）"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "Market participants indicated that practical ‘how to’ guidance on identifying, assessing, managing and disclosing nature-related dependencies, impacts, risks and opportunities would be a welcome complement to the TNFD recommended disclosures.",
+      "ja": "市場参加者は、自然関連の依存、インパクト、リスクと機会を特定、評価、管理、開示するための実務的な「ハウツー」ガイダンスは、TNFD開示提言を補完するものとして歓迎すると表明した。"
+    },
+    {
+      "page": 69,
+      "type": "figure",
+      "en": "Guidance on the identification and assessment of nature-related Issues: The TNFD LEAP approach – Version 1.0 September 2023",
+      "ja": "Guidance on the identification and assessment of nature-related Issues: The TNFD LEAP approach – Version 1.0 September 2023"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "The Taskforce has developed an integrated approach for the assessment and management of nature-related issues for use by a wide range of corporates and financial institutions.",
+      "ja": "タスクフォースは幅広い企業や金融機関が利用できるよう自然関連課題を評価・管理するための統合アプローチを策定した。"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "This approach is called LEAP. It is designed to be used by a team of analysts in an organisation and involves four phases of assessment:",
+      "ja": "このアプローチはLEAPという。これは組織のアナリストチームが使用するように設計されており、次の4つのフェーズの評価がある。"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "Locate the interfaces with nature across geographies, sectors and value chains;",
+      "ja": "発見：地理、セクター、バリューチェーンのすべてにおける自然との接点を発見する"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "Evaluate dependencies and impacts on nature;",
+      "ja": "診断：自然に対する依存とインパクトを診断する"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "Assess nature-related risks and opportunities to your organisation; and",
+      "ja": "評価：組織に対する自然関連のリスクと機会を評価する"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "Prepare to respond to nature-related risks and opportunities, including reporting on material nature-related issues to the primary users of financial reports and other stakeholders, aligned with the TNFD’s recommended disclosures.",
+      "ja": "準備：自然関連のリスクと機会に対応するために準備する（財務報告書の主要な利用者や他のステークホルダーに対し、TNFDの開示提言と整合するマテリアルな自然関連課題に関する報告を含む）"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "The LEAP approach integrates and builds on existing, high-quality, nature-related frameworks including the Natural Capital Protocol and the Science Based Targets Network (SBTN) methods, and tools, data sources and other guidance developed by a range of leading organisations that are aligned with the TNFD’s principles and approach (see Figure 27). The source frameworks and tools used are signposted throughout the phases of the LEAP approach, with descriptions of how they may be used by organisations.",
+      "ja": "LEAPアプローチは、自然資本プロトコルや科学に基づく目標ネットワーク（SBTN）の手法、TNFDの原則とアプローチと整合するさまざまな主要組織によって策定されたガイダンスなど、高水準の既存の自然関連枠組みを統合して構築されている（図27）。元となるフレームワークとツールについては、LEAPアプローチのフェーズごとに組織がどのように使用できるかという説明が記載されている。"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "The LEAP approach has been pilot tested by over 200 organisations across sectors, geographies and biomes around the world. It will continue to evolve based on market feedback. As new frameworks, tools, data sources and guidance are developed, the TNFD will add additional signposts into its guidance on the LEAP approach.",
+      "ja": "世界中のセクター、地理、バイオームにまたがり、200以上の組織により、LEAPアプローチのパイロットテストが実施されてきた。LEAPアプローチは今後も市場からのフィードバックをもとに進化を続ける。新たなフレームワーク、ツール、データソース、ガイダンスが作成されるたびに、TNFDはLEAPアプローチに関するガイダンスに新たな説明を追加する。"
+    },
+    {
+      "page": 70,
+      "type": "caption",
+      "en": "Figure 27: TNFD’s additional guidance builds on existing frameworks, methods and tools",
+      "ja": "図27：TNFDの追加ガイダンスは既存の枠組み、手法、ツールを基盤とする"
+    },
+    {
+      "page": 70,
+      "type": "figure",
+      "en": "The TNFD’s integrated approach to designing the framework: Scientific foundations and definitions / Existing disclosure frameworks & standards / Target setting / Dependency, impact, risk & opportunity analysis / Data standards & sources / Source of metrics / Sector & biome classification / TNFD Nature-related Data Catalyst community / Definitions of risk & approach to scenarios / Guidance on stakeholder engagement",
+      "ja": "TNFDのフレームワーク設計への統合的アプローチ：科学的根拠と定義／既存の開示フレームワークと基準／ターゲット設定／依存、インパクト、リスクと機会の分析／データ基準と情報源／測定指標の情報源／セクターとバイオームの分類／TNFD自然関連データカタリスト・コミュニティ／リスクの定義とシナリオへのアプローチ／ステークホルダーとのエンゲージメントに関するガイダンス"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "The TNFD recognises that some organisations may already have an equivalent process built into their enterprise risk management framework. The LEAP approach is offered as suggested guidance only to help market participants of all sizes, across all sectors and along value chains to identify and assess their nature-related issues, irrespective of whether they have any formal external reporting requirements to outside capital providers. It is designed to help organisations identify what is potentially material and then apply their chosen materiality approach to the analysis to determine what they should disclose to the primary users of their sustainability reporting and to other stakeholders. Following the LEAP approach is not a requirement to adopt the TNFD recommended disclosures.",
+      "ja": "企業リスク管理の枠組みに、同等のプロセスをすでに組み込んでいる組織があることをTNFDは認識している。LEAPアプローチは、外部資本提供者に対する正式な外部報告義務の有無にかかわらず、あらゆるセクター、バリューチェーンにまたがり、あらゆる規模の市場参加者が自らの自然関連課題を特定し評価できるよう支援するための推奨ガイダンスとして提供される。LEADアプローチは、組織が潜在的にマテリアルな点を特定し、選択したマテリアリティ・アプローチに従い分析し、サステナビリティ報告書の主要な利用者とステークホルダーに開示すべきものを決定できるよう設計されている。LEAPアプローチに従うことは、TNFD開示提言を採用するための要件ではない。"
+    },
+    {
+      "page": 71,
+      "type": "quote",
+      "en": "The LEAP approach is not a requirement to adopt the TNFD recommended disclosures. It is provided by the TNFD as guidance to support the identification and assessment of nature-related issues and ultimately to support disclosure of those issues deemed material.",
+      "ja": "LEAPアプローチは、TNFD開示提言を採用するための要件ではない。これは自然関連課題の特定と評価を支援し、マテリアルと考えられる課題の開示を最終的に支援するためのガイダンスとして、TNFDから提供されている。"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "LEAP has been designed and developed with three overarching considerations in mind:",
+      "ja": "LEAPは3つの包括的な考慮事項を念頭に置いて設計・開発されている。"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "As with any due diligence process, the TNFD encourages users to consider the scope of their LEAP assessment before commencing, given the inevitable cost, time and data availability constraints;",
+      "ja": "あらゆるデューディリジェンス・プロセスと同様に、TNFDは、利用者に対して、避けられない費用、時間、データの制約を考慮した上で、開始前にLEAP評価のスコープを検討することを奨励している。"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "The team of analysts undertaking a LEAP assessment are encouraged to engage with Indigenous Peoples, Local Communities and affected and other stakeholders as they work their way through the LEAP approach and to draw on third-party expert advice as and when needed; and",
+      "ja": "LEAP評価を実施するアナリストチームは、LEAPアプローチを通じて作業を進める中で、先住民族、地域社会、影響を受けるその他のステークホルダーとのエンゲージメントを行い、必要な場合には第三者の専門家の助言を利用することが奨励される。"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "LEAP is designed as an iterative and repeatable process – across business locations and business lines for corporates, and across investment portfolios and asset classes for financial institutions – in line with enterprise risk management processes and reporting and disclosure cycles.",
+      "ja": "LEAPは、企業の場合は事業拠点と事業部門を横断し、また、金融機関の場合は投資ポートフォリオと資産クラスを横断する、企業のリスク管理プロセス、報告・開示サイクルに沿って繰り返して行われる反復可能なプロセスとして設計されている。"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "Where an organisation already has its own equivalent assessment process in place, the LEAP approach can be used as a comparator to ensure that the existing process adequately addresses nature-related risks and opportunities in a way that is aligned with the reporting and disclosure requirements recommended by the TNFD.",
+      "ja": "組織がすでに同等の評価プロセスを導入している場合は、既存のプロセスがTNFDにより提言された報告と開示の要件に沿ったものであり、自然関連のリスクと機会に適切に対処しているかを確認するための比較対象としてLEAPアプローチを利用することができる。"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "Figure 28 below provides an overview of the LEAP approach and its components. Organisations interested in using the LEAP approach for their due diligence to identify and assess their potentially material nature-related issues should refer to the additional guidance on the LEAP approach.",
+      "ja": "以下の図28は、LEAPアプローチとその構成要素の概要を示している。潜在的にマテリアルな自然関連課題の特定と評価のデューディリジェンスにLEAPアプローチを使用する組織は、LEAPアプローチに関する追加ガイダンスを参照すべきである。"
+    },
+    {
+      "page": 72,
+      "type": "caption",
+      "en": "Figure 28: The TNFD approach for identification and assessment of nature-related issues – LEAP",
+      "ja": "図28：自然関連課題の特定と評価のためのTNFDアプローチ - LEAP"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Scoping: A quick, high-level preliminary scan of internal and external data and reference sources to generate a hypothesis about the organisation’s potential nature-related dependencies, impacts, risks and opportunities to define the parameters for a LEAP assessment and to ensure managers and the assessment team are aligned on goals and timelines.",
+      "ja": "スコープの設定：組織の潜在的な自然関連の依存、インパクト、リスクと機会に関する仮説を立て、LEAP評価のパラメータを定義し、マネジャーと評価チームの間で目標とスケジュールの整合性が取れていることを確認するために、内部・外部のデータと参考情報源を素早くハイレベルで事前調査すること。"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Generate a working hypothesis: What are the organisation’s activities where there are likely to be material nature-related dependencies, impacts, risks and opportunities?",
+      "ja": "作業仮説を立てる：マテリアルな自然関連の依存、インパクト、リスクと機会がありそうな組織の活動は何か？",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Align goals and resourcing: Given the current level of capacity, skills and data within the organisation and given organisational goals, what are the resource (financial, human and data) considerations and time allocations required and agreed for undertaking an assessment?",
+      "ja": "目標と資源の整合性をとっていく：組織内の能力、スキル、データの現在のレベル、および組織の目標を考慮した上で、評価を実施するために、どのような資源（財務、人材、データ）の検討と時間配分が必要とされ、同意されているか？",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Locate – The interface with nature: L1 Span of the business model and value chain – What are our organisation’s activities by sector and value chain? Where are our direct operations? / L2 Dependency and impact screening – Which of these sectors, value chains and direct operations are associated with potentially moderate and high dependencies and impacts on nature? / L3 Interface with nature – Where are the sectors, value chains and direct operations with potentially moderate and high dependencies and impacts located? Which biomes and specific ecosystems do our direct operations, and moderate and high dependency and impact value chains and sectors, interface with? / L4 Interface with sensitive locations – Which of our organisation's activities in moderate and high dependency and impact value chains and sectors are located in ecologically sensitive locations? And which of our direct operations are in these sensitive locations?",
+      "ja": "自然との接点の発見：L1ビジネスモデルとバリューチェーンの範囲 – セクター別、バリューチェーン別の組織の活動は何か？直接操業はどこにあるか？／L2依存とインパクトのスクリーニング – これらのセクター、バリューチェーン、直接操業のうち、自然に対する潜在的に中～高程度の依存とインパクトを伴うものはどれか？／L3自然との接点 – 潜在的に中～高程度の依存とインパクトを伴うセクター、バリューチェーン、直接操業はどこにあるか？直接操業および依存とインパクトが中～高程度のバリューチェーンとセクターは、どのようなバイオームや特定の生態系と接点を持っているか？／L4要注意地域との接点 – 組織の活動で、バリューチェーンやセクターへの依存やインパクトが中～高程度で、生態学的な要注意地域にあるものはどれか？また、直接操業のうち、どれがこのような要注意地域にあるか？",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Evaluate – Dependencies & impacts: E1 Identification of environmental assets, ecosystem services and impact drivers – What are the sectors, business processes or activities to be analysed? What environmental assets, ecosystem services and impact drivers are associated with these sectors, business processes, activities and assessment locations? / E2 Identification of dependencies and impacts – What are our dependencies and impacts on nature? / E3 Dependency and impact measurement – What is the scale and scope of our dependencies on nature? What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature? / E4 Impact materiality assessment – Which of our impacts are material?",
+      "ja": "依存とインパクトの診断：E1環境資産、生態系サービス、インパクト要因の特定 – 分析対象となるセクター、ビジネスプロセス、活動は何か？どのような環境資産、生態系サービス、インパクト要因が、これらのセクター、ビジネスプロセス、活動、評価地域に関連しているか？／E2依存とインパクトの特定 – 自然に対する依存とインパクトは何か？／E3依存とインパクトの測定 – 自然に対する依存の規模とスコープは？私たちが自然に与えるマイナスの影響の深刻さはどの程度か？私たちが自然に与えるプラスのインパクトの規模とスコープは？／E4インパクトのマテリアリティの評価 – どのインパクトがマテリアルか？"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Assess – Risks & opportunities: A1 Risk and opportunity identification – What are the corresponding risks and opportunities for our organisation? / A2 Adjustment of existing risk mitigation and risk and opportunity management – What existing risk mitigation and risk and opportunity management processes and elements are we already applying? How can risk and opportunity management processes and associated elements (e.g. risk taxonomy, risk inventory, risk tolerance criteria) be adapted? / A3 Risk and opportunity measurement and prioritisation – Which risks and opportunities should be prioritised? / A4 Risk and opportunity materiality assessment – Which risks and opportunities are material and therefore should be disclosed in line with the TNFD recommended disclosures?",
+      "ja": "リスクと機会の評価：A1リスクと機会の特定 – 組織にとってのリスクと機会は何か？／A2既存のリスク緩和およびリスクと機会の管理の調整 – 既存のリスク緩和およびリスクと機会の管理プロセスで、すでに適用されているものは何か？リスクと機会の管理プロセスと関連要素（リスク分類法、リスク目録、リスク選好度など）をどのように適合させるか？／A3リスクと機会の測定と優先順位付け – どのリスクと機会を優先するべきか？／A4リスクと機会のマテリアリティの評価 – どのリスクや機会がマテリアルで、したがってTNFDの開示提言に沿って開示する必要があるか？"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Prepare – To respond & report: P1 Strategy and resource allocation plans – What risk management, strategy and resource allocation decisions should be made as a result of this analysis? / P2 Target setting and performance management – How will we set targets and define and measure progress? / P3 Reporting – What will we disclose in line with the TNFD recommended disclosures? / P4 Presentation – Where and how do we present our nature-related disclosures?",
+      "ja": "対応し報告するための準備：P1戦略と資源配分計画 – この分析の結果、どのようなリスク管理、戦略とリソース配分の決定を下すべきか？／P2ターゲット設定とパフォーマンス管理 – どのようにターゲットを設定し、進捗を定義し、測定するか？／P3報告 – TNFD開示提言に沿って、何を情報開示するか？／P4表示 – 自然関連の開示をどこに、どのように表示するか？"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Review and repeat / Engagement with Indigenous Peoples, Local Communities and affected stakeholders / Scenario analysis",
+      "ja": "見直しと反復／先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント／シナリオ分析"
+    },
+    {
+      "page": 72,
+      "type": "figure",
+      "en": "Supports preparation of the following TNFD recommended disclosures: Locate – Strategy D / Evaluate – Strategy A, Strategy D, Risk and Impact Management A (i and ii), Risk and Impact Management B, Metrics and Targets B / Assess – Strategy A, Strategy C, Strategy D, Risk and Impact Management A (i and ii), Risk and Impact Management B, Risk and Impact Management C, Metrics and Target A, Metrics and Targets B / Prepare – Governance A, Governance B, Governance C, Strategy B, Strategy C, Metrics and Targets C",
+      "ja": "下記のTNFD開示提言の準備を支援：発見 – 戦略D／診断 – 戦略A、戦略D、リスクとインパクトの管理A（iおよびii）、リスクとインパクトの管理B、測定指標とターゲットB／評価 – 戦略A、戦略C、戦略D、リスクとインパクトの管理A（iおよびii）、リスクとインパクトの管理B、リスクとインパクトの管理C、測定指標とターゲットA、測定指標とターゲットB／準備 – ガバナンスA、ガバナンスB、ガバナンスC、戦略B、戦略C、測定指標とターゲットC"
+    },
+    {
+      "page": 73,
+      "type": "h2",
+      "en": "5.2. Sector guidance",
+      "ja": "5.2. セクター別ガイダンス"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Report preparers and report users have highlighted the value of sector-specific additional guidance to help to interpret and apply the TNFD disclosure recommendations and cross-sector additional guidance. In collaboration with industry and science partners, the Taskforce has begun to develop sector guidance, following the SASB sector classification adopted by the ISSB, to meet this demand.",
+      "ja": "報告書作成者と報告書利用者は、TNFDの開示提言とセクター横断的な追加ガイダンスの解釈と適用を助ける、セクター別の追加ガイダンスの価値を強調している。産業界や科学界のパートナーと協力し、タスクフォースはこの需要に応えるため、ISSBが採用したSASBのセクター分類に従い、セクター別ガイダンスの作成に着手した。"
+    },
+    {
+      "page": 73,
+      "type": "figure",
+      "en": "Sector guidance – Additional guidance for financial institutions – Version 1.0 September 2023",
+      "ja": "Sector guidance – Additional guidance for financial institutions – Version 1.0 September 2023"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The sector guidance provides further details to help organisations to interpret and apply the TNFD recommended disclosures and LEAP approach, where additional guidance is deemed warranted. The TNFD has prioritised the development of guidance for sectors with the most significant dependencies and impacts on nature.",
+      "ja": "セクター別ガイダンスは、組織がTNFDの開示提言とLEAPアプローチを解釈して適用するために追加ガイダンスが必要と判断される場合に、さらなる詳細を提供する。TNFDは自然に対する依存とインパクトが最も大きいセクターに対するガイダンスの作成を優先した。",
+      "flag": "ja-split-differs"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "As outlined in Section 4, the TNFD has also recommended sector-specific metrics, reflecting the significant differences in business models and value chains across sectors and the desire of capital providers for comparable information at a sector level to inform their capital allocation decisions.",
+      "ja": "4節で概説したように、TNFDはセクター固有の測定指標も推奨している。これは、セクター間のビジネスモデルやバリューチェーンが大きく異なること、資本提供者が資本配分の意思決定に情報を提供するため、セクターレベルで比較可能な情報を求めていることを反映したものである。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "This guidance is being developed by the Taskforce on an ongoing basis and, aligned with the Taskforce’s open innovation approach, will be released in draft for feedback and pilot testing, before being released in final form in 2024.",
+      "ja": "このガイダンスはタスクフォースのオープン・イノベーション・アプローチと整合する形で継続的に整備され、2024年の最終版の公表に先立ち、フィードバックとパイロットテストの結果を収集するために草案として公表される。"
+    },
+    {
+      "page": 73,
+      "type": "h2",
+      "en": "5.3. Biome guidance",
+      "ja": "5.3. バイオーム別ガイダンス"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "With knowledge partners and scientists, the TNFD has also developed guidance on applying the LEAP approach in specific biomes, reflecting the location-specific character of nature-related dependencies and impacts for different types of ecosystem. The guidance aims to support corporates that produce, operate or source in these biomes. As with the sector guidance, biome guidance is being developed by the Taskforce on an ongoing basis.",
+      "ja": "ナレッジ・パートナーや科学者と共に、TNFDはさまざまなタイプの生態系における自然関連の依存とインパクトの地域固有の特徴を反映させ、特定のバイオームにおけるLEAPアプローチの適用に関するガイダンスも作成した。このガイダンスは、それらのバイオームの中で生産、運営、調達を行う企業の支援を目的とする。セクター別ガイダンスと同様に、バイオーム別ガイダンスもタスクフォースが引き続き作成している。"
+    },
+    {
+      "page": 73,
+      "type": "figure",
+      "en": "Guidance on biomes – Version 1.0 September 2023",
+      "ja": "Guidance on biomes – Version 1.0 September 2023"
+    },
+    {
+      "page": 73,
+      "type": "h2",
+      "en": "5.4. Scenario analysis guidance",
+      "ja": "5.4. シナリオ分析ガイダンス"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Scenario analysis is an important tool to help organisations develop and test the resilience of their strategy, given a complex set of uncertainties. It allows organisations to explore the possible consequences of nature loss and climate change, the ways in which governments, markets and society might respond, and the implications of these uncertainties for business strategy and financial planning.",
+      "ja": "シナリオ分析は、不確実性が複雑に絡み合うことを前提とした上で、組織がその戦略のレジリエンスを開発し、テストするために役立つ重要なツールである。シナリオ分析により、組織は、自然の損失や気候変動がもたらし得る結果、政府、市場、社会の対応策、これらの不確実性が経営戦略や財務計画に与える影響、を検討することができる。"
+    },
+    {
+      "page": 73,
+      "type": "figure",
+      "en": "Guidance on scenario analysis – Version 1.0 September 2023",
+      "ja": "Guidance on scenario analysis – Version 1.0 September 2023"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "TNFD recommended disclosure Strategy C asks organisations to consider different scenarios when describing the resilience of the organisation’s strategy to nature-related risks and opportunities. The TNFD has developed guidance on scenario analysis, building on TCFD’s scenario resources, including TCFD Guidance on Scenario Analysis for Non-Financial Companies, to enable integrated considerations of climate and nature in scenario analysis and integrated disclosures.",
+      "ja": "TNFD開示提言の戦略Cは、自然関連のリスクや機会に対する組織の戦略のレジリエンスを説明する際に、さまざまなシナリオを検討するよう組織に求めている。TNFDは、非金融会社向けシナリオ分析に関するTCFDガイダンスを含むTCFDのシナリオ資料に基づき、シナリオ分析に関するガイダンスを作成し、シナリオ分析と統合的開示において気候や自然を統合的に考慮できるようにした。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The TNFD’s approach to scenarios centres on two critical uncertainties – closely correlated to physical risk and transition risk – to create a practical and accessible approach that can be customised to an organisation’s specific context, but still create a common approach to aggregate data (Figure 29). Based on pilot testing, the scenario analysis guidance is accompanied by several templates and reference sources to help organisations conduct workshop-based scenario exercises in their organisations.",
+      "ja": "TNFDのシナリオに対するアプローチでは、物理的リスクと移行リスクに密接に関連する2つの大きな不確実性に焦点を当て、組織固有の状況に合わせて改変可能でありながら、データを集約するための共通のアプローチも作成する、実用的で利用しやすいアプローチを構築している（図29）。パイロットテストに基づき、シナリオ分析ガイダンスには、組織がワークショップベースのシナリオ演習を組織内で実施するために役立つ、いくつかのテンプレートと参考資料が添付されている。"
+    },
+    {
+      "page": 74,
+      "type": "caption",
+      "en": "Figure 29: TNFD’s default nature-risk scenarios",
+      "ja": "図29：TNFDのデフォルトにおける自然リスク・シナリオ"
+    },
+    {
+      "page": 74,
+      "type": "figure",
+      "en": "Ecosystem service degradation (Physical risk): Moderate. Marginal cost. Incremental impact. → Severe. Disruptive cost. Threshold impact. / Alignment of market and non-market forces (Transition risk): High. Shared directionality. ↔ Low. Conflicting directionality.",
+      "ja": "生態系サービスの劣化（物理的リスク）：中程度。限界費用。漸増するインパクト。 → 深刻。破壊的なコスト。閾値のインパクト。／市場と市場以外の力の整合（移行リスク）：高。共有される方向性。 ↔ 低。相反する方向性。",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 74,
+      "type": "figure",
+      "en": "#1 Ahead of the game – Positive progress on carbon and climate accelerates the turn toward a policy and macro-prudential environment for nature-positive outcomes, but actual experienced loss from nature degradation is low. There are opportunities for organisations to lead, but also increasing scepticism of overreach on nature, given the lack of proof points about impact and risk, and the lack of visible opportunities in carbon neutral growth.",
+      "ja": "#1一歩先行する – 炭素と気候に関するよい進展は、ネイチャーポジティブとなる成果をもたらす政策やマクロ・プルーデンス環境へと転換を加速させるが、実際の自然の劣化による損失は少ない。組織にはそれを牽引する機会があるが、インパクトやリスクに関する実証が不十分であること、カーボンニュートラルな成長には目に見える機会がないことなどから、自然に対する過剰な取り組みに対する懐疑的な見方も増えている。"
+    },
+    {
+      "page": 74,
+      "type": "figure",
+      "en": "#2 Go fast or go home – In a nature-crisis environment where immediate and material business risks are broadly experienced, there will be threshold impacts that bolster the push for faster and more systematic action. Public attention and policy focus shifts toward nature as the master problem that subsumes carbon and climate. Macroeconomic disruption further compresses the time frame for action on nature, and investment in technologies for nature-positive outcomes skyrockets.",
+      "ja": "#2スピード勝負 – 緊急かつマテリアルなビジネスリスクが広がっている自然危機の環境では、より迅速に体系的な行動を後押しする閾値のインパクトが存在する。国民の関心と政策の焦点は、炭素と気候を含む主要な問題として自然へと移っていく。マクロ経済の混乱が自然に対して行動する時間をさらに圧迫し、ネイチャーポジティブとなる成果をもたらす技術への投資が急増する。"
+    },
+    {
+      "page": 74,
+      "type": "figure",
+      "en": "#3 Sand in the gears – Environmental assets are deteriorating fast, but politics and finance are too noisy, slow and bogged down in complexity to drive broad and systematic action. Organisations are incentivised to stopgap their most severe and acute business disruptions, and externalise the costs and negative consequences where possible. There are perverse incentives to overuse environmental assets in the short term. The developed–developing economy divide on benefits from environmental assets widens.",
+      "ja": "#3嚙み合わない現状 – 環境資産は急速に劣化しているが、政治と金融はあまりに騒々しく、歩みが遅く、複雑であるため、広範で体系的な行動を起こすことができない。組織は、最も深刻で切迫した事業の中断をその場しのぎをし、可能な限りコストとマイナスの影響を除外する方向へと向かうインセンティブが働いている。短期的に環境資産をさらに使用する方向へと向かう逆のインセンティブがある。環境資産からの利益に関する先進国と発展途上国の経済格差は拡大している。"
+    },
+    {
+      "page": 74,
+      "type": "figure",
+      "en": "#4 Back of the list – Nature falls down the list of priorities. Meaningful progress on carbon reduction becomes an even stronger magnet for finance, tech and corporate action because it seems relatively tractable, and a moderately effective – if indirect – way to make progress on nature issues. Organisations turn towards a strategy of reducing short-term harm to environmental assets and pull away from long-term planning as there seems to be no way of winning.",
+      "ja": "#4リストの優先順位が低い – 自然は優先順位の下の方にある。炭素削減が有意義な形で進展すれば、金融、ハイテク、企業の行動を引き寄せるさらに強い磁力になる。なぜなら、炭素削減は自然に関する課題の進展において比較的取り組みやすく、間接的ではあるが、ある程度効果的な方法だからである。組織は環境資産に対する短期的な害を減らす戦略に向かい、長期的な計画からは遠ざかっている。長期的な有効策がないためである。"
+    },
+    {
+      "page": 75,
+      "type": "h2",
+      "en": "5.5. Guidance on engagement of Indigenous Peoples, Local Communities & affected stakeholders",
+      "ja": "5.5. 先住民族、地域社会、影響を受けるステークホルダーとのエンゲージメントに関するガイダンス"
+    },
+    {
+      "page": 75,
+      "type": "p",
+      "en": "The TNFD recommended disclosures ask organisations to describe engagement activities with respect to Indigenous Peoples, Local Communities, affected and other stakeholders to help assess and respond to nature-related issues. To support this, the TNFD has developed guidance on meaningful engagement by companies and financial institutions with Indigenous Peoples, Local Communities and affected stakeholders as it pertains to the assessment and management of nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "TNFD開示提言では、先住民族、地域社会、影響を受けるステークホルダー、その他のステークホルダーに関し、自然関連課題の評価と対応に役立つエンゲージメント活動を説明するよう組織に求めている。これを支援するために、TNFDは自然関連のインパクト、依存、リスクと機会の評価と管理に関し、企業や金融機関が先住民族、地域社会、影響を受けるステークホルダーとの有意義なエンゲージメントのためのガイダンスを作成した。"
+    },
+    {
+      "page": 75,
+      "type": "p",
+      "en": "The guidance builds on leading international standards, guidelines and frameworks, in particular the UN Guiding Principles on Business and Human Rights. It can support application of the LEAP approach and disclosures consistent with the TNFD Recommended Disclosure Governance C and General Requirement 6.",
+      "ja": "このガイダンスは、主要な国際規格、ガイドライン、フレームワーク、特に国連のビジネスと人権に関する指導原則に基づく。これはTNFD開示提言のガバナンスCおよび一般要件6に即したLEAPアプローチの適用と情報開示に役立つ。"
+    },
+    {
+      "page": 75,
+      "type": "figure",
+      "en": "Guidance on engagement with Indigenous Peoples, Local Communities and affected stakeholders – Version 1.0 September 2023",
+      "ja": "Guidance on engagement with Indigenous Peoples, Local Communities and affected stakeholders – Version 1.0 September 2023"
+    },
+    {
+      "page": 76,
+      "type": "h1",
+      "en": "6. Looking ahead – Getting started, and priorities for the Taskforce",
+      "ja": "6. 今後の展望 – 開始、とタスクフォースの優先事項"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The TNFD’s recommendations, and accompanying additional guidance, provide a basis for organisations to identify, assess and disclose their nature-related dependencies, impacts, risks and opportunities consistent with the ISSB and GRI standards, with a view to aligning their reporting with Target 15 of the GBF over time.",
+      "ja": "TNFDの提言とそれに付随する追加ガイダンスは、組織がISSBとGRIの基準に沿って、自然関連の依存、インパクト、リスクと機会を特定、評価、開示するための基礎を提供するものであり、いずれ彼らの報告内容がGBFのターゲット15と整合することを見据えている。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The recommendations are intended to provide a practical basis for organisations to get started and to increase the scope and ambition of their disclosures in the coming years. As has been the case with climate-related reporting over the past decade, the TNFD expects that the disclosure of nature-related issues will improve over time as market understanding of nature-related issues and organisational capacity increases; audit and assurance capacities to provide limited assurance expand; and as data quality and availability, and other barriers to reporting, are addressed through new technologies and sector-level initiatives and guidance aimed at improving traceability.",
+      "ja": "この提言は、組織が開示を開始し、今後数年間で開示のスコープを広げ、意欲を高めていくための実践的な基盤を提供することを意図している。過去10年間の気候変動関連報告の場合と同様、TNFDは自然関連課題に対する市場の理解と組織の能力の向上につれて、徐々に自然関連課題の開示が改善されることを期待している。限定的保証（アシュアランス）を提供するための監査・保証（アシュアランス）能力を拡大する。また、トレーサビリティの向上を目的とした新しい技術やセクターレベルのイニシアティブやガイダンスを通じ、データの質や入手可能性、報告に対するその他の障壁に対処していく。"
+    },
+    {
+      "page": 76,
+      "type": "quote",
+      "en": "Nature-related risks are a reality today in the cashflows and balance sheets of business and in the capital allocation portfolios of financial institutions. Notwithstanding capacity and data constraints, the Taskforce encourages organisations to get started and begin their nature-related assessment and reporting.",
+      "ja": "自然関連のリスクは今日、企業のキャッシュフローやバランスシート、金融機関の資本配分ポートフォリオにおいて現実のものとなっている。能力やデータの制約があるにせよ、タスクフォースは、各組織が自然関連の評価と報告を開始することを奨励する。"
+    },
+    {
+      "page": 76,
+      "type": "h2",
+      "en": "6.1. Getting started with nature-related financial disclosures",
+      "ja": "6.1. 自然関連財務情報開示の開始"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The Taskforce encourages organisations to get started and begin their nature-related assessment and reporting. The TNFD’s recommended disclosures, like those of TCFD, are a combination of qualitative process-oriented disclosures and others requiring data and analytics. Those organisations finding data availability and quality a challenge can get started by enhancing their governance and risk management processes, for example, and signalling those actions to the primary users of their sustainability reporting and other stakeholders.",
+      "ja": "タスクフォースは組織に対し、自然関連の評価と報告を開始することを奨励する。TNFDの開示提言は、TCFDの開示と同様に、定性的なプロセス志向の開示と、データや分析を必要とするその他の開示の組み合わせである。データの利用可能性と質に課題があると考える組織は、例えば、まずガバナンスとリスク管理プロセスの強化し、サステナビリティ報告の主な利用者やその他のステークホルダーに対してその行動を示すことで、開始することができる。"
+    },
+    {
+      "page": 76,
+      "type": "figure",
+      "en": "Getting started with adoption of the TNFD recommendations – Version 1.0 September 2023",
+      "ja": "Getting started with adoption of the TNFD recommendations – Version 1.0 September 2023"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "In a recent survey of the TNFD Forum, over 86% of 239 respondents from 36 countries and across 11 sectors indicated that they felt they could start reporting on the TNFD recommended disclosures by calendar year 2026, based on their financial year 2025 outcomes. In short, a lack of data should not be a reason to delay.",
+      "ja": "TNFDフォーラムの最近の調査では、36カ国、11セクターの239人の回答者のうち86% 以上が、2025会計年度の成果に基づき2026暦年までに、TNFD開示提言に関する報告を開始できると考えていると回答した。要するに、データの不足を、開始を遅らせる理由とすべきではない。"
+    },
+    {
+      "page": 77,
+      "type": "caption",
+      "en": "Figure 30: Expectations of when organisations will likely be able to start disclosing aligned with TNFD recommendations",
+      "ja": "図30：TNFDの提言と整合的な開示を組織が開始できるようになると思われる時期に関する予測"
+    },
+    {
+      "page": 77,
+      "type": "figure",
+      "en": "Expectations of when organisations are likely to be able to start disclosing aligned with TNFD – Respondents by organisation group (%): By financial year 2024 / By financial year 2025 or earlier / By financial year 2026 or earlier / At some stage (including later than financial year 2026) – Corporate / Financial institution – Source: TNFD Survey conducted in July-August 2023. n=239.",
+      "ja": "TNFDの提言と整合的な開示を組織が開始できるようになると思われる時期に関する予測 – 組織グループ別の回答率（%）：2024会計年度までに／2025会計年度までに、またはそれ以前／2026会計年度までに、またはそれ以前／どこかの段階で (2026会計年度以降を含む) – 企業／金融機関 – 出典：TNFD調査2023年7月～8月に実施（総数239件）"
+    },
+    {
+      "page": 77,
+      "type": "caption",
+      "en": "Figure 31: Expectations of which TNFD recommended disclosures an organisation will approach first",
+      "ja": "図31：TNFD開示提言の中で組織が最初に取り組む提言に関する予測",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 77,
+      "type": "figure",
+      "en": "Expectations of which TNFD recommended disclosures an organisation could start disclosing against – Corporate respondents (%) / Financial institutions respondents (%): Governance / Strategy / Risk and impact management / Metrics and targets – Range within pillar / Average – Source: TNFD Survey conducted in July-August 2023. n=239.",
+      "ja": "TNFD開示提言の中で組織が開始可能な提言の予測 – 企業回答率（%）／金融機関回答率（%）：ガバナンス／戦略／リスクとインパクトの管理／測定指標とターゲット – 柱の中での範囲／平均 – 出典：TNFD調査2023年7月～8月に実施（総数239件）",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "Through the design and development of these recommendations over the past two years, the Taskforce has also convened a community of over 130 data providers and interested stakeholders as the Nature Data Catalyst. It is clear that significant and rapid advancements are now being made in the nature data space. Over the next few years, stimulated by the GBF, the research of the NGFS, and growing demand from companies and investors for nature-related data and analytics, the Taskforce is confident that new data solutions and capabilities will emerge quickly and help to raise the quality of nature-related disclosures further. The TNFD plans to continue to support these efforts with a range of partner organisations, including the evaluation of the case for a global nature-related public data facility.",
+      "ja": "また、過去2年間の提言の設計と開発を通じ、タスクフォースは自然関連データカタリストとして、130を超えるデータプロバイダーとステークホルダーが集合するコミュニティも結成した。現在、自然に関するデータの分野で重要かつ急速な進歩が起きていることは明らかである。今後数年間、GBF、NGFSの調査、自然関連のデータと分析に対する企業や投資家からの需要の高まりに刺激され、新しいデータソリューションや機能が急速に登場し、自然関連の開示の質をさらに高めるために役立つとタスクフォースは確信している。TNFDは、世界的な自然関連のパブリックデータファシリティの案件評価を含め、さまざまなパートナーシップ組織と共に、こうした取り組みの支援を継続する予定である。"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "As the 2017 TCFD recommendations did for climate-related reporting, the TNFD recommendations provide a starting point for immediate adoption, beginning with disclosures in areas where organisations are able, leveraging work in other areas as much as possible, and with the flexibility to increase the scope of disclosures over time. Organisations already reporting nature-related issues under other frameworks, such as GRI and CDP, will be well positioned to disclose the TNFD’s recommendations and are encouraged to do so.",
+      "ja": "気候変動関連報告のための2017年のTCFDの提言がそうであったように、TNFDの提言も、組織が今できる分野から開示を開始し、可能な限り他分野での作業を利用し、時間をかけて開示のスコープを拡大していくという柔軟な手法により、即時採用のための出発点を提供する。すでにGRIやCDPなどの他の枠組みに基づき自然関連課題を報告している組織は、TNFDの提言を開示するのに有利な立場であり、そうすることが奨励される。"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "The TNFD’s additional guidance can also help organisations operating in jurisdictions where standards and regulation on nature are emerging, as is the case in the European Union, with the introduction of the CSRD.",
+      "ja": "TNFDの追加ガイダンスは、欧州連合におけるCSRDの導入のように、自然関連の基準や規制が整備されつつある法域で事業を展開する組織にも役立つ。"
+    },
+    {
+      "page": 78,
+      "type": "quote",
+      "en": "“[Companies should] demonstrate how they are aligning their internal policies and practices with a nature-positive ambition and quantify the financial risks and opportunities associated with their dependencies and impact on nature, providing decision-useful disclosures to investors... Accordingly, we expect all companies to begin reporting within a reasonable timeframe against the Taskforce on Nature-related Financial Disclosures (TNFD) framework due to be finalized in 2023.” — Annual Letter to Company Chairpersons / Mark Versey, Chief Executive Officer / Aviva Investors",
+      "ja": "「［企業は］社内の方針と実務をネイチャーポジティブに対する熱意にどのように整合させているかを提示し、自然に対する依存とインパクトに伴う財務上のリスクと機会を定量化し、投資家に対して意思決定に有用な開示を行うべきである。［中略］そのため、すべての企業が、2023年に完成予定の自然関連財務情報開示タスクフォース（TNFD）フレームワークに照らし合わせて、妥当な期間内に報告を開始することを期待する」。 — 取締役会会長宛年次書簡／アビバ・インベスターズ／最高経営責任者マーク・ヴァーシー",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 78,
+      "type": "quote",
+      "en": "“As a financial investor, we may be exposed to portfolio risks and lost investment opportunities as biodiversity and ecosystems become degraded. The fund holds a diversified portfolio across industries and markets, and over time externalities from unsustainable use of natural ecosystems may affect its long-term performance.” — Biodiversity and ecosystems, Expectations of companies / Norges Bank Investment Management",
+      "ja": "「金融投資家として、生物多様性や生態系の衰退に伴い、ポートフォリオのリスクや投資機会の喪失にさらされる可能性がある。当ファンドは、産業や市場に分散したポートフォリオを保有しており、自然生態系の持続不可能な利用による外部効果が徐々に長期的なパフォーマンスに影響を与える可能性がある」。 — 生物多様性と生態系、企業への期待／ノルウェー銀行インベストメント・マネジメント",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 78,
+      "type": "quote",
+      "en": "“While nature-related disclosures have historically been limited and difficult to compare across companies, private-sector initiatives, such as the Taskforce on Nature-related Financial Disclosures (TNFD), are working on frameworks to guide disclosure on material, nature-related impacts and dependencies, alongside associated risks and opportunities.” — BlackRock Investment Stewardship / Our approach to engagement on natural capital, 2023 / BlackRock",
+      "ja": "「自然関連の開示は今まで限定的で企業間の比較も困難であったが、自然関連財務情報開示タスクフォース（TNFD）のような民間セクターのイニシアティブは、関連するリスクや機会とともに、マテリアルな自然関連のインパクトと依存の開示を導くフレームワークに取り組んでいる」。 — ブラックロック・インベストメント・スチュワードシップ／自然資本への取り組みに対する当社のアプローチ2023年／ブラックロック",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 79,
+      "type": "h2",
+      "en": "6.2. What’s next for the TNFD? Areas for further work",
+      "ja": "6.2. TNFDの今後は？今後の課題"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Following the publication of these recommendations, the TNFD will move to the next phase of its work to encourage and scale voluntary market adoption of the Taskforce’s recommendations by expanding market awareness, market engagement and supporting market capacity building efforts (Figure 32).",
+      "ja": "これらの提言の発表後、TNFDは次のフェーズに移行し、市場の認知度と市場のエンゲージメントを拡大し、市場のキャパシティ・ビルディングの取り組みを支援することにより、タスクフォースの提言の自発的な市場の採用を奨励し、その規模を拡大する（図32）。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "The Taskforce has identified priority areas for further work with a range of partner organisations that will support the adoption of the TNFD’s recommendations and encourage corporate reporting and action on nature-related issues more generally. Some of the key Phase 2 priority initiatives already identified by the Taskforce are outlined in Table 5.",
+      "ja": "タスクフォースはTNFDの提言の採用を支援し、より一般的な自然関連課題に関する企業の報告や行動を促すために、さまざまなパートナー組織とさらに取り組むべき優先分野を特定した。タスクフォースによってすでに特定されたフェーズ2の優先的な取り組みのうち、重要なものの一部を表5に概説した。"
+    },
+    {
+      "page": 79,
+      "type": "caption",
+      "en": "Figure 32: Implementation path for adoption of TNFD recommendations",
+      "ja": "図32：TNFDの提言を採用するための実施手順"
+    },
+    {
+      "page": 79,
+      "type": "figure",
+      "en": "Phase 1: Design and development – October 2021 Started work / March 2022 v0.1 / June 2022 v0.2 / November 2022 v0.3 / March 2023 v0.4 / September 2023 Final recommendations – Phase 2: Scaling market adoption",
+      "ja": "フェーズ1：設計と開発 – 2021年10月開始／2022年3月v0.1／2022年6月v0.2／2022年11月v0.3／2023年3月v0.4／2023年9月最終提言 – フェーズ2：市場導入の拡大"
+    },
+    {
+      "page": 79,
+      "type": "figure",
+      "en": "Robust understanding of the importance of nature to financial systems and business considerations by market participants across all sectors and regions. / Further adoption and greater maturity in nature-related risk and opportunity assessments and reporting following TNFD. / Companies begin to disclose based on the TNFD recommendations.",
+      "ja": "あらゆるセクターや地域の市場参加者が、金融システムやビジネス上の考慮事項における自然の重要性を確実に理解している。／TNFDに従った自然関連のリスクと機会の評価と報告のさらなる導入と成熟度向上。／企業はTNFDの提言に基づき開示を開始する。"
+    },
+    {
+      "page": 79,
+      "type": "figure",
+      "en": "Business decisions contributing to nature positive outcomes aligned with the Kunming-Montreal Global Biodiversity Framework. / Disclosure becomes consistent and comparable as more companies disclose following TNFD, leading to greater transparency and accountability in understanding and managing nature-related risks and opportunities. / Nature is viewed as an important consideration in mainstream business and investment decisions by both report users and preparers. / Companies begin to undertake internal nature-related risk and opportunity assessments aligned with TNFD's LEAP approach.",
+      "ja": "昆明・モントリオール生物多様性枠組と整合的な、ネイチャーポジティブの成果に寄与するビジネス上の意思決定。／より多くの企業がTNFDに従い開示を行うことで、開示に一貫性と比較可能性が生まれ、自然関連のリスクと機会の理解と管理における透明性と説明責任の向上につながる。／自然は、報告書利用者と作成者の双方から、ビジネスや投資の主要な意思決定において重要な考慮すべき事項とみなされている。／企業はTNFDのLEAPアプローチと整合する自然関連のリスクと機会の内部評価を開始する。"
+    },
+    {
+      "page": 80,
+      "type": "caption",
+      "en": "Table 5: Selected TNFD priorities for its next phase",
+      "ja": "表5：次のフェーズのために選ばれたTNFDの優先課題"
+    },
+    {
+      "page": 80,
+      "type": "table",
+      "en": "| Further development of guidance by sector and biome | • Develop and finalise further TNFD sector and biome guidance, including sector and biome metrics, using the TNFD’s open innovation approach to crowd-in market feedback and pilot testing insights. |\n|---|---|\n| Alignment and input to standards and other reporting initiatives | • Encourage and enable standards bodies and others to work actively toward greater alignment of frameworks and standards, and leverage the TNFD recommendations and guidance.<br>• Support efforts by the ISSB to draw on the TNFD’s recommendations as relevant to the global sustainability reporting baseline for capital markets. |\n| Market capacity building to support and accelerate nature-related corporate reporting | • Work with partner organisations to develop training materials and deploy them to market participants and other stakeholders.<br>• Convene and support a TNFD Community of Practice to enable peer learning and feedback from those applying the TNFD’s recommendations. |\n| Data and analytics availability and quality | • Catalyse more alignment and progress on nature-related metrics, including metrics on the state of nature, as well as metrics for financial institutions.<br>• Stimulate further innovation on a pre-competitive basis among data providers through the Nature-related Data Catalyst.<br>• Advance, in concert with other organisations, the design and launch of a nature-related public global data facility, subject to the interest and support of governments.<br>• Explore the use of natural capital accounts to support assessment and disclosure of nature-related issues. |",
+      "ja": "| 追加ガイダンス（セクター別、バイオーム別）の作成 | • TNFDのオープン・イノベーション・アプローチを活用し、市場からのフィードバックやパイロットテストで得た知見を取り入れることにより、セクター別とバイオーム別の測定指標を含め、さらに詳しいTNFDセクター別およびバイオーム別ガイダンスをまとめ、完成させる。 |\n|---|---|\n| 基準およびその他の報告イニシアティブへの整合とインプット | • 標準化団体等が、フレームワークと標準の整合性強化に向けて積極的に取り組み、TNFDの提言とガイダンスを活用することを奨励し、可能にする。<br>• 資本市場向けのグローバルなサステナビリティ報告のベースラインに関連するTNFDの提言を活用するためのISSBによる取り組みを支援する。 |\n| 自然関連の企業報告の支援と加速のための市場の能力構築 | • パートナー組織と協力して研修資料を作成し、市場参加者やその他のステークホルダーに配布する。<br>• TNFDの提言を適用している人々の相互学習とフィードバックを可能にするために、TNFDの実践コミュニティを結成し、支援する。 |\n| データと分析の可用性と品質 | • 金融機関向けの測定指標だけでなく、自然の状態に関する測定指標などの自然関連測定指標について、より整合性と進展を促進する。<br>• 自然関連データカタリストを通じ、データプロバイダー間の前競争的研究ベースでイノベーションをさらに促進する。<br>• 他の組織と協力して、各国政府の関心と支持を前提に、自然関連の公的グローバルデータファシリティの設計と立ち上げを推進する。<br>• 自然関連課題の評価と開示の支援のために自然資本会計の利用を検討する。 |"
+    },
+    {
+      "page": 80,
+      "type": "table",
+      "en": "| Scenario analysis | • Work with the NGFS and other partners to develop further guidance on nature-related scenario analyses for financial institutions and multinational corporates interested in developing more advanced approaches, building on the TNFD scenario guidance. |\n|---|---|\n| Case studies and example disclosures | • Provide further case studies and illustrative disclosures to assist report preparers to develop disclosures consistent with the TNFD’s recommendations. |\n| Targets and transition planning | • Work with partners on additional guidance on transition planning and further guidance on target setting, including for financial institutions. |\n| TNFD content | • Explore potential additional applications of elements of the TNFD content in other areas such as sovereign debt and spatial planning. |",
+      "ja": "| シナリオ分析 | • NGFSおよび他のパートナーと協力し、TNFDシナリオ・ガイダンスに基づき、先進的なアプローチの作成に関心のある金融機関や多国籍企業向けに、自然関連シナリオ分析に関するガイダンスをさらに作成する。 |\n|---|---|\n| 事例研究と開示事例 | • 報告書作成者がTNFDの提言に沿った開示ができるように事例研究と開示事例を提供する。 |\n| ターゲットと移行計画 | • 金融機関向けを含めて移行計画に関する追加ガイダンスおよびターゲット設定に関する追加ガイダンスについてパートナーと協力する。 |\n| TNFDの内容 | • ソブリン債や空間計画など、TNFDの内容の他の分野への応用の可能性を探る。 |"
+    }
+  ]
+}

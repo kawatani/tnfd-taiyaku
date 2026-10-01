@@ -1,0 +1,639 @@
+{
+  "doc": "rec",
+  "pages": [
+    81,
+    100
+  ],
+  "segments": [
+    {
+      "page": 81,
+      "type": "h1",
+      "en": "Annex 1: TNFD core global disclosure metrics",
+      "ja": "別紙1：TNFDのグローバル中核開示指標"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "The TNFD’s recommended core disclosure metrics are organised around 14 core global indicators relating to:",
+      "ja": "TNFDが推奨する中核開示指標は、以下に関する14項目のグローバル中核開示指標を中心に構成されている。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Dependencies and impacts on nature (recommended disclosure Metrics and Targets B); and",
+      "ja": "自然に対する依存とインパクト（開示提言測定指標とターゲットB）"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Nature-related risks and opportunities to the organisation (recommended disclosure Metrics and Targets A).",
+      "ja": "組織にとっての自然関連のリスクと機会（開示提言測定指標とターゲットA）"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "The core global metrics recommended below have been selected by the TNFD on the basis that they:",
+      "ja": "TNFDは以下の項目に基づき、グローバル中核開示指標を選定した。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Are relevant across the majority of sectors and commonly incorporated into general or cross-sector standards;",
+      "ja": "大半のセクターに関連しており、一般的またはセクター横断的な基準に組み込まれている。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Cover the main drivers of nature change, as identified by the IPBES;",
+      "ja": "IPBESが特定した自然の変化の主な要因をカバーしている。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Demonstrate alignment with global policy goals, including those of the GBF and other international conventions and international policy commitments; and",
+      "ja": "GBFやその他の国際条約、国際政策のコミットメントを含むグローバルな政策目標との整合性がある。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Are decision-useful for report users, including investors, lenders and insurers.",
+      "ja": "投資家、金融業者、保険会社などの報告書の利用者が意思決定をする際に役立つものである。"
+    },
+    {
+      "page": 81,
+      "type": "h2",
+      "en": "Basis of disclosure",
+      "ja": "開示の基礎"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "These metrics should be reported on a comply or explain basis, with the exception of the placeholder metrics identified below.",
+      "ja": "これらの測定指標は、以下に示すプレースホルダー指標を除き、コンプライ・オア・エクスプレインベースで報告すること。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Where organisations are unable to report against any of the core global metrics, they should provide a short explanatory statement as to why they have not reported those metrics. An organisation should report on the core global disclosure metrics unless:",
+      "ja": "組織がどのグローバル中核開示指標についても報告できない場合は、それらの測定指標を報告しなかった理由を簡潔に説明する必要がある。以下の場合を除き、組織はグローバル中核開示指標を報告する。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "It has not been identified as relevant and material to the organisation, e.g. not relevant to business activities or the location the organisation is operating in, or not found to be a material issue for the organisation; or",
+      "ja": "組織と関連性がありマテリアルであると特定されていないもの。例：事業活動や組織の活動地域と関連性がない、または企業にとってマテリアルな課題ではないと判断されたもの、または"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "It has been identified as relevant and material, but the organisation is unable to measure it due to limitations with methodologies, access to data or because the information is commercially sensitive. In this case, organisations should explain how they plan to address this in future reporting periods.",
+      "ja": "関連性がありマテリアルであると特定されているが、方法やデータへのアクセスに限界がある、または情報が営業上の機密情報であるため、組織がそれを測定できないもの。こういった場合には、組織が今後の報告期間にどのように対処する予定かを説明すべきである。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "It is not expected that all organisations will be able to report on all core disclosure metrics immediately.",
+      "ja": "すべての中核開示指標について、すべての組織が直ちに報告できるようになるとは期待していない。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Organisations are also encouraged to draw on other relevant metrics to represent most accurately the organisation’s nature-related dependencies, impacts, risks and opportunities. Suggested additional disclosure metrics are included in Annex 2. Other examples of assessment metrics are included in the TNFD additional guidance on assessment of nature-related issues (the LEAP approach).",
+      "ja": "また、組織の自然関連の依存、インパクト、リスクと機会を最も正確に表すために、他の関連する測定指標を利用することが奨励される。追加的な開示指標の提案を別紙2にまとめた。その他の評価測定指標の例は、TNFDの自然関連課題の評価に関する追加ガイダンス（LEAPアプローチ）に記載されている。"
+    },
+    {
+      "page": 82,
+      "type": "h2",
+      "en": "TNFD core global disclosure metrics for dependencies and impacts on nature",
+      "ja": "自然に対する依存とインパクトに関するTNFDのグローバル中核開示指標"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "The nine core global dependency and impact indicators relate to impact drivers. The indicators should be considered within the context of dependency and impact pathways, including impact drivers, external factors, changes to the state of nature and changes to ecosystem services.",
+      "ja": "9項目の依存とインパクトに関するグローバル中核開示指標は、インパクト要因に関連している。指標は、インパクト要因、外部要因、自然の状態の変化、生態系サービスの変化など、依存とインパクト経路という文脈の中で検討する。"
+    },
+    {
+      "page": 82,
+      "type": "h3",
+      "en": "Placeholder indicators",
+      "ja": "プレースホルダー指標"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "The core global disclosure indicators for dependencies and impacts on nature include three placeholder indicators, which the TNFD encourages organisations to consider and report against where possible. These cover invasive alien species and the state of nature. There are not yet widely accepted metrics for these indicators, but the Taskforce recognises their importance,65 and will continue to work with knowledge partners to develop further guidance on these metrics.",
+      "ja": "自然に対する依存とインパクトに関するグローバル中核開示指標には3つのプレースホルダー指標が含まれ、TNFDは可能な限り検討し、それに対して報告するよう組織に奨励している。これらは侵略的外来種と自然の状態を対象とする。これらの測定指標はまだ広く受け入れられているものではないが、タスクフォースはその重要性を認識している65。また、ナレッジ・パートナーと協力し、これらの測定指標に関するさらなるガイダンスを作成し続ける予定である。"
+    },
+    {
+      "page": 82,
+      "type": "h3",
+      "en": "Alignment to the Global Biodiversity Framework (GBF)",
+      "ja": "昆明・モントリオール生物多様性枠組（GBF）との整合"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "All the TNFD core global disclosure indicators and metrics for dependencies and impacts are relevant to Target 15 of the GBF. Where indicators contribute to other GBF targets, these have been noted. Metrics related to other GBF targets are included in sector metrics, for agriculture and food, for example.",
+      "ja": "依存とインパクトに関するTNFDのグローバル中核開示指標と測定指標はすべて、GBFのターゲット15に関連している。指標が他のGBFターゲットに寄与する場合は、その旨を明記している。他のGBFターゲットに関連する測定指標は、例えば農業や食料などのセクター別の測定指標に含まれている。"
+    },
+    {
+      "page": 82,
+      "type": "footnote",
+      "en": "65 The TNFD recognises the importance of measurement of the state of nature, particularly for direct assessments of the achievement of Goal A of the Kunming-Montreal Global Biodiversity Framework. It also recognises the importance of measurement of invasive alien species, as one of the five main drivers of nature change.",
+      "ja": "65 TNFDは、特に昆明・モントリオール生物多様性枠組の目標Aの達成度を直接評価するために、自然の状態を測定することの重要性を認識している。また、自然の変化の5大要因のひとつとして、侵略的外来種の測定の重要性も認識している。"
+    },
+    {
+      "page": 83,
+      "type": "caption",
+      "en": "Table 6: TNFD core global disclosure indicators and metrics for nature-related dependencies and impacts",
+      "ja": "表6：自然関連の依存とインパクトに関するTNFDのグローバル中核開示指標と測定指標"
+    },
+    {
+      "page": 83,
+      "type": "table",
+      "en": "| Metric no. | Driver of nature change | Indicator | Metric | Connection to GBF targets |\n|---|---|---|---|---|\n|  | Climate change | GHG emissions | Refer to ISSB’s IFRS-S2 Climate-related Disclosures Standard | Target 7 |\n| C1.0 | Land/freshwater/ocean-use change | Total spatial footprint | Total spatial footprint (km2) (sum of):<br>• Total surface area controlled/managed by the organisation, where the organisation has control (km2);<br>• Total disturbed area (km2); and<br>• Total rehabilitated/restored area (km2). | Target 1 (A.2 Extent of natural ecosystems), Target 2, Target 5, Target 11 (B.1 Services provided by ecosystems) |\n| C1.1 | Land/freshwater/ocean-use change | Extent of land/freshwater/ocean-use change | Extent of land/freshwater/ocean ecosystem use change (km2) by:<br>• Type of ecosystem;66 and<br>• Type of business activity.<br>Extent of land/freshwater/ocean ecosystem conserved or restored (km2), split into:<br>• Voluntary; and<br>• Required by statutes or regulations.<br>Extent of land/freshwater/ocean ecosystem that is sustainably managed (km2) by:<br>• Type of ecosystem;67 and<br>• Type of business activity. | Target 1 (A.2 Extent of natural ecosystems), Target 2, Target 5, Target 11 (B.1 Services provided by ecosystems) |\n| C2.0 | Pollution/pollution removal | Pollutants released to soil split by type | Pollutants released to soil (tonnes) by type, referring to sector-specific guidance on types of pollutants. | Target 7 (7.2 Pesticide environment concentration), Target 11 |",
+      "ja": "| 測定指標番号 | 自然の変化の要因 | 指標 | 測定指標 | GBFターゲットとの関連 |\n|---|---|---|---|---|\n|  | 気候変動 | GHG排出量 | ISSBのIFRS S2号「気候関連開示」を参照のこと | ターゲット7 |\n| C1.0 | 陸／淡水／海洋利用の変化 | 総空間フットプリント | 総空間フットプリント（km2）（合計）<br>• 組織が監督権を有する監督下、管理下にある総表面積（km2）<br>• 攪乱された総面積（km2）<br>• 修復、復元された総面積（km2） | ターゲット1（A.2自然生態系の範囲）、ターゲット2、ターゲット5、ターゲット11（B.1生態系により供給されるサービス） |\n| C1.1 | 陸／淡水／海洋利用の変化 | 陸／淡水／海洋の利用変化の範囲 | 陸／淡水／海洋生態系の利用変化の範囲（km2）は以下に分ける。<br>• 生態系の種類66<br>• 事業活動の種類<br>陸／淡水／海洋生態系の保全または復元の範囲（km2）は以下に分ける。<br>• 自主的<br>• 法令または規則により義務付けられている<br>持続的に管理されている陸／淡水／海洋生態系の範囲（km2）は以下に分ける。<br>• 生態系の種類67<br>• 事業活動の種類 | ターゲット1（A.2自然生態系の範囲）、ターゲット2、ターゲット5、ターゲット11（B.1生態系により供給されるサービス) |\n| C2.0 | 汚染／汚染除去 | 土壌に放出された汚染物質の種類別総量 | 土壌に放出された汚染物質の種類別総量（トン）。汚染物質の種類に関してセクター別ガイダンスを参照。 | ターゲット7（7.2農薬環境濃度）、ターゲット11 |"
+    },
+    {
+      "page": 83,
+      "type": "footnote",
+      "en": "66 When disclosing on ecosystem types, refer to the International Union for Conservation of Nature Global Ecosystem Typology",
+      "ja": "66 生態系の種類を開示する場合は、国際自然保護連合のグローバル生態系タイポロジーを参照する"
+    },
+    {
+      "page": 83,
+      "type": "footnote",
+      "en": "67 When disclosing on ecosystem types, refer to the International Union for Conservation of Nature Global Ecosystem Typology",
+      "ja": "67 生態系の種類を開示する場合は、国際自然保護連合のグローバル生態系タイポロジーを参照する"
+    },
+    {
+      "page": 84,
+      "type": "table",
+      "en": "| Metric no. | Driver of nature change | Indicator | Metric | Connection to GBF targets |\n|---|---|---|---|---|\n| C2.1 | Pollution/pollution removal | Wastewater discharged | Volume of water discharged (m3), split into:<br>• Total;<br>• Freshwater; and<br>• Other.68<br>Including:<br>• Concentrations of key pollutants in the wastewater discharged, by type of pollutant, referring to sector-specific guidance for types of pollutants; and<br>• Temperature of water discharged, where relevant. | Target 7 (7.1 Index of coastal eutrophication potential), Target 11 (B.1 Services provided by ecosystems) |\n| C2.2 | Pollution/pollution removal | Waste generation and disposal | Weight of hazardous and non-hazardous waste generated by type (tonnes), referring to sector-specific guidance for types of waste.<br>Weight of hazardous and non-hazardous waste (tonnes) disposed of, split into:<br>• Waste incinerated (with and without energy recovery);<br>• Waste sent to landfill; and<br>• Other disposal methods.<br>Weight of hazardous and non-hazardous waste (tonnes) diverted from landfill, split into waste:<br>• Reused;<br>• Recycled; and<br>• Other recovery operations. | Target 7, Target 11 (B.1 Services provided by ecosystems) |",
+      "ja": "| 測定指標番号 | 自然の変化の要因 | 指標 | 測定指標 | GBFターゲットとの関連 |\n|---|---|---|---|---|\n| C2.1 | 汚染／汚染除去 | 廃水排出 | 排出された水の量（m3）は以下に分ける。<br>• 合計<br>• 淡水<br>• その他68<br>以下を含む。<br>• 排出される廃水中の主要汚染物質の濃度（汚染物質の種類別。汚染物質の種類に関してセクター別ガイダンスを参照）<br>• 関連する場合、排出される水の温度 | ターゲット7（7.1沿岸の富栄養化の可能性指数）、ターゲット11（B.1生態系により供給されるサービス) |\n| C2.2 | 汚染／汚染除去 | 廃棄物の発生と処理 | 有害および非有害廃棄物の種類別の総発生量（トン）。廃棄物の種類に関してセクター別ガイダンスを参照。<br>廃棄された有害および非有害廃棄物の重量（トン）を以下のように分類して示す。<br>• 焼却処分した廃棄物（エネルギー回収の有無を問わない）<br>• 埋立地に送った廃棄物<br>• その他の廃棄物処理方法<br>廃棄された有害および非有害廃棄物のうち埋め立てが回避された重量（トン）を以下のように分類して示す。<br>• 再利用<br>• リサイクル<br>• その他の再生方法 | ターゲット7、ターゲット11（B.1生態系により供給されるサービス） |"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "68 Freshwater: (≤1,000 mg/L Total Dissolved Solids). Other: (>1,000 mg/L Total Dissolved Solids). Reference: GRI (2018) GRI 303-4 Water discharge",
+      "ja": "68 淡水：（総溶解固形分 ≤ 1,000 mg/L）。その他：（総溶解固形分 >1,000 mg/L）。参考文献：GRI（2018）GRI 303-4 排水"
+    },
+    {
+      "page": 85,
+      "type": "table",
+      "en": "| Metric no. | Driver of nature change | Indicator | Metric | Connection to GBF targets |\n|---|---|---|---|---|\n| C2.3 | Pollution/pollution removal | Plastic pollution | Plastic footprint as measured by total weight (tonnes) of plastics (polymers, durable goods and packaging) used or sold broken down into the raw material content.69<br>For plastic packaging, percentage of plastics that is:<br>• Re-usable;<br>• Compostable;<br>• Technically recyclable; and<br>• Recyclable in practice and at scale. | Target 7, Target 11 (B.1 Services provided by ecosystems) |\n| C2.4 | Pollution/pollution removal | Non-GHG air pollutants | Non-GHG air pollutants (tonnes) by type:<br>• Particulate matter (PM2.5 and/or PM10);<br>• Nitrogen oxides (NO2, NO and NO3);<br>• Volatile organic compounds (VOC or NMVOC);<br>• Sulphur oxides (SO2, SO, SO3, SOX); and<br>• Ammonia (NH3) | Target 7, Target 11 (B.1 Services provided by ecosystems) |",
+      "ja": "| 測定指標番号 | 自然の変化の要因 | 指標 | 測定指標 | GBFターゲットとの関連 |\n|---|---|---|---|---|\n| C2.3 | 汚染／汚染除去 | プラスチック汚染 | 使用または販売されたプラスチック（ポリマー、耐久財、包装材）の総重量（トン）を原材料含有量に分けて測定した総フットプリント69。<br>プラスチック包装材の場合、以下に該当するプラスチックの割合（%）、<br>• 再利用可能<br>• 堆肥化可能<br>• 技術的にはリサイクル可能<br>• 実務的にも規模的にもリサイクル可能 | ターゲット7、ターゲット11（B.1生態系により供給されるサービス） |\n| C2.4 | 汚染／汚染除去 | 温室効果ガス（GHG）以外の大気汚染物質総量 | タイプ別の非GHG大気汚染物質（トン）<br>• 粒子状物質（PM2.5および／またはPM10）<br>• 窒素酸化物（NO2、NO、NO3）<br>• 揮発性有機化合物（VOCまたはNMVOC）<br>• 硫黄酸化物（SO2、SO、SO3、SOX）<br>• アンモニア（NH3） | ターゲット7、ターゲット11（B.1生態系により供給されるサービス） |"
+    },
+    {
+      "page": 85,
+      "type": "footnote",
+      "en": "69 Raw material content: % of virgin fossil-fuel feedstock; % of post-consumer recycled feedstock; % of post-industrial recycled feedstock; % of virgin renewable feedstock.",
+      "ja": "69 原材料含有量：純化石燃料原料の割合、消費者使用後のリサイクル原料の割合、産業廃棄物リサイクル原料の割合、純再生可能原料の割合（%）"
+    },
+    {
+      "page": 86,
+      "type": "table",
+      "en": "| Metric no. | Driver of nature change | Indicator | Metric | Connection to GBF targets |\n|---|---|---|---|---|\n| C3.0 | Resource use/replenishment | Water withdrawal and consumption from areas of water scarcity | Water withdrawal and consumption70 (m3) from areas of water scarcity, including identification of water source.71 | Target 11 (B.1 Services provided by ecosystems) |\n| C3.1 | Resource use/replenishment | Quantity of high-risk natural commodities sourced from land/ocean/freshwater | Quantity of high-risk natural commodities72 (tonnes) sourced from land/ocean/freshwater, split into types, including proportion of total natural commodities.<br>Quantity of high-risk natural commodities73 (tonnes) sourced under a sustainable management plan or certification programme, including proportion of total high-risk natural commodities. | Target 5 (5.1 Proportion of fish stocks within biologically sustainable levels), Target 9, Target 11 (B.1 Services provided by ecosystems) |\n| C4.0 | Invasive alien species and other | Placeholder indicator: Measures against unintentional introduction of invasive alien species (IAS)74 | Proportion of high-risk activities operated under appropriate measures to prevent unintentional introduction of IAS, or low-risk designed activities. | Target 6, Target 11 (B.1 Services provided by ecosystems) |",
+      "ja": "| 測定指標番号 | 自然の変化の要因 | 指標 | 測定指標 | GBFターゲットとの関連 |\n|---|---|---|---|---|\n| C3.0 | 資源使用／資源補充 | 水不足の地域からの取水量と消費量 | 取水量と消費量70（m3）水不足の地域から。水源の特定を含む71。 | ターゲット11（B.1生態系により供給されるサービス) |\n| C3.1 | 資源使用／資源補充 | 陸／海洋／淡水から調達する高リスク天然一次産品の量 | 高リスク天然一次産品の量72（トン）陸／海洋／淡水から調達されたものを種類別に分け、天然一次産品全体に占める割合を含む。<br>高リスク天然一次産品の量73（トン）持続可能な管理計画または認証プログラムのもとで調達されたもの。高リスク天然一次産品全体に占める割合を含む。 | ターゲット5（5.1生物学的に持続可能な水準内の魚類資源の割合）、ターゲット9、ターゲット11（B.1生態系により供給されるサービス） |\n| C4.0 | 侵略的外来種等 | プレースホルダー指標：侵略的外来種（IAS）の非意図的導入に対する対策74 | IASの非意図的導入を防止する適切な対策の下で運営されている高リスクの活動、または低リスクの計画された活動の割合。 | ターゲット6、ターゲット11（B.1生態系により供給されるサービス） |"
+    },
+    {
+      "page": 86,
+      "type": "footnote",
+      "en": "70 Water consumption is equal to water withdrawal less water discharge. Reference: GRI (2018) GRI 303-5",
+      "ja": "70 水消費量は取水量から排水量を差し引いた量である。参考文献：GRI（2018）GRI 303-5"
+    },
+    {
+      "page": 86,
+      "type": "footnote",
+      "en": "71 Surface water; groundwater; seawater; produced water; third-party water. Reference: GRI (2018) GRI 303-3",
+      "ja": "71 地表水、地下水、海水、随伴水、第三者の水。参考文献：GRI（2018）GRI 303-3"
+    },
+    {
+      "page": 86,
+      "type": "footnote",
+      "en": "72 Users should refer to the Science Based Targets Network (SBTN) High Impact Commodity List (HICL) and indicate what proportion of these commodities represent threatened and CITES listed species.",
+      "ja": "72 利用者は科学に基づく目標ネットワーク（SBTN）の高インパクト一次産品リスト（HICL）を参照し、これらの一次産品のうち絶滅危惧種やワシントン条約（CITES）掲載種の占める割合を示すこと。"
+    },
+    {
+      "page": 86,
+      "type": "footnote",
+      "en": "73 Users should refer to the Science Based Targets Network (SBTN) High Impact Commodity List (HICL) and indicate what proportion of these commodities represent threatened and CITES listed species.",
+      "ja": "73 利用者は科学に基づく目標ネットワーク（SBTN）の高インパクト一次産品リスト（HICL）を参照し、これらの一次産品のうち絶滅危惧種やワシントン条約（CITES）掲載種の占める割合を示すべきである。"
+    },
+    {
+      "page": 86,
+      "type": "footnote",
+      "en": "74 Due to the measurement of levels of invasive species for organisations being a developing area, the chosen indicator focuses on whether an appropriate management response is in place for the organisation. The additional sets of metrics contain measurement of the level of invasive species within an area. The TNFD intends to do further work with experts to define ‘high-risk activities’ and ‘low-risk designed activities’.",
+      "ja": "74 組織の侵入種のレベル測定は発展途上の分野であるため、選ばれた指標は、組織にとり適切な管理対応が行われているかどうかに重点を置いている。追加された測定指標一式には、地域内の侵入種のレベルの測定が含まれる。TNFDは専門家と協力し、今後さらに「高リスクの活動」と「低リスクの計画された活動」を定義する作業を進める。"
+    },
+    {
+      "page": 87,
+      "type": "table",
+      "en": "| Metric no. | Driver of nature change | Indicator | Metric | Connection to GBF targets |\n|---|---|---|---|---|\n| C5.0 | State of nature | Placeholder indicator: Ecosystem condition<br>Placeholder indicator: Species extinction risk | For those organisations that choose to report on state of nature metrics, the TNFD encourages them to report the following indicators, and to refer to the TNFD additional guidance on measurement of the state of nature in Annex 2 of the LEAP approach:<br>• Level of ecosystem condition by type of ecosystem and business activity; and<br>• Species extinction risk.<br>There are a number of different measurement options for these indicators. The TNFD does not currently specify one metric as there is no single metric that will capture all relevant dimensions of changes to the state of nature and a consensus is still developing.<br>The TNFD will continue to work with knowledge partners to increase alignment. | Target 1, Target 2, Target 3, Target 4, Target 11 |",
+      "ja": "| 測定指標番号 | 自然の変化の要因 | 指標 | 測定指標 | GBFターゲットとの関連 |\n|---|---|---|---|---|\n| C5.0 | 自然の状態 | プレースホルダー指標：生態系の状態<br>プレースホルダー指標：種の絶滅リスク | 自然の状態の測定指標について報告することを選択した組織については、TNFDは以下の指標を報告するよう奨励し、LEAPアプローチの別紙2にあるTNFDの自然の状態の測定に関する追加ガイダンスを参照することを推奨している：<br>• 生態系の種類別と事業活動別の生態系の状態レベル<br>• 種の絶滅リスク<br>これらの指標には、さまざまな測定オプションがある。TNFDは現在、一つの測定指標を指定していない。これは自然の状態の変化に関するすべての関連する側面を捉える単一の測定指標が存在せず、コンセンサスが得られていないためである。<br>TNFDは整合性を高めるために、今後もナレッジ・パートナーとの協力を継続する。 | ターゲット1、ターゲット2、ターゲット3、ターゲット4、ターゲット11 |"
+    },
+    {
+      "page": 88,
+      "type": "h2",
+      "en": "TNFD core global disclosure metrics for nature-related risks and opportunities",
+      "ja": "自然関連のリスクと機会に関するTNFDのグローバル中核開示指標"
+    },
+    {
+      "page": 88,
+      "type": "p",
+      "en": "The core global risk and opportunity metrics relate to aggregate levels of risk and/or opportunity within organisations and are designed to provide an overall indication of the level of risk or opportunity. Core global risk and opportunity metrics should be reported at the organisational level.",
+      "ja": "リスクと機会に関するグローバル中核開示指標は、組織内のリスクや機会の総体的なレベルに関連しており、リスクや機会レベルの全体的な指針となるよう構成されている。リスクと機会のグローバル中核開示指標は組織レベルで報告されるべきである。"
+    },
+    {
+      "page": 88,
+      "type": "p",
+      "en": "Risk and opportunity metrics should be disclosed separately for areas of the value chain (direct operations, upstream, downstream) where possible to provide an indication of where the most material risks and opportunities are for the organisation.",
+      "ja": "リスクと機会の測定指標は、組織にとって最もマテリアルなリスクと機会がどこにあるかを明らかにするため、可能な限り、バリューチェーンの領域別（直接操業、上流、下流）に分けて開示すべきである。"
+    },
+    {
+      "page": 88,
+      "type": "h3",
+      "en": "Alignment to the Global Biodiversity Framework (GBF)",
+      "ja": "昆明・モントリオール生物多様性枠組（GBF）との整合"
+    },
+    {
+      "page": 88,
+      "type": "p",
+      "en": "All the TNFD core global disclosure metrics for risks and opportunities are relevant to Target 15 of the GBF.",
+      "ja": "リスクと機会に関するTNFDのグローバル中核開示指標はすべて、GBFのターゲット15に関連している。"
+    },
+    {
+      "page": 88,
+      "type": "caption",
+      "en": "Table 7: TNFD core global disclosure indicators and metrics for nature-related risks and opportunities",
+      "ja": "表7：自然関連のリスクと機会とに関するTNFDのグローバル中核開示指標と測定指標"
+    },
+    {
+      "page": 88,
+      "type": "table",
+      "en": "| Metric no. | Category | Metric |\n|---|---|---|\n| C7.0 | Risk75 | Value of assets, liabilities, revenue and expenses that are assessed as vulnerable to nature-related transition risks (total and proportion of total). |\n| C7.1 | Risk | Value of assets, liabilities, revenue and expenses that are assessed as vulnerable to nature-related physical risks (total and proportion of total). |\n| C7.2 | Risk | Description and value of significant fines/penalties received/litigation action in the year due to negative nature-related impacts. |\n| C7.3 | Opportunity | Amount of capital expenditure, financing or investment deployed towards nature-related opportunities, by type of opportunity, with reference to a government or regulator green investment taxonomy or third-party industry or NGO taxonomy, where relevant. |\n| C7.4 | Opportunity | Increase and proportion of revenue from products and services producing demonstrable positive impacts on nature with a description of impacts.76 |",
+      "ja": "| 測定指標番号 | カテゴリー | 測定指標 |\n|---|---|---|\n| C7.0 | リスク75 | 自然関連の移行リスクに対して脆弱であると評価される資産、負債、収益および費用の金額（合計および合計に占める割合）。 |\n| C7.1 | リスク | 自然関連の物理的リスクに対して脆弱であると評価される資産、負債、収益および費用の金額（合計および合計に占める割合）。 |\n| C7.2 | リスク | 自然関連のマイナスのインパクトにより当該年度に発生した多額の罰金、科料、訴訟の内容と金額。 |\n| C7.3 | 機会 | 関連する場合には、政府または規制当局のグリーン投資タクソノミー、あるいは第三者機関である産業界またはNGOのタクソノミーを参照し、機会の種類別に、自然関連の機会に向けて展開された資本支出、資金調達または投資額。 |\n| C7.4 | 機会 | 自然に対して実証可能なプラスのインパクトをもたらす製品およびサービスからの収益の増加とその割合、ならびにそのインパクトについての説明76。 |"
+    },
+    {
+      "page": 88,
+      "type": "footnote",
+      "en": "75 Refer to the TNFD Glossary for the definition of vulnerable. Core global metrics C7.0 and C7.1 are connected to additional metrics A8.6 and A9.0 which ask for disclosure of exposure to nature-related risks. For organisations following the LEAP approach, exposure is determined in the Evaluate phase and connected to exposure to nature-related dependencies and impacts, whilst vulnerability is determined in the Assess phase, considering the likelihood of the risk arising and the organisation’s ability to mitigate the risk.",
+      "ja": "75 脆弱性の定義については、TNFD用語集を参照のこと。グローバル中核開示指標C7.0およびC7.1は、自然関連リスクへのエクスポージャーの開示を求める追加測定指標A8.6およびA9.0と関連する。LEAPアプローチに従う組織の場合、エクスポージャーは診断フェーズで決定され、自然関連の依存とインパクトへのエクスポージャーに関連する。一方、脆弱性は評価フェーズで決定され、リスク発生の可能性とリスクを緩和する組織の能力を考慮する。"
+    },
+    {
+      "page": 88,
+      "type": "footnote",
+      "en": "76 Positive impacts on nature refer to positive changes to the state of nature. They can be generated by both positive impact drivers and those that reduce negative impact drivers.",
+      "ja": "76 自然に対するプラスのインパクトとは、自然の状態に対するプラスの変化を指す。これの変化は、プラスのインパクト要因およびマイナスのインパクト要因を削減する要因の両方により生じる可能性がある。"
+    },
+    {
+      "page": 89,
+      "type": "h1",
+      "en": "Annex 2: TNFD additional global disclosure metrics",
+      "ja": "別紙2：TNFDのグローバル追加開示指標"
+    },
+    {
+      "page": 89,
+      "type": "p",
+      "en": "Additional metrics are recommended for disclosure, where relevant, to best represent an organisation’s mature nature-related issues, based on their specific circumstances. They include responses to nature-related issues, as well as the nature-related issues themselves. Organisations are not limited by the sets of metrics outlined and are encouraged to report any other metrics that are material and relevant to their organisation.",
+      "ja": "追加測定指標は、組織の状況に応じて、組織の成熟した自然関連課題を最もよく表すために、関連する場合に開示が推奨される。その中には、自然関連課題自体だけでなく、自然関連課題への対応も含まれる。組織は記載された測定指標に制限されることなく、組織にとってマテリアルかつ関連性のある他のいかなる測定指標も報告することが奨励される。"
+    },
+    {
+      "page": 89,
+      "type": "p",
+      "en": "In choosing which additional metrics to disclose – or indeed other metrics – the TNFD recommends that organisations focus on those that:",
+      "ja": "TNFDは、開示する追加測定指標、あるいはその他の測定指標を選択する際に、以下のような測定指標に重点を置くことを推奨している："
+    },
+    {
+      "page": 89,
+      "type": "li",
+      "en": "Help organisations understand material nature-related dependencies, impacts, risks and opportunities, including financial effects and operational consequences;",
+      "ja": "財務的影響や業務上の影響など、マテリアルな自然関連の依存、インパクト、リスクと機会に対する組織の理解を支援すること"
+    },
+    {
+      "page": 89,
+      "type": "li",
+      "en": "Are relevant to the organisation and decision-useful for report users; and",
+      "ja": "組織に関連性があり、報告書利用者にとって意思決定に有用であること"
+    },
+    {
+      "page": 89,
+      "type": "li",
+      "en": "Show how the organisation manages nature-related issues as part of its governance, strategy and risk and impact management processes.",
+      "ja": "組織がガバナンス、戦略、リスクとインパクトの管理プロセスの一環として、自然関連課題をどのように管理しているかを示していること"
+    },
+    {
+      "page": 89,
+      "type": "h2",
+      "en": "Additional global disclosure metrics for dependencies and impacts on nature",
+      "ja": "自然に対する依存とインパクトに関するグローバル追加開示指標"
+    },
+    {
+      "page": 89,
+      "type": "p",
+      "en": "The following additional global metrics include metrics on impact drivers, changes to the state of nature and changes to ecosystem services, and may support organisations when disclosing their material nature-related dependencies and impacts. They may be considered by organisations for disclosure if relevant.",
+      "ja": "以下のグローバル追加開示指標には、インパクト要因、自然の状態の変化、生態系サービスの変化に関する測定指標が含まれており、組織がマテリアルな自然関連の依存とインパクトを開示する際に役立つ場合がある。関連性があれば、これらの情報は組織による開示が検討される場合がある。"
+    },
+    {
+      "page": 89,
+      "type": "p",
+      "en": "Metrics for the measurement of the availability of the ecosystem services that the organisation has a dependency or impact on are an important group within this additional set, but are included only as a general indicator with examples. This is because the measurement of ecosystem services is very specific to the particular service being measured and to the location of the impact with, for example, regional variations to biodiversity aspects such as species at risk and affected stakeholders reliant on the services provided. Refer to Box 7 for further details.",
+      "ja": "組織が依存し、またはインパクトを及ぼす生態系サービスの利用可能性を測定するための測定指標は、この追加指標群の中で重要なグループであるが、あくまでも一般的な指標として例を挙げているにすぎない。これは生態系サービスの測定が、測定される特定のサービスやインパクトを受ける地域に対する特異性が高いためである。例えば、危機に瀕している種や供給されるサービスに依存する影響を受けるステークホルダーなど、生物多様性の側面に地域差がある。詳細についてはボックス7を参照。"
+    },
+    {
+      "page": 90,
+      "type": "caption",
+      "en": "Table 8: TNFD additional global disclosure metrics for dependencies and impacts on nature",
+      "ja": "表8：TNFDの自然に対する依存とインパクトに関するグローバル追加開示指標"
+    },
+    {
+      "page": 90,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Indicator | Example metrics |\n|---|---|---|---|\n| A1.0 | Driver of nature change: Land/freshwater/ocean-use change | Intensity of land-use | Land-use intensity (tonnes or litres of output/km2). This will vary by sector context; for example, crop yield (tonnes/km2) for the agriculture sector. |\n| A2.0 | Driver of nature change: pollution/pollution removal | Wastewater treated, reused/recycled or avoided | Volume of wastewater treated, reused or recycled (m3).<br>Reduction in volume of wastewater relative to baseline as a result of technological or process changes (m3). |\n| A2.1 | Driver of nature change: pollution/pollution removal | Waste minimised, reused or recycled | Reduction in waste generated relative to baseline as a result of technological or process changes (tonnes). |\n| A2.2 | Driver of nature change: pollution/pollution removal | Pollutants removed | Volume of pollutants removed from land, atmosphere, ocean and freshwater (tonnes). |\n| A2.3 | Driver of nature change: pollution/pollution removal | Light and noise pollution | For example:<br>• Percentage of light fixtures that fully cut-off or are fully shielded, or are below 60W;<br>• Intensity of outdoor lighting (lumen/ha); and<br>• Average noise level on-site during noisiest part of the day, an hour either side of sunrise and an hour either side of sunset (dB); distance from nearest habitat (m). |",
+      "ja": "| 測定指標番号 | 測定指標カテゴリー | 指標 | 測定指標の例 |\n|---|---|---|---|\n| A1.0 | 自然の変化の要因：陸／淡水／海洋利用の変化 | 土地利用の強度 | 土地利用強度（トンまたはリットル生産量／km2）。これはセクターの状況によって異なる例えば、農業セクターの農作物収量（トン/km2）。 |\n| A2.0 | 自然の変化の要因：汚染／汚染除去 | 処理、再利用／リサイクル、または回避される廃水 | 処理、再利用、リサイクルされる廃水の量（m3）。<br>技術または工程の変更の結果、ベースラインに対する廃水の削減量（m3）。 |\n| A2.1 | 自然の変化の要因：汚染／汚染除去 | 廃棄物の最小化、再利用、リサイクル | 技術的あるいは工程的な変更の結果、ベースラインに対する発生した廃棄物の削減量（トン）。 |\n| A2.2 | 自然の変化の要因：汚染／汚染除去 | 除去された汚染物質 | 陸、大気、海洋、淡水から除去された汚染物質の量（トン）。 |\n| A2.3 | 自然の変化の要因：汚染／汚染除去 | 光害と騒音公害 | 以下の例がある：<br>• 完全にカットオフされているか、完全に遮蔽されているか、または60W以下の照明器具の割合<br>• 屋外照明の強度（ルーメン/ha）<br>• 一日のうち最も騒がしい時間帯の現場ごとの平均騒音レベル、日の出の1時間前／後と日没の1時間前／後（dB）、最も近い生息地からの距離（m）。 |"
+    },
+    {
+      "page": 91,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Indicator | Example metrics |\n|---|---|---|---|\n| A3.0 | Driver of nature change: resource use and replenishment | Total water consumption and withdrawal | Total volume of water withdrawal and consumption (m3).77 |\n| A3.1 | Driver of nature change: resource use and replenishment | Water replenished | Volume of water (m3) replenished to the environment through replenishment programmes (split into total and to areas of water scarcity). |\n| A3.2 | Driver of nature change: resource use and replenishment | Water reduced, reused or recycled | Total volume (m3) or percentage of water (total, freshwater, other) reduced, reused or recycled. |\n| A3.3 | Driver of nature change: resource use and replenishment | Water loss mitigated | Volume (m3) of water loss mitigated. |\n| A3.4 | Driver of nature change: resource use and replenishment | Area used for the production of natural commodities | Area (km2) that the organisation controls and/or manages that is used for the production of natural commodities from land/ocean/freshwater ecosystems, by type of ecosystem. |\n| A3.5 | Driver of nature change: resource use and replenishment | Use of wild species | Quantity of wild species (tonnes and/or number of individual specimens, by species) extracted from natural habitats for commercial purposes. |\n| A4.0 | Driver of nature change: Invasive species and other | Number/extent of unintentionally introduced species, varieties or strains | Number/extent of unintentionally introduced species, varieties or strains in areas owned, operated, used or financed in priority areas (absolute, presence/absence and/or number removed). |",
+      "ja": "| 測定指標番号 | 測定指標カテゴリー | 指標 | 測定指標の例 |\n|---|---|---|---|\n| A3.0 | 自然の変化の要因：資源の利用と補充 | 総水消費量と取水量 | 取水量と水消費量の合計（m3）77。 |\n| A3.1 | 自然の変化の要因：資源の利用と補充 | 水の補充 | 補充プログラムを通じて環境中に補充された水量（m3）（全体と水不足地域に分けて報告する）。 |\n| A3.2 | 自然の変化の要因：資源の利用と補充 | 削減、再利用／リサイクルされた水 | 削減、再利用／リサイクルされた水（合計、淡水、その他）の総量（m3）または割合。 |\n| A3.3 | 自然の変化の要因：資源の利用と補充 | 水の損失の緩和 | 緩和された水損失量（m3）。 |\n| A3.4 | 自然の変化の要因：資源の利用と補充 | 天然一次産品の生産に使用される面積 | 陸／海洋／淡水の生態系において、天然一次産品の生産に使用される組織が管理および／または運営する区域の面積（km2）（生態系の種類別）。 |\n| A3.5 | 自然の変化の要因：資源の利用と補充 | 野生種の利用 | 商業目的のために自然生息地から採取された野生種の量（種ごとの、トンおよび／または個体数）。 |\n| A4.0 | 自然の変化の要因：侵入種とその他 | 非意図的に導入された種、品種、株の数／広がり | 優先地域において所有、運営、使用、資金提供された区域に非意図的に導入された種、品種、株の数／広がり（絶対数、在・不在、および／または除去数）。 |"
+    },
+    {
+      "page": 91,
+      "type": "footnote",
+      "en": "77 Water consumption is equal to water withdrawal less water discharge. Reference: GRI (2018) GRI 303-5",
+      "ja": "77 水消費量は取水量から排水量を差し引いた量である。参考文献：GRI（2018）GRI 303-5"
+    },
+    {
+      "page": 92,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Indicator | Example metrics |\n|---|---|---|---|\n| A5.0 | State of nature | Ecosystem condition | Level of ecosystem condition by type of ecosystem and business activity – refer to TNFD additional guidance on state of nature measurement in Annex 2 of the LEAP approach. |\n| A5.1 | State of nature | Ecosystem extent | Quantitative measure of ecosystem extent, e.g. change in habitat cover (km2). |\n| A5.2 | State of nature | Ecosystem connectivity | Quantitative measure of ecosystem connectivity, e.g. Singapore Index.78 |\n| A5.3 | State of nature | Species extinction risk | Quantitative measure of species extinction risk – refer to TNFD additional guidance on state of nature measurement in Annex 2 of the LEAP approach. |\n| A5.4 | State of nature | Species population size | Quantitative measure of species population size. |\n| A6.0 | Ecosystem services | Ecosystem services the organisation has an impact on: measurement of the change in the availability and quality of the ecosystem services | See guidance on measuring changes in ecosystem services in the TNFD additional guidance on the LEAP approach. |\n| A6.1 | Ecosystem services | Ecosystem services the organisation depends on: measurement of the change in the availability and quality of the ecosystem services | See Measuring changes in ecosystem services in the TNFD additional guidance on the LEAP approach. |",
+      "ja": "| 測定指標番号 | 測定指標カテゴリー | 指標 | 測定指標の例 |\n|---|---|---|---|\n| A5.0 | 自然の状態 | 生態系の状態 | 生態系と事業活動の種類別の生態系の状態レベル - LEAPアプローチの別紙2にあるTNFDの自然の状態の測定に関する追加ガイダンスを参照。 |\n| A5.1 | 自然の状態 | 生態系面積 | 生態系面積の定量的尺度、例えば生息地被覆面積の変化（km2）。 |\n| A5.2 | 自然の状態 | 生態系の連結性 | 生態系の連結性の定量的尺度、例えばシンガポール指数78。 |\n| A5.3 | 自然の状態 | 種の絶滅リスク | 種の絶滅リスクの定量的尺度 - LEAPアプローチの別紙2にあるTNFDの自然の状態の測定に関する追加ガイダンスを参照。 |\n| A5.4 | 自然の状態 | 種の個体数 | 種の個体数の定量的尺度。 |\n| A6.0 | 生態系サービス | 組織がインパクトを及ぼす生態系サービス：生態系サービスの利用可能性と質の変化の測定 | TNFDのLEAPアプローチに関する追加ガイダンス中の生態系サービスの変化の測定に関するガイダンスを参照。 |\n| A6.1 | 生態系サービス | 組織が依存する生態系サービス：生態系サービスの利用可能性と質の変化の測定 | TNFDのLEAPアプローチに関する追加ガイダンスの「生態系サービスの変化の測定」を参照。 |"
+    },
+    {
+      "page": 92,
+      "type": "footnote",
+      "en": "78 Chan, L. et al. (2021) Handbook on the Singapore Index on Cities’ Biodiversity",
+      "ja": "78 Chan, L. et al. (2021) Handbook on the Singapore Index on Cities’ Biodiversity"
+    },
+    {
+      "page": 93,
+      "type": "h3",
+      "en": "Box 7: Metrics on ecosystem services",
+      "ja": "ボックス7：生態系サービスの測定指標"
+    },
+    {
+      "page": 93,
+      "type": "quote",
+      "en": "Disclosure of metrics on ecosystem services provides insight into the extent of organisational dependency or impact on ecosystem services, as well as the underlying health of the ecosystem asset underpinning the service. They can also be used to demonstrate societal impacts, positive and negative, related to nature, which may be useful for indicating transition risks and/or opportunities for the organisation and also demonstrate changes in performance in this area.",
+      "ja": "生態系サービスに関する測定指標の開示は、生態系サービスに対する組織の依存とインパクトの程度、さらにはサービスを支える生態系資産の根本的な健全性についての知見を提供する。これは自然に関連するプラスとマイナスの社会的インパクトの実証にも利用でき、組織にとっての移行リスクや機会を示すのに有用であり、この領域におけるパフォーマンスの変化を示すこともできる。"
+    },
+    {
+      "page": 93,
+      "type": "quote",
+      "en": "Example ecosystem service metrics that organisations may choose to report include:",
+      "ja": "組織が報告する生態系サービス測定指標の例には以下のようなものがある。"
+    },
+    {
+      "page": 93,
+      "type": "li",
+      "en": "An organisation that has a material dependency on food mitigation services provided by a woodland water catchment may choose to report the frequency of flooding incidents or changes to flood damage costs to indicate the level of risk;",
+      "ja": "森林集水域で提供される洪水緩和サービスに強く依存する組織は、リスクの程度を示すために、洪水発生頻度または洪水損害費用の変化を報告することを選択できる。"
+    },
+    {
+      "page": 93,
+      "type": "li",
+      "en": "An organisation dependent on pollinators for the provision of crops may choose to report the area of crops pollinated or changes to the yield of crop; and",
+      "ja": "農作物の供給を花粉媒介者に依存している組織は、受粉作物の農地面積や作物収穫量の変化を報告することを選択できる。"
+    },
+    {
+      "page": 93,
+      "type": "li",
+      "en": "An organisation that is withdrawing water from a freshwater source in an area of water scarcity may choose to disclose the number of people or hectares that have secure water supply in the area to demonstrate effectiveness of risk management.",
+      "ja": "水不足の地域で淡水源から取水している組織は、リスク管理の有効性を示すために、その地域で水の供給が確保されている人口またはヘクタール数の情報を開示することができる。"
+    },
+    {
+      "page": 93,
+      "type": "quote",
+      "en": "For further guidance on the measurement of ecosystem services, refer to TNFD additional guidance on the LEAP approach.",
+      "ja": "生態系サービスの測定に関するさらなるガイダンスについては、TNFDのLEAPアプローチに関する追加ガイダンスを参照のこと。"
+    },
+    {
+      "page": 93,
+      "type": "h2",
+      "en": "Additional global disclosure metrics for risks and opportunities",
+      "ja": "リスクと機会に関するグローバル追加開示指標"
+    },
+    {
+      "page": 93,
+      "type": "p",
+      "en": "The following additional global metrics include metrics split into different categories of nature-related risks and opportunities that may be considered by organisations for disclosure if relevant.",
+      "ja": "以下のグローバル追加開示指標は、自然関連のリスクと機会をさまざまなカテゴリーに分けた測定指標を含み、関連性があれば、組織はそれらの開示を検討することができる。"
+    },
+    {
+      "page": 93,
+      "type": "p",
+      "en": "As nature-related risks and opportunities are generated from organisations’ dependencies and impacts on nature, the TNFD recommends that the risk and opportunity metrics disclosed are connected to the relevant impact and/or dependency metric and response metric, where possible.",
+      "ja": "自然関連のリスクと機会は組織の自然に対する依存とインパクトから生じるものであるため、開示されるリスクと機会の測定指標は、可能であれば、関連するインパクトや依存の測定指標および対応測定指標に関連付けて開示するようTNFDでは推奨している。"
+    },
+    {
+      "page": 93,
+      "type": "p",
+      "en": "Metrics should be reported at the level that is most appropriate to reflect the magnitude of the risk or opportunity, which may be at the site, product or service, regional or organisational level.",
+      "ja": "測定指標はリスクまたは機会の大きさを反映するために最も適切なレベルで報告されるべきであり、それは、事業拠点、製品・サービス、地域・組織のいずれのレベルでもよい。"
+    },
+    {
+      "page": 93,
+      "type": "p",
+      "en": "Additional metrics are non-exhaustive and the TNFD recommends organisations consider them in the context of the most material risks and opportunities for the reporting organisation.",
+      "ja": "追加測定指標はすべてを網羅したものではなく、TNFDは組織に対し、報告組織にとり最もマテリアルなリスクと機会という文脈の中で、それらを検討することを推奨している。"
+    },
+    {
+      "page": 94,
+      "type": "caption",
+      "en": "Table 9: TNFD additional global metrics for nature-related risks and opportunities",
+      "ja": "表9：TNFDの自然関連のリスクと機会に関するグローバル追加開示指標"
+    },
+    {
+      "page": 94,
+      "type": "table",
+      "en": "| Metric no. | Risk / opportunity | Category | Metric |\n|---|---|---|---|\n| A7.0 | Risk | Multiple | Value of write-offs and early retirements of assets due to nature-related risks. |\n| A7.1 | Risk | Multiple | Value of capital expenditure, financing or investment deployed towards nature-related risks. |\n| A8.0 | Risk | Physical risk | Description and value of assets/total annual revenue dependent on area affected by physical risk. |\n| A8.1 | Risk | Physical risk | Number of locations/business lines/facilities exposed to physical risk. |\n| A8.2 | Risk | Physical risk | Value of capital expenditure on infrastructure asset repair or replacement as a result of nature-related loss and damage. |\n| A8.3 | Risk | Physical risk | Percentage increase in insurance costs due to nature-related loss and damage in the previous year. |\n| A8.4 | Risk | Physical risk | Capital expenditure on adaption due to nature-related physical risks. |\n| A8.5 | Risk | Physical risk | Costs associated with the relocation of operations and suppliers due to physical nature-related risks. |\n| A8.6 | Risk | Physical risk | Value of assets, liabilities, revenue and expenses that are exposed to nature-related physical risks (total and proportion of total). |\n| A9.0 | Risk | Transition risk | Value of assets, liabilities, revenue and expenses that are exposed to nature-related transition risks (total and proportion of total). |\n| A10.0 | Risk | Transition risk – Policy | Description and costs related to loss of operating areas. |\n| A11.0 | Risk | Transition risk – Liability | Description and value of clean-up costs due to nature-related impacts. |",
+      "ja": "| 測定指標番号 | リスク／機会 | カテゴリー | 測定指標 |\n|---|---|---|---|\n| A7.0 | リスク | 複合的 | 自然関連リスクによる資産の償却と早期除却の金額 |\n| A7.1 | リスク | 複合的 | 自然関連リスクに対して投じられた資本支出、資金調達、投資の金額 |\n| A8.0 | リスク | 物理的リスク | 物理的リスクにより影響を受ける地域に依存する資産／年間総収益の説明や金額 |\n| A8.1 | リスク | 物理的リスク | 物理的リスクにさらされている拠点数、事業部数、施設数 |\n| A8.2 | リスク | 物理的リスク | 自然関連の損失と損害によるインフラ資産の改修または交換のための資本支出額 |\n| A8.3 | リスク | 物理的リスク | 前年度の自然関連の損失と損害による保険費用の増加率 |\n| A8.4 | リスク | 物理的リスク | 自然関連の物理的リスクに適応するための資本支出 |\n| A8.5 | リスク | 物理的リスク | 自然関連の物理的リスクによる事業拠点の移転とサプライヤーの変更に関連する費用 |\n| A8.6 | リスク | 物理的リスク | 自然関連の物理的リスクにさらされている資産、負債、収益、費用の金額（合計および合計に占める割合） |\n| A9.0 | リスク | 移行リスク | 自然関連の移行リスクにさらされている資産、負債、収益、費用の金額（合計および合計に占める割合） |\n| A10.0 | リスク | 移行リスク – 政策 | 事業区域の喪失に関連する説明と費用 |\n| A11.0 | リスク | 移行リスク – 賠償責任 | 自然関連のインパクトによる浄化費用の説明と金額 |"
+    },
+    {
+      "page": 95,
+      "type": "table",
+      "en": "| Metric no. | Risk / opportunity | Category | Metric |\n|---|---|---|---|\n| A12.0 | Risk | Transition risk – Market | Description of exposure to/costs related to loss of market access. |\n| A12.1 | Risk | Transition risk – Market | Description of exposure and costs related to raw material and natural resource price volatility. |\n| A13.0 | Risk | Transition risk – Reputation | Exposure to increased operational costs/loss of revenue due to reputational risks. |\n| A14.0 | Risk | Transition risk – Technology | Expenditure on R&D for new and alternative technologies related to mitigation and adaptation of nature-related risks. |\n| A15.0 | Opportunity | Market | Year-on-year change in ESG rating scores for previous three years. |\n| A16.0 | Opportunity | Capital flow and financing | Value of green finance instruments used, such as green bonds and sustainability-linked bonds. |\n| A17.0 | Opportunity | Resource efficiency | Value of operational cost savings associated with nature-related management, such as improvements in efficiency of use of nature-related resources and adoption of circular economy practices. |",
+      "ja": "| 測定指標番号 | リスク／機会 | カテゴリー | 測定指標 |\n|---|---|---|---|\n| A12.0 | リスク | 移行リスク – 市場 | 市場アクセスの喪失へのエクスポージャーやこの喪失に関連する費用の説明 |\n| A12.1 | リスク | 移行リスク – 市場 | 原材料および自然資源の価格の変動に関連するエクスポージャーと費用の説明 |\n| A13.0 | リスク | 移行リスク – 評判 | 評判リスクによる運営費用の増加や収益損失へのエクスポージャー |\n| A14.0 | リスク | 移行リスク – 技術 | 自然関連リスクの緩和と適応に関連する新技術や代替技術に関する研究開発への支出 |\n| A15.0 | 機会 | 市場 | 過去3年間のESG格付けスコアの前年比推移 |\n| A16.0 | 機会 | 資本フローと資金調達 | グリーンボンドやサステナビリティリンクボンドなど、利用されたグリーン金融商品の金額 |\n| A17.0 | 機会 | 資源効率 | 自然関連資源の利用効率の改善や循環経済慣行の採用など、自然関連管理に関連する運営費用削減の金額 |"
+    },
+    {
+      "page": 96,
+      "type": "h2",
+      "en": "Additional global disclosure metrics for responses to nature-related issues",
+      "ja": "自然関連課題への対応に関するグローバル追加開示指標"
+    },
+    {
+      "page": 96,
+      "type": "p",
+      "en": "Organisations may wish to consider using response metrics, which are designed to accompany descriptive statements on how organisations are addressing the material nature-related issues identified. When chosen for reporting, the organisation is encouraged to connect them to the relevant dependency, impact, risk or opportunity metric as far as possible.",
+      "ja": "組織は特定されたマテリアルな自然関連課題に組織がどのように対処しているかに関して、詳細な声明に付随するよう設計された、対応測定指標の使用を検討することができる。報告する方法として選択した場合には、可能な限り、依存、インパクト、リスクまたは機会の測定指標と関連付けることが奨励される。"
+    },
+    {
+      "page": 96,
+      "type": "p",
+      "en": "Response metrics are practical to measure and can be easily interpreted by report users, and thus are important for providing decision-useful information. They allow the demonstration of best practices for nature impact and risk management, which is essential to shift finance away from harmful activities, particularly for industries that cannot completely avoid harm.",
+      "ja": "対応測定指標は、測定が実用的であり、報告書利用者が容易に解釈できるため、意思決定に有用な情報を提供する上で重要である。これは有害な活動から資金を移行させるために不可欠なことで、特に有害な活動を完全に排除することができない産業にとっては、これが自然に及ぼすインパクトとリスクの管理のベストプラクティスになる。"
+    },
+    {
+      "page": 96,
+      "type": "p",
+      "en": "Business responses to nature-related issues are highly dependent on the specific circumstances of the organisation, including the sector and biome in which the organisation operates. The list below is therefore illustrative and non-exhaustive – each organisation is encouraged to consider the most appropriate response metrics for its unique business model and reporting context.",
+      "ja": "自然関連課題に対する企業の対応は、その組織が事業を展開しているセクターやバイオームなど、その組織の状況によって大きく左右される。したがって、以下のリストは例示であり、すべてを網羅してはいない。企業の独自のビジネスモデルや報告内容ごとに最適な対応測定指標を検討することを推奨する。"
+    },
+    {
+      "page": 96,
+      "type": "caption",
+      "en": "Table 10: TNFD additional global disclosure metrics for responses to nature-related issues",
+      "ja": "表10：TNFDの自然関連課題への対応に関するグローバル追加開示指標"
+    },
+    {
+      "page": 96,
+      "type": "table",
+      "en": "| Metric no. | Category | Subcategory | Metric |\n|---|---|---|---|\n| A19.0 | Strategy | Policies, commitments and targets | Proportion of targets that are time-bound and quantifiable. |\n| A19.1 | Strategy | Policies, commitments and targets | Proportion of targets that address short term, medium term and long term risks and opportunities. |\n| A19.2 | Strategy | Policies, commitments and targets | Proportion of geographical sites/priority locations that are covered by targets. |\n| A20.0 | Strategy | Engagement | Proportion of sites that have active engagement with local stakeholders on nature-related issues. |\n| A20.1 | Strategy | Engagement | Participation in sector-wide and/or multi-stakeholder agreements (number of agreements; number of stakeholders and stakeholder groups covered). |\n| A21.0 | Strategy | Capital allocation/investment | Value of investment in projects that avoid or reduce negative nature impacts or conserve or restore ecosystems or species where impacts cannot be avoided. |\n| A21.1 | Strategy | Capital allocation/investment | Investment in nature-related solutions as defined in relevant government or regulator green investment taxonomy. |",
+      "ja": "| 測定指標番号 | カテゴリー | サブカテゴリー | 測定指標 |\n|---|---|---|---|\n| A19.0 | 戦略 | 方針、コミットメント、ターゲット | 期限付きで定量化可能なターゲットの割合 |\n| A19.1 | 戦略 | 方針、コミットメント、ターゲット | 短期、中期、長期のリスクと機会に対処するためのターゲットの割合 |\n| A19.2 | 戦略 | 方針、コミットメント、ターゲット | ターゲットに含まれる地理的拠点／優先地域の割合 |\n| A20.0 | 戦略 | エンゲージメント | 自然関連課題について地域のステークホルダーとの間で積極的なエンゲージメントを進めている事業拠点の割合 |\n| A20.1 | 戦略 | エンゲージメント | セクター全体および／または複数のステークホルダーとの合意への参加（合意の件数、ステークホルダーおよびステークホルダー・グループの数） |\n| A21.0 | 戦略 | 資本配分／投資 | 自然へのマイナスのインパクトを回避、軽減するプロジェクト、またはインパクトを回避できない場合には、生態系や生物種を保全または復元するプロジェクトに投資した金額 |\n| A21.1 | 戦略 | 資本配分／投資 | 政府または規制当局のグリーン投資タクソノミーに定義される自然関連ソリューションへの投資 |"
+    },
+    {
+      "page": 97,
+      "type": "table",
+      "en": "| Metric no. | Category | Subcategory | Metric |\n|---|---|---|---|\n| A22.0 | Dependency, impact, risk and opportunity management | Value chain | Proportion of suppliers screened on nature-related issues, by spend and/or volume. |\n| A22.1 | Dependency, impact, risk and opportunity management | Value chain | Proportion of suppliers engaged for priority nature issues identified and/or when assessing nature-related issues, by spend and/or volume. |\n| A22.2 | Dependency, impact, risk and opportunity management | Value chain | Credible and transparent third-party certification: percentage and/or value of production, consumption and sourcing of raw materials, per certification type. |\n| A22.3 | Dependency, impact, risk and opportunity management | Value chain | Proportion of production, consumption and sourcing of raw materials that is traceable to original location. |\n| A22.4 | Dependency, impact, risk and opportunity management | Value chain | Proportion of suppliers committed to and effectively implementing sustainable production. |",
+      "ja": "| 測定指標番号 | カテゴリー | サブカテゴリー | 測定指標 |\n|---|---|---|---|\n| A22.0 | 依存、インパクト、リスクと機会の管理 | バリューチェーン | 自然関連課題についてスクリーニングを受けたサプライヤーの割合（取引金額および／または取引量） |\n| A22.1 | 依存、インパクト、リスクと機会の管理 | バリューチェーン | 特定された自然関連の優先課題、および／または自然関連課題の評価に関与しているサプライヤーの割合（取引金額および／または取引量） |\n| A22.2 | 依存、インパクト、リスクと機会の管理 | バリューチェーン | 信頼性と透明性の高い第三者認証：認証種類別の原材料の生産、消費、調達の割合（%）および／または金額 |\n| A22.3 | 依存、インパクト、リスクと機会の管理 | バリューチェーン | 原産地まで追跡可能な原材料の生産、消費、調達の割合 |\n| A22.4 | 依存、インパクト、リスクと機会の管理 | バリューチェーン | 持続可能な生産に取り組み、効果的に実施しているサプライヤーの割合 |"
+    },
+    {
+      "page": 98,
+      "type": "table",
+      "en": "| Metric no. | Category | Subcategory | Metric |\n|---|---|---|---|\n| A23.0 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Proportion of sites producing and effectively implementing nature action plans. |\n| A23.1 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Rate of reuse and recycling of i) waste or ii) product/material outflows (%). |\n| A23.2 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Restoration of negatively affected species and ecosystems (investment and extent (km2)) split into ecosystem/biome type and split into:<br>• Required by regulation;<br>• Required by certifier; and<br>• Voluntary. |\n| A23.3 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Extent (km2), duration (years) and monitoring frequency (count/year) of ecosystem restoration and/or species restoration projects. |\n| A23.4 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Circular material use rate (%). |\n| A23.5 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Value of operational/capital expenditure, categorised into mitigation hierarchy actions (avoid, reduce, restore and regenerate, transform) by value and/or proportions (%). |\n| A23.6 | Dependency, impact, risk and opportunity management | Changes to nature (dependency and impact): mitigation hierarchy steps | Mandatory credit market schemes: Value of total biodiversity offsets purchased and sold by type and scope (geographies, activities). |",
+      "ja": "| 測定指標番号 | カテゴリー | サブカテゴリー | 測定指標 |\n|---|---|---|---|\n| A23.0 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 自然行動計画を作成し、効果的に実施している事業拠点の割合 |\n| A23.1 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | i) 廃棄物やii) 製品、材料の排出物フローにおいての再利用・リサイクル率（%） |\n| A23.2 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 悪影響を受けた種と生態系の復元（投資額と範囲（km2））を生態系／バイオーム別に分類し、以下のように分ける。<br>• 規制で義務付けられている<br>• 認証機関により要求されている<br>• 自主的 |\n| A23.3 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 生態系の復元および／または種の復元プロジェクトの範囲（km2）、期間（年）およびモニタリング頻度（回数／年） |\n| A23.4 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 循環材料使用率（%） |\n| A23.5 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 運営支出や資本支出の金額を、ミティゲーション・ヒエラルキー（回避、軽減、復元・再生、変革）に分類した金額および／または割合（%） |\n| A23.6 | 依存、インパクト、リスクと機会の管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 強制クレジット市場制度：生物多様性オフセットを購入・売却した総額の種類別とスコープ（地理、活動）別の分類 |"
+    },
+    {
+      "page": 99,
+      "type": "table",
+      "en": "| Metric no. | Category | Subcategory | Metric |\n|---|---|---|---|\n| A24.0 | Dependency, impact, risk and opportunity management | Voluntary conservation, restoration and regeneration | Value invested in voluntary ecosystem and/or species restoration. |\n| A24.1 | Dependency, impact, risk and opportunity management | Voluntary conservation, restoration and regeneration | Extent (km2), duration (years) and monitoring frequency (count/year) of voluntary ecosystem and/or species restoration projects. |\n| A24.2 | Dependency, impact, risk and opportunity management | Voluntary conservation, restoration and regeneration | Value of investment in additional conservation actions split into type of action and type of ecosystem/biome applied to. |\n| A24.3 | Dependency, impact, risk and opportunity management | Voluntary conservation, restoration and regeneration | Value of investment in nature-related community development programs intended to enhance positive impacts for Indigenous Peoples and affected stakeholders. |\n| A24.4 | Dependency, impact, risk and opportunity management | Voluntary conservation, restoration and regeneration | Voluntary credit market schemes: Value of total biodiversity offsets purchased and sold by type and scope (geographies, activities). |\n| A25.0 | Dependency, impact, risk and opportunity management | Dependency, impact, risk and opportunity assessment | The level(s) at which the assessment is taken (corporate, location-specific and/or project/service-line-specific). |\n| A25.1 | Dependency, impact, risk and opportunity management | Dependency, impact, risk and opportunity assessment | Percentage of direct operational locations assessed. |\n| A25.2 | Dependency, impact, risk and opportunity management | Dependency, impact, risk and opportunity assessment | Percentage of operational locations assessed upstream and downstream. |\n| A25.3 | Dependency, impact, risk and opportunity management | Dependency, impact, risk and opportunity assessment | Percentage of suppliers engaged on access to and availability of high-quality data. |",
+      "ja": "| 測定指標番号 | カテゴリー | サブカテゴリー | 測定指標 |\n|---|---|---|---|\n| A24.0 | 依存、インパクト、リスクと機会の管理 | 自主的な保全、復元、再生 | 自主的な生態系および／または種の復元に投資された金額 |\n| A24.1 | 依存、インパクト、リスクと機会の管理 | 自主的な保全、復元、再生 | 自主的な生態系および／または種の復元プロジェクトの範囲（km2）、期間（年）およびモニタリング頻度（回数／年） |\n| A24.2 | 依存、インパクト、リスクと機会の管理 | 自主的な保全、復元、再生 | 活動の種類別、適用される生態系／バイオームの種類別に分類された追加的な保全活動への投資額 |\n| A24.3 | 依存、インパクト、リスクと機会の管理 | 自主的な保全、復元、再生 | 先住民族と影響を受けるステークホルダーへのプラスのインパクトを高めることを意図した、自然関連コミュニティ開発プログラムへの投資金額 |\n| A24.4 | 依存、インパクト、リスクと機会の管理 | 自主的な保全、復元、再生 | 任意クレジット市場制度：生物多様性オフセットを購入・売却した総額の種類別とスコープ（地理、活動）別の分類 |\n| A25.0 | 依存、インパクト、リスクと機会の管理 | 依存、インパクト、リスクと機会の評価 | 評価を受けるレベル（企業、地域固有および／またはプロジェクト／事業領域固有） |\n| A25.1 | 依存、インパクト、リスクと機会の管理 | 依存、インパクト、リスクと機会の評価 | 評価された直接操業地域の割合（%） |\n| A25.2 | 依存、インパクト、リスクと機会の管理 | 依存、インパクト、リスクと機会の評価 | 上流と下流で評価された操業地域割合（%） |\n| A25.3 | 依存、インパクト、リスクと機会の管理 | 依存、インパクト、リスクと機会の評価 | 質の高いデータへのアクセスと入手可能性に関与しているサプライヤーの割合（%） |"
+    },
+    {
+      "page": 100,
+      "type": "h1",
+      "en": "Annex 3: The Taskforce Members & TNFD Secretariat",
+      "ja": "別紙3：タスクフォースメンバーとTNFD事務局"
+    },
+    {
+      "page": 100,
+      "type": "h3",
+      "en": "Co-Chairs",
+      "ja": "共同議長"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "David Craig TNFD Co-Chair",
+      "ja": "David Craig TNFD Co-Chair"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Elizabeth Maruma Mrema TNFD Co-Chair Assistant Secretary-General, United Nations Deputy Executive Director, UN Environment Programme",
+      "ja": "Elizabeth Maruma Mrema TNFD Co-Chair Assistant Secretary-General, United Nations Deputy Executive Director, UN Environment Programme"
+    },
+    {
+      "page": 100,
+      "type": "h3",
+      "en": "Taskforce Members",
+      "ja": "タスクフォースメンバー"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "David Álvarez Canales Sustainability Performance Manager Acciona",
+      "ja": "David Álvarez Canales Sustainability Performance Manager Acciona"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Marcelo Behar VP Sustainability and Group Affairs Natura & Co",
+      "ja": "Marcelo Behar VP Sustainability and Group Affairs Natura & Co"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Judson Berkey Managing Director, Chief Sustainability Office UBS",
+      "ja": "Judson Berkey Managing Director, Chief Sustainability Office UBS"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Alison Bewick Head of Group Risk Management Nestlé",
+      "ja": "Alison Bewick Head of Group Risk Management Nestlé"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Alexandre Capelli Group Environment Deputy Director LVMH",
+      "ja": "Alexandre Capelli Group Environment Deputy Director LVMH"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Koushik Chatterjee Executive Director & Chief Financial Officer Tata Steel",
+      "ja": "Koushik Chatterjee Executive Director & Chief Financial Officer Tata Steel"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Geneva Claesson Partner, Sustainability and Climate Change Deloitte",
+      "ja": "Geneva Claesson Partner, Sustainability and Climate Change Deloitte"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Hirotaka Hideshima Counsellor on Global Strategy to President and the Board of Directors Norinchukin Bank",
+      "ja": "秀島　弘高（ヒデシマ　ヒロタカ） 農林中央金庫 エグゼクティブ・アドバイザー（国際規制担当）"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Patrick Ho Deputy Head, Sustainable Development Swire Properties Ltd",
+      "ja": "Patrick Ho Deputy Head, Sustainable Development Swire Properties Ltd"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Carrie Houtman Global Sustainability Director for Climate Dow INC",
+      "ja": "Carrie Houtman Global Sustainability Director for Climate Dow INC"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Ian Hudson Head of Environment Anglo American",
+      "ja": "Ian Hudson Head of Environment Anglo American"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Renete Kaarvik Global Finance Officer Grieg Seafood",
+      "ja": "Renete Kaarvik Global Finance Officer Grieg Seafood"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Abyd Karmali Managing Director, Environmental Business Advisory Bank of America",
+      "ja": "Abyd Karmali Managing Director, Environmental Business Advisory Bank of America"
+    },
+    {
+      "page": 100,
+      "type": "li",
+      "en": "Carolin Leeshaa Global Leader, Natural Capital & Biodiversity KPMG",
+      "ja": "Carolin Leeshaa Global Leader, Natural Capital & Biodiversity KPMG"
+    }
+  ]
+}

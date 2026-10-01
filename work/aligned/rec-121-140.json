@@ -1,0 +1,538 @@
+{
+  "doc": "rec",
+  "pages": [
+    121,
+    140
+  ],
+  "segments": [
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Freshwater | All permanent and temporary freshwater bodies as well as saline water bodies that are not directly connected to the oceans.<br>The United States Geological Survey (USGS) (2018) Water Science Glossary of Terms, World Health Organization (WHO) (2017) Guidelines for Drinking-water Quality. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 淡水 | すべての恒久的および一時的な淡水域、および海洋と直接連続していない塩水域。<br>The United States Geological Survey (USGS) (2018) Water Science Glossary of Terms, 世界保健機関 (WHO) (2017) Guidelines for Drinking-water Quality. |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Freshwater use change | The change from one freshwater use category to another.<br>Adapted from Science Based Targets Initiative (2022) Forest, Land and Agriculture Guidance Science Based Target-Setting Guidance |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 淡水利用の変化 | ある淡水利用カテゴリーから別のカテゴリーへの変更。<br>引用元：科学に基づく目標イニシアティブ (2022) Forest, Land and Agriculture Guidance Science Based Target-Setting Guidance |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Government or regulator green investment taxonomy | A common framework or classification system, designed by authoritative bodies, such as governments or financial regulators, which establishes criteria for assessing whether investments can be defined as environmentally sustainable.<br>Adapted from Green Finance Institute |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 政府または規制当局のグリーン投資タクソノミー | 政府や金融規制当局などの権威ある機関が策定した、投資が環境的に持続可能であると定義できるかどうかを評価するための基準を定めた共通のフレームワークまたは分類システム。<br>引用元：グリーン・ファイナンス・インスティテュート |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Green finance instruments | Financial products and services for green investments such as green bonds and structured green funds.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| グリーン金融商品 | グリーンボンドやストラクチャード・グリーンファンドなど、グリーン投資のための金融商品やサービス。<br>TNFD |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Hazardous waste | Waste that possesses any of the characteristics contained in Annex III of the Basel Convention, or that is considered to be hazardous by national legislation.<br>United Nations Environment Programme (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, GRI (2022) GRI Standards Glossary |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 有害廃棄物 | バーゼル条約別紙IIIに含まれるいずれかの特性を有する廃棄物、または国内法で有害とみなされる廃棄物。<br>国連環境計画 (1989) Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal、GRI（2022）GRIスタンダード用語集 |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| High-risk natural commodities | High-risk natural commodities refer to commodities or products where production has significant negative impacts on nature.<br>Organisations should refer to the SBTN High Impact Commodity List in the first instance, supplemented by TNFD sector-specific guidance for details on the types of high-risk natural commodities for each sector, where relevant. Organisations should also indicate what proportion of these commodities represented are threatened and CITES-listed species.<br>Science Based Targets Network (2023) SBTN High Impact Commodity List |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 高リスク天然一次産品 | 高リスク天然一次産品とは、生産が自然に重大なマイナスのインパクトを及ぼす商品または製品を指す。<br>組織は、まずSBTN高インパクト一次産品リストを参照し、該当する場合には、各セクターの高リスク天然一次産品の種類の詳細について、TNFDのセクター別ガイダンスで補足すべきである。また、これらの一次産品のうち、絶滅危惧種やワシントン条約登録種がどの程度の割合を占めているかを示すべきである。<br>科学に基づく目標ネットワーク (2023) SBTN高インパクト一次産品リスト |"
+    },
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Impact drivers | A measurable quantity of a natural resource that is used as a natural input to production (e.g. the volume of sand and gravel used in construction) or a measurable non-product output of a business activity (e.g. a kilogram of NOx emissions released into the atmosphere by a manufacturing facility).<br>Capitals Coalition (2016) Natural Capital Protocol |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| インパクト要因 | 生産に投入される自然インプットとして使われる自然資源の測定可能な量（例えば、建設に使用される砂や砂利の量など）、または事業活動から生産される測定可能な非製品アウトプット（例えば、製造施設から大気中に放出された窒素酸化物排出量（キログラム））。<br>キャピタル・コアリション（2016）自然資本プロトコル |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Impact materiality | Information on the organisation’s most significant impacts on the economy, environment, and people, including impacts on their human rights.<br>GRI (2021) GRI 3: Material topics 2021 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| インパクト・マテリアリティ | 人権へのインパクトを含め、組織が経済、環境、人々に与える最も重大なインパクトに関する情報。<br>GRI（2021）GRI 3：マテリアルな項目2021 |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Impact pathway | An impact pathway describes how, as a result of a specific business activity, a particular impact driver results in changes in natural capital, and how these changes in natural capital affect different stakeholders.<br>Capitals Coalition (2016) Natural Capital Protocol |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| インパクト経路 | インパクト経路は、特定の事業活動の結果として、特定のインパクト要因が自然資本に対してどのような変化をもたらすか、また、この自然資本の変化がさまざまなステークホルダーにどのような影響を及ぼすかを説明する。<br>キャピタル・コアリション（2016）自然資本プロトコル |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Impacts (on nature) | Changes in the state of nature (quality or quantity), which may result in changes to the capacity of nature to provide social and economic functions. Impacts can be positive or negative. They can be the result of an organisation’s or another party’s actions and can be direct, indirect or cumulative. A single impact driver may be associated with multiple impacts.<br>Science Based Targets Network (2023) SBTN Glossary of Terms, Climate Disclosure Standards Board (2021) Application Guidance for Biodiversity-related Disclosures |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| （自然に対する）インパクト | インパクトとは自然の状態（質または量）の変化であり、その結果、社会的・経済的機能を供給する自然の能力が変化する場合がある。インパクトはプラスにもマイナスにもなりうる。これは組織または他者の行為の結果であり、直接的、間接的、累積的のいずれでもありうる。単一のインパクト要因が複数のインパクトと関連する場合がある。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 , 機構情報開示基準委員会 (2021) Application Guidance for Biodiversity-related Disclosures |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Indicator | A quantitative or qualitative factor or variable that provides a simple and reliable means to measure performance. An indicator can be measured through one or multiple metrics.<br>OECD/DAC (2002) Glossary of Key Terms in Evaluation and Results Based Management Development Assistance Committee |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 指標 | パフォーマンスを測定するための単純で信頼できる手段を提供する定量的または定性的な要因または変数。指標は1つまたは複数の測定指標を通じて測定することができる。<br>OECD/DAC (2002) Glossary of Key Terms in Evaluation and Results Based Management Development Assistance Committee |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Indicator (for measuring performance against goals or targets) | A specific metric used to track performance or progress (positive or negative change) against a goal or target.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 指標（目標またはターゲットと比較してパフォーマンスを測定するためのもの） | 目標やターゲットに対するパフォーマンスや進捗（プラスまたはマイナスの変化）を追跡するために使用される特定の測定指標。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 123,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Indigenous Peoples | There is no formal definition adopted in international law. A strict definition is seen as unnecessary and undesirable.<br>The United Nations use a working definition from the Martinez Cobo Study:<br>‘Indigenous communities, peoples and nations are those which, having a historical continuity with pre-invasion and pre-colonial societies that developed on their territories, consider themselves distinct from other sectors of the societies now prevailing on those territories, or parts of them. They form at present non-dominant sectors of society and are determined to preserve, develop and transmit to future generations their ancestral territories, and their ethnic identity, as the basis of their continued existence as peoples, in accordance with their own cultural patterns, social institutions and legal system.’<br>It also notes that an Indigenous person is: ‘… one who belongs to these indigenous populations through self-identification as indigenous (group consciousness) and is recognised and accepted by these populations as one of its members (acceptance by the group). This preserves for these communities the sovereign right and power to decide who belongs to them, without external interference.’<br>According to ILO Convention 169, Indigenous Peoples are descendants of population ‘which inhabited a country or geographical region during its conquest or colonisation or the establishment of present state boundaries’ and ‘retain some or all of their own social, economic, cultural and political institutions’.<br>Asia Pacific Forum of National Human Rights Institutions and the Office of the United Nations High Commissioner for Human Rights (August 2013) The United Nations Declaration on the Rights of Indigenous Peoples, Office of the United Nations High Commissioner for Human Rights. A Manual for National Human Rights Institutions |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 先住民族 | 国際法で採択された正式な定義はない。厳格な定義は不要であり、望ましくないと考えられる。<br>国連はマルティネス・コボ研究による実用的な定義を使用している。<br>「先住民族のコミュニティ、民族、国家とは、その専有する土地で発展した侵略以前および植民地以前の社会との歴史的連続性を持ちながら、現在その専有する土地、あるいはその一部で優勢な社会の他の部門とは一線を画していると考えるものである。先住民族は、現在、社会の非支配層を形成し、独自の文化様式、社会制度、法制度に従って、民族としての存続の基礎となる先祖伝来の専有する土地と民族的アイデンティティを保全し、発展させ、後世に伝える決意を持っている」。<br>また、先住民族に属する個人が以下のとおりであると指摘している。「先住民族であることを自己認識（集団意識）することによってこれらの先住民族集団に属し、これらの先住民族集団によってその構成員の一人として認められ、受け入れられる人（集団による受容）。これにより、これらのコミュニティは、外部からの干渉を受けることなく、自分たちの所属を決定する主権的な権利と権力を保持することになる」。<br>ILO第169号条約では、先住民族とは、「征服、植民地化または現在の国境が確立された時にその国もしくは地理的地域に居住していた」、および「自己の社会的、経済的、文化的、政治的制度の一部または全部を保持している」人々の子孫であるとされる。<br>Asia Pacific Forum of National Human Rights Institutions and the Office of the United Nations High Commissioner for Human Rights（2013年8月）The United Nations Declaration on the Rights of Indigenous Peoples, Office of the United Nations High Commissioner for Human Rights. A Manual for National Human Rights Institutions |"
+    },
+    {
+      "page": 123,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Invasive alien species | Species whose introduction and/or spread by human action outside their natural distribution threatens biological diversity, food security and human health and well-being. ‘Alien’ refers to the species having been introduced outside its natural distribution (‘exotic’, “non-native’ and ‘non-indigenous’ are synonyms for ‘alien’). ‘Invasive’ means tending to expand into and modify ecosystems to which it has been introduced. Thus, a species may be alien without being invasive, or in the case of a species native to a region, it may increase and become invasive, without actually being an alien species.<br>Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services IPBES Glossary, European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 侵略的外来種 | 自然な分布域外に人間の行為によって導入され、または拡散することで、生物多様性、食料安全保障、人間の健康と福利を脅かす種。「外来」とは、自然分布外に導入された種を指す（「外国産」、「非在来」、「非原産」は「外来」の同義語である）。「侵略的」とは、導入された生態系に拡大し、それを改変する傾向があることを意味する。従って、ある種が侵略的ではない外来種である場合もあり、また、ある地域の原産種であり、実際には外来種でなくても、増加して侵略的になる場合もある。<br>生物多様性及び生態系サービスに関する政府間プラットフォームIPBES用語集 , 欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Land | Land includes all dry land, its vegetation cover, nearby atmosphere and substrate (soils, rocks) to the rooting depth of plants, and associated animals and microbes.<br>International Union for Conservation of Nature (2023) IUCN Global Ecosystem Typology 2.0: Descriptive Profiles for Biomes and Ecosystem Functional Groups |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 陸 | 陸には、すべての陸地、その植生被覆、近隣の大気、植物の根の深さまでの基質（土壌、岩石）、および関連する動物や微生物が含まれる。<br>International Union for Conservation of Nature (2023) IUCN Global Ecosystem Typology 2.0: Descriptive Profiles for Biomes and Ecosystem Functional Groups |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Landfilling | Landfilling: final depositing of solid waste at, below or above ground level at engineered disposal sites.<br>GRI (2022) GRI Standards Glossary from UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 埋め立て | 埋め立ては、人工の処分場において地下または地上レベルで行われる固形廃棄物の最終的な堆積。<br>GRI（2022）GRIスタンダード用語集、引用元：UN (1997) Glossary of Environment Statistics, Studies in Methods, Series F, No. 67 |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Land footprint | A corporate’s land footprint, known in life cycle assessment terms as “land occupation”, is defined as the amount of agricultural land required per year to produce the products produced or sourced by a company, and it is reported in hectares per year. For crops, land occupation is also referred to as “harvested area” in the Food and Agriculture Organization’s data portal FAOSTAT.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 土地のフットプリント | 企業の土地のフットプリントは、ライフサイクルアセスメントの用語では「土地占有」と呼ばれ、企業が生産または調達する産品を生産するために1年間に必要な農地の量として定義され、年間ヘクタール単位で報告される。農作物については、食糧農業機関のデータポータルFAOSTATでは、土地占有は「収穫面積」とも呼ばれている。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Land use change | The change from one land use category to another. Land use change refers to the modification or management of natural environments into human dominated environments, such as settlements, semi-natural, agricultural areas and other living things and which may lead to a modification in land cover.<br>Science Based Targets Initiative (2022) Forestry, Land and Agriculture Science Based Target-Setting Guidance, IPBES Glossary, European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 土地利用変化 | ある土地利用カテゴリーから別のカテゴリーへの変更。土地利用変化とは、自然環境を、居住地、半自然地域、農業地域、その他の生物など、人間が支配する環境に改変または管理することであり、それにより土地被覆の改変が起きることがある。<br>科学に基づく目標イニシアティブ (2022) Forestry, Land and Agriculture Science Based Target-Setting Guidance, IPBES用語集 , 欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Land use intensity | The reciprocal of yield, referring to the amount of land needed to produce a given unit of product. The unit of product in the denominator of this calculation can vary (e.g. weight, kilocalories, protein).<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 土地利用強度 | 収量の逆数で、一定単位の産品を生産するために必要な土地の量を指す。この計算の分母となる産品の単位はさまざまである（重重、キロカロリー、タンパク質など）。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 124,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Liability | A present obligation of the entity to transfer an economic resource as a result of past events.<br>International Financial Reporting Standard (2015) Conceptual Framework: Elements of Financial Statements – Definitions and Recognition |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 賠償責任 | 過去の事象の結果として、経済的資源を移転する企業の現在の責任。<br>国際財務報告基準 (2015) Conceptual Framework: Elements of Financial Statements – Definitions and Recognition |"
+    },
+    {
+      "page": 125,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Liability risk | Arising directly or indirectly from legal claims. As laws, regulations and case law related to an organisation’s preparedness for nature action evolves, the incident or probability of contingent liabilities arising from an organisation may increase.<br>Reference: Adapted from TCFD Implementing the Recommendations of the TCFD, Appendix Table A1.3 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 賠償責任リスク | 法的請求から直接的または間接的に生じる。組織の自然ための行動に対する備えに関する法律、規制、判例法が発展するにつれて、組織から偶発債務が発生する事件や確率が高まる場合がある。<br>参考文献：引用元：気候関連財務情報開示タスクフォースの提言の実施、付録の表A1.3 |"
+    },
+    {
+      "page": 125,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Light pollution | Light pollution refers to artificial light that alters the natural patterns of light and dark in ecosystems. It comprises direct glare, chronically increased illumination and temporary, unexpected fluctuations in lighting. The sources of ecological light pollution include sky glow, illuminated buildings, streetlights, fishing boats, security lights, lights on vehicles, flares on offshore oil platforms, and lights on undersea research vessels. While light pollution is eminently detrimental to nocturnal and migratory animals and to animals in flight, it also produces harmful effects on plants.<br>Longcore, T., Rich, C. 2004. Ecological light pollution. Frontiers in Ecology and the Environment, 2[4]: 191-198 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 光害 | 光害とは、生態系における明暗の自然なパターンを変化させる人工的な光である。直射光のまぶしさ、恒常的な照度の増加、一時的な予期せぬ照明の変動がある。生態系の光害の発生源には、人工光による明るい夜空、建物の照明、街灯、漁船、防犯灯、車両のライト、海上石油プラットフォームのフレア、海底調査船のサーチライトなどがある。光害は夜行性動物や移動性動物、飛行中の動物にとってきわめて有害であるが、植物にも有害な影響を及ぼす。<br>Longcore, T., Rich, C. 2004. Ecological light pollution. Frontiers in Ecology and the Environment, 2[4]: 191-198 |"
+    },
+    {
+      "page": 125,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Liquidity risk | Banks’ access to stable sources of funding could be reduced as market conditions change. Nature-related risks may cause banks’ counterparties to draw down deposits and credit lines.<br>For example, there may be pressure to liquidate assets due to rapid nature degradation as a result of crossing a tipping point or new regulations affecting particular assets that influence cash flows and collateral values.<br>Adapted from Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related Risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 流動性リスク | 市況の変化に伴い、銀行の安定した資金調達手段へのアクセスが低下する可能性がある。自然関連リスクにより、銀行の取引先が預金額や信用枠を引き下げる可能性がある。<br>例えば、転換点（tipping points）を越えた結果として急速に自然が劣化し、またはキャッシュフローや担保価値に影響を与える特定の資産に影響を与える新たな規制の結果として、資産の流動化を迫られる可能性がある。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 126,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Local Communities | The term ‘Local Communities’ is used based on the characteristic listed by the Convention on Biological Diversity and its article 8 (j) which refer to: ‘Local communities embodying traditional lifestyles relevant for the conservation and sustainable of biological diversity’.<br>Convention on Biological Diversity, Article 8: In-situ Conservation<br>The Convention on Biological Diversity in its decision XI/14, Article 8(j) and related provisions, ‘Takes note of the characteristics listed in section I of the annex to the report of the Expert Group Meeting as potentially useful advice in identifying local communities, within the mandate of the Convention.’<br>Convention on Biological Diversity, Decision adopted by the Conference of the Parties to the Convention on Biological Diversity at its Eleventh Meeting. XI/14. Article 8(j) and related provisions<br>The experts recommended that a working definition may be possible based on the following characteristics, some of which could be considered essential: Local Communities living in rural and urban areas of various ecosystems may exhibit some of the following characteristics:<br>(a) Self-identification as a local community;<br>(b) Lifestyles linked to traditions associated with natural cycles (symbiotic relationships or dependence), the use of and dependence on biological resources and linked to the sustainable use of nature and biodiversity;<br>(c) The community occupies a definable territory79 traditionally occupied and/or used, permanently or periodically. These territories are important for the maintenance of social, cultural and economic aspects of the community;<br>(d) Traditions (often referring to common history, culture, language, rituals, symbols and customs) that are dynamic and may evolve;<br>(e) Technology/knowledge/innovations/practices associated with the sustainable use and conservation of biological resources;<br>(f) Social cohesion and willingness to be represented as a local community;<br>(g) Traditional knowledge transmitted from generation to generation including in oral form;<br>(h) A set of social rules (e.g. that regulate land conflicts/sharing of benefits) and organisational-specific community/traditional/customary laws and institutions;<br>(i) Expression of customary and/or collective rights;<br>(j) Self-regulation by their customs and traditional forms of organisation and institutions;<br>(k) Performance and maintenance of economic activities traditionally, including for subsistence, sustainable development and/or survival;<br>(l) Biological (including genetic) and cultural heritage (bio-cultural heritage);<br>(m) Spiritual and cultural values of biodiversity and territories;<br>(n) Culture, including traditional cultural expressions captured through local languages, highlighting common interest and values;<br>(o) Sometimes marginalised from modern geopolitical systems and structures;<br>(p) Biodiversity often incorporated into traditional place names;<br>(q) Foods and food preparation systems and traditional medicines are closely connected to biodiversity/environment;<br>(r) May have had little or no prior contact with other sectors of society resulting in distinctness or may choose to remain distinct;<br>(s) Practice of traditional occupations and livelihoods;<br>(t) May live in extended family, clan or tribal structures;<br>(u) Belief and value systems, including spirituality, are often linked to biodiversity;<br>(v) Shared common property over land and natural resources;<br>(w) Traditional right holders to natural resources;<br>(x) Vulnerability to outsiders and little concept of intellectual property rights.<br>Report of the Expert Group Meeting of Local Community Representatives within the Context of Article 8(j) and Related Provisions of the Convention on Biological Diversity |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 地域社会 | 「地域社会」という用語は、生物多様性条約およびその第8条 (j)<br>生物多様性条約、第8条：生息域内保全<br>生物多様性条約はその決定XI/14、第8条 (j) および関連条項において、「専門家グループ会合の報告書の別紙セクションIに記載された特徴を、条約の権限の範囲内で、地域社会を特定する際に有用な助言となり得るものとして留意する」としている。<br>生物多様性条約Decision adopted by the Conference of the Parties to the Convention on Biological Diversity at its Eleventh Meeting. XI/14. Article 8(j) and related provisions<br>専門家らは、本質的とみなされる可能性のあるものを含む以下のような特徴に基づく実用的な定義が可能であると提言した。さまざまな生態系の農村や都市圏に住む地域社会は、以下のような特徴を示すことがある。<br>(a) 地域社会としての自己認識<br>(b) 自然の循環（共生関係や依存）と関連する伝統、生物資源の利用と依存、自然と生物多様性の持続的利用と結びついた生活様式<br>(c) コミュニティは、伝統的に占有し、および／または使用してきた明確な領土を79永続的もしくは定期的に占有している。これらの領土は、コミュニティの社会的、文化的、経済的側面を維持するために重要である<br>(d) 動的で進化する可能性のある伝統（多くの場合、共通の歴史、文化、言語、儀式、シンボル、慣習）<br>(e) 生物資源の持続的利用と保全に関する技術、知識、革新、慣行<br>(f) 地域社会として代表されることへの社会的結束力と意欲<br>(g) 口承を含め、世代から世代へと伝えられてきた伝統的知識<br>(h) 一連の社会的規則（土地紛争や利益の分配を調整するルールなど）や、組織特有のコミュニティの伝統的、慣習的な法や制度がある<br>(i) 慣習的権利または集団的権利の表現<br>(j) 慣習や伝統的な形態の組織および制度による自主規制<br>(k) 自給自足、持続可能な開発、および／または生存のためを含む、伝統的な経済活動の遂行と維持<br>(l) 生物学的（遺伝子を含む）および文化的遺産（生物文化遺産）<br>(m) 生物多様性と領土の精神的・文化的価値<br>(n) 共通の関心や価値観を強調し、現地の言語を通じてとらえた伝統的な文化表現を含む文化<br>(o) 時には現代の地政学的システムや構造から疎外されることもある<br>(p) 生物多様性が伝統的な地名に組み込まれていることが多い<br>(q) 食品と調理方法、伝統的な医薬品が、生物多様性や環境と密接に関連している<br>(r) 他の社会セクターとほとんど、あるいはまったく接触したことがなく、その結果、独特な存在となったか、あるいは独特な存在であり続けることを選択している場合がある<br>(s) 伝統的な職業と生計の実践<br>(t) 拡大家族、一族、部族構造の中で生活している場合がある<br>(u) スピリチュアリティを含む信念や価値観は、しばしば生物多様性と結びついている<br>(v) 土地と自然資源に対する共有財産権<br>(w) 自然資源に対する伝統的権利保持者<br>(x) 部外者に対する脆弱性、知的財産権の概念が希薄<br>Report of the Expert Group Meeting of Local Community Representatives within the Context of Article 8(j) and Related Provisions of the Convention on Biological Diversity |",
+      "flag": "ja-first-sentence-truncated-in-source"
+    },
+    {
+      "page": 126,
+      "type": "footnote",
+      "en": "79 Territory is interpreted as lands and waters.",
+      "ja": "79 領土は土地および水域と解釈される。"
+    },
+    {
+      "page": 127,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Market opportunity | Changing dynamics in overall markets, such as access to new markets or locations, which arise from other opportunity categories as a result of changing conditions, including consumer demands, consumer and investor sentiment and stakeholder dynamics.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 市場機会 | 消費者の需要、消費者や投資家のセンチメント、ステークホルダーの力学など、状況の変化によって他の機会カテゴリーから生じる、新しい市場や地域へのアクセスなど、市場全体における原動力の変化。<br>TNFD |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Market risk | Changing dynamics in overall markets, including changes in consumer preferences, which arise from other risk categories as a result of changing physical, regulatory, technological and reputational conditions and stakeholder dynamics.<br>Adapted from Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related Risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 市場リスク | 物理的、規制、技術、評判などの状況やステークホルダーの力学が変化した結果、他のリスク・カテゴリーに起因する消費者選好の変化など、市場全体の力学が変化すること。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Materiality | Report preparers should use the definitional guidance regarding materiality provided by the regulatory authorities for their reporting jurisdiction(s).<br>In the absence of any such guidance, the TNFD recommends that organisations apply the ISSB’s approach to identifying information that is material for users of general financial reports as a baseline. Report preparers who want or need to report to a different materiality approach may apply an impact materiality approach to identify information in addition to the ISSB’s baseline. With respect to impact materiality, the TNFD has aligned its recommendations (and supporting additional guidance) with the language and approach of the GRI’s Sustainability Reporting Standards.<br>Organisations seeking to align with Target 15 of the GBF will want to consider the application of an impact materiality lens to identify information that is incremental to the global baseline.<br>International Financial Reporting Standards (2023) IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information; GRI (2021) GRI 1: Foundation 2021, Section 2.2 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| マテリアリティ | 報告書作成者は、報告の法域に関して規制当局が提供するマテリアリティに関する定義についてのガイダンスを利用すべきである。<br>そのようなガイダンスがない場合、一般財務報告書の利用者にとって重要な情報を特定するためのベースラインとして、TNFDはISSBのアプローチの適用を推奨している。異なるマテリアリティ・アプローチで報告することを望む、または必要とする報告書作成者は、ISSBのベースラインに加えて、情報を特定するためにインパクト・マテリアリティ・アプローチを適用することができる。インパクト・マテリアリティに関して、TNFDはGRIのサステナビリティ報告基準の文言およびアプローチと整合的な提言（およびそれを支持する追加ガイダンス）を行っている。<br>GBFのターゲット15に整合しようとする組織は、グローバル・ベースラインに対する増分としての情報を特定するために、インパクト・マテリアリティに関する判断基準の適用を検討することができる。<br>国際財務報告基準 (2023) IFRS S1: サステナビリティ関連財務情報の開示に関する全般的要求事項 ; GRI（2021）GRI 1：基礎2021、セクション2.2 |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Material locations | Locations where an organisation has identified material nature-related dependencies, impacts, risks and opportunities in its direct operations and upstream and downstream value chain(s).<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| マテリアルな地域 | 直接操業および上流と下流のバリューチェーンにおいて、組織がマテリアルな自然関連の依存、インパクト、リスクと機会を特定した地域。<br>TNFD |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Measurement (science-based targets) | The process of collecting data for baseline setting, monitoring and reporting of science-based targets.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 測定（科学に基づくターゲット） | 科学に基づくターゲットのベースライン設定、モニタリング、報告のためのデータ収集プロセス。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Metric | A system or standard of measurement<br>Biodiversity Indicators Partnership (2011) Guidance for National Biodiversity Indicator Development and Use |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 測定指標 | 測定のシステムまたは基準。<br>Biodiversity Indicators Partnership (2011) Guidance for National Biodiversity Indicator Development and Use |"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Mitigation | Action(s) taken to reduce the extent of a negative impact.<br>GRI (2022) GRI Standards Glossary from UN (2012) The Corporate Responsibility to Respect Human Rights: An Interpretive Guide |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 緩和 | マイナスのインパクトの程度を軽減するために取られる措置。<br>GRI（2022）GRIスタンダード用語集、引用元：国連 (2012) 人権尊重についての企業の責任：解釈の手引き |"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Mitigation hierarchy (and conservation hierarchy) | The mitigation hierarchy is the sequence of actions to anticipate and avoid, and where avoidance is not possible, minimise, and when impacts occur, restore, and where significant residual impacts remain, offset for biodiversity-related risks and impacts on affected communities and the environment.<br>The conservation hierarchy goes beyond mitigating impacts, to encompass any activities affecting nature. This means that conservation actions to address historical, systemic and non-attributable biodiversity loss can be accounted for in the same framework as actions to mitigate specific impacts.<br>The TNFD aligns to the SBTN AR3T Framework that covers actions to avoid future impacts, reduce current impacts, regenerate and restore ecosystems, and transform the systems in which companies are embedded. It is built on the mitigation hierarchy set out in the International Financial Corporation’s (IFC) Performance Standard 6 and the Conservation Hierarchy.<br>Adapted from Cross Sector Biodiversity Initiative (2015) A cross sector guide for implementing the Mitigation Hierarchy: Executive Summary and Overview, Conservation hierarchy, Science Based Targets Network (2023) Step 4. Act |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| ミティゲーション・ヒエラルキー（およびコンサベーション・ヒエラルキー） | ミティゲーション・ヒエラルキーとは、生物多様性に関連するリスクや影響を受けるコミュニティや環境へのインパクトを、予測し、回避し、回避が不可能な場合は最小化し、インパクトが発生した場合は復元し、重大な残存インパクトがある場合はオフセットするための、一連の行動である。<br>コンサベーション・ヒエラルキーは、インパクトを緩和するだけでなく、自然にインパクトを与えるあらゆる活動を包含する。これは、歴史的、体系的で、特定の原因に帰することができない生物多様性の損失に対処するための保全活動が、特定のインパクトを緩和するための活動と同じ枠組みで説明できることを意味する。<br>TNFDはSBTN AR3Tフレームワークと整合し、将来のインパクトを回避し、現在のインパクトを軽減し、生態系を再生・復元し、企業が組み込まれているシステムを変革するための行動を対象とする。これは、国際金融公社（IFC）のパフォーマンス・スタンダード6とコンサベーション・ヒエラルキーに定められたミティゲーション・ヒエラルキーに基づく。<br>引用元：Cross Sector Biodiversity Initiative (2015)A cross sector guide for implementing the Mitigation Hierarchy: Executive Summary and Overview, Conservation hierarchy, 科学に基づく目標ネットワーク (2023) Step 4. Act |"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Monitoring (science-based targets) | Tracking progress towards targets.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| モニタリング（科学に基づくターゲット） | ターゲットに対する進捗状況を追跡する。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Natural capital | The stock of renewable and non-renewable natural resources (e.g. plants, animals, air, water, soils, minerals) that combine to yield a flow of benefits to people.<br>Capitals Coalition (2016) Natural Capital Protocol |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然資本 | 組み合わせにより人に対する便益をもたらす植物、動物、空気、水、土壌、鉱物などの再生可能・非再生可能自然資源のストック。<br>キャピタル・コアリション（2016）自然資本プロトコル |"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Natural commodities (resources) | Natural assets (raw materials) occurring in nature that can be used for economic production or consumption.<br>Organisation for Economic Cooperation and Development (2008) OECD Glossary of Statistical Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 天然一次産品（資源） | 自然界に存在し、経済的生産または消費に利用可能な自然資産（原材料）<br>経済協力開発機構 (2008) OECD Glossary of Statistical Terms |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Natural ecosystem | An ecosystem that substantially resembles – in terms of species composition, structure and ecological function – one that is or would be found in a given area in the absence of major human impacts. This includes human-managed ecosystems where much of the natural species composition, structure and ecological function is present.<br>Science Based Targets Network (2023) Step 3: Measure, Set, Disclose: Land (Version 0.3) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然生態系 | 人間による大きなインパクトがない場合にある地域に存在する、または存在するであろう生態系と（種の構成、構造、生態学的機能などの点で）実質的に類似する生態系これには、自然の種の構成、構造、生態学的機能の多くが存在する、人間が管理する生態系も含まれる。<br>科学に基づく目標ネットワーク (2023) Step 3: Measure, Set, Disclose: Land (Version 0.3) |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature | The natural world, with an emphasis on the diversity of living organisms (including people) and their interactions among themselves and with their environment.<br>Adapted from Díaz, S et al (2015) The IPBES Conceptual Framework – Connecting Nature and People |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然 | 自然界のことで、（人間を含む）生物の多様性、生物間の相互作用、環境との相互作用に重点を置く。<br>引用元：Díaz, S et al (2015) The IPBES Conceptual Framework – Connecting Nature and People |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature loss | The loss and/or decline of the state of nature. This includes, but is not limited to, the reduction of any aspect of biological diversity, such as diversity at the genetic, species and ecosystem levels in a particular area through death (including extinction), destruction or manual removal.<br>Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Global Assessment Report on Biodiversity and Ecosystem Services |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然の損失 | 自然の状態の損失および／または衰退死滅（絶滅を含む）、破壊、人手による除去による特定の地域における遺伝的、種、生態系レベル多様性など、生物多様性のあらゆる側面の減少が含まれるが、これに限定されるものではない。<br>生物多様性及び生態系サービスに関する政府間プラットフォーム (2019) 生物多様性と生態系サービスに関する地球規模世界評価報告書 |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature’s contribution to people | All the contributions, both positive and negative, to people’s quality of life.<br>Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services IPBES Glossary |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 人間へ自然がもたらすもの | 人間のクオリティ・オブ・ライフ（生活の質）に関するプラスとマイナスの両方を含むすべての寄与。<br>生物多様性及び生態系サービスに関する政府間プラットフォームIPBES用語集 |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-based solutions | Actions to protect, conserve, restore, sustainably use and manage natural or modified terrestrial, freshwater, coastal and marine ecosystems that address societal, economic and environmental challenges effectively and adaptively, while simultaneously providing human well-being, ecosystem services, resilience and biodiversity benefits.<br>Adapted from International Union for Conservation of Nature (2020) The IUCN Global Standard for Nature-based Solutions |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然に根ざした解決策 | 社会的、経済的、環境的課題に効果的かつ適応的に対処し、同時に人間の福利、生態系サービス、レジリエンス、生物多様性に利益をもたらす、自然または改変された陸域、淡水、沿岸、海洋の生態系の保護、保全、復元、持続可能な利用、管理のための行動。<br>引用元：International Union for Conservation of Nature (2020) The IUCN Global Standard for Nature-based Solutions |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-positive | A high-level goal and concept describing a future state of nature (e.g. biodiversity, ecosystem services and natural capital) that is greater than the current state.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| ネイチャーポジティブ | 現状を上回る将来の自然の状態（例えば、生物多様性、生態系サービス、自然資本）を記述した高いレベルの目標および概念。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related community development programs | Plan that details actions to minimise, mitigate or compensate for adverse social and/or economic impacts, and/or to identify opportunities or actions to enhance positive impacts of a project on the community.<br>GRI (2022) GRI Standards Glossary |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連コミュニティ開発プログラム | 社会的および／または経済的にマイナスなインパクトを最小化、緩和、または補償するための行動、および／またはプロジェクトがコミュニティに及ぼすプラスのインパクトを強化するための機会や行動を特定するための行動を詳述した計画。<br>GRI（2022）GRIスタンダード用語集 |"
+    },
+    {
+      "page": 131,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related opportunities | Activities that create positive outcomes for organisations and nature by creating positive impacts on nature or mitigating negative impacts on nature.<br>Nature-related opportunities are generated through impacts and dependencies on nature, and can occur:<br>• When organisations avoid, reduce, mitigate or manage nature-related risks, for example, connected to the loss of nature and ecosystem services that the organisation and society depend on;<br>• Through the strategic transformation of business models, products, services, markets and investments that actively work to reverse the loss of nature, including by restoration, regeneration of nature and implementation of nature-based solutions.<br>Adapted from WWF (2022) A Biodiversity Guide for Business |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連の機会 | 自然に対するプラスのインパクトを生み出し、または自然に対するマイナスのインパクトを緩和することにより、組織と自然にとってプラスの成果を生み出す活動。<br>自然関連の機会は自然に対するインパクトと依存を通じて生じ、以下の場合に生じることがある。<br>• 例えば組織や社会が依存している自然や生態系サービスの損失に関連する自然関連リスクを、組織が回避、軽減、緩和、管理する場合<br>• ビジネスモデル、製品、サービス、市場、投資の戦略的変革を通じて、自然の復元、再生、自然に根ざした解決策の実施など、自然の損失を逆転させる場合<br>引用元：WWF (2022) A Biodiversity Guide for Business |"
+    },
+    {
+      "page": 131,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related physical risks | Nature-related physical risks are risks resulting from the degradation of nature (such as changes in ecosystem equilibria, including soil quality and species composition) and consequential loss of ecosystem services that economic activity depends upon. These risks can be chronic (e.g. a gradual decline of species diversity of pollinators resulting in reduced crop yields or water scarcity) or acute (e.g. natural disasters or forest spills). Nature-related physical risks arise as a result of changes in the biotic (living) and abiotic (non-living) conditions that support healthy, functioning ecosystems. These risks are usually location-specific.<br>Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks, Financial Stability Board (2022) Supervisory and Regulatory Approaches to Climate-related Risks Final report, International Association of Insurance Supervisors (2021) Application Paper on the Supervision of Climate-related Risks in the Insurance Sector, Network for Greening the Financial System (2019) A Call for Action: Climate Change as a source of Financial Risk |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連の物理的リスク | 自然関連の物理的リスクとは、自然の劣化（土壌の質や種の構成などの生態系の均衡の変化など）と、その結果として、経済活動が依存する生態系サービスの損失が起きることに起因するリスクである。これらのリスクは慢性的（例えば、農作物の収量の減少をもたらす花粉媒介者の種の多様性の段階的減少や水不足）、または急性的（例えば、自然災害または油流出事故）である。自然関連の物理的リスクは、健全に機能する生態系を支える生物的（生きている）および非生物的（生きていない）条件の変化の結果として生じる。こうしたリスクは通常、地域固有である。<br>気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks, 金融安定理事会 (2022) 気候関連リスクに対する規制・監督手法・最終報告書 , International Association of Insurance Supervisors (2021) Application Paper on the Supervision of Climate-related Risks in the Insurance Sector, 気候変動リスク等に係る金融当局ネットワーク (2019) A Call for Action: Climate Change as a source of Financial Risk |"
+    },
+    {
+      "page": 131,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related risks | In line with ISO, the TNFD defines nature-related risks as potential threats (effects of uncertainty) posed to an organisation that arise from its and wider society’s dependencies and impacts on nature.<br>International Organization for Standardization (2018) ISO 31000, Risk Management – Guidelines |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連リスク | ISOと同様に、TNFDは自然関連リスクを、組織自体およびより広い社会の自然に対する依存とインパクトから生じる、組織にもたらされる潜在的な脅威（不確実性の影響）と定義している。<br>国際標準化機構 (2018) ISO 31000, Risk Management – Guidelines |"
+    },
+    {
+      "page": 132,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related systemic risks | Nature-related systemic risks are risks arising from the breakdown of the entire system, rather than the failure of individual parts. Nature-related systemic risks are characterised by modest tipping points combining indirectly to produce large failures and cascading interactions of physical and transition risks. One loss triggers a chain of others and stops systems from recovering their equilibrium after a shock.<br>Nature-related systemic risk covers more than only risk to a financial system (i.e. financial stability risk). It also covers the risks from the breakdown of natural systems (i.e. ecosystems).<br>Goldin, I & Mariathasan, M (2014) The Butterfly Defect: How Globalisation Creates Systemic Risks, and What to Do about It; International Risk Governance Centre (2018) IRGC Guidelines for the Governance of Systemic Risks; Kaufmann, G & Scott, K (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It? |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連のシステミックリスク | 自然関連のシステミックリスクとは、個々の部分の破綻ではなく、システム全体の崩壊から生じるリスクである。自然関連のシステミックリスクには、小さい転換点（tipping points）が間接的に組み合わさった結果、大規模な破綻および物理的リスクと移行リスクの相互作用が順繰りに発生するという特徴がある。1つの損失が引き金となって他の損失が連鎖し、衝撃的な事態が発生した後にシステムの均衡的な回復が止まる。<br>自然関連のシステミックリスクは、金融システムに対するリスク（金融安定性リスク）の範囲を超える。それは自然システム（生態系）の崩壊によるリスクも含む。<br>Goldin, I & Mariathasan, M (2014) The Butterfly Defect: How Globalisation Creates Systemic Risks, and What to Do about It; International Risk Governance Centre (2018) IRGC Guidelines for the Governance of Systemic Risks; Kaufmann, G & Scott, K (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It? |"
+    },
+    {
+      "page": 132,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Nature-related transition risks | Nature-related transition risks are risks to an organisation that stem from a misalignment of economic actors with actions aimed at protecting, restoring, and/or reducing negative impacts on nature. These risks can be prompted, for example, by changes in regulation and policy, legal precedent, technology, or investor sentiment and consumer preferences. They can also arise from activities aimed at restoring nature that no longer align with, for example, revised policies.<br>Network for Greening the Financial System (2019) A Call for Action: Climate Change as a Source of Financial Risk, Network for Greening the Financial System (2021) Climate-related Litigation: Raising Awareness About a Growing Source of Risk, Financial Stability Board (2022) Supervisory and Regulatory Approaches to Climate-related Risks Final report, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然関連の移行リスク | 自然関連の移行リスクとは、自然を保護し、復元させ、または自然へのマイナスのインパクトを軽減させることを目的とした行動と経済主体との不整合から派生する組織へのリスクである。こうしたリスクは、例えば規制や政策、判例、技術、投資家心理や消費者選好の変化によって引き起こされる可能性がある。また、自然の復元を目的とした活動が、例えば見直された政策と整合しなくなったことから生じることもある。<br>気候変動リスク等に係る金融当局ネットワーク (2019) A Call for Action: Climate Change as a Source of Financial Risk, 気候変動リスク等に係る金融当局ネットワーク (2021) Climate-related Litigation: Raising Awareness About a Growing Source of Risk, 金融安定理事会 (2022) 気候関連リスクに対する規制・監督手法・最終報告書 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 132,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Negatively impacted ecosystems | Ecosystems which have been disturbed or disrupted as a result of human activity or natural occurrences, creating changes to the state of the ecosystem, such as degradation, habitat loss or species loss. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 悪影響を受けた生態系 | 人間活動や自然現象の結果、撹乱または破壊され、劣化、生息地減少、種の減少など、生態系の状態に変化が起きた生態系。 |"
+    },
+    {
+      "page": 132,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Noise pollution | Harmful or unwanted sounds in the environment, which in specific local areas, can be measured and averaged over a period of time.<br>European Environment Agency (2000) EEA Glossary ETC/CDS. General Environmental Multilingual Thesaurus (GEMET) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 騒音公害 | 環境中の有害な音や不要な音。特定の地域内で測定され、一定期間にわたって平均化される。<br>European Environment Agency (2000) EEA Glossary ETC/CDS. General Environmental Multilingual Thesaurus (GEMET) |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Non-hazardous waste | See definition of waste. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 非有害廃棄物 | 廃棄物の定義を参照のこと。 |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Non-purposefully introduced species | See definition of ‘unintentional/intentional introduction of invasive alien species’<br>Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services IPBES Glossary, European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 非意図的に導入された種 | 「侵略的外来種の非意図的／意図的導入」の定義を参照のこと。<br>生物多様性及び生態系サービスに関する政府間プラットフォームIPBES用語集 , 欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Ocean | All connected saline ocean waters characterised by waves, tides and currents. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 海洋 | 波、潮汐、潮流を特徴とする、すべての連続した塩水海域。 |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Ocean use change | The change from one ocean use category to another.<br>Adapted from Science Based Targets Initiative (2022) Forest, Land and Agriculture Guidance Science Based Target-Setting Guidance |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 海洋利用の変化 | ある海洋利用カテゴリーから別のカテゴリーへの変更。<br>引用元：科学に基づく目標イニシアティブ (2022) Forest, Land and Agriculture Guidance Science Based Target-Setting Guidance |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Operational risk | Increasing legal and regulatory compliance costs associated with investments and businesses.<br>For example, a financial institution may face regulatory, reputational or liability risks as a result of financing a company engaged in activities that contribute to deforestation. Facilities/ suppliers of the financial institution may be affected by flooding or landslides<br>Adapted from Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| オペレーショナル・リスク | 投資や事業に関連する法規制遵守コストの増大。<br>例えば、金融機関が森林破壊を助長するような活動に従事している企業に融資した結果、規制リスク、評判リスク、賠償責任リスクに直面する可能性がある。洪水や土砂災害により、金融機関の施設や取引先が影響を受ける可能性がある。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Physical water risk | Area of high physical water risk include limited water availability, flooding and poor quality of water. This also includes marine areas with high levels of land-based pollution. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 水に関する物理的リスク | 水に関する高い物理的リスクとして、限定的な水の利用可能性、洪水、低い水質などがある。これには、陸上由来の汚染レベルが高い海域も含まれる。 |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Plastic | Material containing a polymer (a large chain molecule with repeating molecular units) that can be moulded into a finished product. Examples include thermoplastics, polyurethanes, elastomers, thermosets, adhesives, coatings and sealants, and PP fibres.<br>CDP (2023) Technical Note – Plastics Disclosure. CDP Water Security 2023 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| プラスチック | ポリマー（分子単位が鎖状の規則的な繰り返しを持つ大きな構造単位でできているもの）を含む材料で、最終製品に成形することができる。例えば、熱可塑性プラスチック、ポリウレタン、エラストマー、熱硬化性樹脂、接着剤、コーティング剤、シーリング剤、PP繊維などである。<br>CDP (2023) テクニカルノード：プラスチック情報開示 . CDP水セキュリティ2023 |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Plastic packaging | Plastic means a polymer material to which additives or substances may have been added. When assessing the amount of plastic in a packaging component, the additives are classed as part of the plastic.<br>Plastics include polymers which are:<br>• biodegradable<br>• compostable<br>• oxo-degradable<br>If a plastic packaging component is made from multiple materials but contains more plastic by weight (including additives which form part of the plastic) than any other substance, it will be classed as a plastic packaging component.<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| プラスチック包装材 | プラスチックとは、添加物や物質が加えられたポリマー材料を意味する。包装部品に含まれるプラスチックの量を評価する場合、添加剤はプラスチックの一部として分類される。<br>プラスチックは、以下のようなポリマーを含む。<br>• 生分解性<br>• 堆肥化可能<br>• オキソ分解性<br>プラスチック包装材部品が複数の材料から作られているが、プラスチック（プラスチックの一部を構成する添加物を含む）の含有量が重量において他のどの物質よりも多い場合は、プラスチック包装材として分類される。<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Policy risk | Changes in the policy context due to new (or enforcement of existing) policies associated with creating positive impacts on nature or mitigating negative impacts on nature.<br>Adapted from: Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 政策リスク | 自然へのプラスのインパクトの創出または自然へのマイナスのインパクトの緩和に関連する新たな政策（または既存のものの施行）による政策状況の変化。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Pollution | Presence of substances and heat in air, water and/or land whose nature, location or quantity produce harmful and undesirable environmental effects.<br>UN Statistics Division Environment Glossary |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 汚染 | 大気、水、土地において、その性質、位置、量によって有害で望ましくない環境影響をもたらす物質や熱の存在。<br>UN Statistics Division Environment Glossary |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Pollutants | Substances and heat in air, water and/or land whose nature, location or quantity produce harmful and undesirable environmental effects.<br>UN Statistics Division Environment Glossary |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 汚染物質 | 大気、水、土地において、その性質、位置、量によって有害で望ましくない環境影響をもたらす物質や熱。<br>UN Statistics Division Environment Glossary |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Pollutants removed from land, atmosphere, ocean and freshwater | Pollution removal (or remediation) is the removal of pollutants, including chemical substances and/or energy, that are judged to be having a negative impact on the environment, specifically soils, sediments and watercourses.<br>Nature Journal |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 陸、大気、海洋、淡水から除去される汚染物質 | 汚染除去（または修復）とは、環境、特に土壌、堆積物、水路にマイナスのインパクトを及ぼしていると判断される化学物質やエネルギーを含む汚染物質を除去することを意味する。<br>Nature Journal |"
+    },
+    {
+      "page": 135,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Polymers | A large chain molecule with repeating molecular units.<br>CDP (2023) Technical Note – Plastics Disclosure. CDP Water Security 2023 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| ポリマー | 分子単位が鎖状の規則的な繰り返しを持つ大きな構造単位でできているもの。<br>CDP (2023) テクニカルノート：プラスチック情報開示 . CDP水セキュリティ2023 |"
+    },
+    {
+      "page": 135,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Principles of extended producer responsibility | An environmental policy approach in which a producer’s responsibility for a product is extended to the post-consumer stage of a product’s life cycle. An extended producer responsibility (EPR) policy is characterised by:<br>The shifting of responsibility (physically and/or economically; fully or partially) upstream toward the producer and away from municipalities; and<br>The provision of incentives to producers to take into account environmental considerations when designing their products.<br>Organisation for Economic Corporation and Development (2016) Extended Producer Responsibility |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 拡大生産者責任の原則 | 製品に対する生産者の責任を、製品のライフサイクルの消費後段階まで拡大する環境政策手法。拡大生産者責任（EPR）政策の特徴：<br>責任を（物理的および／または経済的に、完全にまたは部分的に）上流の生産者に向け、自治体から遠ざけるように移すこと。<br>生産者が製品を設計する際に環境への配慮を行うよう生産者に促すインセンティブを提供すること。<br>経済協力開発機構 (2016) 拡大生産者責任 |"
+    },
+    {
+      "page": 135,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| “Prior and informed consent” or “free, prior and informed consent” or “approval and involvement” | Free implies that Indigenous Peoples and Local Communities are not pressured, intimidated, manipulated or unduly influenced and that their consent is given, without coercion. Prior implies seeking consent or approval sufficiently in advance of any authorisation to access traditional knowledge respecting the customary decision-making processes in accordance with national legislation and time requirements of Indigenous Peoples and Local Communities. Informed implies that information is provided that covers relevant aspects, such as the intended purpose of the access; its duration and scope; a preliminary assessment of the likely economic, social, cultural and environmental impacts, including potential risks; personnel likely to be involved in the execution of the access; procedures the access may entail; and benefit-sharing arrangements. Consent or approval is the agreement of the Indigenous Peoples and Local Communities who are holders of traditional knowledge or the competent authorities of those Indigenous Peoples and Local Communities, as appropriate, to grant access to their traditional knowledge to a potential user and includes the right not to grant consent or approval. Involvement refers to the full and effective participation of Indigenous Peoples and Local Communities in decision-making processes related to access to their traditional knowledge. Consultation and full and effective participation of Indigenous Peoples and Local Communities are crucial components of a consent or approval process.<br>Convention on Biological Diversity (2018) Glossary of Relevant Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 「事前の十分な情報に基づく同意」または「自由意思による、事前の、十分な情報に基づく同意」または「承認と参画」 | 自由とは、先住民族と地域社会が圧力をかけられたり、脅迫されたり、操作されたり、不当に影響を受けたりせず、強制されることなく同意が得られることを意味する。事前とは、伝統的知識へのアクセスを許可する場合、国内法および先住民族と地域社会の時間的要件に従った慣習的意思決定プロセスを尊重し、事前に十分な同意や承認を求めることを意味する。「十分な情報に基づく」とは、以下のような関連する側面を網羅する情報が提供されることを意味する。例えば、アクセスの意図される目的、その期間とスコープ、潜在的なリスクも含まれる、経済的、社会的、文化的、環境的なインパクトに関する初期評価、アクセスの実行に参画すると思われる人員、アクセスに伴う手続き、利益配分の取り決めである。同意または承認とは、伝統的知識の保有者である先住民族と地域社会、またはそれらの先住民族と地域社会に関して権限ある当局が、適切な場合には、潜在的使用者に伝統的知識へのアクセスを許可することに同意することであり、合意または承認を与えない権利を含む。参画とは、伝統的知識へのアクセスに関わる意思決定プロセスにおいて、先住民族と地域社会が完全かつ効果的に参加することを指す。先住民族および地域社会との協議およびそれらの完全かつ効果的な参加は、同意と承認のプロセスにおいてきわめて重要な要素である。<br>生物多様性条約 (2018) 関連用語集 |"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Priority locations | Priority locations are locations that are:<br>Material locations: Locations where an organisation has identified material nature-related dependencies, impacts, risks and opportunities in its direct operations and upstream and downstream value chain(s); and/or<br>Sensitive location: Locations where the assets and/or activities in its direct operations – and, where possible upstream and downstream value chain(s) – interface with nature in:<br>• Areas important for biodiversity; and/or<br>• Areas of high ecosystem integrity; and/or<br>• Areas of rapid decline in ecosystem integrity; and/or<br>• Areas of high physical water risks; and/or<br>• Areas of importance for ecosystem service provision, including benefits to Indigenous Peoples, Local Communities and stakeholders.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 優先地域 | 優先地域とは、以下のいずれかの場所を指す。<br>重大な地域：直接操業および上流と下流のバリューチェーンにおいて、組織が重大な自然関連の依存、インパクト、リスクと機会を特定された場所、または<br>要注意地域：組織の直接操業、および可能であれば上流と下流のバリューチェーンの資産および／または活動が、以下の地域において自然と接する場所である。<br>• 生物多様性にとり重要な地域、および／または<br>• 生態系の十全性が高い地域、および／または<br>• 生態系の十全性が急速に低下している地域、および／または<br>• 物理的な水リスクが高い地域、および／または<br>• 先住民族、地域社会とステークホルダーへの便益を含む、生態系サービスの供給にとり重要な地域<br>TNFD |"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Product and services opportunity | Value proposition related to the creation or delivery of products and services that protect, manage or restore nature, including technological innovations.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 製品とサービスの機会 | 技術革新を含め、自然を保護、管理、復元する製品やサービスの創造や提供に関する価値提案。<br>TNFD |"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Rate of reuse and recycling | The ratio between total waste generated, excluding major mineral wastes, and the quantities that were managed through reuse and recycling.<br>European Environment Agency (2022) Waste and recycling in Europe |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 再利用・リサイクル率 | 主要鉱物廃棄物を除いた廃棄物総発生量と、再利用やリサイクルによって管理された量の比率。<br>European Environment Agency (2022) Waste and recycling in Europe |"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Raw material content | Primary or secondary material that is used to produce a product<br>European Commission (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 原材料含有量 | 製品を製造するために使用される一次または二次材料。<br>欧州委員会 (2023) Annex 2 to the Commission Delegated Regulation, supplementing Directive 2013/34/EU as amended by Directive 2022/2464 (CSRD), as regards sustainability reporting standards |"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Realm | Major components of the living, natural world that differ fundamentally in ecosystem organisation and function: terrestrial (land), freshwater, marine (ocean), subterranean and atmospheric. The TNFD’s framework is based on four realms – land, freshwater, ocean and atmosphere. The subterranean realm is included within the land, freshwater and ocean realms.<br>Adapted from Keith A. et al. (2020) IUCN Global Ecosystem Typology 2.0: Descriptive Profiles for Biomes and Ecosystem Functional Groups |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 領域 | 生態系の組織と機能が根本的に異なる、生きている自然界の主な構成要素は、陸域（陸地）、淡水、海洋（外洋）、地中、大気である。TNFDの枠組みは、陸、淡水、海洋、大気の4つの領域に基づいている。地中の領域は、陸の領域、淡水の領域、海洋の領域に含まれる。<br>引用元：Keith D. et al. (2020) IUCN Global Ecosystem Typology 2.0: Descriptive Profiles for Biomes and Ecosystem Functional Groups |"
+    },
+    {
+      "page": 137,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Recyclable packaging | A packaging or packaging component is recyclable if its successful post-consumer collection, sorting and recycling is proven to work in practice and at scale.<br>A package can be considered recyclable if its main packaging components, together representing >95% of the entire packaging weight, are recyclable according to the above definition, and if the remaining minor components are compatible with the recycling process and do not hinder the recyclability of the main components. ‘At scale’ is considered a 30% recycling rate.<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| リサイクル可能包装材 | 包装材または包装部品は、消費者使用後の回収、分別、リサイクルが実際に、そして大規模にうまくいくことが証明されていれば、リサイクル可能である。包装は、包装全体の重量の95% 以上を占める主な包装構成要素が、上記の定義に従ってリサイクル可能であり、残りの主な構成要素がリサイクル工程に適合し、主な構成要素のリサイクル可能性を妨げなければ、リサイクル可能であるとみなすことができる。「大規模」とはリサイクル率30% と考えられている。<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |"
+    },
+    {
+      "page": 137,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Reference condition | The condition against which past, present and future ecosystem conditions are compared in order to derive metrics and measure relative change over time.<br>An example could be a previous or desired state of nature that can be used for comparison. The choice of reference condition will depend on the business and environmental context.<br>Further guidance on reference condition can be found in TNFD’s additional guidance on the LEAP approach<br>United Nations et al. (2021) System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA EA) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 参照条件 | 測定指標を導き、時間の経過に伴う相対的な変化を測定するために、過去、現在、未来の生態系の状態を比較する基準となる条件。<br>その例として、比較のために使用できる、以前の、あるいは望ましい、自然の状態を挙げることができる。参照条件の選択は、ビジネスと環境の状況によって異なる。<br>参照条件に関するさらに詳しいガイダンスは、TNFDのLEAPアプローチに関する追加ガイダンスに記載されている。<br>United Nations et al. (2021) 環境経済統合勘定 - 生態系勘定 (SEEA EA) |"
+    },
+    {
+      "page": 137,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Reputation risk | Changes in perception concerning a company’s actual or perceived nature impacts, including at a local, economic and societal level, that can result from direct company impacts, industry impacts and/or impacts of upstream/ downstream operations.<br>Adapted from Task Force on Climate-related Financial Disclosures (2017) Final Report: Recommendations on Climate-related Financial Disclosures, Financial Stability Board (2022) Final report: Supervisory and Regulatory Approaches to Climate-related risks, Network for Greening the Financial System (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 評判リスク | 地域的、経済的、社会的レベルを含む、企業の実質上または認識上の自然へのインパクトに関する認識の変化は、企業の直接的なインパクト、業界のインパクト、および／または上流／下流での事業のインパクトから生じる可能性がある。<br>引用元：気候関連財務情報開示タスクフォース (2017) 最終報告書：気候関連財務情報開示に関する提言 , 金融安定理事会 (2022) 最終報告書：気候関連リスクに対する規制・監督手法 , 気候変動リスク等に係る金融当局ネットワーク (2023) Nature-related Financial Risks: A Conceptual Framework to guide Action by Central Banks and Supervisors, 経済協力開発機構（2023、近日公開）A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks |"
+    },
+    {
+      "page": 137,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Reputational capital opportunity | Changes in perception concerning a company’s actual or perceived nature impacts, including the consequent impacts on society and engagement of stakeholders.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 評判資本の機会 | 企業の実質上または認識上の自然に対するインパクトに関する認識の変化で、結果として生じる社会へのインパクトやステークホルダーとのエンゲージメントを含む。<br>TNFD |"
+    },
+    {
+      "page": 138,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Resilience | Resilience is defined as having the capacity to live and develop with change and uncertainty. It provides capacities for turning risks into opportunities. This includes: (1) adaptive capacities to absorb shocks and turbulence and avoid unpleasant tipping points, thresholds and regime shifts; (2) capacities to prepare for, learn from and navigate uncertainty and surprise; (3) capacities for keeping options alive and creating space for innovation; and (4) capacities for systemic transformation in the face of crises and unsustainable development pathways and traps.<br>Folke, C., R. Biggs, A.V. Norström, B. Reyers, and J. Rockström (2016), Social-Ecological Resilience and Biosphere-Based Sustainability Science, Ecology and Society 21(3):41,<br>Rockström, J., A.V. Norström, N. Matthews, R. Biggs, C. Folke, A. Harikishun, S. Huq, N. Krishnan, L. Warszawski, and D. Nel. (2023), Shaping a Resilient Future in Response to COVID-19, Nature Sustainability |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| レジリエンス | レジリエンスとは、変化や不確実性と共存し、発展していく能力を持つことと定義される。リスクを機会に変える能力を提供する。これには以下が含まれる。(1) 衝撃と擾乱を吸収し、不快な転換点（tipping points）、しきい値、レジームシフトを回避する適応能力、(2) 不確実性と不意打ちに備え、そこから学び、乗り切る能力、(3) 選択肢を維持し、革新のための余地を生み出す能力、(4) 危機や持続不可能な開発経路や罠に直面した際のシステマティックな変革のための能力。<br>Folke, C., R. Biggs, A.V. Norström, B. Reyers, and J. Rockström (2016), Social-Ecological Resilience and Biosphere-Based Sustainability Science, Ecology and Society 21(3):41,<br>Rockström, J., A.V. Norström, N. Matthews, R. Biggs, C. Folke, A. Harikishun, S. Huq, N. Krishnan, L. Warszawski, and D. Nel. (2023), Shaping a Resilient Future in Response to COVID-19, Nature Sustainability |"
+    },
+    {
+      "page": 138,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Resource efficiency opportunity | Actions an organisation can take within its own operations or value chain in order to avoid or reduce impacts and dependencies on nature (for example, by utilising less natural resources), while achieving co-benefits such as improved operational efficiency or reduced costs (for example, micro irrigation that maximises plant health, reduces water use and reduces costs).<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 資源効率の機会 | 自然に対するインパクトと依存を回避または軽減するために、組織が自らの事業やバリューチェーンの中で取ることのできる行動（例えば、より少ない自然資源を利用する）であり、同時に事業効率の改善やコスト削減などのコベネフィットを達成するための行動（例えば、植物の健全性を最大化し、水の使用量を削減し、コストを削減するマイクロ灌漑）。<br>TNFD |"
+    },
+    {
+      "page": 138,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Restoration | The process of assisting the recovery of an area or ecosystem that has been degraded, damaged or destroyed. The aim of ecological restoration is to re-establish the ecosystem’s composition, structure and function, usually bringing it back to its original (pre-disturbance) state or to a healthy state close to the original. An ecosystem is restored when it contains sufficient biotic and abiotic resources to sustain itself structurally and functionally and can continue its development without further assistance or subsidy. It will demonstrate resilience to normal ranges of environmental stress and disturbance and interact with contiguous ecosystems in terms of biotic and abiotic flows and cultural interactions. Ecosystem restoration is sometimes used interchangeably with ecological restoration, but ecological restoration always addresses biodiversity conservation and ecological integrity, whereas some approaches to ecosystem restoration may focus solely on the delivery of ecosystem services.<br>Adapted from Gann G.D. et al. (2019) International Principles and Standards for the Practice of Ecological Restoration. Restoration Ecology Volume 27, Issue S1 |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 復元 | 劣化、損傷、破壊された地域や生態系の回復を支援するプロセス。生態系の復元の目的は、生態系の構成、構造、機能を再確立することであり、通常、元の状態（撹乱前）、あるいは元に近い健全な状態に戻すことである。生態系が復元するのは、構造的にも機能的にもそれ自身を維持するのに十分な生物的・非生物学的資源を含み、さらなる助力や補給なしにその発展を続けることができる場合である。通常の範囲の環境ストレスや攪乱に対するレジリエンスを示し、生物的・非生物的な流れや文化的相互作用という点で、隣接する生態系と相互に作用する。生態系の復元は、生態学的な復元と同じ意味で使われることもあるが、生態学的な復元が常に生物多様性の保全と生態系の十全性に取り組むのに対し、生態系の復元には生態系サービスの提供のみに焦点を絞るアプローチもある。<br>引用元：Gann G.D. et al. (2019) International Principles and Standards for Practice of Ecological Restoration. Restoration Ecology Volume 27, Issue S1 |"
+    },
+    {
+      "page": 139,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Reusable plastics | An item of packaging can be defined as reusable if it is conceived, designed and marketed to carry out multiple trips in its lifetime by being refilled or reused for the same purpose for which it was conceived. Reusable packaging should be designed to be recyclable as far as possible, as it will inevitably reach the maximum number of reuse cycles at some point, after which recycling ensures the material is kept in the economy.<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 再利用可能なプラスチック | 包装用品は、それが考案されたのと同じ目的のために再充填または再利用されることによって、その耐用期間中に何度も往復できるように考案され、設計され、販売されている場合、再利用可能であると定義することができる。再利用可能包装材は、可能な限りリサイクル可能なように設計されるべきである。なぜなら、再利用サイクルは必然的にある時点で最大数に達し、その後はリサイクルによって材料が経済の中に維持されるからである。<br>Ellen MacArthur Foundation (2022) New Plastics Economy Global Commitment |"
+    },
+    {
+      "page": 139,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Revenue | Revenue is the gross inflow of economic benefits during a financial year arising from the course of the ordinary activities of an entity when those inflows result in increases in equity, other than increases relating to contributions from equity participants.<br>Adapted from International Financial Reporting Standards IAS 18 Revenue |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 収益 | 収益とは、企業の通常の活動から生じる会計年度中の経済的利益の総流入量であり、その流入が資本の増加をもたらす場合（資本参加者からの拠出に関連する増加を除く）を意味する。<br>引用元：国際財務報告基準IAS 18 Revenue |"
+    },
+    {
+      "page": 139,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Scenarios | A scenario is a logically consistent story that describes a plausible future. It identifies some significant events, the main actors and their motivations, and how the world functions in this plausible future. It is intended to challenge thinking about what the future might be like and how they might respond under circumstances different from those they face today. Scenarios explore a broad set of uncertainties, at least some of which represent discontinuities with existing planning models. Scenarios are also typically designed in part to identify risks that could emerge over the course of a longer time frame (e.g. multiple years), which typically take shape at the intersection of several seemingly unconnected uncertainties.<br>Adapted from Task Force on Climate-related Financial Disclosures (2020) Guidance on Scenario Analysis for Non-Financial Companies |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| シナリオ | シナリオとは、考えられる未来を描いた論理的に整合性のある物語である。重要な出来事、主な登場人物とその動機、そして、この考えられる未来で世界がどのように機能するかを明らかにする。将来はどうなるのか、そして現在とは異なる状況下でどのように対応するのかについて、思考を巡らせることを目的としている。シナリオは広範な不確実性を探求するもので、少なくともその一部は既存の計画モデルとの不一致を意味する。シナリオはまた、通常、より長い時間枠（例えば、複数年）の間に出現する可能性のあるリスクを特定するために設計されるものであり、通常、いくつかの一見つながりのない不確定要素が交差することで形作られる。<br>引用元：気候関連財務情報開示タスクフォース (2020) Guidance on Scenario Analysis for Non-Financial Companies |"
+    },
+    {
+      "page": 139,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Science-based targets for nature (or SBTs) | Measurable, actionable and time-bound objectives based on the best available science that allow actors to align with Earth’s limits and societal sustainability goals.<br>Science Based Targets Network (2023) SBTN Glossary of Terms |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 科学に基づく自然保護目標（SBTs） | 利用可能な最善の科学に基づき、測定可能、実行可能な期限付きの目標を設定することで、行動主体が地球の限界と社会の持続可能性の目標に沿うことができるようにする。<br>科学に基づく目標ネットワーク (2023) SBTN用語集 |"
+    },
+    {
+      "page": 139,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Scope 1, 2 and 3 emissions | Refer to TCFD Glossary and/or GHG Protocol for climate-related definitions. |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| スコープ1、2、3排出量 | 気候関連の定義については、TCFD用語集または温室効果ガス（GHG）プロトコルを参照のこと。 |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Sensitive locations | Locations where the assets and/or activities in an organisation’s direct operations – and, where possible, upstream and downstream value chain(s) – interface with nature in:<br>• Areas important for biodiversity; and/or<br>• Areas of high ecosystem integrity; and/or<br>• Areas of rapid decline in ecosystem integrity; and/or<br>• Areas of high physical water risks; and/or<br>• Areas of importance for ecosystem service provision, including benefits to Indigenous Peoples, Local Communities and stakeholders.<br>TNFD |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 要注意地域 | 組織の直接操業、および可能であれば、上流と下流のバリューチェーンの資産および／または活動が、以下の地域において自然と接する場所である。<br>• 生物多様性にとり重要な地域、および／または<br>• 生態系の十全性が高い地域、および／または<br>• 生態系の十全性が急速に低下している地域、および／または<br>• 物理的な水リスクが高い地域、および／または<br>• 先住民族、地域社会とステークホルダーへの便益を含む、生態系サービスの供給にとり重要な地域<br>TNFD |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Species | A fundamental category for the classification and description of organisms, defined in various ways but typically on the basis of reproductive capacity; i.e. the members of a species can reproduce with each other to produce fertile offspring but cannot do so with individuals outside the species.<br>Levin, S. A. ed. (2009) The Princeton Guide to Ecology (Princeton, NJ: Princeton University Press) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 種 | 生物の分類と説明のための基本的なカテゴリーであり、さまざまな方法で定義されるが、通常は生殖能力に基づく。すなわち、ある種の構成員は互いに繁殖して繁殖力のある子孫を残すことができるが、種外の個体とは繁殖できない。<br>Levin, S. A. ed. (2009) The Princeton Guide to Ecology (Princeton, NJ: Princeton University Press) |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Stakeholder engagement | Stakeholder engagement involves interactive processes of engagement with relevant stakeholders through, for example, meetings, hearings or consultation proceedings. Effective stakeholder engagement is characterised by two-way communication and depends on the good faith of the participants on both sides.<br>UN Guiding principles reporting framework |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| ステークホルダーとのエンゲージメント | ステークホルダーとのエンゲージメントには、例えば会議、公聴会、協議手続きなど、関連するステークホルダーとの双方向のエンゲージメント・プロセスが含まれる。効果的なステークホルダーとのエンゲージメントは、双方向のコミュニケーションによって特徴付けられ、双方の参加者の誠意にかかっている。<br>UN Guiding principles reporting framework |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Stakeholders | Stakeholders are persons or groups who are directly or indirectly affected by a project, as well as those who may have interests in a project and/or the ability to influence its outcome, either positively or negatively.<br>UN Guiding principles reporting framework |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| ステークホルダー | ステークホルダーとは、プロジェクトによって直接的または間接的に影響を受ける人やグループ、プロジェクトに利害関係を持つ可能性のある人、および／または、プラスかマイナスかを問わず、プロジェクトの成果に影響を与える能力を持つ可能性のある人のことである。<br>UN Guiding principles reporting framework |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| State of nature | The condition and extent of ecosystems, and species population size and extinction risk, including positive or negative changes.<br>Adapted from United Nations.et al. (2021) System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA EA) |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| 自然の状態 | プラスまたはマイナスの変化を含む、生態系の状態および範囲、種の個体数および絶滅リスク。<br>引用元：United Nations. et al. (2021) 環境経済統合勘定 - 生態系勘定 (SEEA EA) |"
+    },
+    {
+      "page": 140,
+      "type": "table",
+      "en": "| Term | Definition |\n|---|---|\n| Supply chain | The linear sequence of processes, actors and locations involved in the production, distribution and sale of a commodity from start to finish.<br>Task Force on Climate-related Financial Disclosures (2020) Guidance on Scenario Analysis for Non-Financial Companies |",
+      "ja": "| 用語 | 定義 |\n|---|---|\n| サプライチェーン | ある一次産品の生産、流通、販売に関わるプロセス、関係主体、地域の最初から最後までの直線的な順序。<br>気候関連財務情報開示タスクフォース (2020) Guidance on Scenario Analysis for Non-Financial Companies |"
+    }
+  ]
+}

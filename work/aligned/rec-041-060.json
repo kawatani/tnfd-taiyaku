@@ -1,0 +1,2159 @@
+{
+  "doc": "rec",
+  "pages": [
+    41,
+    60
+  ],
+  "segments": [
+    {
+      "page": 41,
+      "type": "h3",
+      "en": "At a glance – the TNFD’s recommended disclosures",
+      "ja": "一目でわかる - TNFDの開示提言"
+    },
+    {
+      "page": 41,
+      "type": "h4",
+      "en": "Highlights",
+      "ja": "注目点"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Four disclosure pillars, building on TCFD recommendations and consistent with ISSB’s IFRS Sustainability Disclosure Standards.",
+      "ja": "TCFDの提言に基づき、ISSBのIFRSサステナビリティ開示基準と整合する4つの開示の柱"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "14 recommended disclosures.",
+      "ja": "開示提言14項目"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "All 11 TCFD recommended disclosures included to encourage and support integrated climate and nature reporting.",
+      "ja": "気候と自然を組み入れた報告を奨励し支援するためTCFD開示提言11項目すべてを組み込む"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Incorporation of dependencies, impacts, risks and opportunities.",
+      "ja": "依存、インパクト、リスクと機会の織り込み"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Fully aligned with the Global Biodiversity Framework Target 15 requirement to disclose dependencies, impacts and risks.",
+      "ja": "依存、インパクト、リスクを開示するという昆明・モントリオール生物多様性枠組のターゲット15の要件に完全に整合"
+    },
+    {
+      "page": 41,
+      "type": "h2",
+      "en": "3.1. Conceptual foundations for disclosure",
+      "ja": "3.1. 開示の基本概念"
+    },
+    {
+      "page": 41,
+      "type": "h3",
+      "en": "Core content for disclosure",
+      "ja": "開示の中核となる内容"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "Building on the approach developed by the TCFD and incorporated into the ISSB’s IFRS-S1 General Requirements, the TNFD has organised its recommended disclosures around the four pillars of:",
+      "ja": "TNFDは、TCFDが開発し、ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」に盛り込まれたアプローチに基づき、以下の4つの柱を中心に開示提言を構成している。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Governance;",
+      "ja": "ガバナンス"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Strategy;",
+      "ja": "戦略"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Risk and impact management; and",
+      "ja": "リスクとインパクトの管理"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Metrics and targets.",
+      "ja": "測定指標とターゲット"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "At the core of the TNFD recommendations are four closely related principles:",
+      "ja": "TNFDの提言の中核は、密接に関連する4つの原則である。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "1. Support for increasing the breadth and depth of disclosure ambition over time, consistent with both the ISSB Standards and its global sustainability reporting baseline, and the global policy goals and targets in the GBF: Organisations, in particular large and transnational corporates and financial institutions, should seek to expand and improve the quality of their corporate reporting over time in order to align with Target 15 of the GBF. This calls for regular monitoring, assessment and disclosure of risks, dependencies and impacts along organisations’ operations, supply and value chains, and portfolios.",
+      "ja": "1. ISSB基準とそのグローバルなサステナビリティ報告のベースラインおよびGBFのグローバルな政策目標とターゲットの双方に整合しながら、開示の幅と深さを時間をかけて向上させることを支持：組織、特に大企業や多国籍企業、金融機関は、GBFのターゲット15に整合するよう、時間をかけて企業報告の拡大と質の向上を目指すものとすべきである。これは組織の事業、サプライチェーン、バリューチェーン、ポートフォリオに沿ったリスク、依存、インパクトの定期的なモニタリング、評価、開示を必要とする。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "2. Materiality as the basis for disclosure: Organisations should disclose material information about their nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "2. 開示の根拠としてのマテリアリティ：組織は自然関連の依存、インパクト、リスクと機会に関するマテリアルな情報を開示すべきである。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "3. Recognition of different approaches to materiality: The TNFD’s recommendations have been designed to accommodate the different materiality preferences and requirements of a range of report preparers across jurisdictions. The TNFD recommends that organisations apply the ISSB’s approach to identifying information that is material for users of general purpose financial reports as a baseline. Report preparers who want or need to report to a different materiality approach may apply an impact materiality approach to identify information in addition to the ISSB’s baseline. Report preparers should use the definitional guidance regarding materiality provided by the regulatory authorities for their reporting jurisdiction(s). Organisations seeking to align with Target 15 of the GBF will want to consider the application of an impact materiality lens to identify information that is incremental to the global baseline.",
+      "ja": "3. マテリアリティに対するさまざまなアプローチの認識：TNFDの提言は、複数の法域にわたる幅広い報告書作成者のマテリアリティに関する異なる選好や要求に対応するように設計されている。TNFDでは、ベースラインとして一般目的財務報告書の利用者にとってのマテリアルな情報を特定するために、ISSBのアプローチを適用することを組織に推奨している。マテリアリティに対する異なるアプローチに従い報告することを望むか、その必要性がある報告書作成者は、ISSBのベースラインに加え、情報を特定するためにインパクト・マテリアリティに対するアプローチを適用することができる。報告書作成者は、報告の法域に関して規制当局が提供するマテリアリティに関する定義についてのガイダンスを利用すべきである。GBFのターゲット15に整合しようとする組織は、グローバル・ベースラインに向けて漸増する情報を特定するために、インパクト・マテリアリティに関する判断基準の適用を検討することができる。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "4. Comprehensiveness in identification and assessment of nature-related issues: Understanding an organisation’s dependencies and impacts on nature is essential to inform a robust understanding of its potentially material risks and opportunities. The TNFD therefore strongly recommends, irrespective of the approach to materiality taken by the report preparer, the identification and assessment of all four types of nature-related issues – dependencies, impacts, risks and opportunities. When reporting, organisations should delineate the four types of issue and explain the links between them.",
+      "ja": "4. 自然関連課題の特定と評価における包括性：自然に対する組織の依存とインパクトを理解することは、潜在的にマテリアルなリスクと機会を確実に把握していることを伝えるために不可欠である。したがってTNFDは、報告書作成者が取るマテリアリティへのアプローチにかかわらず、4つの自然関連課題（依存、インパクト、リスクと機会）をすべて特定し、評価することを強く推奨している報告する際、組織は4つの自然関連課題を明確にし、それらの間の関連性を説明すべきである。"
+    },
+    {
+      "page": 42,
+      "type": "h3",
+      "en": "Materiality",
+      "ja": "マテリアリティ"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "As noted above, report preparers should use their jurisdiction’s regulatory approach to materiality. In the absence of such guidance, the TNFD recommends that report preparers:",
+      "ja": "上述したように、報告書作成者は、その法域のマテリアリティに関するアプローチを用いるべきである。そのようなガイダンスがない場合、TNFDは報告書作成者に以下のことを推奨している。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "Provide information consistent with meeting the material information needs of capital providers as a baseline, consistent with the ISSB and the TCFD, with a focus on risk management and how dependencies and impacts on nature create risks and opportunities for an organisation’s financial position; and",
+      "ja": "ISSBやTCFDに整合したベースラインとして、マテリアルな情報に対する資本提供者のニーズを満たす情報を提供し、それはリスク管理に対して、また、自然に対する依存とインパクトが組織の財務状況にどのようなリスクや機会をもたらすかに対して、重点を置くものである。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "Should they need or choose to do so, provide information consistent with meeting the material information needs of stakeholders aligned with a broader materiality approach, reporting against both the ISSB global sustainability reporting baseline and the impact materiality approach of GRI.42",
+      "ja": "そうする必要がある場合、またはそうすることを選択する場合は、より広範なマテリアリティ・アプローチに沿ってマテリアルな情報に対するステークホルダーのニーズを満たす情報を提供し、ISSBのグローバルなサステナビリティ報告のベースラインとGRIのインパクト・マテリアリティ・アプローチの双方に照らして報告する42。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The information that the ISSB requires an entity to provide to meet the needs of primary users of general purpose financial reports (sometimes referred to as ‘financial materiality’) is set out in its IFRS-S1 General Requirements (paragraphs 17–18) as follows:",
+      "ja": "ISSBが一般目的財務報告書の主要な利用者のニーズを満たすために企業に提供を求めている情報（「ファイナンシャル・マテリアリティ」と呼ばれることもある）は、IFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」（第17項から第18項）に以下のように定められている。"
+    },
+    {
+      "page": 42,
+      "type": "quote",
+      "en": "An entity shall disclose material information about the sustainability-related risks and opportunities that could reasonably be expected to affect the entity’s prospects.",
+      "ja": "企業は、企業の見通しに影響を及ぼすと合理的に予想される、サステナビリティに関連するリスクと機会に関するマテリアルな情報を開示しなければならない。"
+    },
+    {
+      "page": 42,
+      "type": "quote",
+      "en": "In the context of sustainability-related financial disclosures, information is material if omitting, misstating or obscuring that information could reasonably be expected to influence decisions that primary users of general purpose financial reports make on the basis of those reports, which include financial statements and sustainability-related financial disclosures and which provide information about a specific reporting entity.43",
+      "ja": "サステナビリティに関連する財務情報開示において、その情報を省略、虚偽記載、不明瞭化することで、一般目的の財務報告書の主要な利用者が、それらの報告書（特定の報告企業に関する情報を提供する財務諸表とサステナビリティに関連する財務情報開示を含む）に基づいて行う意思決定に影響を及ぼすと合理的に予想される場合、当該情報はマテリアルである43。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The two most widely cited impact materiality definitions are those of the GRI and the ESRS:",
+      "ja": "最も広く引用されているインパクト・マテリアリティの定義は、GRIとESRSの2つにおける定義である。"
+    },
+    {
+      "page": 42,
+      "type": "quote",
+      "en": "GRI: The organisation prioritises reporting on those topics that represent its most significant impacts on the economy, environment and people, including impacts on their human rights.44",
+      "ja": "GRI：組織は、経済、環境、ならびに人権を含む人々に与える最も著しいインパクトを反映する項目の報告を優先する44。"
+    },
+    {
+      "page": 42,
+      "type": "quote",
+      "en": "ESRS: Information that pertains to an organisation’s material actual or potential, positive or negative impacts on people or the environment over short, medium and long term.45",
+      "ja": "ESRS：短期・中期・長期にわたり組織が人や環境に与える、実際のまたは潜在的な、プラスまたはマイナスの、マテリアルなインパクトに関する情報45。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The TNFD recommends the impact materiality definition from GRI for report preparers who want or need to apply an impact materiality process in the absence of any regulatory guidance that may be relevant to the organisation.",
+      "ja": "TNFDは、組織に関連すると思われる規制ガイダンスがない場合に、インパクト・マテリアリティ・プロセスの適用を希望するか、適用する必要がある報告書作成者のために、GRIのインパクト・マテリアリティ定義を推奨している。"
+    },
+    {
+      "page": 42,
+      "type": "h3",
+      "en": "Other conceptual foundations",
+      "ja": "その他の基本概念"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The TNFD recommends that report preparers adhere to the conceptual foundations in the ISSB’s IFRS-S1 General Requirements,46 in relation to:",
+      "ja": "TNFDは報告書作成者に対し、ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」にある以下の基本概念に従うことを推奨している46。は、以下に関するものである。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "Fair presentation;",
+      "ja": "公正な表示"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "Reporting entity; and",
+      "ja": "報告企業"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "Connected information.",
+      "ja": "関連性のある情報"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "42 With respect to impact materiality, the TNFD has aligned its recommendations (and supporting additional guidance) with the language and approach of the GRI Sustainability Reporting Standards.",
+      "ja": "42 インパクト・マテリアリティに関し、TNFDはGRIサステナビリティ報告基準の文言およびアプローチと整合的な提言（およびそれを支援する追加ガイダンス）を行っている。"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "43 International Financial Reporting Standards (2023) IFRS-S1: General Requirements for Disclosure of Sustainability-related Financial Information",
+      "ja": "43 国際財務報告基準（IFRS）(2023) IFRS-S1:サステナビリティ関連財務情報の開示に関する全般的要求事項"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "44 GRI (2021) GRI 1: Foundation 2021, Section 2.2",
+      "ja": "44 GRI（2021）GRI 1：基礎2021、セクション2.2"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "45 Commission Delegated Regulation supplementing Directive 2013/34/EU of the European Parliament and of the Council as regards sustainability reporting standards’, Annex 1, p. 7, as adopted by the Commission by means of delegated act on 31 July 2023. The ESRS word ‘undertaking’ has been substituted with the word ‘organisation’ for consistency of terminology in this document.",
+      "ja": "45 Commission Delegated Regulation supplementing Directive 2013/34/EU of the European Parliament and of the Council as regards sustainability reporting standards’, Annex 1, p. 7, as adopted by the Commission by means of delegated act on 31 July 2023. ESRSの「事業」という言葉は、本文書における用語の一貫性を保つため、「組織」という言葉に置き換えられている。"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "46 International Financial Reporting Standards (2023) IFRS-S1: General Requirements for Disclosure of Sustainability-related Financial Information",
+      "ja": "46 国際財務報告基準（IFRS）(2023) IFRS-S1:サステナビリティ関連財務情報の開示に関する全般的要求事項"
+    },
+    {
+      "page": 43,
+      "type": "h2",
+      "en": "3.2. TNFD general requirements",
+      "ja": "3.2. TNFDの一般要件"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The TNFD recommendations include six general requirements that are additional to the general requirements and other provisions of the ISSB’s IFRS-S1 Standard. Report preparers publicly stating their use of, and alignment with, the TNFD’s recommendations are expected to apply the general requirements to create consistency in the information disclosed. The general requirements apply to all four pillars of the recommended disclosures: governance; strategy; risk and impact management; and metrics and targets. They describe:",
+      "ja": "TNFDの提言には、ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」やその他の規定に加え、6項目の一般要件が含まれる。TNFDの提言を利用し、それとの整合性を表明する報告書作成者は、開示情報に一貫性を持たせるために、一般要件を適用することが期待されている。一般要件は開示提言の4つの柱のガバナンス、戦略、リスクとインパクトの管理、測定指標とターゲットすべてに適用される。以下のことが記載される。"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "1. The application of materiality;",
+      "ja": "1. マテリアリティの適用"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "2. The scope of disclosures;",
+      "ja": "2. 開示のスコープ"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "3. The location of nature-related issues;",
+      "ja": "3. 自然関連課題がある地域"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "4. Integration with other sustainability-related disclosures;",
+      "ja": "4. 他のサステナビリティ関連の開示との統合"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "5. The time horizons considered; and",
+      "ja": "5. 検討される対象期間"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "6. The engagement of Indigenous Peoples, Local Communities and affected stakeholders in the identification and assessment of the organisation’s nature-related issues.",
+      "ja": "6. 組織の自然関連課題の特定と評価における先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 43,
+      "type": "h3",
+      "en": "1. Application of materiality",
+      "ja": "1. マテリアリティの適用"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "To ensure clarity and transparency for primary users of general purpose financial reports and other stakeholders, the organisation should clearly state the materiality approach taken, following the recommendations above.",
+      "ja": "一般目的財務報告書の主要な利用者およびその他のステークホルダーのために明確性と透明性を確保するために、組織は上記の提言に従い、採用したマテリアリティ・アプローチを明示すべきである。"
+    },
+    {
+      "page": 43,
+      "type": "quote",
+      "en": "The TNFD recommends that report preparers use ISSB’s definition of material information as a baseline and an impact materiality definition in addition should they choose or need to do so.",
+      "ja": "TNFDは報告書作成者に対し、ISSBのマテリアル情報の定義をベースラインとし、必要な場合にはインパクト・マテリアリティの定義を追加して使用することを推奨している。"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The organisation should apply the same materiality approach for all the nature-related disclosures made in its reporting, with reference to standards and frameworks whose defined primary users are consistent with the intended primary users of the nature-related disclosures.",
+      "ja": "組織はその報告において行われるすべての自然関連の開示について、定義された主要な利用者が自然関連の開示の意図する主要な利用者と整合する基準とフレームワークを参照し、同じマテリアリティ・アプローチを適用すべきである。"
+    },
+    {
+      "page": 43,
+      "type": "h3",
+      "en": "2. Scope of disclosures",
+      "ja": "2. 開示のスコープ"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The ISSB’s IFRS-S1 calls for organisations to “present fairly all sustainability-related risks and opportunities that could reasonably be expected to affect an entity’s prospects”. It also acknowledges that corporate reporting requires a “balanced consideration of the costs and efforts for the entity”.47",
+      "ja": "ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」は、「企業の見通しに影響を及ぼすと合理的に予想される、サステナビリティに関連するすべてのリスクと機会を公正に表示する」ことを組織に求めている。また、企業報告には「企業にとってのコストと努力のバランスの取れた検討」が必要であることも認めている47。"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The TNFD recognises that many important nature-related issues will occur upstream and downstream from an organisation’s direct operations, but also recognises the complexities that have been experienced with Scope 3 climate-related reporting. There are also data constraints with nature-related reporting, with reliance on the provision of data across value chains. Corporates will need to rely on data from suppliers, while financial institutions will require data from their customers and investees.",
+      "ja": "TNFDは、多くの重要な自然関連課題が、組織の直接操業の上流と下流で発生することを認識しているが、同時に、気候関連のスコープ3の報告で経験された複雑さも認識している。また、バリューチェーン全体にわたってデータが提供されることに依存するため、自然関連の報告にはデータ上の制約がある。企業はサプライヤーからのデータに頼る必要があり、金融機関は顧客や投資先からのデータを必要とする。"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The organisation should therefore describe the scope of its nature-related assessment and disclosures and the process followed in determining that scope, including:",
+      "ja": "したがって、組織は自然関連の評価と開示のスコープ、およびそのスコープを決定する際にたどったプロセスについて、以下を含めて説明すべきである。"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "The activities and assets in the organisation’s direct operations and upstream and downstream value chain(s) assessed for nature-related dependencies, impacts, risks and opportunities, ideally in relation to the entirety of the organisation’s business operations, for example, by percentage of total revenue contribution;",
+      "ja": "組織の直接操業および上流と下流のバリューチェーンにおける活動と資産を、自然関連の依存、インパクト、リスクと機会について評価したもの。理想的には、組織の事業全体と照らして、例えば総収益に占める比率（%）などで評価。"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "The activities and assets in the organisation’s direct operations and upstream and downstream value chain(s) covered in these disclosures, if different from the above;",
+      "ja": "上記と異なる場合、これらの開示の対象となる組織の直接操業および上流と下流のバリューチェーンにおける活動と資産"
+    },
+    {
+      "page": 43,
+      "type": "footnote",
+      "en": "47 International Financial Reporting Standards (2023) IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information",
+      "ja": "47 国際財務報告基準(2023) IFRS S1号：サステナビリティ関連財務情報の開示に関する全般的要求事項"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "The process followed in determining the scope of what to assess and consequently disclose; and",
+      "ja": "何を評価し、その結果として何を開示するかというスコープを決定する際にたどったプロセス"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Whether some parts of the direct operations or upstream and downstream value chain(s) were included or excluded from assessment and the resulting disclosure statement, and why.",
+      "ja": "直接操業または上流と下流のバリューチェーンの一部を、評価およびその結果の開示報告書の対象としているかどうか、あるいは対象外としているか、また、その理由"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "In doing so, the organisation should also describe:",
+      "ja": "その際、組織は以下の点についても説明すべきである。"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Which of the TNFD’s recommended disclosures it has made disclosures against; and",
+      "ja": "TNFDの開示提言のうち、どの開示を行ったか。"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Whether any extension to the scope of disclosures is planned for future reports, including whether the organisation aims to disclose material risks, dependencies and impacts aligned with Target 15 of the Global Biodiversity Framework. If so, a brief description of the proposed future disclosures should be included.",
+      "ja": "昆明・モントリオール生物多様性枠組のターゲット15と整合したマテリアルなリスク、依存、インパクトを開示することを組織が目指しているかどうかを含めて、今後の報告書において開示のスコープを拡大する予定があるかどうか。予定があれば、将来提案される開示の簡単な説明を含めるべきである。"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "The TNFD disclosures should clearly identify information that is relevant to the organisation’s:",
+      "ja": "TNFDの開示では、組織の業務に関連する情報を明確に特定すべきである。"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Direct operations;",
+      "ja": "直接操業"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Upstream value chain(s); and",
+      "ja": "上流のバリューチェーン"
+    },
+    {
+      "page": 44,
+      "type": "li",
+      "en": "Downstream value chain(s).",
+      "ja": "下流のバリューチェーン"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "Analysis of downstream value chains for financial institutions should include financed, facilitated, investment and insured activities and assets.",
+      "ja": "金融機関に関する下流のバリューチェーンの分析には、融資、仲介、投資、保険による活動と資産を含めるべきである。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "This statement of the breadth and depth of the organisation’s scope of disclosures is important because it will provide context for the report user on how to interpret the disclosures, including any quantitative information (i.e. data in tables and charts) relative to the scope of the whole business and its value chain(s).",
+      "ja": "組織の開示のスコープの広さと深さに関するこの説明は、報告書利用者に、事業全体とそのバリューチェーンの範囲に関連する定量的情報（表やグラフのデータ）を含め、開示内容をどのように解釈すべきかについての文脈を提供することになるため、重要である。",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 44,
+      "type": "h3",
+      "en": "3. Location of nature-related issues",
+      "ja": "3. 自然関連課題がある地域"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "Consideration of the geographic location of the organisation’s interface with nature should be integral to the assessment of nature-related issues, recognising that dependencies and impacts on nature occur in specific ecosystems. In some cases, nature-related issues will cover multiple ecosystems and locations, as both nature and impact drivers are mobile, for example, in the case of migratory species or the spreading of pollutants. The organisation’s risks (such as acute physical risks) and opportunities will also largely occur in – and vary by – specific geographic locations. The risks associated with water withdrawal will vary by the degree of water stress in each location, for example.",
+      "ja": "組織と自然との接点の地理的位置の考慮は、自然に対する依存とインパクトが特定の生態系で生じることを認識し、自然関連課題を評価するために不可欠であるべきである。例えば移動性の種や汚染物質の拡散のように、自然とインパクト要因の両方が動きやすいため、場合によっては、自然関連課題は複数の生態系や地域を対象とする。組織のリスク（急性の物理的リスクなど）と機会もまた、その大部分が特定の地理的位置で発生し、また、特定の地理的位置によって異なる。取水に関連するリスクは、例えばそれぞれの場所の水ストレスの度合いによって異なる。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "“Changes in the natural environment are not linear and characterised instead by compounding effects and ‘tipping points’.”",
+      "ja": "「自然環境の変化は直線的ではなく、複合的な影響と『転換点（tipping points）』により特徴づけられる」。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "Network for Greening the Financial System (NGFS), 2023",
+      "ja": "気候変動リスク等に係る金融当局ネットワーク（NGFS）、2023"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "Consideration of the geographic location of the organisation’s interfaces with nature – through direct operations as well as upstream and downstream value chain(s) – should therefore be central to the organisation’s assessment of its nature-related issues, and where material, to its disclosure statements. This is an important difference from the analysis of climate through Scope 1, 2 and 3 emissions.",
+      "ja": "したがって、直接操業だけでなく、上流と下流のバリューチェーンを通じて組織が自然との接点を持つ地理的位置を考慮することを、組織の自然関連課題の評価の重点とし、それがマテリアルである場合には開示報告書の中心とすべきである。これはスコープ1、2、3排出量を用いた気候に関する分析との重要な違いである。"
+    },
+    {
+      "page": 44,
+      "type": "p",
+      "en": "The location-specific character of nature-related issues underscores why it is important that report preparers provide material information in a manner that enables primary users of general purpose financial reports and other stakeholders to understand the connection between assessed dependencies, impacts, risks and opportunities.",
+      "ja": "一般目的財務報告書の主要な利用者やその他のステークホルダーが、評価された依存、インパクト、リスクと機会の関連性を理解できるような方法で、報告書作成者がマテリアルな情報を提供することは重要であるが、その理由は自然関連課題に地域固有の性質があることから明らかである。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "“Nature is spatially explicit … Therefore efforts to identify and prioritise risks should take into account the geographical location of impacts and dependencies.”",
+      "ja": "「自然は空間的に明確である。［中略］したがって、リスクを特定し、優先順位をつける努力では、インパクトと依存の地理的位置を考慮に入れるべきである」。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "NGFS, 2023",
+      "ja": "NGFS, 2023"
+    },
+    {
+      "page": 45,
+      "type": "h4",
+      "en": "Level of aggregation and disaggregation of reported nature-related data",
+      "ja": "報告される自然関連データの集計・区分レベル"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "When disclosing information about material nature-related issues by geographic location, the organisation should disaggregate information to the extent possible. Organisations are encouraged to improve the level of geolocation precision over time as data and traceability improve. However, organisations should not aggregate or disaggregate locations where doing so would obscure material information, consistent with the ISSB’s IFRS-S1 Application Guidance on aggregation and disaggregation (B29).48",
+      "ja": "マテリアルな自然関連課題について地理的位置ごとに情報を開示する場合、組織は可能な限り情報を区分すべきである。組織は、データとトレーサビリティの向上につれて、地理位置情報提供の精度を向上させることが奨励される。ただし、そうすることでマテリアルな情報が不明瞭になるようであれば、組織はISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」の集計および区分に関する適用ガイダンス（B29）に沿って、地域を集計または区分すべきではない48。"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "Information should only be aggregated if it has shared characteristics and should not be aggregated if it does not have shared characteristics. In particular, and where separate presentation would provide material information, organisations should not aggregate information across sites with different relevant natural characteristics, such as water extraction across areas of water stress and non-water stress, or dependencies on a highly intact ecosystem and a highly degraded one.",
+      "ja": "情報は、共通の特徴を持つ場合のみ集計すべきであり、共通の特徴を持たない場合は集計すべきではない。特に、区分して表示することでマテリアルな情報を得られる場合は、水ストレスのある地域とそうでない地域の取水量、あるいは高度に手つかずの生態系と高度に劣化した生態系に対する依存など、関連する自然特性が異なる事業拠点間の情報を集計すべきではない。"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "Where an organisation has many locations in a similar geographic area with similar nature-related dependencies, impacts, risks or opportunities and disaggregated location-based reporting does not provide additional material information, the organisation may report aggregated data.",
+      "ja": "組織が類似した地理的地域に多くの拠点を有し、類似した自然関連の依存、インパクト、リスクまたは機会を有しており、拠点ごとの報告により追加的なマテリアルな情報を提供できない場合、組織は集計したデータを報告することができる。"
+    },
+    {
+      "page": 45,
+      "type": "h3",
+      "en": "4. Integration with other sustainability-related disclosures",
+      "ja": "4. 他のサステナビリティ関連の開示の統合"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "Nature-related disclosures should be integrated with other business and sustainability-related disclosures whenever possible, to provide report users with an integrated and holistic picture of the organisation’s financial position and prospects. Integration of climate- and nature-related disclosures is of particular importance.",
+      "ja": "自然関連の開示は、可能な限り、他のビジネスやサステナビリティに関連する開示と統合し、報告書利用者に組織の財務的な状況と見通しを統合的かつ全体的に示すべきである。気候・自然関連の開示の統合は、特に重要である。"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "The organisation should ensure that any alignment, synergies, contributions and possible trade-offs between actions and targets for climate and nature are clearly identified. In particular, the organisation should connect information on nature-related issues that is already included in climate-related disclosures to nature-related disclosures.",
+      "ja": "組織は気候と自然に関する行動とターゲットの間の整合性、相乗効果、寄与、起こりうるトレードオフが明確に特定されていることを確認すべきである。特に、気候関連の開示に既に含まれている自然関連課題の情報を、自然関連の開示と関連づけるべきである。"
+    },
+    {
+      "page": 45,
+      "type": "h3",
+      "en": "5. The time horizons considered",
+      "ja": "5. 考慮する対象期間"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "The organisation should describe what it considers to be the relevant short, medium and long term time horizons, considering the useful life of the organisation’s assets or infrastructure and the fact that nature-related risks and opportunities often manifest themselves over the medium and long term.",
+      "ja": "組織は、組織の資産やインフラの耐用年数や、自然関連のリスクと機会はしばしば中長期的に顕在化するという事実を考慮し、関連する短期、中期、長期の対象期間としてどのようなものを考えているかについて説明すべきである。"
+    },
+    {
+      "page": 45,
+      "type": "h3",
+      "en": "6. Engagement with Indigenous Peoples, Local Communities and affected stakeholders",
+      "ja": "6. 先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "Effective and meaningful engagement with people is an important aspect of any robust identification, assessment and management of nature-related issues (see Box 1 above). Indigenous Peoples are stewards of 80% of the world’s remaining biodiversity and a source of traditional knowledge about the planet’s ecosystems, giving them a uniquely important role in halting and reversing nature loss. Their knowledge, including traditional knowledge and experience, can also be a valuable input into an organisation’s identification, evaluation, assessment and management of its nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "自然関連課題を確実に特定し、評価し、管理するためには、人との効果的で有意義なエンゲージメントが重要な要素となる（前出のボックス1を参照）。先住民族は世界に残された生物多様性の80%の管理者であり、地球の生態系に関する伝統的知識の源泉であるため、自然の損失を食い止め、反転させる上で他に類を見ない重要な役割を担っている。伝統的知識・経験も含め、彼らの知識は、組織が自然関連の依存、インパクト、リスクと機会を特定、評価、管理するための貴重な情報源となりうる。"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "The organisation should describe its process for engaging Indigenous Peoples, Local Communities and affected stakeholders about their concerns and priorities with respect to nature-related dependencies, impacts, risks and opportunities in its direct operations and value chain.",
+      "ja": "組織は直接操業とバリューチェーンにおける自然関連の依存、インパクト、リスクと機会における懸念と優先事項に関し、先住民族、地域社会と影響を受けるステークホルダーの参加を得るためのプロセスについて説明すべきである。"
+    },
+    {
+      "page": 45,
+      "type": "footnote",
+      "en": "48 International Financial Reporting Standards (2023) IFRS S1: General Requirements for Disclosure of Sustainability-related Financial Information.",
+      "ja": "48 国際財務報告基準(2023) IFRS S1号：サステナビリティ関連財務情報の開示に関する全般的要求事項"
+    },
+    {
+      "page": 46,
+      "type": "quote",
+      "en": "“An entity’s sustainability-related risks and opportunities arise out of the interactions between the entity and its stakeholders, society, the economy and the natural environment throughout the entity’s value chain … These interactions take place within an interdependent system in which an entity both depends on resources and relationships throughout its value chain to generate cash flows and affects those resources and relationships through its activities and outputs—contributing to the preservation, regeneration and development of those resources and relationships or to their degradation and depletion. These dependencies and impacts might give rise to sustainability-related risks and opportunities that could reasonably be expected to affect an entity’s cash flows, its access to finance and cost of capital over the short, medium and long term”",
+      "ja": "「企業のサステナビリティに関連するリスクと機会は、企業のバリューチェーン全体を通じて、企業とステークホルダー、社会、経済、自然環境との相互作用から生じる。［中略］企業は、キャッシュフローを生み出すためにバリューチェーン全体を通じて資源と関係に依存し、また、その活動とアウトプットを通じてそれらの資源と関係に影響を与えるという両面の相互依存システムの中で、これらに相互作用が起き、それらの資源と関係の保存、再生、発展、あるいはそれらの劣化や枯渇に関与する。これらの依存やインパクトは、企業のキャッシュフロー、資金調達、資本コストに短期・中期・長期にわたって影響を及ぼすと合理的に予想される、サステナビリティに関連するリスクや機会を生じさせる可能性がある」。"
+    },
+    {
+      "page": 46,
+      "type": "quote",
+      "en": "ISSB’s IFRS-S1, paragraph B2",
+      "ja": "ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」のB2項"
+    },
+    {
+      "page": 46,
+      "type": "h2",
+      "en": "3.3. Recommended disclosures and guidance for all sectors",
+      "ja": "3.3. 全セクターに対する開示提言とガイダンス"
+    },
+    {
+      "page": 46,
+      "type": "p",
+      "en": "The recommended disclosures (Figure 20) for all sectors are structured around four pillars: governance, strategy, risk and impact management, and metrics and targets.",
+      "ja": "全セクターに対する開示提言（図20）は、4つの柱、ガバナンス、戦略、リスクとインパクトの管理、測定指標とターゲットを中心に構成される。"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "1. Governance: The governance processes, controls and procedures the organisation uses to monitor and manage nature-related issues;",
+      "ja": "1. ガバナンス：組織が自然関連課題を監視・管理するために用いるガバナンスのプロセス、統制および手順"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "2. Strategy: The approach the organisation uses to manage nature-related issues;",
+      "ja": "2. 戦略：組織が自然関連課題を管理するために用いるアプローチ"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "3. Risk and impact management: The processes the organisation uses to identify, assess, prioritise and monitor nature-related issues; and",
+      "ja": "3. リスクとインパクトの管理：組織が自然関連課題を特定、評価、優先順位付け、モニタリングするために用いるプロセス"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "4. Metrics and targets: The organisation’s performance in relation to nature-related issues, including progress towards any targets the organisation has set or is required to meet by law or regulation.",
+      "ja": "4. 測定指標とターゲット：自然関連課題に関する組織のパフォーマンス。組織が設定した、あるいは法律や規制により達成が要求されるターゲットに対する進捗状況を含む。"
+    },
+    {
+      "page": 47,
+      "type": "caption",
+      "en": "Figure 20: TNFD’s recommended disclosures",
+      "ja": "図20：TNFDの開示提言"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "TNFD recommended disclosures",
+      "ja": "TNFD開示提言"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "Governance | Disclose the organisation’s governance of nature-related dependencies, impacts, risks and opportunities. | Recommended disclosures | A. Describe the board’s oversight of nature-related dependencies, impacts, risks and opportunities. | B. Describe management’s role in assessing and managing nature-related dependencies, impacts, risks and opportunities. | C. Describe the organisation’s human rights policies and engagement activities, and oversight by the board and management, with respect to Indigenous Peoples, Local Communities, affected and other stakeholders, in the organisation’s assessment of, and response to, nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "ガバナンス|自然関連の依存、インパクト、リスクと機会の組織によるガバナンスの開示。|開示提言| A.自然関連の依存、インパクト、リスクと機会に関する取締役会の監督について説明する。| B.自然関連の依存、インパクト、リスクと機会の評価と管理における経営者の役割について説明する。| C.自然関連の依存、インパクト、リスクと機会に対する組織の評価と対応において、先住民族、地域社会、影響を受けるステークホルダー、その他のステークホルダーに関する組織の人権方針とエンゲージメント活動、および取締役会と経営陣による監督について説明する。"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "Strategy | Disclose the effects of nature-related dependencies, impacts, risks and opportunities on the organisation’s business model, strategy and financial planning where such information is material. | Recommended disclosures | A. Describe the nature-related dependencies, impacts, risks and opportunities the organisation has identified over the short, medium and long term. | B. Describe the effect nature-related dependencies, impacts, risks and opportunities have had on the organisation’s business model, value chain, strategy and financial planning, as well as any transition plans or analysis in place. | C. Describe the resilience of the organisation’s strategy to nature-related risks and opportunities, taking into consideration different scenarios. | D. Disclose the locations of assets and/or activities in the organisation’s direct operations and, where possible, upstream and downstream value chain(s) that meet the criteria for priority locations.",
+      "ja": "戦略|自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、戦略、財務計画に与えるインパクトについて、そのような情報が重要である場合は開示する。|開示提言| A.組織が特定した自然関連の依存、インパクト、リスクと機会を短期、中期、長期ごとに説明する。| B.自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、バリューチェーン、戦略、財務計画に与えたインパクト、および移行計画や分析について説明する。| C.自然関連のリスクと機会に対する組織の戦略のレジリエンスについて、さまざまなシナリオを考慮して説明する。| D.組織の直接操業において、および可能な場合は上流と下流のバリューチェーンにおいて、優先地域に関する基準を満たす資産および／または活動がある地域を開示する。"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "Risk & impact management | Describe the processes used by the organisation to identify, assess, prioritise and monitor nature-related dependencies, impacts, risks and opportunities. | Recommended disclosures | A(i) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its direct operations. | A(ii) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s). | B. Describe the organisation’s processes for managing nature-related dependencies, impacts, risks and opportunities. | C. Describe how processes for identifying, assessing, prioritising and monitoring nature-related risks are integrated into and inform the organisation’s overall risk management processes.",
+      "ja": "リスクとインパクトの管理|組織が自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けし、監視するために使用しているプロセスを説明する。|開示提言| A(i)直接操業における自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスを説明する。| A(ii)上流と下流のバリューチェーンにおける自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスを説明する。| B.自然関連の依存、インパクト、リスクと機会を管理するための組織のプロセスを説明する。| C.自然関連リスクの特定、評価、管理のプロセスが、組織全体のリスク管理にどのように組み込まれているかについて説明する。"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "Metrics & targets | Disclose the metrics and targets used to assess and manage material nature-related dependencies, impacts, risks and opportunities. | Recommended disclosures | A. Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk management process. | B. Disclose the metrics used by the organisation to assess and manage dependencies and impacts on nature. | C. Describe the targets and goals used by the organisation to manage nature-related dependencies, impacts, risks and opportunities and its performance against these.",
+      "ja": "測定指標とターゲット|マテリアルな自然関連の依存、インパクト、リスクと機会を評価し、管理するために使用している測定指標とターゲットを開示する。|開示提言| A.組織が戦略およびリスク管理プロセスに沿って、マテリアルな自然関連リスクと機会を評価し、管理するために使用している測定指標を開示する。| B.自然に対する依存とインパクトを評価し、管理するために組織が使用している測定指標を開示する。| C.組織が自然関連の依存、インパクト、リスクと機会を管理するために使用しているターゲットと目標、それらと照合した組織のパフォーマンスを記載する。"
+    },
+    {
+      "page": 48,
+      "type": "h3",
+      "en": "Governance",
+      "ja": "ガバナンス"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "Disclose the organisation’s governance of nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "自然関連の依存、インパクト、リスクと機会の組織のガバナンスの開示"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "Investors, lenders, insurance underwriters and other users of nature-related financial disclosures are interested in understanding the governance processes, controls and procedures the organisation uses to monitor and manage nature-related issues. They are specifically interested in understanding the role an organisation’s board plays in overseeing nature-related issues, as well as management’s role in assessing and managing those issues.",
+      "ja": "投資家、貸し手、保険引受人、その他の自然関連財務情報開示の利用者は、組織が自然関連課題を監視・管理するために使用しているガバナンス・プロセス、統制、手続きを理解することに関心がある。彼らは特に、自然関連課題を監督する上で組織の取締役会が果たす役割や、それらの問題を評価・管理する上で経営陣が果たす役割を理解することに関心がある。"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "Such information supports evaluations of whether nature-related issues receive appropriate board and management attention and whether the organisation’s governance body/bodies have an appropriate level of skill and competence available to do so. The governance disclosures therefore cover the organisation’s governance of nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "このような情報は、自然関連課題が取締役会や経営陣の適切な関心を集めているかどうか、また、組織のガバナンス機関・団体が適切なレベルのスキルや能力を有しているかどうかの評価を裏付ける情報である。したがって、ガバナンスの開示は自然関連の依存、インパクト、リスクと機会に関する組織のガバナンスを対象とする。"
+    },
+    {
+      "page": 48,
+      "type": "h4",
+      "en": "A. Describe the board’s oversight of nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "A. 自然関連の依存、インパクト、リスクと機会に関する取締役会の監督について説明する。"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "In describing the board’s oversight of nature-related dependencies, impacts, risks and opportunities, the organisation should include a discussion of:",
+      "ja": "自然関連の依存、インパクト、リスクと機会に関する取締役会の監督について説明するにあたり、組織は以下の考察を含めるべきである："
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "The processes and frequency by which the board and/or board committees (audit, risk or other committees) are informed about nature-related dependencies, impacts, risks and opportunities across the organisation’s direct operations and upstream and downstream value chain(s);",
+      "ja": "取締役会および／または取締役会委員会（監査委員会、リスク委員会、その他の委員会）が、組織の直接操業および上流と下流のバリューチェーン全体にわたる自然関連の依存、インパクト、リスクと機会について報告を受けるプロセスと頻度"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Whether and how the board and/or board committees consider nature-related dependencies, impacts, risks and opportunities when:",
+      "ja": "以下を行うときに、取締役会および／または取締役会委員会が自然関連の依存、インパクト、リスクと機会を考慮するかどうか、および、どのように考慮するか"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Reviewing and guiding strategy, major plans of action, risk management policies, annual budgets and business plans;",
+      "ja": "戦略、主要な行動計画、リスク管理方針、年次予算、事業計画の見直しおよび指導"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Setting the organisation’s performance objectives, monitoring implementation and performance; and",
+      "ja": "組織の業績目標の設定、実施と業績のモニタリング"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Overseeing major capital expenditures, acquisitions and divestitures;",
+      "ja": "主要な資本支出、買収、売却の監督"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "How the board monitors and oversees progress against goals and targets to address nature-related dependencies, impacts, risks and opportunities;",
+      "ja": "取締役会は、自然関連の依存、インパクト、リスクと機会に対処するための目標とターゲットに対する進捗をどのように監視および監督しているか"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "The main features of board-level oversight of the sustainability reporting processes, including risk management processes and use of internal and external audit and assurance resources; and",
+      "ja": "リスク管理プロセス、内部および外部監査・保証（アシュアランス）資源の活用を含む、サステナビリティ報告プロセスに対する取締役会レベルの監督の主な特徴"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Whether and how performance metrics for nature-related issues are incorporated into remuneration policies.",
+      "ja": "自然関連課題に関するパフォーマンス測定指標を報酬に関する方針に組み込んでいるかどうか、また、どのように組み込んでいるか"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "The organisation should consider reporting the following indicators to support this disclosure:",
+      "ja": "組織はこの開示を裏付けるために、以下の指標の報告を検討すべきである。"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Number (absolute and proportion of total) of members of board with competence on nature-related issues;",
+      "ja": "自然関連課題に関して権能を有する取締役会メンバーの人数（絶対数および総数に占める割合）"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Use, if any, of external expert advisers and subject matter experts, such as scientific advisers, to support board deliberations; and",
+      "ja": "取締役会の審議を支援するために、外部の専門家アドバイザーや科学的アドバイザーなどの当該問題の専門家を利用する場合は、その利用"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Frequency that nature issues are discussed during board meetings.",
+      "ja": "取締役会で自然課題が討議された頻度"
+    },
+    {
+      "page": 48,
+      "type": "h4",
+      "en": "B. Describe management’s role in assessing and managing nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "B. 自然関連の依存、インパクト、リスクと機会の評価と管理における経営陣の役割について説明する。"
+    },
+    {
+      "page": 48,
+      "type": "p",
+      "en": "In describing management’s role in the assessment and management of nature-related dependencies, impacts, risks and opportunities, the organisation should include the following information:",
+      "ja": "自然関連の依存、インパクト、リスクと機会の評価と管理における経営陣の役割について説明する際、組織は以下の情報を含めるべきである。"
+    },
+    {
+      "page": 48,
+      "type": "li",
+      "en": "Whether and how the organisation has assigned nature-related responsibilities to management-level positions or committees, whether such management positions or committees report to the board or board committee, and whether those responsibilities include assessing and/or managing nature-related dependencies, impacts, risks and opportunities;",
+      "ja": "組織が自然関連の責任を経営レベルの職位または委員会に割り当てられているかどうか、そしてどのように割り当てられているか、そのような経営職位または委員会が取締役会または取締役会委員会に報告しているかどうか、それらの責任に自然関連の依存、インパクト、リスクと機会の評価および／または管理が含まれているかどうか、"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "The associated organisational structure(s); and",
+      "ja": "関連する組織構造、および"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "The controls and procedures by which management is informed about and monitors nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "経営陣が自然関連の依存、インパクト、リスクと機会について情報を提供され、それらを監視するための統制と手順。"
+    },
+    {
+      "page": 49,
+      "type": "p",
+      "en": "The organisation should consider reporting the following indicators to support this disclosure:",
+      "ja": "組織はこの開示を裏付けるために、以下の指標の報告を検討すべきである。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "Highest level of responsibility and accountability for nature policies, commitments and targets; and",
+      "ja": "自然の方針、コミットメント、ターゲットに対する最高レベルの責任と説明責任"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "Frequency of communication of performance and progress in priority locations to management.",
+      "ja": "優先地域におけるパフォーマンスおよび進捗の経営陣に対する報告頻度"
+    },
+    {
+      "page": 49,
+      "type": "h4",
+      "en": "C. Describe the organisation’s human rights policies and engagement activities, and oversight by the board and management, with respect to Indigenous Peoples, Local Communities, affected and other stakeholders, in the organisation’s assessment of, and response to, nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "C. 自然関連の依存、インパクト、リスクと機会に対する組織の評価と対応において、先住民族、地域社会、影響を受けるステークホルダー、その他のステークホルダーに関する組織の人権方針とエンゲージメント活動、および取締役会と経営陣による監督について説明する。"
+    },
+    {
+      "page": 49,
+      "type": "p",
+      "en": "The organisation should describe its human rights policies and engagement activities related to its assessment and management of nature-related dependencies, impacts, risks and opportunities. This should cover all relevant stakeholders, with a priority on Indigenous Peoples, Local Communities and affected stakeholders. It should do so with reference to, and implementation of, the UN Declaration on the Rights of Indigenous Peoples, the UN Guiding Principles on Business and Human Rights and internationally recognised human rights as applicable to affected stakeholders.",
+      "ja": "組織は自然関連の依存、インパクト、リスクと機会の評価と管理に関連する人権方針とエンゲージメント活動について説明すべきである。説明の対象は、先住民族、地域社会と影響を受けるステークホルダーを優先し、関連するすべてのステークホルダーとすべきである。それを行うにあたり、先住民族の権利に関する国連宣言、国連ビジネスと人権に関する指導原則、影響を受けるステークホルダーに適用される国際的に認められた人権を参照し、それらを導入すべきである。"
+    },
+    {
+      "page": 49,
+      "type": "p",
+      "en": "This description should include:",
+      "ja": "この説明には以下を含めるべきである。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "A summary of the organisation’s commitments regarding:",
+      "ja": "以下に関する組織のコミットメントの要約："
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "International standards of responsible business practice as set out in the UN Guiding Principles on Business and Human Rights and the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct;",
+      "ja": "国連「ビジネスと人権に関する指導原則」およびOECD（経済協力開発機構）の「多国籍企業のための責任ある企業行動に関する指針（多国籍企業行動指針）」に定められている、責任あるビジネス慣行に関する国際標準"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "Respect of the rights of Indigenous Peoples as reflected in the UN Declaration on the Rights of Indigenous Peoples, ILO Convention 169, the Convention on Biological Diversity; and",
+      "ja": "先住民族の権利に関する国連宣言、ILO（国際労働機関）第169号条約、生物多様性条約に反映されている先住民族の権利の尊重"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "The UN General Assembly Resolution 76/300 on rights to a healthy environment;",
+      "ja": "健全な環境に対する権利に関する国連総会決議76/300"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "A description of how human rights due diligence processes, including but not limited to those covering the rights of Indigenous Peoples and Local Communities, are embedded in an organisation’s strategy, policies, codes of conduct, governance structures and best practices;",
+      "ja": "先住民族と地域社会の権利を含み、これに限定されない、人権デューディリジェンスのプロセスが、組織の戦略、方針、行動規範、ガバナンス構造、ベストプラクティスにどのように組み込まれているかの説明。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "The processes adopted to enable the monitoring, management and remediation of any adverse human rights impacts caused by the organisation or to which it significantly contributes through its business activities, supply chains and business relationships, including organisational grievance mechanisms;",
+      "ja": "組織がその事業活動、サプライチェーンおよび取引関係を通じて引き起こした、または大きく寄与した、人権への有害なインパクトのモニタリング、管理および是正を可能にするために採用したプロセスで、組織の苦情処理メカニズムを含む。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "A summary of the organisation’s governance on nature-related advocacy and lobbying, and the organisation’s approach to engagement with public authorities on nature-related initiatives, policies and/or regulation;",
+      "ja": "自然関連の提言活動やロビー活動に関する組織のガバナンスの概要、および自然関連のイニシアティブ、政策および／または規制に関する当局とのエンゲージメントについての組織のアプローチ。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "A summary of the organisation’s key nature-related advocacy and lobbying priorities and positions. This should be complemented, where relevant, with a summary of the main direct advocacy and lobbying activities undertaken by the organisation associated with nature-related regulation and public policy development;",
+      "ja": "組織の自然関連の提言活動とロビー活動の優先事項と立場の要約。これに加えて、関連する場合には、自然関連の規制や公共政策の策定に関連し、組織が行った主な直接的な提言活動とロビー活動の概要を示すべきである。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "A description of the organisation’s involvement in any ongoing cases, or cases concluded in the reporting year, that concern nature-related dependencies or impacts that are brought to National Contact Points under the OECD Guidelines for Multinational Enterprises on Responsible Business Conduct;",
+      "ja": "OECDの「多国籍企業のための責任ある企業行動に関する指針（多国籍企業行動指針）」に基づき、ナショナル・コンタクト・ポイントに持ち込まれた、自然関連の依存またはインパクトに関する継続中の事例または報告年度に終了した事例への組織の関与の説明。"
+    },
+    {
+      "page": 49,
+      "type": "li",
+      "en": "The engagement process(es) undertaken including:",
+      "ja": "実施されたエンゲージメント・プロセスには、以下が含まれる。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A description of the Indigenous Peoples, Local Communities and affected stakeholders engaged in the assessment and management of nature-related dependencies, impacts, risks and opportunities, how they were identified, and a confirmation that this description has been agreed with those engaged;",
+      "ja": "自然関連の依存、インパクト、リスクと機会、それらがどのように特定されたかの評価と管理に関与した先住民族、地域社会と影響を受けるステークホルダーの説明、また、関与した人々がこの説明に同意したという確認"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A statement of the purpose of the engagement and whether it takes place in relation to assessment, solution-finding, monitoring and/or evaluation of nature-related issues;",
+      "ja": "エンゲージメントの目的およびそれが自然関連課題の評価、解決策の発見、モニタリングおよび／または評価に関連して行われるかどうかの説明"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A description of the approach to and process of engagement, whether engagement is one-off, periodic or ongoing, and whether it is through formal or informal structures;",
+      "ja": "エンゲージメントが単発的か、定期的か、継続的かどうか、または公式または非公式の組織を通じたものかどうかなど、エンゲージメントへのアプローチとそのプロセスについての説明"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A description of whether engagement has been based on free, prior and informed consultation and participation and how Free Prior and Informed Consent (FPIC) has been obtained;",
+      "ja": "自由意思による事前の十分な情報に基づく協議と参加に基づくエンゲージメントなのかどうか、および自由意思による、事前の、十分な情報に基づく同意（FPIC）をどのように得たかの説明"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A statement of how equitable Access and Benefit Sharing has been attained, particularly as it relates to Indigenous Peoples and Local Communities; and",
+      "ja": "衡平なアクセスと利益配分が、特に先住民族と地域社会に関連して、どのように達成されたかについての声明"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A description of the results of the engagement processes with Indigenous Peoples, Local Communities and affected stakeholders, including how these are incorporated or otherwise addressed in the organisation’s materiality assessment, decision-making and responses to nature-related issues and their societal dimensions; and",
+      "ja": "先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント・プロセスの結果に関し、自然関連課題とその社会的側面に対する組織のマテリアリティ評価、意思決定、対応において、これらをどのように組み入れるか、あるいは他の方法で対処しているかを含めた説明"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A statement of whether and how senior management and the board are informed about engagement processes with Indigenous Peoples, Local Communities and affected stakeholders, and their results.",
+      "ja": "先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント・プロセスおよびその結果について、上級管理職および取締役会に周知しているかどうか、また、その方法についての表明"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "The organisation should consider reporting the following indicator to support this disclosure:",
+      "ja": "組織はこの開示を裏付けるために、以下の指標の報告を検討すべきである。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "Proportion of locations identified with material nature-related issues and/or in sensitive locations that have active engagement with Indigenous Peoples, Local Communities and affected stakeholders on nature-related issues.",
+      "ja": "マテリアルな自然関連課題を有すると特定された地域および／または要注意地域において、自然関連課題について先住民族、地域社会と影響を受けるステークホルダーと積極的にエンゲージメントしている地域の割合"
+    },
+    {
+      "page": 50,
+      "type": "h3",
+      "en": "Strategy",
+      "ja": "戦略"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "Disclose the effects of nature-related dependencies, impacts, risks and opportunities on the organisation’s business model, strategy and financial planning where such information is material.",
+      "ja": "自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、戦略、財務計画に与える実際および潜在的なインパクトを、そのような情報が重要である場合に開示する。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "Investors and other stakeholders are interested in understanding the approach the organisation uses to manage nature-related issues and how nature-related issues may affect an organisation’s business model, strategy and financial planning over the short, medium and long term. Such information is used to inform expectations about the future performance of an organisation.",
+      "ja": "投資家やその他のステークホルダーは、組織が自然関連課題を管理するために用いるアプローチや、自然関連課題が組織のビジネスモデル、戦略、財務計画に短期・中期・長期にわたってどのような影響を及ぼす可能性があるかを理解することに関心がある。このような情報は、組織の将来のパフォーマンスに対する期待に関する情報を提供するために使われる。"
+    },
+    {
+      "page": 50,
+      "type": "h4",
+      "en": "A. Describe the nature-related dependencies, impacts, risks and opportunities the organisation has identified over the short, medium and long term.",
+      "ja": "A. 組織が短期、中期、長期にわたって特定した、自然関連の依存、インパクト、リスクと機会について説明する。"
+    },
+    {
+      "page": 50,
+      "type": "h4",
+      "en": "Dependencies and impacts",
+      "ja": "依存とインパクト"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "The organisation should describe the material nature-related dependencies and impacts the organisation has identified in its direct operations and upstream and downstream value chain(s).",
+      "ja": "組織は直接操業と上流と下流のバリューチェーンにおいて特定したマテリアルな自然関連の依存とインパクトについて説明すべきである。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "The organisation should disclose the following information for material impacts and dependencies:",
+      "ja": "組織はマテリアルなインパクトと依存について、以下の情報を開示すべきである。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "A description of the material impact on nature, including:",
+      "ja": "自然に対するマテリアルなインパクトの説明には、以下が含まれる。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "The location of the impact with reference to the location(s) identified in Strategy D and whether the impact relates to the organisation’s direct operations, or upstream or downstream value chain(s);",
+      "ja": "戦略Dで特定された地域を参照してインパクトが存在する地域を示し、そのインパクトが組織の直接操業、または上流もしくは下流のバリューチェーンに関連するかどうかを説明する。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "The impact pathway(s), including:",
+      "ja": "インパクト経路（複数可）には、以下が含まれる。"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The organisation’s impact driver(s) and any external factors that are affecting the state of nature;49",
+      "ja": "組織のインパクト要因および自然の状態に影響を与えている外部要因49"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "How these impact drivers and external trends lead to changes in the state of nature in these location(s); and",
+      "ja": "これらのインパクト要因や外部傾向が、これらの地域の自然の状態にどのように変化をもたらすか"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "How the availability of ecosystem services is affected; and",
+      "ja": "生態系サービスの利用可能性がどのように影響を受けるか"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "Reference to the relevant metrics disclosed in Metrics and Targets B;",
+      "ja": "測定指標とターゲットBで開示されている関連測定指標を参照する"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "A description of the material dependency on nature, including:",
+      "ja": "自然に対するマテリアルな依存についての説明には、以下が含まれる。"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The location of the dependency, with reference to the locations identified in Strategy D and whether the dependency relates to the organisation’s direct operations, or upstream or downstream value chain(s);",
+      "ja": "戦略Dで特定された地域を参照して依存が存在する地域を示し、その依存が組織の直接操業、または上流もしくは下流のバリューチェーンに関連するかどうか"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The dependency pathway, including:",
+      "ja": "以下を含む、依存経路"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The environmental asset(s) and ecosystem service(s) the organisation depends on; and",
+      "ja": "組織が依存する環境資産と生態系サービス"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The associated impact driver(s) and external factors that are affecting the state of nature and availability of ecosystem services; and",
+      "ja": "自然の状態および生態系サービスの利用可能性に影響を及ぼしている、関連するインパクト要因および外部要因"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "Reference to the relevant metrics disclosed in Metrics and Targets B; and",
+      "ja": "測定指標とターゲットBで開示されている関連測定指標を参照する"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "A description of any interconnections between the organisation’s dependencies and impacts.",
+      "ja": "組織の依存とインパクトとの相互関係の説明"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The disclosures should distinguish between dependencies and impacts in the organisation’s direct operations and upstream and downstream value chain(s).",
+      "ja": "開示では、組織の直接操業と上流と下流のバリューチェーンにおける依存とインパクトを区別すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "h4",
+      "en": "Risks and opportunities",
+      "ja": "リスクと機会"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "An organisation should describe the material risks and opportunities it has identified that could affect its business model, value chain, strategy and financial position and how these arise from its dependencies and impacts on nature.",
+      "ja": "組織は自社のビジネスモデル、バリューチェーン、戦略、財務状況に影響を及ぼしうる、特定したマテリアルなリスクと機会について、また、それらが自然に対する依存とインパクトからどのように生じるかについて説明すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The organisation should disclose the following information:",
+      "ja": "組織は以下の情報を開示すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "A description of each nature-related risk and opportunity identified by the organisation across each time horizon (short, medium and long term), with reference to the relevant metrics disclosed in Metrics and Targets A; and",
+      "ja": "各対象期間（短期、中期、長期）において組織が特定した各自然関連のリスクと機会について、「測定指標とターゲットA」で開示されている関連測定指標を参照して説明"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "The TNFD risk and opportunity category to which the risk or opportunity belongs, including whether a risk is a physical or transition risk.",
+      "ja": "リスクが物理的リスクか移行リスクかどうかを含め、リスクまたは機会が属するTNFDのリスクおよび機会のカテゴリー"
+    },
+    {
+      "page": 51,
+      "type": "h4",
+      "en": "B. Describe the effect nature-related dependencies, impacts, risks and opportunities have had on the organisation’s business model, value chain, strategy and financial planning, as well as any transition plans or analysis in place.",
+      "ja": "B. 自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、バリューチェーン、戦略、財務計画に与えた影響、および移行計画や分析について説明する。"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The organisation should describe how the nature-related dependencies, impacts risks and opportunities identified in Strategy A have affected its business model, value chain, strategy and financial position.",
+      "ja": "組織は戦略Aで特定された自然関連の依存、インパクト、リスクと機会が、自社のビジネスモデル、バリューチェーン、戦略、財務状況にどのような影響を与えたかについて説明すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "h4",
+      "en": "Business model, value chain and strategy",
+      "ja": "ビジネスモデル、バリューチェーン、戦略"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The organisation should describe the current and anticipated effects of the identified risks and opportunities on its business model and value chain and where these risks and opportunities are located in its business model and value chain.",
+      "ja": "組織は特定されたリスクと機会がそのビジネスモデルとバリューチェーンに与える現在と今後予想される影響、および、それらのリスクと機会がそのビジネスモデルとバリューチェーンのどこに位置するかについて説明すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The organisation should describe the processes and actions it has put in place to respond to the material dependencies, impacts, risks and opportunities it has identified, including:",
+      "ja": "組織は特定したマテリアルな依存、インパクト、リスクと機会に対応するために、以下のようなプロセスと行動を実施したことについて説明すべきである。"
+    },
+    {
+      "page": 51,
+      "type": "footnote",
+      "en": "49 State of nature encompasses ecosystem condition and extent, and species population size and species extinction risk.",
+      "ja": "49 自然の状態には、生態系の状態と範囲、種の個体数と種の絶滅リスクが含まれる。"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "How the organisation makes and implements decisions to avoid and reduce negative impacts on nature, regenerate and restore ecosystems and transform business practices, following the mitigation hierarchy and principles of extended producer responsibility;50",
+      "ja": "組織がミティゲーション・ヒエラルキーと拡大生産者責任の原則に従い、自然に対するマイナスのインパクトを回避・軽減し、生態系を再生・復元し、事業慣行を変革するために、どのような意思決定を行い、実行しているか50"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "Current and anticipated changes to business practices, investments in new technologies or research and development, decisions about the location of business operations, and collaboration with other partners and stakeholders;",
+      "ja": "事業慣行の現在および予想される変更、新技術や研究開発への投資、事業拠点の決定、他のパートナーやステークホルダーとの協力"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "Current and anticipated changes to upstream sourcing practices and interactions with downstream entities, such as the adoption of improved tracing, certification practices, collaboration with suppliers, customers and other stakeholders, or extended producer responsibility schemes;",
+      "ja": "改善された（サプライチェーンの）追跡方法、認証取得、サプライヤー・顧客・その他のステークホルダーとの協働、または拡大生産者責任制度、の採用など、上流の調達慣行および下流の事業体との相互作用に関する現在および予測される変更"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "Current and anticipated changes to the organisation’s engagement through multi-stakeholder planning processes, such as landscape approaches, watershed management and marine and coastal spatial planning; and",
+      "ja": "ランドスケープアプローチ、流域管理、海洋・沿岸空間プランニングなどのマルチステークホルダー・プランニング・プロセスを通じた組織のエンゲージメントに関する、現在および今後予想される変更"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "Any other current and anticipated policies or efforts to mitigate nature-related risks, manage nature-related issues and/or contribute towards the goals and targets in the GBF.",
+      "ja": "自然関連リスクの緩和、自然関連課題の管理、および／または生物多様性枠組の目標とターゲットに貢献するための、現在および今後予定されているその他の方針または取り組み"
+    },
+    {
+      "page": 52,
+      "type": "h4",
+      "en": "Financial position and performance",
+      "ja": "財務状況と業績"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "The organisation should describe the current and anticipated effects of nature-related risks and opportunities on its financial position, performance and cashflow, including:",
+      "ja": "組織は以下を含め、自然関連のリスクと機会がその財務状況、業績、キャッシュフローに与える現在と今後予想される影響について説明すべきである。"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "How the nature-related risks and opportunities have affected the financial position of the organisation in the reporting period;51",
+      "ja": "自然関連のリスクと機会が、報告期間における組織の財務状況にどのような影響を与えたか51"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "The anticipated effects on revenues, expenses, cashflows, asset and liability values and funding sources over the short, medium and long term;",
+      "ja": "短期、中期、長期にわたる、収入、経費、キャッシュフロー、資産価値、負債、資金源への予想される影響"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "Whether the organisation anticipates any significant investments or asset disposals as a result of the nature-related risks and opportunities identified; and",
+      "ja": "特定された自然関連のリスクと機会の結果として、組織が重大な投資や資産の処分を見込んでいるかどうか"
+    },
+    {
+      "page": 52,
+      "type": "li",
+      "en": "How nature-related risks and opportunities serve as an input to their financial planning processes.",
+      "ja": "自然関連のリスクと機会が、財務計画プロセスのインプットとしてどのように役立っているか"
+    },
+    {
+      "page": 52,
+      "type": "h4",
+      "en": "Target setting and transition plans",
+      "ja": "ターゲットの設定と移行計画"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "Organisations that have made nature-related commitments, set nature-related targets and/or made nature transition plans to address nature-related dependencies, impacts, risks and opportunities should describe their commitments, how they will achieve them and how they are aligned to GBF goals and targets.",
+      "ja": "自然関連のコミットメントを行い、自然関連のターゲットを設定し、および／または自然関連の依存、インパクト、リスクと機会に対処するための自然移行計画を策定した組織は、そのコミットメント、その達成方法、およびGBFの目標とターゲットとの整合性について説明すべきである。"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "A non-exhaustive list of indicators and metrics that demonstrate the response of organisations to nature-related dependencies, impacts, risks and opportunities is provided in Annex 2.",
+      "ja": "自然関連の依存、インパクト、リスクと機会に対する組織の対応を示す指標と測定指標をまとめたリスト（すべてを網羅したものではない）を別紙2に掲げた。"
+    },
+    {
+      "page": 52,
+      "type": "h4",
+      "en": "C. Describe the resilience of the organisation’s strategy to nature-related risks and opportunities, taking into consideration different scenarios.",
+      "ja": "C. 自然関連のリスクと機会に対する組織の戦略のレジリエンスについて、さまざまなシナリオを考慮して説明する。"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "The organisation should disclose information on the resilience of its strategy, business model and value chain to nature-related changes, developments and uncertainties, taking into consideration the organisation’s nature-related risks and opportunities identified in Strategy A. The organisation should use nature-related scenario analysis to assess its strategy resilience, using an approach that is commensurate with the organisation’s circumstances.",
+      "ja": "組織は戦略Aで特定された組織の自然関連のリスクと機会を考慮し、自然関連の変化、進展、不確実性に対する戦略、ビジネスモデル、バリューチェーンのレジリエンスに関する情報を開示すべきである。組織は自然関連のシナリオ分析を用いて、組織の状況に見合ったアプローチを用いて、戦略のレジリエンスを評価すべきである。"
+    },
+    {
+      "page": 52,
+      "type": "footnote",
+      "en": "50 These terms are defined in the TNFD glossary. The TNFD uses the Science Based Targets Network’s Action Framework for the mitigation hierarchy: AR3T (Avoid, Reduce, Restore, Regenerate, Transform). The TNFD uses the OECD definition of extended producer responsibility (see glossary).",
+      "ja": "50 これらの用語の定義についてはTNFD用語集を参照のこと。TNFDはミティゲーション・ヒエラルキーに関して科学に基づく目標ネットワークのアクション・フレームワークのAR3T－Avoid（回避）、Reduce（軽減）、Restore（復元）、Regenerate（再生）、Transform（変革）を使用している。TNFDではOECDの拡大生産者責任の定義を使用する（用語集を参照）。"
+    },
+    {
+      "page": 52,
+      "type": "footnote",
+      "en": "51 In line with ISSB’s IFRS-S1 – General Requirements for Disclosure of Sustainability-related Financial Information: “when identifying sustainability-related risks and opportunities that could reasonably be expected to affect an entity’s prospects, reasonable and supportable information includes information about past events(…).” (B8, Appendix B).",
+      "ja": "51 ISSBのIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」に沿ったもの：「企業の見通しに影響を及ぼすと合理的に予想されるサステナビリティに関連するリスクと機会を特定する場合、合理的かつ裏付け可能な情報には、過去の事象に関する情報が含まれる（後略）」（B8、別紙B）。"
+    },
+    {
+      "page": 53,
+      "type": "p",
+      "en": "The organisation should describe:",
+      "ja": "組織は以下の項目について説明すべきである。"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "The ways in which it believes its strategy, business model and value chain may be affected over the short, medium and long term by key trends and critical uncertainties regarding physical risks associated with nature loss and possible tipping points in locations material to its business model and value chain (as identified in Strategy D);",
+      "ja": "自然の損失に関連する物理的リスクや、自社のビジネスモデルやバリューチェーンにとってマテリアルな地域（戦略Dで特定される）で起こりうる転換点（tipping points）に関する主要な傾向や重大な不確実性により、自社の戦略、ビジネスモデル、バリューチェーンが短期・中期・長期的に影響を受ける場合があるとする考え方"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "The ways in which it believes its strategy, business model and value chain may be affected over the short, medium and long term by key trends and critical uncertainties regarding a range of transition risks, such as changes in government policy and regulation, litigation risk and shifting consumer expectations, and the degree of alignment or misalignment of those transition risk uncertainties;",
+      "ja": "政府の政策や規制の変更、訴訟リスク、消費者の期待の変化など、さまざまな移行リスクに関する主要な傾向や重大な不確実性によって、自社の戦略、ビジネスモデル、バリューチェーンが短期・中期・長期的に影響を受ける場合があるとする考え方、および、それらの移行リスクの不確実性の整合性または不整合性の程度"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "How its strategies might change to address such potential trends and uncertainties, including a description of how the organisation took into consideration location specificity;",
+      "ja": "そのような潜在的な傾向や不確実性に対処するために、戦略をどのように変更しうるか。組織が地域固有性を考慮に入れた方法の説明を含む。"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "The potential effects, if assessed, of an increased level and/or increased rate of change of nature-related risks and opportunities on financial performance (i.e. revenues and expenses) and financial position (i.e. assets and liabilities) over the short, medium and long term;",
+      "ja": "自然関連のリスクと機会のレベルの上昇および／または変化の速度の増加が、短期・中期・長期的な財務パフォーマンス（収入と経費）および財務状況（資産と負債）に及ぼす潜在的影響（それを評価する場合）"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "The resources and capacity the organisation has, or plans to put in place, to adapt and make identified changes to its strategy to address future changes in the potential effects of nature-related risks and opportunities; and",
+      "ja": "自然関連のリスクと機会の潜在的な影響における将来の変化に対処するために、組織がその戦略に適応し、特定された変更を行うために組織が有する、または導入を計画している資源と能力"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Its use of scenario tools and methodologies, if any, to inform its thinking about the resilience of its strategy, including a brief description of the scenario narratives used, the time horizons considered and the key insights gained.",
+      "ja": "その戦略のレジリエンスに関する考え方に情報を提供するために、シナリオ・ツールや方法を使用している場合の使用状況。これは、使用したシナリオ・ナラティブ、考慮した対象期間、得られた主要な知見についての簡潔な説明を含む。"
+    },
+    {
+      "page": 53,
+      "type": "h4",
+      "en": "D. Disclose the locations of assets and/or activities in the organisation’s direct operations and, where possible, upstream and downstream value chain(s) that meet the criteria for priority locations.",
+      "ja": "D. 優先地域に関する基準を満たす、組織の直接操業において、および可能であれば、上流と下流のバリューチェーンにおいて、資産および／または活動がある場所を開示する。"
+    },
+    {
+      "page": 53,
+      "type": "p",
+      "en": "As illustrated in Figure 21, priority locations are locations that are:",
+      "ja": "図21に図示するように、優先地域とは、以下のいずれかの場所を指す。"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Material locations: Locations where an organisation has identified material nature-related dependencies, impacts, risks and opportunities in its direct operations and upstream and downstream value chain(s); and/or",
+      "ja": "マテリアルな地域：直接操業および上流と下流のバリューチェーンにおいて、組織がマテリアルな自然関連の依存、インパクト、リスクと機会を特定した地域、および／または"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Sensitive locations: Locations where the assets and/or activities in its direct operations – and, where possible, upstream and downstream value chain(s) – interface with nature in:",
+      "ja": "要注意地域：直接操業、および可能であれば、上流と下流のバリューチェーンの資産および／または活動が、以下において自然と接する場所"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Areas important for biodiversity; and/or",
+      "ja": "生物多様性にとって重要な地域、および／または"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Areas of high ecosystem integrity; and/or",
+      "ja": "生態系の十全性が高い地域、および／または"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Areas of rapid decline in ecosystem integrity; and/or",
+      "ja": "生態系の十全性が急速に低下している地域、および／または"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Areas of high physical water risks; and/or",
+      "ja": "物理的水リスクが高い地域、および／または"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Areas of importance for ecosystem service provision, including benefits to Indigenous Peoples, Local Communities and stakeholders.",
+      "ja": "先住民族、地域社会とステークホルダーへの便益を含む、生態系サービスの提供にとって重要な地域"
+    },
+    {
+      "page": 54,
+      "type": "caption",
+      "en": "Figure 21: Assessment of priority locations – sensitive and material locations",
+      "ja": "図21：優先地域の評価 - 要注意およびマテリアルな地域"
+    },
+    {
+      "page": 54,
+      "type": "figure",
+      "en": "Assessment locations: All geographic locations in the organisation’s direct operations, upstream and downstream.",
+      "ja": "評価地域：組織の直接操業、上流、下流におけるすべての地理的位置。"
+    },
+    {
+      "page": 54,
+      "type": "figure",
+      "en": "Sensitive locations: Locations where the assets and/or activities in the organisation’s direct operations – and where possible, upstream and downstream value chain(s) – interface with nature in areas deemed to be ecologically sensitive.",
+      "ja": "要注意地域：組織の直接操業、および可能であれば上流と下流のバリューチェーン、における資産および／または活動が、生態学的に要注意と考えられる地域において自然と接する地域。"
+    },
+    {
+      "page": 54,
+      "type": "figure",
+      "en": "Material locations: Locations where the organisation has identified material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "マテリアルな地域：組織が重要な自然関連の依存、インパクト、リスクと機会を特定した地域。"
+    },
+    {
+      "page": 54,
+      "type": "figure",
+      "en": "Priority locations for Strategy D disclosure",
+      "ja": "戦略D開示のための優先地域"
+    },
+    {
+      "page": 54,
+      "type": "p",
+      "en": "An organisation should provide:",
+      "ja": "組織は以下を提供すべきである。"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "A list and/or spatial map of the locations where the organisation has assets and/or activities:",
+      "ja": "組織が資産および／または活動を有する地域のリストおよび／または空間地図"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "In its direct operations and upstream and downstream value chain(s), where material nature-related dependencies, impacts, risks and opportunities have been identified, and whether any of these locations meet the criteria for sensitive locations; and",
+      "ja": "直接操業および上流と下流のバリューチェーンにおいて、マテリアルな自然関連の依存、インパクト、リスクと機会が特定されている地域において。およびこれらの地域のいずれかが要注意地域の基準を満たすかどうか"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "In its direct operations and, where possible upstream and downstream value chain(s), that are in sensitive locations as defined above.",
+      "ja": "上記で定義された要注意地域に存在する直接操業、および可能であれば、上流と下流のバリューチェーンにおいて",
+      "flag": "ja-split-differs"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "A description of how the organisation has defined sensitive locations, with reference to the tools, data sources and indicators and metrics used;",
+      "ja": "使用したツール、データソース、指標、測定指標を参照しつつ、組織が要注意地域をどのように定義したかを説明"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "A description of the process followed to identify priority locations for disclosure;",
+      "ja": "開示のために優先地域を特定するためにたどったプロセスの説明"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "A description of the level of geographic specificity achieved, if and how locations have been aggregated, and the rationale for any aggregation, with reference to general requirement 3; and",
+      "ja": "一般要件3を参照し、達成された地理的特異性のレベル、地域が集計されているか、いかに集計されたか、および集計の根拠、の説明"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The organisations intentions to improve or expand its location assessment activities over the short, medium and long term.",
+      "ja": "短期・中期・長期的に地域の評価活動を改善または拡大しようとする組織の意図"
+    },
+    {
+      "page": 55,
+      "type": "h3",
+      "en": "Risk and impact management",
+      "ja": "リスクとインパクトの管理"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "Describe the processes used by the organisation to identify, assess, prioritise and monitor nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "組織が自然関連の依存、インパクト、リスクと機会を特定、評価、優先順位付け、監視するために使用しているプロセスについて説明する。"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "Investors and other stakeholders are interested in understanding how an organisation’s nature-related dependencies, impacts, risks and opportunities are identified, assessed, prioritised and monitored, and whether those processes are integrated into existing risk management processes. Such information helps users of nature-related financial disclosures to evaluate the organisation’s overall risk processes and risk and impact management activities.",
+      "ja": "投資家やその他のステークホルダーは、組織の自然関連の依存、インパクト、リスクと機会がどのように特定され、評価され、優先順位付けされ、監視されているか、また、それらのプロセスが既存のリスク管理プロセスに統合されているかどうかを理解することに関心がある。このような情報は、自然関連の財務情報開示の利用者が、組織の全体的なリスク・プロセスやリスクとインパクトの管理活動を診断するために役立つ。"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "A non-exhaustive list of response indicators and metrics that may help organisations to demonstrate the process used to identify, assess, prioritise and monitor nature-related dependencies, impacts, risks and opportunities is provided in Annex 2.",
+      "ja": "自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位をつけ、監視するために使用したプロセスを組織が実証するために役立つ可能性のある対応指標と測定指標をまとめたリスト（すべてを網羅したものではない）を別紙2に記載した。"
+    },
+    {
+      "page": 55,
+      "type": "h4",
+      "en": "A(i) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its direct operations.",
+      "ja": "A(i) 直接操業における自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスについて説明する。"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "The organisation should describe its processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its direct operations.",
+      "ja": "組織は直接操業における自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするプロセスについて説明すべきである。"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "The description should include:",
+      "ja": "その説明には以下が含まれるべきである。"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "How the organisation identifies existing and emerging nature-related dependencies, impacts, risks and opportunities that may be material to the organisation, including factors such as:",
+      "ja": "組織にとってマテリアルとなり得る自然関連の既存および新たな依存、インパクト、リスクと機会を、以下のような要素を含めて、どのように特定するか、"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The materiality definitions and application guidance used with respect to the organisation’s materiality assessment;",
+      "ja": "組織のマテリアリティ評価に関して使用するマテリアリティの定義と適用に関するガイダンス"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The degree of location-specificity used (e.g. site-specific, local, sub-national), taking into account the differences in dependencies, impacts, risks and opportunities across locations;",
+      "ja": "地域による依存、インパクト、リスクと機会の違いを考慮した、使用している地域固有性の度合い（例えば、事業拠点固有、近隣地域、国内の地方）"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The timescales considered;",
+      "ja": "考慮する時間尺度"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "Whether and how ecological thresholds and tipping points were considered;",
+      "ja": "生態学的閾値と転換点（tipping points）を考慮したかどうか、またどのように考慮したか"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The frequency of assessment; and",
+      "ja": "評価の頻度"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "Whether and how existing and emerging policy changes and regulatory requirements related to climate change and nature loss were considered (e.g. restrictions on water or land use).",
+      "ja": "気候変動や自然の損失に関連する、既存および新たな政策変更や規制要件が考慮されたかどうか、またどのように考慮されたか（例えば、水や土地利用に対する制限）"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "How the organisation assesses nature-related risks and opportunities for the magnitude of potential effects on the organisation, including processes for assessing the potential size and scope of identified nature-related risks and opportunities and the likelihood of the effects of those risks, based on its understanding of how nature-related risks and opportunities originate from the identified dependencies and impacts.",
+      "ja": "組織が自然関連のリスクと機会を、組織に及ぼす潜在的影響の大きさについて、どのように評価するか、これには、自然関連のリスクと機会が特定された依存とインパクトからどのように生じるかに関する理解に基づき、特定された自然関連のリスクと機会の潜在的な規模とスコープ、およびそれらのリスクの影響の発生可能性、を評価するためのプロセスを含む"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "How the organisation determines the relative significance of nature-related risks and opportunities in relation to other risks and opportunities and prioritises risks and opportunities to inform risk and opportunity responses and risk and opportunity management decision-making.",
+      "ja": "組織が、他のリスクと機会との関連において、自然関連のリスクと機会の相対的な重要性をどのように判断し、リスクと機会に対する対応やリスクと機会の管理の意思決定に対して情報を提供するために、リスクと機会をどのように優先順位付けするか"
+    },
+    {
+      "page": 55,
+      "type": "p",
+      "en": "The organisation should disclose:",
+      "ja": "組織は以下の項目を開示すべきである。"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "An assessment of the quality of the data used and the implications for the analysis;",
+      "ja": "使用したデータの質と分析への影響についての評価"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "A description of any improvements made to data quality since the previous disclosure period and plans to improve data quality over time;",
+      "ja": "前回の開示以降にデータ品質に対して行われた改善および長期的なデータ品質改善計画の説明"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "The methodology and information sources used for key data not obtained directly from the organisation’s operations; and",
+      "ja": "組織の事業から直接入手したものではない主要なデータに関して使用した方法と情報源"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "Definitions of the risk terminology used, or references to existing risk classification frameworks used, where appropriate and relevant to understanding the process followed.",
+      "ja": "使用したリスク用語の定義、または使用した既存のリスク分類枠組みの参照（適切であり、従ったプロセスの理解に関連する場合）"
+    },
+    {
+      "page": 56,
+      "type": "h4",
+      "en": "A(ii) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s).",
+      "ja": "A(ii) 上流と下流のバリューチェーンにおける自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスについて説明する。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "The organisation should describe its processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s).",
+      "ja": "組織は上流と下流のバリューチェーンにおける自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするプロセスについて説明すべきである。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "The description should include:",
+      "ja": "その説明には以下が含まれるべきである。"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation defines the value chain(s), its scope and constituent elements;",
+      "ja": "組織がバリューチェーン、そのスコープ、構成要素をどのように定義しているか"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The scope of the value chain(s) considered;",
+      "ja": "考慮するバリューチェーンのスコープ"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation determines which elements of the value chain(s) are to be assessed (e.g. based on the TNFD’s additional guidance; the commodities used; products, locations, processes; and/or degree of influence over the issue);52",
+      "ja": "バリューチェーンのどの要素を評価するかを組織が決定するための方法（例えば、TNFDの追加ガイダンスに基づくなど）、使用される一次産品、製品、地域、プロセス、および／または、その課題に対する影響の度合い52"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The elements of the value chain(s) selected for assessment using this process;",
+      "ja": "このプロセスを用いて評価するために選択されたバリューチェーンの要素"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation reviews its approach to identifying elements of the value chain(s) for assessment to reflect new, emerging and changing risks and opportunities that may affect the organisation;53",
+      "ja": "組織に影響を及ぼす可能性のある、新しく出現し、変化するリスクと機会を反映するために、バリューチェーンの要素を評価対象として特定するアプローチを、組織がどのように見直しているか53"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation assesses dependencies, impacts, risks and opportunities associated with its value chain(s):",
+      "ja": "組織がバリューチェーンに関連する依存、インパクト、リスクと機会をどのように評価しているか"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The materiality definitions and application guidance used with respect to the organisation’s materiality assessment;",
+      "ja": "組織のマテリアリティ評価に関して使用するマテリアリティの定義と適用に関するガイダンス"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The timescales considered for the assessment;",
+      "ja": "評価で考慮する時間尺度"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "Whether and how ecological thresholds and tipping points have been considered;",
+      "ja": "生態学的閾値と転換点（tipping points）を考慮したかどうか、また、どのように考慮したか"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The degree of location-specificity achieved and the implications for the analysis, including:",
+      "ja": "達成された地域固有性の度合いと分析への影響には、以下が含まれる。"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "An assessment of the quality of the data used and the implications for the analysis;",
+      "ja": "使用したデータの質と分析への影響についての評価"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The improvements in data quality, traceability and location-specificity achieved since the disclosure in prior periods;",
+      "ja": "過年度の開示以降に達成されたデータの質、トレーサビリティ、地域固有性の改善"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "Which data are obtained directly from suppliers or customers and which are estimated;",
+      "ja": "どのデータをサプライヤーや顧客から直接入手し、どのデータを推定したか"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The methodology and data sources used when data are not obtained directly from suppliers or customers, including the use of proxy data; and",
+      "ja": "サプライヤーや顧客から直接データを得られない場合に使用する方法とデータソース（プロキシデータの使用を含む）"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "The strategy to increase data quality, traceability and location-specificity over time, the barriers to such improvements and the approach to overcoming those barriers.",
+      "ja": "データの質、トレーサビリティ、地域固有性を長期的に向上させるための戦略、そのような改善を阻む障壁、そしてそれらの障壁を克服するためのアプローチ"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation assesses nature-related risks and opportunities in its value chain(s) based on the magnitude of potential effects on the organisation, including processes for assessing the potential size and scope of identified nature-related risks and opportunities and the likelihood of the effects of those risks, based on its understanding of how nature-related risks and opportunities originate from the identified dependencies and impacts; and",
+      "ja": "組織が、バリューチェーンにおける自然関連のリスクと機会を、組織に及ぼす潜在的影響の大きさに基づいてどのように評価するか、これには、自然関連のリスクと機会が、特定された依存とインパクトからどのように生じるかについての理解に基づき、特定された自然関連のリスクと機会の潜在的な大きさとスコープ、およびそれらのリスクの影響の発生可能性、を評価するプロセスを含む"
+    },
+    {
+      "page": 56,
+      "type": "li",
+      "en": "How the organisation determines the relative significance of nature-related risks and opportunities in its value chain(s) in relation to other risks and opportunities, including processes for prioritising risks and opportunities to inform risk and opportunity responses and risk and opportunity management decision-making.",
+      "ja": "組織が、他のリスクと機会との関連において、バリューチェーンにおける自然関連のリスクと機会の相対的な重要性を、組織がどのように決定しているか、これには、リスクと機会に対する対応およびリスクと機会に関する管理の意思決定に対して情報を提供するためのリスクと機会の優先順位付けのプロセスを含む"
+    },
+    {
+      "page": 56,
+      "type": "footnote",
+      "en": "52 To identify priorities, an organisation may want to follow processes such as those outlined in the Organisation for Economic Cooperation and Development’s (OECD) Due Diligence Guidance for Responsible Business Conduct or GRI 3: Material Topics 2021. The organisation may also want to refer to the Science Based Targets Network’s (SBTN) High Impact Commodity List and Materiality Screening Tool and the ENCORE tool to identify which activities and assets upstream and downstream may warrant assessment.",
+      "ja": "52 優先順位を特定するために、組織は経済協力開発機構（OECD）の責任ある企業行動のためのOECDデュー・ディリジェンス・ガイダンスまたはGRI 3：マテリアルな項目2021に概説されているプロセスに従うことができる。また、組織は、上流と下流でどのような活動や資産が評価の対象となり得るかを特定するために、科学に基づく目標ネットワーク（SBTN）の高インパクト一次産品リストとマテリアリティ・スクリーニング・ツールやENCOREツールを参照するとよい。"
+    },
+    {
+      "page": 56,
+      "type": "footnote",
+      "en": "53 For example, how existing and emerging regulatory requirements related to nature loss are considered, which could result in water or land use restrictions.",
+      "ja": "53 例えば、水や土地の利用制限をもたらす可能性のある、自然の損失に関連する既存および新たな規制要件がどのように考慮されるか。"
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "B. Describe the organisation’s processes for managing nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "B. 自然関連の依存、インパクト、リスクと機会を管理するための組織のプロセスについて説明する。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "The organisation should describe its processes for managing nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "組織は自然関連の依存、インパクト、リスクと機会を管理するためのプロセスについて説明すべきである。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "This should include information about:",
+      "ja": "これには以下の情報が含まれるべきである。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "The inputs and parameters the organisation uses (for example, information about data sources and the scope of operations covered in the processes);",
+      "ja": "組織が使用するインプットとパラメータ（例えば、データソースやプロセスの対象となる業務のスコープに関する情報）"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "The risk management tools the organisation uses to assess the organisation’s overall risk profile in light of those risks; and",
+      "ja": "それらのリスクに照らして組織の全体的なリスクプロファイルを評価するために組織が使用するリスク管理ツール"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "How the organisation monitors nature-related risks.",
+      "ja": "組織が自然関連リスクをどのように決定するか。"
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "C. Describe how processes for identifying, assessing, prioritising and monitoring nature-related risks are integrated into and inform the organisation’s overall risk management processes.",
+      "ja": "C. 自然関連リスクの特定、評価、優先順位付け、モニタリングのプロセスが、組織全体のリスク管理プロセスにどのように組み込まれ、情報提供しているかについて説明する。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "The organisation should describe whether and how its processes for identifying, assessing, prioritising and monitoring nature-related risks are integrated into its overall risk management process.",
+      "ja": "組織は自然関連リスクの特定、評価、優先順位付け、モニタリングのプロセスが、組織全体のリスク管理プロセスに組み込まれているかどうか、およびどのように組み込まれているかについて説明すべきである。"
+    },
+    {
+      "page": 57,
+      "type": "h3",
+      "en": "Metrics and targets",
+      "ja": "測定指標とターゲット"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Disclose the metrics and targets used to assess and manage material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "マテリアルな自然関連の依存、インパクト、リスクと機会を評価し、管理するために使用している測定指標とターゲットを開示する。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Investors and other stakeholders are interested in understanding an organisation’s performance in relation to nature-related issues, including progress towards any targets the organisation has set and how an organisation measures and monitors its nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "投資家やその他のステークホルダーは、組織が設定したターゲットに対する進捗状況や、組織が自然関連の依存、インパクト、リスクと機会をどのように測定・監視しているかなど、自然関連課題に関する組織のパフォーマンスを理解することに関心がある。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Disclosure of the metrics and targets used by an organisation to identify, evaluate, assess and manage material nature-related dependencies, impacts, risks and opportunities helps investors and other stakeholders to assess an organisation’s current and prospective risk-adjusted returns, its ability to meet current and future financial obligations, its general exposure to nature-related issues, and its progress in managing or adapting to those issues. Disclosure of metrics and targets on a consistent basis helps investors and other stakeholders to compare organisations within a sector or industry.",
+      "ja": "マテリアルな自然関連の依存、インパクト、リスクと機会を特定、診断、評価、管理するために組織が使用している測定指標とターゲットの開示は、投資家やその他のステークホルダーが、組織の現状と見込みのリスク調整後リターン、現在および将来の財務的義務を果たす能力、自然関連課題に対する一般的なエクスポージャー、およびそれらの課題の管理または適応の進捗状況を評価するために役立つ。一貫性をもって測定指標とターゲットを開示することは、投資家やその他のステークホルダーが、セクターや産業界内の組織を比較するために役立つ。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "The TNFD intends to increase the specificity of methodologies in its guidance over time, as practices and standards further develop.",
+      "ja": "TNFDは、実務や基準がさらに発展するにつれて、ガイダンスの方法論の具体性を時間をかけて高めていくことを意図している。"
+    },
+    {
+      "page": 57,
+      "type": "quote",
+      "en": "In preparing the disclosures for this pillar, organisations should refer to Section 4, Annex 1 (TNFD core global disclosure metrics), Annex 2 (TNFD additional global disclosure metrics) and Annex 4 (TNFD glossary of terms).",
+      "ja": "この柱に関する開示を行うにあたり、組織は4節、別紙1（TNFDのグローバル中核開示指標）、別紙2（TNFDのグローバル追加開示指標）、別紙4（TNFDの用語集）を参照すべきである。"
+    },
+    {
+      "page": 57,
+      "type": "quote",
+      "en": "Where organisations do not align to TNFD terminology for a disclosure metric, or where the TNFD terminology is not yet specified for a particular term used in disclosure metrics, organisations should disclose the definition used.",
+      "ja": "組織が開示指標についてTNFDの用語と一致させない場合、または開示指標で使用される特定の用語についてTNFDの用語がまだ規定されていない場合、組織は開示において使用した定義を説明すべきである。"
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "A. Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk management process.",
+      "ja": "A. 組織が戦略およびリスク管理プロセスに沿って、マテリアルな自然関連のリスクと機会を評価し、管理するために使用している測定指標を開示する。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "An organisation should disclose the indicators and metrics used to measure and manage the material nature-related risks and opportunities described in Strategy A.",
+      "ja": "組織は戦略Aに記載されているマテリアルな自然関連のリスクと機会を測定・管理するために使用している指標と測定指標を開示すべきできである。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "To achieve this, an organisation should disclose the metrics that are most relevant to and most accurately represent the nature-related risks and opportunities on which it is reporting. The metrics disclosed should include:",
+      "ja": "これを達成するために、組織は報告対象である自然関連のリスクと機会に最も関連し、最も正確に表す測定指標を開示すべきである。開示される測定指標には以下が含まれるべきである。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "All core global and core sector risk and opportunity metrics listed in Annex 1 reported at the organisational level; and",
+      "ja": "すべてのグローバル中核リスクと機会およびセクター中核リスクと機会の測定指標（別紙1に記載）は、組織レベルで報告される"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Any other relevant metrics, drawing on the TNFD additional disclosure indicators and metrics listed in Annex 2 and the organisation’s own assessment metrics as appropriate, reported at the appropriate organisational level (e.g. site, product, service, region or organisation) to reflect most accurately the magnitude of risks and opportunities described in Strategy A.",
+      "ja": "その他の関連する測定指標、すなわち、別紙2に記載されたTNFDの追加開示指標と測定指標、および、必要に応じて、戦略Aに記述されたリスクと機会の大きさを最も正確に反映するために、適切な組織レベル（例えば、事業拠点、製品、サービス、地域または組織）で報告された組織独自の評価指標を活用する。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "Where possible, these should cover:",
+      "ja": "可能であれば、これらにより以下の情報を提示すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Financial information about the effects of nature-related risks and opportunities on the organisation, with reference to effects reported in Strategy B; and",
+      "ja": "財務情報、自然関連のリスクと機会が組織に及ぼす影響に関するものであり、戦略Bで報告された影響を参照する"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Insight into how the organisation monitors actions, policies and strategies to manage risks and opportunities, with reference to Strategy B and Risk and Impact Management B.",
+      "ja": "リスクと機会を管理するために、組織がどのように行動、方針、戦略を監視しているかについての深い理解。戦略Bとリスクとインパクト管理Bを参照する。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "Indicators and metrics should also be disclosed for historical periods, including prior year comparisons to allow for trend analysis. When appropriate, the organisation should disclose forward-looking nature-related indicators and metrics, consistent with its business or strategic planning time horizons.",
+      "ja": "指標と測定指標は、トレンド分析を可能にするために、前年度比較を含め、過去の期間について開示すべきである。適切な場合には、組織は、事業または戦略計画の対象期間と整合する、将来を見据えた自然関連の指標と測定指標を開示すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "The organisation should describe the methodologies and assumptions used to calculate or estimate nature-related indicators and metrics, including any limitations.",
+      "ja": "組織は自然関連の指標と測定指標を計算または推定するために使用した方法と仮定について、あらゆる限界を含めて説明すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "An organisation should provide a short explanation where any core metrics are not reported. A core metric may be omitted where it has:",
+      "ja": "中核的な測定指標が報告されない場合、組織は簡単な説明を提示すべきである。中核的な測定指標は、以下の場合は省略することができる。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Not been identified as relevant or material to the organisation; or",
+      "ja": "組織と関連する、またはマテリアルである、と特定されていないもの、または"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Been identified as relevant and material, but the organisation is unable to measure it due to limitations with methodologies or access to data. In this case, organisations should explain how they plan to address this in future reporting periods.",
+      "ja": "関連性があり、マテリアルだと特定されているが、方法やデータへのアクセスに限界があるため組織が測定できないもの。こういった場合には、組織は今後の報告期間にどのように対処する予定かを説明すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "h4",
+      "en": "B. Disclose the metrics used by the organisation to assess and manage dependencies and impacts on nature.",
+      "ja": "B. 自然に対する依存とインパクトを評価し、管理するために組織が使用している測定指標を開示すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "The organisation should disclose the indicators and metrics used to measure and manage the material nature-related dependencies and impacts described in Strategy A.",
+      "ja": "組織は戦略Aに記載されているマテリアルな自然関連の依存とインパクトを測定・管理するために使用している指標と測定指標を開示すべきである。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "To achieve this, an organisation should disclose the metrics that are most relevant to and most accurately represent the nature-related dependencies and impacts on which it is reporting. This should include, for each dependency and impact described in Strategy A:",
+      "ja": "これを達成するために、組織は、報告対象である自然関連の依存とインパクトに最も関連し、最も正確に表す測定指標を開示すべきである。これには戦略Aに記載されているそれぞれの依存とインパクトを含めるべきである。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "All core global and core sector metrics for dependencies and impacts listed in Annex 4 and in relevant sector guidance; and",
+      "ja": "すべてのグローバル中核開示指標およびセクター中核開示指標、別紙4および関連するセクターガイダンスに記載されている依存やインパクトに関するもの"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Any other relevant metrics, drawing on the TNFD additional disclosure indicators and metrics listed in Annex 2 and the organisation’s own assessment metrics as appropriate.",
+      "ja": "その他の関連する測定指標、すなわち、別紙2に掲載されているTNFDの追加開示指標と測定指標、および必要に応じて組織独自の評価測定指標を活用する。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "These metrics should cover the organisation’s impact drivers associated with each material dependency and impact identified in Strategy A, indicating what the impact driver is (i.e. the type of pollutant emitted), the magnitude (i.e. the quantity of pollutant) and the location in which the impact driver occurs, with reference to Strategy D.",
+      "ja": "これらの指標は、戦略Dを参照して、インパクト要因が何であるか（例えば、排出される汚染物質の種類）、その大きさ（例えば、汚染物質の量）、およびインパク要因が発生する地域を示しながら、戦略Aで特定されたそれぞれのマテリアルな依存とインパクトに関連する組織のインパクト要因を対象とするべきである。"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "It is also recommended that the organisation consider covering in its disclosure, for the location of each dependency and impact described in Strategy A, with reference to Strategy D:",
+      "ja": "また、組織は、戦略Aに記載されているそれぞれの依存とインパクトの地域について、戦略Dを参照しつつ、開示の対象とすることを検討することが推奨される。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Other elements of the dependency and impact pathway (qualitatively if quantitative metrics are not yet available) including:",
+      "ja": "依存とインパクト経路の他の要素（定量的な測定指標がまだ入手できない場合は定性的に）には、以下が含まれる。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Changes in the state of nature (e.g. ecosystem condition and extent, and species population size and extinction risk); and",
+      "ja": "自然の状態の変化（例えば、生態系の状態と範囲、種の個体数と絶滅リスク）"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Changes in the availability of ecosystem services;",
+      "ja": "生態系サービスの利用可能性の変化"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Actions, policies and strategies to manage these impacts and dependencies, as disclosed in Strategy B; and",
+      "ja": "行動、方針、戦略。戦略Bで開示されているように、これらのインパクトと依存を管理するためのもの"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Aggregated impact drivers for the organisation’s direct operations, and upstream and downstream value chain(s) to the extent possible, and by product or service line if material, using the core global and core sector metrics listed in Annex 1 and in relevant sector guidance. Where organisations are not able to report metrics for the full value chain, organisations are encouraged to report metrics at the stage of the value chain that is most representative of their material nature-related issues. For metrics focused on the use of natural commodities, this is likely to require reporting on upstream activities.",
+      "ja": "集約されたインパクト要因。別紙1および関連するセクターガイダンスに記載されているグローバル中核開示指標とセクター中核開示指標を使用して、組織の直接操業、可能な限り上流と下流のバリューチェーン、およびマテリアルな場合は製品またはサービスラインごとに集計されたもの。組織がバリューチェーン全体にわたる測定指標を報告することができない場合、マテリアルな自然関連課題を最もよく代表するバリューチェーン段階での指標を報告することが奨励される。天然一次産品の利用に焦点を当てた測定指標では、上流での活動に関する報告が必要となる可能性が高い。"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "An organisation should provide a short explanation where any core metrics are not reported explaining whether it has:",
+      "ja": "中核的な測定指標が報告されない以下のような場合、組織は簡単な説明を提示すべきである。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Not been identified as relevant or material to the organisation; or",
+      "ja": "組織と関連する、またはマテリアルである、と特定されていない場合、または"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Been identified as relevant and material, but the organisation is unable to measure it due to limitations with methodologies or access to data. In this case, organisations should explain how they plan to address this in future reporting periods.",
+      "ja": "関連性があり、マテリアルだと特定されているが、方法データへのアクセスに限界があるため組織で測定できない場合。こういった場合には、組織は今後の報告期間にどのように対処する予定かを説明すべきである。"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "Metrics should be reported:",
+      "ja": "測定指標は以下のように報告されるべきである。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Against a clear and transparent baseline and/or reference condition where possible;54",
+      "ja": "可能であれば、明確かつ透明性のあるベースラインおよび／または参照条件と照合する54"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Separately for negative and positive impacts, not on a net basis;",
+      "ja": "ネット（相殺後）ベースではなく、プラスとマイナスのインパクト要因に区別する"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "With reference to whether they relate to the organisation’s direct operations, upstream value chain(s) or downstream value chain(s);",
+      "ja": "それらが組織の直接操業、上流バリューチェーン、下流バリューチェーンのいずれかに関連するかどうかを考慮する"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "With an absolute figure, the rate of change, and an intensity/efficiency ratio. The TNFD disclosure metrics contained with Annexes 1 and 2 are mostly listed at the absolute level. Organisations are encouraged to use the best practice intensity/efficiency ratios for their sectors, describing the rationale for selection of ratios.",
+      "ja": "絶対値、変化率、原単位／効率比を盛り込む。別紙1と2に含まれているTNFDの開示指標は、ほとんどが絶対値レベルで記載されている。組織は、各セクターのベストプラクティスの原単位／効率比を使用し、比率を選択する根拠を説明することが奨励される。"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "The organisation should also disclose:",
+      "ja": "組織は以下の項目も開示すべきである。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "If and how metrics have been aggregated, in line with general requirement 3 and including the scientific justification for aggregating metrics and/or locations (e.g. ecological equivalency or industry best practice with references), the methodologies used and any limitations or assumptions;",
+      "ja": "測定指標を集計したか。どのように集計したか。一般要件3に従って、および測定指標および／または地域を集計する科学的正当性（例えば、参考文献で裏付けられた生態学的同等性、または産業界のベストプラクティス）、用いた手法、あらゆる限界や仮定を含む。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "A description of the methodologies, tools and data platforms used to obtain key data; the assumptions, tools and data platforms used to calculate or estimate nature-related indicators and metrics; and any limitations, including a lack of data or the use of proxy data and industry averages; and",
+      "ja": "重要なデータを取得するために使用した方法、ツール、データプラットフォームの説明。自然関連の指標と測定指標を計算または推定するために使用した仮定、ツール、データプラットフォーム。さらに、データの不足、プロキシデータや産業界平均の使用などを含むあらゆる限界"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "When appropriate, forward-looking nature-related indicators and metrics, consistent with its business or strategic planning time horizons.",
+      "ja": "適切な場合、事業または戦略的計画の時間軸と整合する、将来を見据えた自然関連の指標と測定指標。"
+    },
+    {
+      "page": 59,
+      "type": "h4",
+      "en": "C. Describe the targets and goals used by the organisation to manage nature-related dependencies, impacts, risks and opportunities and its performance against these.",
+      "ja": "C. 自然関連の依存、インパクト、リスクと機会を管理するために組織が使用しているターゲットと目標、それらに対する組織のパフォーマンスについて説明する。"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "The organisation should describe the targets and goals it has established to manage its nature-related dependencies, impacts, risks and opportunities, and disclose performance against these targets and goals.",
+      "ja": "組織は自然関連の依存、インパクト、リスクと機会を管理するために設定したターゲットや目標を説明し、それらのターゲットや目標に対するパフォーマンスについて開示すべきである。"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "Disclosures for each target should include:",
+      "ja": "各ターゲットに関する開示には、以下が含まれるべきである。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "The strategy or risk management objective the target seeks to address, including any anticipated regulatory requirements, market constraints, limitations or other contextual information relevant to understanding the target;",
+      "ja": "ターゲッが対処しようとしている戦略またはリスク管理の目的、これには予想される規制要件、市場の制約、限界、またはターゲットを理解するために関連するその他の背景情報を含む"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "The metric used to quantify the target and monitor performance;",
+      "ja": "ターゲットを定量化し、パフォーマンスを監視するために使用した測定指標"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "The targeted value of the metric;",
+      "ja": "測定指標の目標数値"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "The baseline year and level of the metric;",
+      "ja": "測定指標の基準年とレベル"
+    },
+    {
+      "page": 59,
+      "type": "footnote",
+      "en": "54 See section 5.",
+      "ja": "54 5節を参照。"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "The timeframe for achieving the target;",
+      "ja": "ターゲット達成までの期間"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Short and medium term interim targets or target trajectory for the metric;",
+      "ja": "測定指標の短期・中期的な中間ターゲットまたはターゲットに達するまでの軌道"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "The methodology used to set the target and baseline, including whether the organisation has used any external standards when setting the target and whether these use a science-based approach;",
+      "ja": "ターゲットとベースラインを設定するために使用した方法。これには、組織がターゲットを設定する際に外部の基準を使用したかどうか、またそれが科学に基づくアプローチであるかどうかを含む。"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Performance against the target relative to the baseline or reference condition on a historical and current year basis, updated annually, and expected performance against targets for the following year, where appropriate;",
+      "ja": "毎年更新される、ベースラインまたは参照条件に対する、過年度および当年度の目標に対する実績、適切な場合は、次年度の目標に対する予想実績"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "If the organisation exceeded or fell short of the target trajectory or is projected to do so, an explanation of the reasons and disclosure of any resulting adjustment or resetting of targets from the prior period; and",
+      "ja": "組織がターゲットに達するまでの軌道を上回った、あるいは下回った場合、またはそのように予測される場合は、その理由の説明と、その結果生じる前期からのターゲットの調整または再設定の開示"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Whether and how the target aligns with or supports the targets and goals of the Kunming–Montreal Global Biodiversity Framework,55 the Paris Agreement on climate change,56 the Sustainable Development Goals,57 Planetary Boundaries58 and other global reference environmental treaties, policy goals and system-wide initiatives.",
+      "ja": "ターゲットが昆明・モントリオール生物多様性枠組のターゲットと目標と一致または支援しているかかどうか、およびどのように一致または支援しているか55気候変動に関するパリ協定56持続可能な開発目標57、プラネタリーバウンダリー58およびその他の世界的に参照される環境条約、政策目標、システム全体のイニシアティブ。"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Targets in scope include:",
+      "ja": "対象とするターゲットは以下の通り。"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Targets for changes to impact drivers;",
+      "ja": "インパクト要因の変更に関するターゲット"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Targets to improve or maintain the flow of ecosystem services;",
+      "ja": "生態系サービスの流れを改善または維持するためのターゲット"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Targets to halt and reverse nature loss and improve or maintain the state of nature;",
+      "ja": "自然の損失を食い止め、回復させ、自然の状態を改善または維持するためのターゲット"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Targets for changes to business activities and processes correlated with dependencies and impacts;",
+      "ja": "依存およびインパクトと関係がある事業活動およびプロセスの変更に関するターゲット"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Enterprise-level targets directly or indirectly affecting nature-related dependencies, impacts, risks and opportunities. For example, direct operations changes that increase the circularity of the business or the traceable or certified share of the supply chain; and",
+      "ja": "自然関連の依存、インパクト、リスクと機会に直接的または間接的に影響を与える企業レベルのターゲット。例えば、事業の循環性を高める直接操業の変更や、サプライチェーンにおけるトレーサビリティや認証取得の割合を高めるような業務変更"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Other targets to address nature-related dependencies, impacts, risks or opportunities.",
+      "ja": "自然関連の依存、インパクト、リスクと機会に対処するためのその他のターゲット"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "In all cases, targets should be specific and time-bound, quantified with metrics that can be suitably measured and are relevant to the organisation’s strategy or risk management plans, including the pursuit of opportunities.",
+      "ja": "どのような場合でも、ターゲットは具体的で期限付きのものでなければならず、適切に測定できる測定指標で定量化され、機会の追求を含め、組織の戦略やリスク管理計画に関連すべきである。"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Organisations should consider reporting the:",
+      "ja": "組織は以下の報告を検討すべきである。"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Proportion of targets that address short term, medium term and long term risks and opportunities;",
+      "ja": "短期・中期・長期のリスクと機会に対処するターゲットの割合"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Proportion of targets that are time-bound and quantifiable; and",
+      "ja": "期限付きで定量化可能なターゲットの割合"
+    },
+    {
+      "page": 60,
+      "type": "li",
+      "en": "Proportion of geographical sites/priority locations that are covered by targets.",
+      "ja": "ターゲットの対象となる地理的拠点や優先地域の割合"
+    },
+    {
+      "page": 60,
+      "type": "footnote",
+      "en": "55 Convention on Biological Diversity (2022) The Kunming-Montreal Global Biodiversity Framework",
+      "ja": "55 生物多様性条約(2022)昆明・モントリオール生物多様性枠組"
+    },
+    {
+      "page": 60,
+      "type": "footnote",
+      "en": "56 United Nations (2015) The Paris Agreement",
+      "ja": "56 国連(2015)パリ協定"
+    },
+    {
+      "page": 60,
+      "type": "footnote",
+      "en": "57 United Nations (2015) Transforming our world: the 2030 Agenda for Sustainable Development",
+      "ja": "57 国連(2015)我々の世界を変革する：持続可能な開発のための2030アジェンダ"
+    },
+    {
+      "page": 60,
+      "type": "footnote",
+      "en": "58 Stockholm Resilience Centre (2015) Planetary Boundaries",
+      "ja": "58 ストックホルム・レジリエンス・センター(2015)プラネタリーバウンダリー"
+    }
+  ]
+}

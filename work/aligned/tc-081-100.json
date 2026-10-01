@@ -1,0 +1,493 @@
+{
+  "doc": "tc",
+  "pages": [
+    81,
+    100
+  ],
+  "segments": [
+    {
+      "page": 81,
+      "type": "h3",
+      "en": "P2: Target setting and performance management",
+      "ja": "P2：ターゲット設定とパフォーマンス管理"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Guiding question: How will we set targets and define and measure progress?",
+      "ja": "指針となる問い：ターゲットをどのように設定し、進捗をどのように定義し測定するか。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Technology and communications organisations may find it useful to consider the following resources to set targets:",
+      "ja": "技術・通信セクターの組織は、ターゲットを設定するにあたり、以下のリソースを検討することが有用であろう。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "SBTN methods for setting science-based targets related to freshwater, land, ocean and how these methods support biodiversity. Organisations referring to SBTN resources should always consult the latest available guidance and tools on the SBTN website;",
+      "ja": "淡水、陸、海洋に関連する科学に基づくターゲットを設定するためのSBTNの手法、およびこれらの手法が生物多様性をどのように支えるか。SBTNのリソースを参照する組織は、常にSBTNのウェブサイトで入手可能な最新のガイダンスとツールを確認すべきである。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "The CEO Water Mandate guidance on setting effective site water targets informed by catchment context (contextual water targets);",
+      "ja": "集水域の状況を踏まえた効果的な事業拠点の水ターゲット（コンテクスチュアル水ターゲット）の設定に関するCEOウォーター・マンデート（The CEO Water Mandate）のガイダンス。",
+      "flag": "term-uncertain: contextual water targets"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "The International Water Stewardship Standard Version 2.0 for setting water-related targets; and",
+      "ja": "水関連のターゲットを設定するための国際ウォーター・スチュワードシップ基準（International Water Stewardship Standard）第2.0版。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "IUCN’s Rapid High-Integrity Nature-positive Outcomes (RHINO) approach, which helps organisations guide interventions to deliver nature-positive outcomes by determining actions to reduce species extinction risk, specifically for vertebrate species.",
+      "ja": "国際自然保護連合（IUCN）の迅速・高十全性ネイチャーポジティブ成果（Rapid High-Integrity Nature-positive Outcomes：RHINO）アプローチ。これは、特に脊椎動物種について、種の絶滅リスクを低減するための行動を決定することにより、組織がネイチャーポジティブな成果をもたらすための介入を方向付けるのに役立つ。",
+      "flag": "term-uncertain: Rapid High-Integrity Nature-positive Outcomes (RHINO)"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Illustrative examples of setting water-related, science-based targets for the sector include:",
+      "ja": "当セクターにおける水関連の科学に基づくターゲット設定の例には、以下が含まれる。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Setting a time-bound goal or target for the protection or restoration of ecosystems critical to freshwater and aquatic biodiversity; and",
+      "ja": "淡水および水生の生物多様性にとって重要な生態系の保護または復元に関する、期限付きの目標またはターゲットを設定すること。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Setting a time bound risk-differentiated, science-based or contextual water use/replenishment target to address value chain impacts on water availability.",
+      "ja": "水の利用可能性に対するバリューチェーンのインパクトに対処するため、期限付きの、リスクに応じて差別化された、科学に基づく、またはコンテクスチュアルな水使用／補充ターゲットを設定すること。"
+    },
+    {
+      "page": 81,
+      "type": "h3",
+      "en": "P3: Reporting",
+      "ja": "P3：報告"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Guiding question: What will we disclose in line with the TNFD recommended disclosures?",
+      "ja": "指針となる問い：TNFD開示提言に沿って何を開示するか。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "すべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照のこと。"
+    },
+    {
+      "page": 81,
+      "type": "p",
+      "en": "Additionally, when considering international interoperability throughout their disclosure process, organisations may find it helpful to refer to the following documents:",
+      "ja": "さらに、開示プロセス全体を通じて国際的な相互運用性を検討する際には、組織は以下の文書を参照することが有用であろう。"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "TNFD – European Financial Reporting Advisory Group (EFRAG) Correspondence Mapping;",
+      "ja": "TNFD – 欧州財務報告諮問グループ（EFRAG）対応関係マッピング"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "TNFD – Global Reporting Initiative (GRI) Standards Interoperability Mapping;",
+      "ja": "TNFD – グローバル・レポーティング・イニシアティブ（GRI）スタンダード相互運用性マッピング"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "Guidance on Integrating nature-related aspects in Business Responsibility & Sustainability Reporting (BRSR) disclosures using the TNFD recommendations for organisations in India; and",
+      "ja": "インドの組織向けの、TNFD提言を用いた事業責任・サステナビリティ報告（BRSR）の開示への自然関連の側面の統合に関するガイダンス"
+    },
+    {
+      "page": 81,
+      "type": "li",
+      "en": "TNFD-CDP Correspondence Mapping.",
+      "ja": "TNFD-CDP対応関係マッピング"
+    },
+    {
+      "page": 82,
+      "type": "h3",
+      "en": "P4: Presentation",
+      "ja": "P4：表示"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "Guiding question: Where and how do we present our nature-related risk disclosures?",
+      "ja": "指針となる問い：自然関連リスクの開示をどこで、どのように表示するか。"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "すべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照のこと。"
+    },
+    {
+      "page": 82,
+      "type": "h3",
+      "en": "List of datasets and tools",
+      "ja": "データセットとツールの一覧"
+    },
+    {
+      "page": 82,
+      "type": "p",
+      "en": "A list of datasets and tools relevant to the technology and communications sector is provided in the reference list.",
+      "ja": "技術・通信セクターに関連するデータセットとツールの一覧は、参考文献リストに掲載している。"
+    },
+    {
+      "page": 83,
+      "type": "h1",
+      "en": "3. Sector-specific disclosure metrics and related guidance",
+      "ja": "3. セクター別の開示測定指標と関連ガイダンス"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Sector-specific metrics form an important part of the TNFD’s measurement architecture (see Figure 8). This reflects the diversity of business models across value chains and their interface with nature across and within sectors. Sector-specific metrics help financial institutions to compare organisations within the same sector, which often face similar nature-related issues. This section provides the TNFD’s sector-specific metrics for the technology and communications sector. It includes:",
+      "ja": "セクター別の測定指標は、TNFDの測定アーキテクチャーの重要な一部を成す（図8参照）。これは、バリューチェーン全体にわたるビジネスモデルの多様性と、セクター間およびセクター内におけるそれらの自然との接点の多様性を反映したものである。セクター別の測定指標は、金融機関が、類似した自然関連課題に直面することの多い同一セクター内の組織を比較するのに役立つ。本セクションでは、技術・通信セクター向けのTNFDのセクター別測定指標を示す。これには以下が含まれる。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Guidance on the application of the core global disclosure indicators and metrics to the technology and communications sector (Section 3.1); and",
+      "ja": "技術・通信セクターへのグローバル中核開示指標および測定指標の適用に関するガイダンス（セクション3.1）"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Core and additional disclosure indicators and metrics for the technology and communications sector (Sections 3.2 and 3.3).",
+      "ja": "技術・通信セクター向けの中核および追加の開示指標と測定指標（セクション3.2および3.3）"
+    },
+    {
+      "page": 83,
+      "type": "caption",
+      "en": "Figure 8: TNFD disclosure metrics architecture signposted to metrics lists",
+      "ja": "図8：TNFD開示測定指標のアーキテクチャーと各測定指標リストの所在"
+    },
+    {
+      "page": 83,
+      "type": "figure",
+      "en": "1 Core global metrics – Comply or explain – Dependencies and impacts; Risks and opportunities – TNFD Recommendations Annex 1; Sector guidance - Section 3.1 / 2 Core sector metrics – Strongly recommended; Comply or explain – Sector guidance Section 3.2 / 3 Additional metrics – Recommended for disclosure, where relevant, to best represent an organisation’s material nature-related issues, based on their specific circumstances – TNFD Recommendations Annex 2; Sector guidance - Section 3.3",
+      "ja": "1 グローバル中核測定指標 – コンプライ・オア・エクスプレイン – 依存とインパクト／リスクと機会 – TNFD提言 別紙1、セクターガイダンス セクション3.1 ／ 2 セクター中核測定指標 – 強く推奨、コンプライ・オア・エクスプレイン – セクターガイダンス セクション3.2 ／ 3 追加測定指標 – 組織の固有の状況に基づき、そのマテリアルな自然関連課題を最もよく表すために、関連する場合に開示を推奨 – TNFD提言 別紙2、セクターガイダンス セクション3.3",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 84,
+      "type": "p",
+      "en": "Where available, the TNFD’s recommended metrics for disclosure draw from a range of existing standards and frameworks including the IFRS Sustainability Disclosure Standards, Sustainability Accounting Standards Board (SASB) Standards, GRI Standards, the CDP disclosure platform, the Kunming-Montreal Global Biodiversity Framework and other relevant UN frameworks, the European Sustainability Reporting Standards (ESRS) and others. Several organisations, including standard-setting organisations, continue to work on identifying relevant sector-level assessment and reporting metrics. The Taskforce recommends that report preparers stay engaged with year-on-year progress on these developments and implement the latest definitions within their risk management processes and disclosures.",
+      "ja": "TNFDが開示を推奨する測定指標は、可能な場合には、IFRSサステナビリティ開示基準、サステナビリティ会計基準審議会（SASB）スタンダード、GRIスタンダード、CDP開示プラットフォーム、昆明・モントリオール生物多様性枠組およびその他の関連する国連の枠組、欧州サステナビリティ報告基準（ESRS）などを含む、既存のさまざまな基準や枠組から引用している。基準設定組織を含む複数の組織が、関連するセクターレベルの評価および報告の測定指標の特定に引き続き取り組んでいる。タスクフォースは、報告書作成者がこれらの動向の年々の進展を継続的に把握し、最新の定義を自社のリスク管理プロセスと開示に取り入れることを推奨する。"
+    },
+    {
+      "page": 84,
+      "type": "p",
+      "en": "Organisations in the technology and communications sector should refer to Annex 1 of the TNFD recommendations for further information on the core global disclosure metrics, which should be reported on a comply or explain basis, except for the placeholder metrics. Where organisations are unable to report against any of the core global metrics, they should provide a short explanatory statement as to why they have not reported those metrics. An organisation should report on the core global disclosure metrics unless:",
+      "ja": "技術・通信セクターの組織は、グローバル中核開示指標に関する詳細について、TNFD提言の別紙1を参照すべきである。グローバル中核開示指標は、プレースホルダー指標を除き、コンプライ・オア・エクスプレインの原則に基づいて報告すべきである。組織がいずれかのグローバル中核測定指標について報告できない場合は、それらの測定指標を報告しなかった理由について簡潔な説明を記載すべきである。組織は、以下の場合を除き、グローバル中核開示指標について報告すべきである。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "It has not been identified as relevant and material to the organisation, e.g. not relevant to business activities or the location the organisation is operating in, or not found to be a material issue for the organisation; or",
+      "ja": "当該指標が組織にとって関連性がありマテリアルであると特定されていない場合。例えば、事業活動や組織が操業する地域に関連しない場合、または組織にとってマテリアルな課題ではないと判断された場合。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "It has been identified as relevant and material, but the organisation is unable to measure it due to limitations with methodologies, access to data or because the information is commercially sensitive. In this case, organisations should explain how they plan to address this in future reporting periods.",
+      "ja": "関連性がありマテリアルであると特定されたものの、方法論上の制約、データへのアクセスの制約、または情報が商業上の機密であるために、組織が測定できない場合。この場合、組織は、将来の報告期間においてこれにどのように対処する予定かを説明すべきである。"
+    },
+    {
+      "page": 84,
+      "type": "p",
+      "en": "An organisation should report on the same basis for the core sector disclosure metrics outlined in Section 3.2. Organisations are also encouraged to draw on the TNFD additional sector disclosure indicators and metrics outlined in Section 3.3 and any other relevant metrics to represent most accurately the organisation’s nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "組織は、セクション3.2に示すセクター中核開示指標についても、同じ原則に基づいて報告すべきである。また、組織の自然関連の依存、インパクト、リスクと機会を最も正確に表すために、セクション3.3に示すTNFDの追加セクター開示指標および測定指標、ならびにその他の関連する測定指標を活用することが推奨される。"
+    },
+    {
+      "page": 85,
+      "type": "caption",
+      "en": "Box 2: Key considerations for value chain disclosures",
+      "ja": "ボックス2：バリューチェーンの開示に関する主な考慮事項"
+    },
+    {
+      "page": 85,
+      "type": "quote",
+      "en": "For many technology and communications organisations, material nature-related dependencies and impacts will likely arise outside direct operational control, including through leased, co-located or third-party infrastructure. In this sector, large software, media and telecom companies depend on datacentre infrastructure, whether owned, leased or otherwise contracted. Such datacentres in turn rely on semiconductors and other electronic components. Organisations should assess and disclose material nature-related dependencies and impacts wherever they occur in the value chain, rather than limiting disclosure to activities under direct operational control.",
+      "ja": "多くの技術・通信セクターの組織にとって、マテリアルな自然関連の依存とインパクトは、リース、コロケーション、または第三者のインフラを通じたものを含め、直接的な運営管理の外で生じる可能性が高い。このセクターでは、大手のソフトウェア、メディア、通信企業が、所有、リース、その他の契約形態を問わず、データセンターインフラに依存している。こうしたデータセンターは、さらに半導体やその他の電子部品に依存している。組織は、開示を直接的な運営管理下にある活動に限定するのではなく、マテリアルな自然関連の依存とインパクトを、バリューチェーンのどこで生じるものであっても評価し、開示すべきである。"
+    },
+    {
+      "page": 85,
+      "type": "quote",
+      "en": "To note, organisations in many other sectors of the economy, beyond the technology and communications sector that is the scope of this guidance, also use datacentres. These nature-related issues will also be relevant to their nature-related assessments and disclosures.",
+      "ja": "なお、本ガイダンスの対象である技術・通信セクター以外にも、経済の他の多くのセクターの組織がデータセンターを利用している。これらの自然関連課題は、それらの組織の自然関連の評価と開示にも関連する。"
+    },
+    {
+      "page": 85,
+      "type": "h4",
+      "en": "A hypothetical illustrative example",
+      "ja": "仮想の例"
+    },
+    {
+      "page": 85,
+      "type": "quote",
+      "en": "A technology company uses 10% of the capacity of each of 10 datacentres. Two of these datacentres are located in water-scarce areas, where water withdrawal has been identified as material because it adds pressure to local freshwater ecosystems and species dependent on these ecosystems, and may affect other water users (including local communities and farmers), which leads to physical and transition risks for the company. The company discloses the TNFD metrics following this sector-specific guidance, including core global disclosure metric C3.0 for each of the two datacentres in water-scarce locations under Metrics and Targets B, together with the location and contextual information under Strategy A and Strategy D (see TNFD recommendations). Each datacentre withdraws 100,000 m³/year of water, and capacity use is viewed as a reasonable basis for allocation, so the company attributes 10% of the total withdrawal to its own use, i.e. 10,000 m³/year at each site. The disclosure shows the total withdrawal of water at each site, the amount attributed to the company and the allocation method used.",
+      "ja": "あるテクノロジー企業が、10か所のデータセンターそれぞれの容量の10%を使用している。これらのデータセンターのうち2か所は水不足の地域に立地しており、そこでは取水が、地域の淡水生態系とそれに依存する種に圧力を加え、他の水利用者（地域社会や農家を含む）に影響を及ぼす可能性があるため、マテリアルであると特定されている。これは当該企業にとって物理的リスクと移行リスクにつながる。当該企業は、本セクター別ガイダンスに従ってTNFDの測定指標を開示する。これには、測定指標とターゲットBの下での、水不足の地域にある2か所のデータセンターそれぞれについてのグローバル中核開示指標C3.0と、戦略Aおよび戦略Dの下での所在地と文脈情報が含まれる（TNFD提言を参照）。各データセンターの取水量は年間100,000 m³であり、容量の使用が配分の合理的な基礎とみなされるため、当該企業は総取水量の10%、すなわち各拠点で年間10,000 m³を自社の使用に帰属させる。開示では、各拠点の総取水量、当該企業に帰属する量、および使用した配分方法を示す。"
+    },
+    {
+      "page": 85,
+      "type": "h4",
+      "en": "Improving value chain disclosures over time",
+      "ja": "バリューチェーンの開示の継続的な改善"
+    },
+    {
+      "page": 85,
+      "type": "quote",
+      "en": "Where primary data are not available or comprehensive, for instance, for material impacts upstream or downstream in the value chain, proxy data can be used (see Box 5 of the TNFD recommendations). Organisations should explain the basis of the metric, key assumptions and allocation methods.",
+      "ja": "例えば、バリューチェーンの上流または下流におけるマテリアルなインパクトについて、一次データが入手できない、または包括的でない場合には、代替データを使用することができる（TNFD提言のボックス5を参照）。組織は、測定指標の基礎、主要な仮定および配分方法を説明すべきである。"
+    },
+    {
+      "page": 86,
+      "type": "quote",
+      "en": "Organisations should work with value chain partners to improve data availability and quality over time, including through supplier engagement, contractual levers and industry collaboration. The accuracy and granularity of value chain metrics can thereby improve over subsequent reporting cycles, with transparency on data sources, assumptions and limitations in each reporting period.",
+      "ja": "組織は、サプライヤーとのエンゲージメント、契約上の手段、業界の協働などを通じて、バリューチェーンのパートナーと協力し、データの入手可能性と質を経時的に改善すべきである。これにより、各報告期間においてデータソース、仮定、限界について透明性を確保しつつ、バリューチェーンの測定指標の正確性と粒度を以降の報告サイクルで向上させることができる。"
+    },
+    {
+      "page": 86,
+      "type": "h2",
+      "en": "3.1. Guidance on the application of the core global disclosure metrics",
+      "ja": "3.1. グローバル中核開示指標の適用に関するガイダンス"
+    },
+    {
+      "page": 86,
+      "type": "p",
+      "en": "This section provides guidance, where relevant, on how to apply the TNFD core global disclosure metrics in the technology and communications sector. If no further sector-specific guidance is provided, organisations should refer to the core global disclosure metrics in the TNFD recommendations.",
+      "ja": "本セクションでは、必要に応じて、技術・通信セクターにおいてTNFDのグローバル中核開示指標をどのように適用するかに関するガイダンスを示す。セクター固有の追加ガイダンスが示されていない場合、組織はTNFD提言のグローバル中核開示指標を参照すべきである。"
+    },
+    {
+      "page": 86,
+      "type": "p",
+      "en": "As outlined above, core global disclosure metrics should be reported on a comply or explain basis, following the guidance for the technology and communications sector, where provided. The TNFD encourages organisations to consider and report against placeholder indicators on invasive alien species and the state of nature, where possible, but these are not expected on a comply or explain basis. There are not yet widely accepted metrics for these indicators, but the Taskforce recognises their importance and will continue to work with knowledge partners to develop further guidance on these metrics.",
+      "ja": "上述のとおり、グローバル中核開示指標は、技術・通信セクター向けのガイダンスが示されている場合にはそれに従い、コンプライ・オア・エクスプレインの原則に基づいて報告すべきである。TNFDは、可能な場合には、侵略的外来種と自然の状態に関するプレースホルダー指標を検討し、それらについて報告することを組織に推奨するが、これらはコンプライ・オア・エクスプレインの原則に基づく報告を求めるものではない。これらの指標については、広く受け入れられている測定指標はまだ存在しないが、タスクフォースはその重要性を認識しており、ナレッジパートナーと引き続き協力して、これらの測定指標に関するさらなるガイダンスを策定していく。"
+    },
+    {
+      "page": 86,
+      "type": "p",
+      "en": "In line with existing TNFD guidance, the following disclosure guidance is intended for a) direct operations of industries mentioned in bold under the column ‘Guidance for this sector’ and b) for industries with business operations that have material nature-related issues via other industries in their value chains. Industries under b) should specify disclosures on the values (e.g. km2, m3) impacted or depended on by their own direct operations and the values impacted or depended on through their value chain. For reference, see the sections on value chain reporting on pages 66 to 67 in the TNFD’s recommendations and Box 5 on the use of secondary data in the same document.",
+      "ja": "既存のTNFDガイダンスに沿って、以下の開示ガイダンスは、a）「当セクターに関するガイダンス」の列に太字で示した産業の直接操業、およびb）バリューチェーン内の他の産業を通じてマテリアルな自然関連課題を有する事業活動を行う産業を対象としている。b）に該当する産業は、自社の直接操業によってインパクトを与えている、または依存している値（例：km2、m3）と、バリューチェーンを通じてインパクトを与えている、または依存している値とを明示して開示すべきである。参考として、TNFD提言の66～67ページにあるバリューチェーンの報告に関するセクション、および同文書の二次データの利用に関するボックス5を参照のこと。"
+    },
+    {
+      "page": 86,
+      "type": "p",
+      "en": "In Table 10, ‘no further sector specific guidance’ does not mean no disclosure is required. In such cases, organisations are referred to the existing disclosure metrics guidance in Annex 1 of the TNFD recommendations.",
+      "ja": "表10における「セクター固有の追加ガイダンスなし」は、開示が不要であることを意味するものではない。そのような場合、組織はTNFD提言の別紙1にある既存の開示測定指標のガイダンスを参照すること。"
+    },
+    {
+      "page": 87,
+      "type": "caption",
+      "en": "Table 10: Guidance on the application of the core global disclosure metrics",
+      "ja": "表10：グローバル中核開示指標の適用に関するガイダンス"
+    },
+    {
+      "page": 87,
+      "type": "h4",
+      "en": "Driver of nature change: Land/freshwater/ocean-use change",
+      "ja": "自然の変化の要因：陸／淡水／海洋利用の変化"
+    },
+    {
+      "page": 87,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C1.0 | Total spatial footprint | Total spatial footprint (km2) (sum of):<br>• Total surface area controlled/managed by the organisation, where the organisation has control (km2);<br>• Total disturbed area (km2); and<br>• Total rehabilitated/restored area (km2). | Semiconductors, EMS & ODM and Hardware<br>No further sector specific guidance; refer to the core global disclosure metric.<br>Datacentres<br>In reporting this core global disclosure metric, an organisation should include the total surface area (km2) controlled or managed by the organisation. This should cover the footprint of the physical building(s), as well as land for associated operations, such as outdoor power and cooling equipment, modules, car parks and other operational infrastructure. Any land cleared of vegetation for drainage, setback or buffer requirements should also be included.<br>For areas developed in phases, such as datacentre campuses, the total surface area controlled or managed by the organisation should include all land under operational control, whether reserved for future development or not (e.g. including land under control, but not developed in the reporting period).<br>Where energy infrastructure is constructed primarily to serve a datacentre (e.g. dedicated infrastructure), an organisation should include the associated land footprint in the total spatial footprint of the datacentre. Where such infrastructure is shared or serves multiple purposes, organisations should disclose the total land area for the infrastructure and provide additional context on their use of the energy infrastructure in relation to its total capacity. | TNFD |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C1.0 | 総空間フットプリント | 総空間フットプリント（km2）（以下の合計）：<br>• 組織の管理下にある総表面積（組織が管理権を有する場合）（km2）<br>• 攪乱された総面積（km2）<br>• 修復、復元された総面積（km2） | 半導体、EMS & ODMおよびハードウェア<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。<br>データセンター<br>本グローバル中核開示指標を報告するにあたり、組織は、組織の管理下にある総表面積（km2）を含めるべきである。これには、物理的な建物の敷地に加え、屋外の電源・冷却設備、モジュール、駐車場その他の運用インフラなど、関連する運用のための土地も含めるべきである。排水、セットバックまたは緩衝帯の要件のために植生が除去された土地も含めるべきである。<br>データセンターキャンパスのように段階的に開発される区域については、組織の管理下にある総表面積に、将来の開発のために確保されているか否かにかかわらず、運営管理下にあるすべての土地を含めるべきである（例：管理下にあるが報告期間中に開発されていない土地を含む）。<br>エネルギーインフラが主としてデータセンターに供給するために建設される場合（例：専用インフラ）、組織は、関連する土地のフットプリントを当該データセンターの総空間フットプリントに含めるべきである。そのようなインフラが共有されている、または複数の目的に供される場合、組織は当該インフラの総土地面積を開示し、その総容量に対する自社のエネルギーインフラの利用について追加の文脈情報を提供すべきである。 | TNFD |"
+    },
+    {
+      "page": 88,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C1.0 (cont.) |  |  | In disclosing the total rehabilitated or restored area, a datacentre operator should include both surface area controlled or managed by the organisation and areas in the wider landscape/beyond operational boundaries (km²).<br>Telecommunication Infrastructure<br>Refer to TNFD’s Additional sector guidance on engineering, construction and real estate.<br>Telecommunications Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C1.0（続き） |  |  | 修復、復元された総面積を開示する際、データセンター事業者は、組織の管理下にある表面積と、より広いランドスケープ／運営上の境界の外にある区域の両方を含めるべきである（km²）。<br>電気通信インフラ<br>TNFDの「エンジニアリング、建設および不動産に関する追加セクターガイダンス」を参照のこと。<br>電気通信サービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 89,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C1.1 | Extent of land/freshwater/ocean use change | Extent of land/freshwater/ocean ecosystem use change (km2) by:<br>• Type of ecosystem;84 and<br>• Type of business activity. | Semiconductors, EMS & ODM, Hardware, Software & IT Services, Internet Media & Services, Telecommunications Services<br>No further sector specific guidance; refer to the core global disclosure metric.<br>For upstream operations, an organisation should refer to the TNFD additional sector guidance on Metals and Mining.<br>Datacentres, Telecommunications Infrastructure<br>In reporting this core global disclosure metric, an organisation should include land-use change resulting from the construction of new facilities and the expansion of existing facilities for operational purposes.<br>For telecommunications infrastructure, an organisation should also disclose:<br>• Temporary land-use change and temporary disturbances (ha) during telecom construction (e.g. subsea cables installation); and<br>• Permanent land-use change (ha) (e.g. telecommunication deployment, new access roads for permanent deployment).<br>For datacentres and telecommunications infrastructure, an organisation should refer to TNFD’s Additional sector guidance on Engineering, Construction and Real Estate. | TNFD |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C1.1 | 陸／淡水／海洋の利用変化の範囲 | 陸／淡水／海洋生態系の利用変化の範囲（km2）：<br>• 生態系の種類別84<br>• 事業活動の種類別 | 半導体、EMS & ODM、ハードウェア、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス、電気通信サービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。<br>上流の事業については、組織はTNFDの金属・鉱業に関する追加セクターガイダンスを参照すべきである。<br>データセンター、電気通信インフラ<br>本グローバル中核開示指標を報告するにあたり、組織は、運用目的での新規施設の建設および既存施設の拡張に起因する土地利用変化を含めるべきである。<br>電気通信インフラについては、組織は以下も開示すべきである。<br>• 通信設備の建設工事中の一時的な土地利用変化および一時的な攪乱（ha）（例：海底ケーブルの敷設）<br>• 恒久的な土地利用変化（ha）（例：通信設備の展開、恒久的な設置のための新たなアクセス道路）<br>データセンターおよび電気通信インフラについては、組織はTNFDの「エンジニアリング、建設および不動産に関する追加セクターガイダンス」を参照すべきである。 | TNFD |"
+    },
+    {
+      "page": 89,
+      "type": "footnote",
+      "en": "84 When disclosing on extent of ecosystem types users should refer to the International Union for Conservation of Nature (IUCN) Global Ecosystem Typology.",
+      "ja": "84 生態系の種類別の範囲を開示する際、利用者は国際自然保護連合（IUCN）のIUCNグローバル生態系タイポロジーを参照すべきである。"
+    },
+    {
+      "page": 90,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C1.1 | Extent of land/freshwater/ocean use change | Extent of land/freshwater/ocean ecosystem conserved or restored (km2), split into:<br>• Voluntary; and<br>• Required by statutes or regulations. | All Technology sub-sectors<br>No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C1.1 | 陸／淡水／海洋の利用変化の範囲 | 保全または復元された陸／淡水／海洋生態系の範囲（km2）、以下の内訳：<br>• 自主的<br>• 法令または規則により義務付けられている | すべての技術サブセクター<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 90,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C1.1 | Extent of land/freshwater/ocean use change | Extent of land/freshwater/ocean ecosystem sustainably managed85 (km2) by:<br>• Type of ecosystem;86 and<br>• Type of business activity. | All Technology sub-sectors<br>No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C1.1 | 陸／淡水／海洋の利用変化の範囲 | 持続的に管理されている85陸／淡水／海洋生態系の範囲（km2）：<br>• 生態系の種類別86<br>• 事業活動の種類別 | すべての技術サブセクター<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 90,
+      "type": "footnote",
+      "en": "85 Refer to TNFD Glossary.",
+      "ja": "85 TNFD用語集を参照のこと。"
+    },
+    {
+      "page": 90,
+      "type": "footnote",
+      "en": "86 When disclosing on extent of ecosystem types users should refer to the International Union for Conservation of Nature (IUCN) Global Ecosystem Typology.",
+      "ja": "86 生態系の種類別の範囲を開示する際、利用者は国際自然保護連合（IUCN）のIUCNグローバル生態系タイポロジーを参照すべきである。"
+    },
+    {
+      "page": 91,
+      "type": "h4",
+      "en": "Driver of nature change: Pollution/pollution removal",
+      "ja": "自然の変化の要因：汚染／汚染除去"
+    },
+    {
+      "page": 91,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.0 | Pollutants released to soil split by type | Pollutants released to soil (tonnes) by type, referring to sector specific guidance on types of pollutants. | Semiconductors, EMS & ODM, Hardware and Datacentres<br>An organisation should disclose individual substances of concern released to soil (in tonnes) and their pollutant class, including but not limited to substances in the following pollutant classes:<br>• Per and polyfluoroalkyl substances (PFAS);<br>• Persistent organic pollutants (POPs);<br>• Heavy metals (e.g. cadmium, lead, mercury); and<br>• Chemical additives (e.g. biocides, corrosion inhibitors).<br>Disclosures should include releases to soil from e-waste treatment, recycling and disposal.<br>An organisation should also refer to applicable legal or regulatory frameworks for pollutants that may be reported as listed in Annex 4.<br>Telecommunications Infrastructure and Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. | TNFD |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.0 | 土壌に放出された汚染物質の種類別総量 | 土壌に放出された汚染物質の種類別の量（トン）。汚染物質の種類についてはセクター固有のガイダンスを参照する。 | 半導体、EMS & ODM、ハードウェアおよびデータセンター<br>組織は、土壌に放出された個々の懸念物質（トン）とその汚染物質の分類を開示すべきである。これには、以下の汚染物質の分類に属する物質が含まれるが、これらに限定されない。<br>• 有機フッ素化合物（PFAS）<br>• 残留性有機汚染物質（POPs）<br>• 重金属（例：カドミウム、鉛、水銀）<br>• 化学添加剤（例：殺生物剤、腐食防止剤）<br>開示には、電子廃棄物の処理、リサイクルおよび処分に伴う土壌への放出を含めるべきである。<br>組織はまた、別紙4に列挙する、報告対象となり得る汚染物質に関して適用される法的または規制上の枠組を参照すべきである。<br>電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 | TNFD |"
+    },
+    {
+      "page": 92,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.1 | Wastewater discharged | Volume of water discharged (m3), split into:<br>• Total;<br>• Freshwater; and<br>• Other.87<br>Including:<br>• Concentrations of key pollutants in the wastewater discharged, by type of pollutant, referring to sector specific guidance for types of pollutants; and<br>• Temperature of water discharged, where relevant. | In reporting this core global metric, an organisation should include:<br>• pH (acidity/alkalinity); and<br>• pollutant classes88 listed in Annex 3, which provides illustrative, non-exhaustive examples of substances of concern within each class.<br>Quantitative disclosures on concentrations should be an average over the reporting period, including disclosure of the method used to calculate the average.<br>Organisations should also refer to applicable legal or regulatory frameworks in Annex 4, and disclose any additional information on wastewater discharge, if such frameworks impose requirements not included in this guidance.<br>Semiconductors, EMS & ODM and Hardware, Datacentres<br>In reporting this core global disclosure metric, an organisation should disclose:<br>• Total volume of water discharged by destination (m3): surface water; groundwater; seawater and third parties e.g. municipal sewerage systems or other users;89<br>• Total volume of water discharged, split by treatment route (m3): treated on site before discharge; sent to third-party treatment and discharged without treatment; and<br>• Total volume of water discharged to areas facing high physical water risk (m3)90 split into total, freshwater and other water.<br>Concentrations of pollutants in the wastewater discharged by destination (see Annex 3). Reported concentrations should represent an average over the reporting period. Organisations should disclose the method used to calculate these concentrations. | Semiconductors: TNFD<br>GRI 303 (2018)<br>Sandhu, S. et al. (2025)<br>Datacentres: TNFD<br>GRI 303 (2018)<br>Tozzi, C. (2025)<br>APLD (n.d.)<br>CDC (2025)<br>SA Water (2021) |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.1 | 廃水排出 | 排水量（m3）、以下の内訳：<br>• 総量<br>• 淡水<br>• その他87<br>以下を含む：<br>• 排水中の主要な汚染物質の、汚染物質の種類別の濃度（汚染物質の種類についてはセクター固有のガイダンスを参照）<br>• 該当する場合、排水の温度 | 本グローバル中核測定指標を報告するにあたり、組織は以下を含めるべきである。<br>• pH（酸性度／アルカリ度）<br>• 別紙3に列挙する汚染物質の分類88（別紙3では、各分類に属する懸念物質の例を、例示的かつ非網羅的に示している）<br>濃度に関する定量的な開示は報告期間の平均値とし、平均値の算定に用いた方法の開示を含めるべきである。<br>組織はまた、別紙4の適用される法的または規制上の枠組を参照し、当該枠組が本ガイダンスに含まれない要件を課している場合には、排水に関する追加情報を開示すべきである。<br>半導体、EMS & ODMおよびハードウェア、データセンター<br>本グローバル中核開示指標を報告するにあたり、組織は以下を開示すべきである。<br>• 排水先別の総排水量（m3）：地表水、地下水、海水、および第三者（例：公共下水道システムまたは他の利用者）89<br>• 処理経路別の総排水量（m3）：排出前にオンサイトで処理、第三者の処理施設に送付、および未処理で排出<br>• 物理的な水リスクが高い地域への総排水量（m3）90（総量、淡水およびその他の水の内訳）<br>排水先別の、排水中の汚染物質の濃度（別紙3参照）。報告する濃度は報告期間の平均値を表すべきである。組織は、これらの濃度の算定に用いた方法を開示すべきである。 | 半導体：TNFD<br>GRI 303 (2018)<br>Sandhu, S. et al. (2025)<br>データセンター：TNFD<br>GRI 303 (2018)<br>Tozzi, C. (2025)<br>APLD (n.d.)<br>CDC (2025)<br>SA Water (2021) |"
+    },
+    {
+      "page": 92,
+      "type": "footnote",
+      "en": "87 Freshwater: (≤1,000 mg/L Total Dissolved Solids). Other: (>1,000 mg/L Total Dissolved Solids). Reference: GRI (2018) GRI 303-4 Water discharge.",
+      "ja": "87 淡水：（総溶解固形物1,000 mg/L以下）。その他：（総溶解固形物1,000 mg/L超）。参考：GRI (2018) GRI 303-4 Water discharge。"
+    },
+    {
+      "page": 92,
+      "type": "footnote",
+      "en": "88 For example, where PFAS are present in wastewater discharge, an organisation should disclose the concentration of the specific substances, where known, rather than reporting only the pollutant class.",
+      "ja": "88 例えば、排水中にPFASが含まれる場合、組織は、汚染物質の分類のみを報告するのではなく、判明している場合には個別物質の濃度を開示すべきである。"
+    },
+    {
+      "page": 92,
+      "type": "footnote",
+      "en": "89 For definitions of surface water; groundwater; seawater and third-party water refer to GRI (2018) Water and Effluents Glossary.",
+      "ja": "89 地表水、地下水、海水および第三者の水の定義については、GRI (2018) Water and Effluents Glossaryを参照のこと。"
+    },
+    {
+      "page": 92,
+      "type": "footnote",
+      "en": "90 For the definition of physical water risk refer to the TNFD Glossary.",
+      "ja": "90 物理的な水リスクの定義については、TNFD用語集を参照のこと。"
+    },
+    {
+      "page": 93,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.1 (cont.) |  |  | Where datacentre facilities use cooling and/or humidification systems that require water, an organisation should disclose:<br>• Volume of water discharged (m3) at temperatures greater than 30°C, or 2-3°C above ambient levels when reaching natural water bodies;<br>• Volume of water discharged (m3) to areas facing high physical water risk,91 split into treated and untreated water, including a description of treatment methods; and<br>• Volume of cooling effluent or other proprietary chemical blends discharged (including waterless and non-conducive blends) (m³).<br>Telecommunications Infrastructure and Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.1（続き） |  |  | データセンター施設が水を必要とする冷却システムおよび／または加湿システムを使用する場合、組織は以下を開示すべきである。<br>• 自然水域に到達する時点で30°Cを超える温度、または周囲の水準より2～3°C高い温度で排出された水の量（m3）<br>• 物理的な水リスクが高い地域への排水量（m3）91（処理水と未処理水の内訳、および処理方法の説明を含む）<br>• 排出された冷却排液またはその他の独自配合の化学薬品の量（無水および非導電性の配合を含む）（m³）<br>電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 |  |",
+      "flag": "term-uncertain: non-conducive blends"
+    },
+    {
+      "page": 93,
+      "type": "footnote",
+      "en": "91 For physical water risk refer to WRI Aqueduct Water Risk Atlas and WWF Water Risk Filter.",
+      "ja": "91 物理的な水リスクについては、WRI Aqueduct Water Risk AtlasおよびWWF Water Risk Filterを参照のこと。"
+    },
+    {
+      "page": 94,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.2 | Waste generation and disposal | Weight of hazardous and non-hazardous waste generated by type (tonnes), referring to sector-specific guidance for types of waste.<br>Weight of hazardous and non-hazardous waste (tonnes) disposed of, split into:<br>• Waste incinerated (with and without energy recovery);<br>• Waste sent to landfill; and<br>• Other disposal methods. | Semiconductors, Telecommunication Services, Software & IT Services, Internet & Media Services<br>No sector-specific guidance; refer to the core global disclosure metric on this page and the next.<br>EMS & ODM and Hardware<br>In reporting this core global disclosure metric for own operations, refer to the core global disclosure metric. For EEE products placed on the market, an organisation should disclose:<br>• Weight of EEE products placed on the market (tonnes);<br>• Weight (tonnes) and proportion (%) of EEE products placed on the market that is covered by certified take-back, recovery or producer responsibility programmes and designed, labelled or verified for disassembly/repair and component recovery; and<br>• Weight (tonnes) and proportion (%) of e-waste and battery waste collected from EEE products through recovery schemes and/or via take-back programmes, and proportion (%) that is reused, recycled, subject to other recovery operations, and diverted from landfill.<br>Datacentres and Telecommunications Infrastructure<br>In reporting this core global disclosure metric for EEE and batteries used by the organisation itself, an organisation should disclose:<br>• Weight (tonnes) of EEE and batteries reaching end of use by the organisation, including from IT upgrade cycles, refurbishment activities, and the proportion (%) that is reused, recycled, or other recovery operations; | Semiconductors: TNFD<br>Electronics and Hardware: TNFD<br>Open Compute Project (2024) |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.2 | 廃棄物の発生と処理 | 種類別の有害廃棄物および非有害廃棄物の発生量（トン）。廃棄物の種類についてはセクター固有のガイダンスを参照する。<br>処分された有害廃棄物および非有害廃棄物の重量（トン）、以下の内訳：<br>• 焼却処分した廃棄物（エネルギー回収の有無を問わない）<br>• 埋立地に送られた廃棄物<br>• その他の処理方法 | 半導体、電気通信サービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有のガイダンスなし。本ページおよび次ページのグローバル中核開示指標を参照のこと。<br>EMS & ODMおよびハードウェア<br>自社の操業について本グローバル中核開示指標を報告するにあたっては、グローバル中核開示指標を参照のこと。市場に投入された電気電子機器（EEE）製品について、組織は以下を開示すべきである。<br>• 市場に投入されたEEE製品の重量（トン）<br>• 市場に投入されたEEE製品のうち、認証された引き取り回収、回収または生産者責任プログラムの対象であり、かつ分解／修理および部品回収のために設計、表示または検証されているものの重量（トン）および割合（%）<br>• 回収スキームおよび／または引き取り回収プログラムを通じてEEE製品から回収された電子廃棄物および電池廃棄物の重量（トン）と割合（%）、ならびにそのうち再利用、リサイクル、その他の再生方法の対象となり、埋立処分から転換された割合（%）<br>データセンターおよび電気通信インフラ<br>組織自身が使用するEEEおよび電池について本グローバル中核開示指標を報告するにあたり、組織は以下を開示すべきである。<br>• IT更新サイクルやリファービッシュ（再整備）活動によるものを含め、組織による使用を終えたEEEおよび電池の重量（トン）、ならびにそのうち再利用、リサイクル、またはその他の再生方法の対象となった割合（%） | 半導体：TNFD<br>電子機器およびハードウェア：TNFD<br>Open Compute Project (2024) |"
+    },
+    {
+      "page": 95,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.2 (cont.) |  | Weight of hazardous and non-hazardous waste (tonnes) diverted from landfill, split into waste:<br>• Reused;<br>• Recycled; and<br>• Other recovery operations. | • Weight of e-waste and battery waste generated (tonnes) from IT upgrade cycles, refurbishment activities and battery replacement programmes; and the proportion (%) diverted from landfill and processed by authorised or certified recyclers (downstream e-waste); and<br>• Quantity (tonnes) and proportion (%) of certified e-waste management (recycle, reuse, recovery, etc) by third parties, specifying the certification scheme (e.g., e-Stewards, R2v3).92<br>For a datacentre facility, where power generation for the facility is under direct operational control, an organisation should disclose waste from power generation in line with the TNFD sector guidance Electric Utilities and Power Generators.<br>For further clarification on e-waste and battery waste, refer to the TNFD Glossary. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.2（続き） |  | 埋立処分から転換された有害廃棄物および非有害廃棄物の重量（トン）、以下の廃棄物の内訳：<br>• 再利用<br>• リサイクル<br>• その他の再生方法 | • IT更新サイクル、リファービッシュ活動および電池交換プログラムから発生した電子廃棄物および電池廃棄物の重量（トン）、ならびにそのうち埋立処分から転換され、認可または認証を受けたリサイクル業者によって処理された割合（%）（下流の電子廃棄物）<br>• 第三者による認証された電子廃棄物管理（リサイクル、再利用、回収など）の量（トン）と割合（%）、および当該認証スキームの明示（例：e-Stewards、R2v3）92<br>データセンター施設について、施設のための発電が直接的な運営管理下にある場合、組織は、TNFDの電力会社および発電事業者向けセクターガイダンスに沿って、発電に伴う廃棄物を開示すべきである。<br>電子廃棄物および電池廃棄物の詳細については、TNFD用語集を参照のこと。 |  |"
+    },
+    {
+      "page": 95,
+      "type": "footnote",
+      "en": "92 Disclosure of certification coverage does not imply full alignment with the TNFD recommendations and does not replace other TNFD disclosure guidance.",
+      "ja": "92 認証の対象範囲の開示は、TNFD提言との完全な整合を意味するものではなく、他のTNFD開示ガイダンスに代わるものでもない。"
+    },
+    {
+      "page": 96,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.3 | Plastic pollution | Plastic footprint as measured by total weight (tonnes) of plastics (polymers, durable goods and packaging) used or sold broken down into the raw material content. For plastic packaging, percentage of plastics that is:<br>• Reusable;<br>• Compostable;<br>• Technically recyclable; and<br>• Recyclable in practice and at scale. | EMS & ODM and Hardware<br>In reporting this core global disclosure metric, an organisation should disclose the weight of plastics (tonnes) incorporated in the final product.<br>Semiconductors, Datacentres, Telecommunications Infrastructure and Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. | TNFD<br>Cordelis, P. et al. (2024)<br>EnviroPass (n.d.)<br>A&C Plastics (n.d) |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.3 | プラスチック汚染 | 使用または販売したプラスチック（ポリマー、耐久財および包装材）の総重量（トン）で測定したプラスチック・フットプリント（原材料の含有量別の内訳）。プラスチック包装材については、以下に該当するプラスチックの割合：<br>• 再使用可能<br>• 堆肥化可能<br>• 技術的にリサイクル可能<br>• 実際にかつ大規模にリサイクル可能 | EMS & ODMおよびハードウェア<br>本グローバル中核開示指標を報告するにあたり、組織は最終製品に組み込まれたプラスチックの重量（トン）を開示すべきである。<br>半導体、データセンター、電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 | TNFD<br>Cordelis, P. et al. (2024)<br>EnviroPass (n.d.)<br>A&C Plastics (n.d) |"
+    },
+    {
+      "page": 97,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C2.4 | Non-GHG air pollutants | Non-GHG air pollutants (tonnes) by type:<br>• Particulate matter (PM2.5 and/or PM10);<br>• Nitrogen oxides (NO2, NO and NO3);<br>• Volatile organic compounds (VOC or NMVOC);<br>• Sulphur oxides (SO2, SO, SO3, SOx); and<br>• Ammonia (NH3). | Semiconductors<br>In reporting this core global disclosure metric, an organisation should disclose the following non-GHG air pollutants (tonnes):<br>• Acidic gases (e.g. H2SO4, HF, HCl, HNO3 and H3PO4);<br>• Alkaline gases (e.g. NH3); and<br>• Hazardous air pollutants/toxic gases: PH3, AsH3, B2H6, Cl2, O3, SiCl2H2, WF6, SiH4.<br>Datacentres<br>In reporting this core global disclosure metric, an organisation should disclose the following non-GHG air pollutants (tonnes):<br>• Carbon monoxide (CO); and<br>• Hazardous Air Pollutants (HAPs).<br>Where the datacentre operational boundary includes power generation, an organisation should disclose non-GHG air pollutants from power generation in line with the TNFD sector guidance for Electric Utilities and Power Generators.<br>EMS & ODM, Hardware, Telecommunications Infrastructure & Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. | Semiconductors: EPA (2025)<br>Nguyen, M.T.N. and Lee, J.S. (2024)<br>Yin, Y. and Yang, Y. (2025)<br>Datacentres: GRI 305 (2016)<br>EPA (2025)<br>EU Industrial Emissions Directive (2010) |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C2.4 | 温室効果ガス（GHG）以外の大気汚染物質総量 | 種類別のGHG以外の大気汚染物質（トン）：<br>• 粒子状物質（PM2.5および／またはPM10）<br>• 窒素酸化物（NO2、NOおよびNO3）<br>• 揮発性有機化合物（VOCまたはNMVOC）<br>• 硫黄酸化物（SO2、SO、SO3、SOx）<br>• アンモニア（NH3） | 半導体<br>本グローバル中核開示指標を報告するにあたり、組織は以下のGHG以外の大気汚染物質（トン）を開示すべきである。<br>• 酸性ガス（例：H2SO4、HF、HCl、HNO3およびH3PO4）<br>• アルカリ性ガス（例：NH3）<br>• 有害大気汚染物質／有毒ガス：PH3、AsH3、B2H6、Cl2、O3、SiCl2H2、WF6、SiH4<br>データセンター<br>本グローバル中核開示指標を報告するにあたり、組織は以下のGHG以外の大気汚染物質（トン）を開示すべきである。<br>• 一酸化炭素（CO）<br>• 有害大気汚染物質（HAPs）<br>データセンターの運営上の境界に発電が含まれる場合、組織は、TNFDの電力会社および発電事業者向けセクターガイダンスに沿って、発電に伴うGHG以外の大気汚染物質を開示すべきである。<br>EMS & ODM、ハードウェア、電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 | 半導体：EPA (2025)<br>Nguyen, M.T.N. and Lee, J.S. (2024)<br>Yin, Y. and Yang, Y. (2025)<br>データセンター：GRI 305 (2016)<br>EPA (2025)<br>EU産業排出指令（EU Industrial Emissions Directive）(2010) |"
+    },
+    {
+      "page": 98,
+      "type": "h4",
+      "en": "Driver of nature change: Resource use/replenishment",
+      "ja": "自然の変化の要因：資源使用／資源補充"
+    },
+    {
+      "page": 98,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C3.0 | Water withdrawal and consumption from areas of water scarcity | Water withdrawal and consumption93 (m3) from areas of water scarcity, including identification of water source. | Semiconductors<br>In reporting this core global disclosure metric, an organisation should report in areas of water scarcity:<br>• Water withdrawal and consumption (m3) by use: process (production, including for ultrapure water/UPW), scrubber, cooling and other (specified);<br>• Volume (m3) of UPW consumption during manufacturing; and<br>• Water withdrawal and consumption (m3) per unit produced.<br>Datacentres<br>For all datacentre facilities, regardless of cooling system and design, an organisation should disclose for areas of water scarcity:<br>• Water consumption (m3) for electricity generation.<br>Refer to the TNFD Electric Utilities and Power Generators sector guidance94 for further guidance95.<br>For datacentre facilities using cooling and/or humidification systems that require water, an organisation should disclose in areas of water scarcity:<br>• Water withdrawal and consumption in datacentre operations (m3) split by water used for cooling, humidification and other (specifying cooling and humidification technologies and ‘other uses’);<br>• Water usage effectiveness (WUE):96 ratio of the water usage for the datacentre operations (m3), divided by the energy consumption of the IT computing equipment (kWh) over the reporting period (see Box 3); and<br>• Cycles of concentration: number of times water circulates through a recirculating evaporative cooling system before discharge becomes necessary. The calculation compares dissolved solids concentration in circulating water to makeup water concentration. An organisation should disclose the methodology used. | Semiconductors: TNFD<br>Hess, J.C. (2024)<br>Jones, C. and Vacuum, E. (2022)<br>Datacentres: TNFD<br>GRI 303 (2018)<br>Genesis Water Tech (2025)<br>Lei, N. et al. (2025)<br>ISSB metric TCES-140a.1 for EMS & ODM |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C3.0 | 水不足の地域からの取水量と消費量 | 水不足の地域からの取水量と水消費量93（m3）。水源の特定を含む。 | 半導体<br>本グローバル中核開示指標を報告するにあたり、組織は水不足の地域について以下を報告すべきである。<br>• 用途別の取水量と水消費量（m3）：プロセス（超純水（UPW）用を含む生産）、スクラバー、冷却、その他（具体的に明示）<br>• 製造中のUPW消費量（m3）<br>• 生産単位当たりの取水量と水消費量（m3）<br>データセンター<br>冷却システムや設計にかかわらず、すべてのデータセンター施設について、組織は水不足の地域に関して以下を開示すべきである。<br>• 発電のための水消費量（m3）<br>詳細なガイダンスについては、TNFDの電力会社および発電事業者向けセクターガイダンス94を参照のこと95。<br>水を必要とする冷却システムおよび／または加湿システムを使用するデータセンター施設について、組織は水不足の地域に関して以下を開示すべきである。<br>• データセンター運用における取水量と水消費量（m3）。冷却用、加湿用およびその他に使用された水の内訳（冷却・加湿技術および「その他の用途」を明示）<br>• 水使用効率（WUE）96：報告期間におけるデータセンター運用の水使用量（m3）を、IT計算機器のエネルギー消費量（kWh）で除した比率（ボックス3参照）<br>• 濃縮倍率（cycles of concentration）：循環式蒸発冷却システムにおいて、排水が必要となるまでに水が循環する回数。算定は、循環水中の溶解固形物濃度を補給水の濃度と比較して行う。組織は使用した方法論を開示すべきである。 | 半導体：TNFD<br>Hess, J.C. (2024)<br>Jones, C. and Vacuum, E. (2022)<br>データセンター：TNFD<br>GRI 303 (2018)<br>Genesis Water Tech (2025)<br>Lei, N. et al. (2025)<br>EMS & ODMについてはISSBの測定指標TCES-140a.1 |"
+    },
+    {
+      "page": 98,
+      "type": "footnote",
+      "en": "93 Water consumption is equal to water withdrawal less water discharge. Reference: GRI (2018) GRI 303-5.",
+      "ja": "93 水消費量は、取水量から排水量を差し引いたものに等しい。参考：GRI (2018) GRI 303-5。"
+    },
+    {
+      "page": 98,
+      "type": "footnote",
+      "en": "94 Refer to metric C3.0. in the TNFD Sector Guidance for Electric Utilities and Power Generators (p64).",
+      "ja": "94 TNFDの電力会社および発電事業者向けセクターガイダンスの測定指標C3.0を参照のこと（p64）。"
+    },
+    {
+      "page": 98,
+      "type": "footnote",
+      "en": "95 Where full quantification is not feasible an organisation should disclose energy mix (by source and geography) or use modelled estimates or industry-average water and energy intensity factors.",
+      "ja": "95 完全な定量化が実行可能でない場合、組織はエネルギーミックス（エネルギー源別および地域別）を開示するか、モデルによる推計値、または業界平均の水およびエネルギーの原単位係数を使用すべきである。"
+    },
+    {
+      "page": 98,
+      "type": "footnote",
+      "en": "96 See Box 3 below on water usage effectiveness, including the disclosure of the definition, boundary and methodology used.",
+      "ja": "96 定義、バウンダリーおよび使用した方法論の開示を含め、水使用効率については下記のボックス3を参照のこと。"
+    },
+    {
+      "page": 99,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C3.0 (cont.) |  |  | Semiconductors, EMS & ODM, Hardware, Datacentres<br>• Total water withdrawn and total water consumed (m3) from all locations (including but not limited to areas of water scarcity); and<br>• Volume (m3) and proportion (%) of the total water withdrawn and total water consumed that is from areas of water scarcity.<br>Telecommunications Infrastructure and Services, Software & IT Services, Internet Media & Services<br>No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C3.0（続き） |  |  | 半導体、EMS & ODM、ハードウェア、データセンター<br>• すべての拠点（水不足の地域を含むが、これに限定されない）からの総取水量および総水消費量（m3）<br>• 総取水量および総水消費量のうち、水不足の地域からのものの量（m3）と割合（%）<br>電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有の追加ガイダンスなし。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 100,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C3.1 | Quantity of high-risk natural commodities sourced from land/ocean/freshwater | Quantity of high-risk natural commodities97 (tonnes) sourced from land/ocean/freshwater, split into types, including proportion of total natural commodities. | Semiconductors, EMS & ODM and Hardware<br>In reporting this core global disclosure metric, an organisation should disclose the quantity (tonnes) of high-risk natural commodities split into types, used in manufacturing and assembly operations, and the proportion (%) traceable to country of origin, to sub-national level origin (e.g. state/province/jurisdiction) and, where available, to the extraction site or mine.<br>In addition to the high-risk natural commodities included in the SBTN High Impact Commodity List13, an organisation should disclose chromium, cobalt, high purity quartz, silica sand, manganese, natural graphite, palladium, rare earth elements, tantalum, tin, titanium and tungsten.<br>An organisation should also consider any other natural commodities at high risk of nature-related impacts during extraction or processing, including those identified through local, regional or national critical-material screening lists, such as the EU Critical Raw Materials list.<br>Datacentres, Telecommunications Infrastructure & Services, Software & IT Services, Internet Media & Services<br>No sector-specific guidance; refer to the core global disclosure metric. | Electronics and hardware: TNFD<br>Althaf, S. and Babbitt, C.W. (2020)<br>The EU Critical Raw Materials List |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 当セクターに関するガイダンス | 出典 |\n|---|---|---|---|---|\n| C3.1 | 陸／海洋／淡水から調達する高リスク天然一次産品の量 | 陸／海洋／淡水から調達した高リスク天然一次産品97の種類別の量（トン）。天然一次産品全体に占める割合を含む。 | 半導体、EMS & ODMおよびハードウェア<br>本グローバル中核開示指標を報告するにあたり、組織は製造および組立の工程で使用される高リスク天然一次産品の種類別の量（トン）と、そのうち原産国、地方レベルの原産地（例：州／省／管轄区域）、および入手可能な場合には採掘現場または鉱山まで追跡可能な割合（%）を開示すべきである。<br>SBTNの高インパクト一次産品リスト13に含まれる高リスク天然一次産品に加え、組織は、クロム、コバルト、高純度石英、ケイ砂、マンガン、天然黒鉛、パラジウム、レアアース（希土類元素）、タンタル、スズ、チタンおよびタングステンを開示すべきである。<br>組織はまた、EU重要原材料リストなど、地域、広域または国の重要物質スクリーニングリストを通じて特定されたものを含め、採掘または加工の過程で自然関連のインパクトのリスクが高いその他の天然一次産品も考慮すべきである。<br>データセンター、電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>セクター固有のガイダンスなし。グローバル中核開示指標を参照のこと。 | 電子機器およびハードウェア：TNFD<br>Althaf, S. and Babbitt, C.W. (2020)<br>EU重要原材料リスト（The EU Critical Raw Materials List） |"
+    },
+    {
+      "page": 100,
+      "type": "footnote",
+      "en": "97 Users should refer to the Science Based Targets Network (SBTN) High Impact Commodity List (HICL) and indicate what proportion of these commodities represent threatened and CITES listed species.",
+      "ja": "97 利用者は、科学に基づく目標ネットワーク（SBTN）の高インパクト一次産品リスト（HICL）を参照し、これらの一次産品のうち、絶滅のおそれのある種およびワシントン条約（CITES）の掲載種に該当するものの割合を示すべきである。"
+    }
+  ]
+}

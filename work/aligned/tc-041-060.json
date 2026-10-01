@@ -1,0 +1,588 @@
+{
+  "doc": "tc",
+  "pages": [
+    41,
+    60
+  ],
+  "segments": [
+    {
+      "page": 41,
+      "type": "table",
+      "en": "| Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n| --- | --- | --- |\n| Software IT services, Internet & Media services and Telecommunications services |  |  |\n| Use of datacentre facilities and supporting infrastructure |  | Refer to datacentres’ infrastructure section for more information. |\n| Software development, deployment and operation | Environmental assets<br>• Land<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation<br>• Water purification | Software efficiency, architecture and scaling behaviour depend on energy and water based on the cooling demand of datacentres, which in turn is influenced by computational intensity and regional deployment choices. For more information on associated dependencies, refer to the datacentres section. |",
+      "ja": "| 事業活動 | 依存する環境資産と生態系サービス | 依存の説明 |\n| --- | --- | --- |\n| ソフトウェアおよびITサービス、インターネット・メディアおよびサービス、電気通信サービス |  |  |\n| データセンター施設および支援インフラの利用 |  | 詳細はデータセンターのインフラのセクションを参照のこと。 |\n| ソフトウェアの開発、展開および運用 | 環境資産<br>• 陸<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整<br>• 水質浄化 | ソフトウェアの効率性、アーキテクチャーおよびスケーリング特性は、データセンターの冷却需要に基づくエネルギーと水に依存しており、その冷却需要は計算集約度と地域的な展開の選択によって左右される。関連する依存の詳細については、データセンターのセクションを参照のこと。 |",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "Table 6 provides examples of impact pathways that are relevant to technology and communications organisations. It is not intended to be comprehensive and an organisation will need to consider if and how the examples apply to its particular context. Impacts can also be positive if a technology and communications organisation improves the state of nature in its direct operations or across the value chain.",
+      "ja": "表6は、技術・通信関連の組織に関係するインパクト経路の例を示している。これは包括的なものを意図したものではなく、組織はこれらの例が自らの特定の状況に当てはまるかどうか、またどのように当てはまるかを検討する必要がある。技術・通信関連の組織が直接操業またはバリューチェーン全体で自然の状態を改善する場合、インパクトはプラスにもなり得る。"
+    },
+    {
+      "page": 42,
+      "type": "caption",
+      "en": "Table 6: Examples of impact pathways for the technology and communications sector, by activity",
+      "ja": "表6：技術・通信セクターのインパクト経路の例（活動別）"
+    },
+    {
+      "page": 42,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Semiconductors |  |  |  |\n| Raw materials sourcing | Resource use/replenishment and others | Environmental assets<br>• Mineral and energy resource<br>• Underwater mineral and energy resource<br>Ecosystem services<br>• Potentially all | The growth in this industry has driven demand for minerals and metals, including those considered critical due to supply risks. Global recycling rates for many specialty elements from e-waste remain very low, often below 1%,33 which means primary extraction continues to be the main source. Where relevant, organisations should also consider indirect water use associated with mining. Refer to the TNFD Metals and Mining sector guidance for more information. |\n| Semiconductor wafer fabrication, assembly, packaging and testing | Resource use/replenishment | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation | A large semiconductor fabrication plant (fab) uses up to 38 million litres of water per day, equivalent to the daily water consumption of 300,000 people in Germany. Water is primarily used for ultrapure water (UPW) production, a complex process that involves multi-stage treatments. The environmental impacts of this water consumption can be severe.<br>Water reuse and recycling are common on-site practices in semiconductor fabs in certain regions of the world.34 |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 半導体 |  |  |  |\n| 原材料の調達 | 資源使用／資源補充およびその他 | 環境資産<br>• 鉱物・エネルギー資源<br>• 海底鉱物・エネルギー資源<br>生態系サービス<br>• 潜在的にすべて | この産業の成長は、供給リスクのために重要とみなされるものを含め、鉱物および金属の需要を押し上げてきた。電子廃棄物（E-waste）に含まれる多くの特殊元素の世界的なリサイクル率は依然として非常に低く、1%未満であることも多い33。これは、一次採掘が引き続き主要な供給源であることを意味する。該当する場合、組織は採掘に関連する間接的な水使用も考慮すべきである。詳細はTNFDの金属・鉱業セクターガイダンスを参照のこと。 |\n| 半導体のウェーハ製造、組立、パッケージングおよびテスト | 資源使用／資源補充 | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整 | 大規模なファブ（半導体製造工場）は1日あたり最大3,800万リットルの水を使用し、これはドイツの30万人の1日の水消費量に相当する。水は主に超純水（UPW）の製造に使用されるが、これは多段階の処理を伴う複雑な工程である。この水消費による環境へのインパクトは深刻なものとなり得る。<br>世界の一部の地域では、半導体ファブにおいて水の再利用とリサイクルが一般的なオンサイトの慣行となっている34。 |"
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "33 Buechler, D. T. et al. (2020) Comprehensive elemental analysis of consumer electronic devices: rare earth, precious, and critical elements.",
+      "ja": "33 Buechler, D. T. et al. (2020) Comprehensive elemental analysis of consumer electronic devices: rare earth, precious, and critical elements."
+    },
+    {
+      "page": 42,
+      "type": "footnote",
+      "en": "34 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "34 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 43,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Semiconductor wafer fabrication, assembly, packaging and testing | Pollution/pollution removal | Environmental assets<br>• Atmospheric systems<br>Ecosystem services<br>• Local (micro and meso) climate regulation<br>• Global climate regulation<br>• Air filtration | Semiconductor manufacturing generates a variety of air pollutants beyond greenhouse gases, notably Volatile Organic Compounds (VOCs), acidic gases and particulate matter (primarily PM10 and smaller). Due to the diverse production technologies used in the semiconductor industry, the source profiles of different pollutants differ significantly.35 |\n| Semiconductor wafer fabrication, assembly, packaging and testing | Pollution/pollution removal | Environmental assets<br>• Land<br>• Terrestrial (land based) ecosystems<br>• Freshwater ecosystems<br>• Marine (ocean) ecosystems<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Soil quality regulation<br>• Solid waste remediation | Semiconductor production leads to a significant amount of hazardous and non-hazardous waste. Waste typically consists of heavy metals, solvents and corrosive compounds in both solid and liquid forms. Solid waste is often processed at designated hazardous waste disposal facilities. In some cases, the heavy metals can be recycled. Release of waste without proper treatment can cause severe environmental impacts.36 |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 半導体のウェーハ製造、組立、パッケージングおよびテスト | 汚染／汚染除去 | 環境資産<br>• 大気系<br>生態系サービス<br>• 地域の（微・中）気候の調整<br>• 世界的な気候の調整<br>• 大気浄化 | 半導体製造は温室効果ガス以外にもさまざまな大気汚染物質を発生させ、特に揮発性有機化合物（VOCs）、酸性ガス、粒子状物質（主にPM10以下）が挙げられる。半導体産業では多様な生産技術が用いられているため、汚染物質ごとの発生源プロファイルは大きく異なる35。 |\n| 半導体のウェーハ製造、組立、パッケージングおよびテスト | 汚染／汚染除去 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 淡水生態系<br>• 海洋（外洋）生態系<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 土質調節<br>• 固体廃棄物浄化 | 半導体の生産は大量の有害廃棄物および非有害廃棄物をもたらす。廃棄物は通常、固体と液体の両方の形態の重金属、溶剤、腐食性化合物から成る。固体廃棄物は指定された有害廃棄物処理施設で処理されることが多い。場合によっては、重金属をリサイクルすることができる。適切な処理を行わずに廃棄物を放出すると、深刻な環境インパクトを引き起こす可能性がある36。 |"
+    },
+    {
+      "page": 43,
+      "type": "footnote",
+      "en": "35 Yin, Y., and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions.",
+      "ja": "35 Yin, Y., and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions."
+    },
+    {
+      "page": 43,
+      "type": "footnote",
+      "en": "36 Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation.",
+      "ja": "36 Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation."
+    },
+    {
+      "page": 44,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Semiconductor wafer fabrication, assembly, packaging and testing | Pollution/pollution removal | Environmental assets<br>• Freshwater ecosystems<br>• Subterranean freshwater ecosystems<br>• Marine (ocean) ecosystems<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Soil quality regulation | Wastewater is often treated and recycled on site. It contains a range of harmful contaminants (e.g. solvents, arsenic, fine oxide particles) with risks to the environment and human health. Proper treatment is crucial to contain toxic components and recycle chemicals.37 |\n| EMS & ODM and Hardware |  |  |  |\n| Raw materials and semiconductors procurement |  |  | Refer to semiconductors section for more information on impacts related to raw materials and semiconductors procurement. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 半導体のウェーハ製造、組立、パッケージングおよびテスト | 汚染／汚染除去 | 環境資産<br>• 淡水生態系<br>• 地下淡水生態系<br>• 海洋（外洋）生態系<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 土質調節 | 廃水は多くの場合、オンサイトで処理されリサイクルされる。廃水には、環境と人の健康にリスクをもたらすさまざまな有害汚染物質（例：溶剤、ヒ素、微細な酸化物粒子）が含まれる。有毒成分を封じ込め、化学物質をリサイクルするためには、適切な処理が不可欠である37。 |\n| EMS & ODMおよびハードウェア |  |  |  |\n| 原材料および半導体の調達 |  |  | 原材料および半導体の調達に関連するインパクトの詳細については、半導体のセクションを参照のこと。 |"
+    },
+    {
+      "page": 44,
+      "type": "footnote",
+      "en": "37 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "37 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 45,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| EMS & ODM assembly, testing, packaging<br>Hardware product design and development | Resource use/replenishment and others<br>Water withdrawal and consumption | Environmental assets<br>• Freshwater ecosystems<br>• Water resources<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Water flow regulation | Water-related impacts occur throughout the electronics and hardware manufacturing process as semiconductor fabrication is extremely water intensive. For example, producing a single smartphone requires approximately 3,190 gallons (12,760 litres) of water, much of which represents grey water needed to dilute and treat wastewater generated during manufacturing.38<br>These impacts become even more acute during the dry season, particularly in regions with a small number of stressed reservoirs, where freshwater availability is already limited and local environmental boundaries for water use are exceeded. Reduced water supply lowers dilution capacity, exacerbates pollution risks and creates operational vulnerabilities for both industry and local ecosystems.39 |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| EMS & ODMの組立、テスト、パッケージング<br>ハードウェア製品の設計・開発 | 資源使用／資源補充およびその他<br>取水と水消費 | 環境資産<br>• 淡水生態系<br>• 水資源<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 水流調整 | 半導体製造は極めて水集約的であるため、水関連のインパクトは電子機器およびハードウェアの製造工程全体を通じて発生する。例えば、スマートフォン1台の生産には約3,190ガロン（12,760リットル）の水が必要であり、その多くは製造中に発生する廃水を希釈・処理するために必要なグレーウォーターである38。<br>こうしたインパクトは乾季にさらに深刻になる。特に、ストレス下にある貯水池が少数しかない地域では、淡水の利用可能性がすでに限られており、水使用に関する地域の環境上の限界を超えている。水供給の減少は希釈能力を低下させ、汚染リスクを悪化させ、産業と地域の生態系の双方にとって操業上の脆弱性を生み出す39。 |"
+    },
+    {
+      "page": 45,
+      "type": "footnote",
+      "en": "38 Water Footprint Calculator (2022) The Hidden Water in Everyday Products.",
+      "ja": "38 Water Footprint Calculator (2022) The Hidden Water in Everyday Products."
+    },
+    {
+      "page": 45,
+      "type": "footnote",
+      "en": "39 Roussilhe, G. et al. (2024) From silicon shield to carbon lock-in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020).",
+      "ja": "39 Roussilhe, G. et al. (2024) From silicon shield to carbon lock-in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020)."
+    },
+    {
+      "page": 46,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| EMS & ODM assembly, testing, packaging<br>Hardware product design and development | Pollution/pollution removal | Environmental assets<br>• Land (terrestrial) ecosystems<br>• Freshwater ecosystems<br>• Water resources<br>• Marine (ocean) ecosystems<br>Ecosystem services<br>• Provisioning (water supply)<br>• Water purification<br>• Soil and sediment retention<br>• Water flow regulation | Significant quantities of wastewater are generated during the processing of electronic components.40 Such wastewater results from processes like cleaning, fabrication operations, electroplating and printed circuit board production. They can contain multiple pollutants, including acids and alkalis, heavy metals, organic solvents and fluxes.41<br>For example, wastewater arising from printed circuit boards (PCB) production is heavily contaminated with copper, iron and organic matter, which represents a potential pollution source.42<br>Water pollution can worsen when factories operate without adequate wastewater treatment systems. Toxic wastewater may impact the environment, including by direct release into rivers through stormwater pipes, through raw sewage overflowing without purification or through leaks from storage tanks.43 |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| EMS & ODMの組立、テスト、パッケージング<br>ハードウェア製品の設計・開発 | 汚染／汚染除去 | 環境資産<br>• 陸域生態系<br>• 淡水生態系<br>• 水資源<br>• 海洋（外洋）生態系<br>生態系サービス<br>• 供給（淡水供給）<br>• 水質浄化<br>• 土壌と土砂の保持<br>• 水流調整 | 電子部品の加工の過程で大量の廃水が発生する40。このような廃水は、洗浄、製造作業、電気めっき、プリント基板の生産などの工程から生じる。これらの廃水には、酸およびアルカリ、重金属、有機溶剤、フラックスなど、複数の汚染物質が含まれ得る41。<br>例えば、プリント基板（PCB）の生産から生じる廃水は銅、鉄、有機物で著しく汚染されており、潜在的な汚染源となる42。<br>工場が適切な廃水処理システムなしで操業する場合、水質汚染は悪化し得る。有毒な廃水は、雨水管を通じた河川への直接放出、浄化されないままの未処理下水の溢流、貯蔵タンクからの漏出などにより、環境にインパクトを及ぼす可能性がある43。 |"
+    },
+    {
+      "page": 46,
+      "type": "footnote",
+      "en": "40 Yadav, N. (n.d.) Electronic Industry Waste Water.",
+      "ja": "40 Yadav, N. (n.d.) Electronic Industry Waste Water."
+    },
+    {
+      "page": 46,
+      "type": "footnote",
+      "en": "41 ENCORE Partners (2024) ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure.",
+      "ja": "41 ENCORE Partners (2024) ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure."
+    },
+    {
+      "page": 46,
+      "type": "footnote",
+      "en": "42 Geric, M. et al. (2017) Environmental risk assessment of wastewaters from printed circuit board production: A multibiomarker approach using human cells.",
+      "ja": "42 Geric, M. et al. (2017) Environmental risk assessment of wastewaters from printed circuit board production: A multibiomarker approach using human cells."
+    },
+    {
+      "page": 46,
+      "type": "footnote",
+      "en": "43 Ellis, B. (2000) Environmental issues in electronics manufacturing: a review.",
+      "ja": "43 Ellis, B. (2000) Environmental issues in electronics manufacturing: a review."
+    },
+    {
+      "page": 47,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| E-waste collection, treatment, recycling and disposal | Pollution/pollution removal | Environmental assets<br>• Land<br>• Terrestrial ecosystems<br>• Freshwater ecosystems<br>• Water resources<br>• Marine (ocean) ecosystems<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Soil and sediment retention<br>• Soil quality regulation<br>• Global climate regulation<br>• Nursery population and habitat maintenance<br>• Solid waste remediation<br>• Recreation-related services<br>• Visual amenity services | Hardware and electronics production leads to over 60 billion kilogrammes of e-waste produced each year.44 Global e-waste generation is increasing by around 2.6 billion kg annually and is projected to reach 82 billion kg by 2030.45<br>E-waste covers plastics and other waste from electronic devices. Electronic devices can also contain toxic and persistent substances such as mercury and flame retardants. For example, televisions, personal computers, tablets and smartphones contain substantial volumes of plastics.45<br>Most flame retardants (80%) are found in screens and monitors. Recycling these products is technically challenging because plastics containing flame retardants need to be identified and separated from other plastics to avoid recirculating hazardous substances.<br>Globally, properly collected and recycled e-waste averages 20-22%,46 the remaining 80% is undocumented, with much ending up buried underground as landfill.47 Where collection, treatment and disposal of e-waste are not adequately managed, toxic and persistent substances can leach into soil and freshwater. These releases can contaminate food webs and contribute to habitat degradation and biodiversity loss. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 電子廃棄物の回収、処理、リサイクルおよび処分 | 汚染／汚染除去 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 淡水生態系<br>• 水資源<br>• 海洋（外洋）生態系<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 土壌と土砂の保持<br>• 土質調節<br>• 世界的な気候の調整<br>• 生育地の個体数と生息環境の維持<br>• 固体廃棄物浄化<br>• レクリエーション関連サービス<br>• 視覚的アメニティー・サービス | ハードウェアおよび電子機器の生産により、毎年600億キログラムを超える電子廃棄物が発生している44。世界の電子廃棄物の発生量は年間約26億kgずつ増加しており、2030年には820億kgに達すると予測されている45。<br>電子廃棄物には、電子機器から出るプラスチックやその他の廃棄物が含まれる。電子機器には、水銀や難燃剤などの有毒で残留性のある物質が含まれていることもある。例えば、テレビ、パーソナルコンピューター、タブレット、スマートフォンには相当量のプラスチックが含まれている45。<br>難燃剤の大部分（80%）はスクリーンとモニターに含まれている。有害物質の再循環を避けるためには、難燃剤を含むプラスチックを特定し、他のプラスチックから分離する必要があるため、これらの製品のリサイクルは技術的に困難である。<br>世界全体で、適切に回収・リサイクルされる電子廃棄物は平均20～22%であり46、残りの80%は記録されておらず、その多くは埋め立てとして地中に埋められている47。電子廃棄物の回収、処理、処分が適切に管理されていない場合、有毒で残留性のある物質が土壌や淡水に浸出する可能性がある。こうした放出は食物網を汚染し、生息地の劣化と生物多様性の損失の一因となり得る。 |"
+    },
+    {
+      "page": 47,
+      "type": "footnote",
+      "en": "44 WEF (2025) Nature Positive: Role of the Technology Sector.",
+      "ja": "44 WEF (2025) Nature Positive: Role of the Technology Sector."
+    },
+    {
+      "page": 47,
+      "type": "footnote",
+      "en": "45 Cordelis, P. et al. (2024) The Global E-waste Monitor 2024.",
+      "ja": "45 Cordelis, P. et al. (2024) The Global E-waste Monitor 2024."
+    },
+    {
+      "page": 47,
+      "type": "footnote",
+      "en": "46 Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network; Cordelis, P. et al. (2024) The Global E-waste Monitor 2024.",
+      "ja": "46 Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network; Cordelis, P. et al. (2024) The Global E-waste Monitor 2024."
+    },
+    {
+      "page": 47,
+      "type": "footnote",
+      "en": "47 Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network.",
+      "ja": "47 Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network."
+    },
+    {
+      "page": 48,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Datacentres (infrastructure) |  |  |  |\n| Construction of datacentres | Land/freshwater/ocean use change | Environmental assets<br>• Land<br>• Terrestrial (land based) ecosystems<br>Ecosystem services<br>• Biomass provisioning<br>• Flood mitigation<br>• Soil quality regulation<br>• Water flow regulation | Building or expanding datacentres can require land clearance and habitat conversion, particularly where development occurs on greenfield or previously undeveloped sites. Further indirect land use change may arise from the construction of access roads, other supporting infrastructure and the increased access to the area this creates for wider human activities. Refer to TNFD Engineering, Construction and Real Estate sector guidance for more details. |\n| Hardware procurement | Land/freshwater/ocean use change<br>Resource use | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>• Mineral and energy resources<br>• Subterranean terrestrial ecosystems<br>Ecosystem services<br>• Potentially all | Land-based ecosystems are used for mining natural commodities for IT equipment. This can include land clearing (surface layers including vegetation, water and soils) for open cut mining, underground mining portals, haul ways and waste rock dump deposition. Refer to the TNFD Metals and Mining sector guidance and semiconductors, EMS & ODM and hardware sections for more information on associated upstream impacts. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| データセンター（インフラ） |  |  |  |\n| データセンターの建設 | 陸／淡水／海洋利用の変化 | 環境資産<br>• 陸<br>• 陸域生態系<br>生態系サービス<br>• バイオマスの供給<br>• 洪水緩和<br>• 土質調節<br>• 水流調整 | データセンターの建設や拡張には、特にグリーンフィールドや未開発の用地で開発が行われる場合、土地の伐開と生息地の転換が必要となることがある。さらに、アクセス道路やその他の支援インフラの建設、およびそれによって生じる、より広範な人間活動のための当該地域へのアクセスの増加から、間接的な土地利用変化が生じる可能性がある。詳細はTNFDのエンジニアリング・建設・不動産セクターガイダンスを参照のこと。 |\n| ハードウェアの調達 | 陸／淡水／海洋利用の変化<br>資源使用 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 鉱物・エネルギー資源<br>• 地下陸域生態系<br>生態系サービス<br>• 潜在的にすべて | 陸域生態系は、IT機器向けの天然一次産品の採掘に利用されている。これには、露天掘り採掘、坑内採掘の坑口、運搬路、廃石の堆積のための土地の伐開（植生、水、土壌を含む表層）が含まれ得る。関連する上流のインパクトの詳細については、TNFDの金属・鉱業セクターガイダンス、ならびに半導体、EMS & ODMおよびハードウェアのセクションを参照のこと。 |"
+    },
+    {
+      "page": 49,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Energy sourcing and use | Resource use/replenishment | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation | Water consumption for electricity generation: The indirect water consumption of datacentres from power generation sources requires significant water withdrawal and consumption. Refer to TNFD Electric Utilities and Power Generators sector guidance for more details. |\n| Datacentre cooling (with or without water recycling) | Resource use/replenishment | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation | Historically, electric-powered air cooling could meet the requirements of datacentres with server rack power densities of 20 kilowatts or less. As rack densities have increased, direct-to-chip water cooling has become the preferred method, given its higher capability. Liquid cooling methods can be extremely water intensive. On average, a hyperscale facility can use 2.1 million litres of water per day, while a retail facility may use around 68,000 per day. With an average of 60% of water use consumed by evaporation and the remaining 40% going into local wastewater systems, managing water use is a key way to reduce datacentres’ impacts on local water supply. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| エネルギーの調達と使用 | 資源使用／資源補充 | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整 | 発電のための水消費：発電源に由来するデータセンターの間接的な水消費には、大量の取水と水消費が必要となる。詳細はTNFDの電力会社および発電事業者セクターガイダンスを参照のこと。 |\n| データセンターの冷却（水のリサイクルの有無を問わない） | 資源使用／資源補充 | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整 | 従来は、サーバーラックの電力密度が20キロワット以下のデータセンターであれば、電動の空冷で要件を満たすことができた。ラック密度が高まるにつれ、より高い能力を持つことから、チップ直接水冷が好ましい方式となっている。液冷方式は極めて水集約的となり得る。平均すると、ハイパースケール施設は1日あたり210万リットルの水を使用することがあり、一方、リテール型施設は1日あたり約68,000を使用することがある。水使用量の平均60%が蒸発により消費され、残りの40%が地域の排水処理システムに流入することから、水使用の管理は、データセンターが地域の水供給に及ぼすインパクトを低減するための主要な方法である。 |",
+      "flag": "term-uncertain: retail facility"
+    },
+    {
+      "page": 50,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Datacentre operations | Pollution/pollution removal | Environmental assets<br>• Atmospheric systems<br>Ecosystem services<br>• Local (micro and meso) climate regulation<br>• Global climate regulation<br>• Air filtration | As datacentres are built to run around the clock, to ensure service continuity during grid outages, the rapid growth of datacentres is accompanied by a surge in on-site backup generator installations.48 Diesel backup generators used at datacentres are often high-capacity units, ranging in size from 1.5 megawatts to over 3 megawatts each. Larger datacentres may deploy multiple units. Most generators are designed to provide 1.5 to 2 times the total connected load, and many are diesel-powered. These diesel generators emit significant amounts of particulate matter (PM), nitrogen oxides (NOx), sulphur dioxide (SO₂) and carbon dioxide (CO₂) – pollutants that degrade air quality, contribute to climate change and can pose serious health risks to nearby communities.49 |\n| Datacentre operations | Pollution/pollution removal | Environmental assets<br>• Terrestrial (land based) ecosystems<br>• Freshwater ecosystems<br>Ecosystem services<br>• Soil quality regulation<br>• Water supply<br>• Water regulation<br>• Water purification | As water circulates within the system of a datacentre, it absorbs heat, resulting in effluent temperatures of 30 to 40°C, while accumulating chemical additives like anticorrosive (e.g. molybdate), biocides and leached metals (Cu, Zn). Blowdown from cooling towers can concentrate total dissolved solids (TDS) to 2,000 ppm. Discharge without proper treatment can cause impacts to downstream environments from thermal pollution and chemical excesses.50 |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| データセンターの運用 | 汚染／汚染除去 | 環境資産<br>• 大気系<br>生態系サービス<br>• 地域の（微・中）気候の調整<br>• 世界的な気候の調整<br>• 大気浄化 | データセンターは24時間稼働するように建設されるため、電力系統の停止時のサービス継続性を確保するべく、データセンターの急速な増加に伴ってオンサイトの非常用発電機の設置が急増している48。データセンターで使用されるディーゼル非常用発電機は多くの場合大容量で、1台あたり1.5メガワットから3メガワット超の規模である。大規模なデータセンターでは複数台を配備する場合がある。ほとんどの発電機は総接続負荷の1.5～2倍を供給するよう設計されており、その多くはディーゼル駆動である。これらのディーゼル発電機は、粒子状物質（PM）、窒素酸化物（NOx）、二酸化硫黄（SO₂）、二酸化炭素（CO₂）を大量に排出する。これらは大気質を悪化させ、気候変動の一因となり、近隣のコミュニティに深刻な健康リスクをもたらし得る汚染物質である49。 |\n| データセンターの運用 | 汚染／汚染除去 | 環境資産<br>• 陸域生態系<br>• 淡水生態系<br>生態系サービス<br>• 土質調節<br>• 淡水供給<br>• 水の調整<br>• 水質浄化 | 水はデータセンターのシステム内を循環する間に熱を吸収し、その結果、排水温度は30～40°Cとなる。同時に、防食剤（例：モリブデン酸塩）、殺生物剤、浸出した金属（Cu、Zn）などの化学添加物が蓄積する。冷却塔からのブローダウン水では、総溶解固形分（TDS）が2,000 ppmまで濃縮されることがある。適切な処理を行わずに排出すると、熱汚染と過剰な化学物質により下流の環境にインパクトを及ぼす可能性がある50。 |"
+    },
+    {
+      "page": 50,
+      "type": "footnote",
+      "en": "48 Ren, S. and Wierman, A. (2025) Mitigating the Public Health Impacts of AI Data Centers.",
+      "ja": "48 Ren, S. and Wierman, A. (2025) Mitigating the Public Health Impacts of AI Data Centers."
+    },
+    {
+      "page": 50,
+      "type": "footnote",
+      "en": "49 Stax Engineering (2025) The environmental impact of data centers.",
+      "ja": "49 Stax Engineering (2025) The environmental impact of data centers."
+    },
+    {
+      "page": 50,
+      "type": "footnote",
+      "en": "50 Chelsey, J. (2025) Data Center Water Treatment Systems: In Theory and in Practice.",
+      "ja": "50 Chelsey, J. (2025) Data Center Water Treatment Systems: In Theory and in Practice."
+    },
+    {
+      "page": 51,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| E-waste collection, treatment, recycling and disposal | Pollution/pollution removal |  | Refer to EMS & ODM and hardware section for more information on e-waste related impacts on nature. |\n| Datacentre infrastructure decommissioning | Pollution/pollution removal | Environmental assets<br>• Terrestrial (land based) ecosystems<br>• Freshwater ecosystems<br>Ecosystem services<br>• Soil quality regulation | Refer to TNFD Engineering, Construction and Real Estate sector guidance for more information on the impacts of decommissioning infrastructure. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 電子廃棄物の回収、処理、リサイクルおよび処分 | 汚染／汚染除去 |  | 電子廃棄物に関連する自然に対するインパクトの詳細については、EMS & ODMおよびハードウェアのセクションを参照のこと。 |\n| データセンターインフラの廃止・撤去 | 汚染／汚染除去 | 環境資産<br>• 陸域生態系<br>• 淡水生態系<br>生態系サービス<br>• 土質調節 | インフラの廃止・撤去によるインパクトの詳細については、TNFDのエンジニアリング・建設・不動産セクターガイダンスを参照のこと。 |"
+    },
+    {
+      "page": 52,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Telecommunications (infrastructure) |  |  |  |\n| Construction/installation of telecommunications infrastructure | Land/freshwater/ocean use change | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>Ecosystem services<br>• Nursery population and habitat maintenance<br>• Recreation-related services<br>• Visual amenity services<br>• Spiritual, artistic and symbolic services | Construction requires clearing land, disrupting habitats and reducing biodiversity. Towers often occupy 50 to 200 square metres per site.51<br>Telecommunication towers can present risks to birds and wildlife, particularly during migration, as collisions can cause injuries or fatalities. In addition, tower construction and maintenance can disturb habitats, fragment ecosystems and disrupt wildlife corridors.52<br>Towers can also impact the visual and cultural landscape, especially in scenic or densely populated areas, requiring thoughtful planning, design and community engagement to balance infrastructure needs with environmental and aesthetic considerations.53<br>The installation and maintenance of submarine cable systems can impact the seafloor’s benthic habitats and their placement may disturb sensitive habitats.<br>Refer to TNFD Engineering, Construction and Real Estate sector guidance for more details. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 電気通信（インフラ） |  |  |  |\n| 電気通信インフラの建設／設置 | 陸／淡水／海洋利用の変化 | 環境資産<br>• 陸<br>• 陸域生態系<br>生態系サービス<br>• 生育地の個体数と生息環境の維持<br>• レクリエーション関連サービス<br>• 視覚的アメニティー・サービス<br>• 精神的、芸術的、象徴的サービス | 建設には土地の伐開が必要であり、生息地を攪乱し、生物多様性を減少させる。鉄塔は1サイトあたり50～200平方メートルを占めることが多い51。<br>通信鉄塔は、特に渡りの時期に、鳥類や野生生物にリスクをもたらす可能性がある。衝突によって負傷や死亡が生じ得るためである。加えて、鉄塔の建設と維持管理は、生息地を攪乱し、生態系を分断し、野生生物の移動回廊を寸断する可能性がある52。<br>鉄塔はまた、特に景勝地や人口密集地域において、視覚的・文化的景観にインパクトを及ぼし得る。そのため、インフラのニーズと環境上および美観上の配慮とのバランスをとるために、慎重な計画、設計、コミュニティとのエンゲージメントが必要となる53。<br>海底ケーブルシステムの設置と維持管理は、海底の底生生息地にインパクトを及ぼす可能性があり、その敷設が影響を受けやすい生息地を攪乱するおそれもある。<br>詳細はTNFDのエンジニアリング・建設・不動産セクターガイダンスを参照のこと。 |"
+    },
+    {
+      "page": 52,
+      "type": "footnote",
+      "en": "51 IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications.",
+      "ja": "51 IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications."
+    },
+    {
+      "page": 52,
+      "type": "footnote",
+      "en": "52 American Bird Conservancy (n.d.) Bird Collisions and Communications Towers – American Bird Conservancy.",
+      "ja": "52 American Bird Conservancy (n.d.) Bird Collisions and Communications Towers – American Bird Conservancy."
+    },
+    {
+      "page": 52,
+      "type": "footnote",
+      "en": "53 IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications.",
+      "ja": "53 IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications."
+    },
+    {
+      "page": 53,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Waste and e-waste collection, treatment, recycling and disposal | Pollution/pollution removal | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>• Water resources<br>Ecosystem services<br>• Water purification<br>• Soil and sediment retention<br>• Soil quality regulation<br>• Global climate regulation<br>• Nursery population and habitat maintenance<br>• Solid waste remediation | For telecommunication organisations, waste includes material waste from telecommunications infrastructure, including towers, cables and satellites. Other sources of waste can relate to e-waste. Refer to EMS & ODM and hardware section for more information on e-waste related impacts on nature. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 廃棄物および電子廃棄物の回収、処理、リサイクルおよび処分 | 汚染／汚染除去 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 水資源<br>生態系サービス<br>• 水質浄化<br>• 土壌と土砂の保持<br>• 土質調節<br>• 世界的な気候の調整<br>• 生育地の個体数と生息環境の維持<br>• 固体廃棄物浄化 | 電気通信の組織にとって、廃棄物には鉄塔、ケーブル、衛星を含む電気通信インフラから生じる資材廃棄物が含まれる。その他の廃棄物の発生源は電子廃棄物に関連する場合がある。電子廃棄物に関連する自然に対するインパクトの詳細については、EMS & ODMおよびハードウェアのセクションを参照のこと。 |"
+    },
+    {
+      "page": 54,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Telecommunications infrastructure decommissioning | Pollution/pollution removal | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>• Water resources<br>Ecosystem services<br>• Water purification<br>• Soil and sediment retention<br>• Soil quality regulation<br>• Global climate regulation<br>• Nursery population and habitat maintenance<br>• Solid waste remediation | Refer to TNFD Engineering, Construction and Real Estate sector guidance for more information on the impacts of decommissioning infrastructure. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| 電気通信インフラの廃止・撤去 | 汚染／汚染除去 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 水資源<br>生態系サービス<br>• 水質浄化<br>• 土壌と土砂の保持<br>• 土質調節<br>• 世界的な気候の調整<br>• 生育地の個体数と生息環境の維持<br>• 固体廃棄物浄化 | インフラの廃止・撤去によるインパクトの詳細については、TNFDのエンジニアリング・建設・不動産セクターガイダンスを参照のこと。 |"
+    },
+    {
+      "page": 55,
+      "type": "table",
+      "en": "| Business activity | Driver of nature change | Environmental assets and ecosystem services affected | Impact on nature (description) |\n| --- | --- | --- | --- |\n| Software & IT services, Internet & Media services and Telecommunications services |  |  |  |\n| Use of datacentre infrastructure |  |  | Refer to datacentre (infrastructure) and/or telecommunications (infrastructure) sections for more information on infrastructure-related impacts. |\n| Software development, deployment and operation | Resource use/replenishment | Environmental assets<br>• Terrestrial ecosystems<br>• Freshwater ecosystems<br>• Water resources<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Water flow regulation | Software products, digital platforms and services require datacentre capacity and can thereby drive water and energy use, including for cooling in datacentres. Reliance on datacentres varies, influenced by computational intensity, efficiency, architecture, lifecycle decisions, scaling and regional deployment choices. For datacentre-related impacts, refer to datacentres (infrastructure) section. |",
+      "ja": "| 事業活動 | 自然の変化の要因 | 影響を受ける環境資産と生態系サービス | 自然に対するインパクト（説明） |\n| --- | --- | --- | --- |\n| ソフトウェアおよびITサービス、インターネット・メディアおよびサービス、電気通信サービス |  |  |  |\n| データセンターインフラの利用 |  |  | インフラ関連のインパクトの詳細については、データセンター（インフラ）および／または電気通信（インフラ）のセクションを参照のこと。 |\n| ソフトウェアの開発、展開および運用 | 資源使用／資源補充 | 環境資産<br>• 陸域生態系<br>• 淡水生態系<br>• 水資源<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 水流調整 | ソフトウェア製品、デジタルプラットフォームおよびサービスはデータセンターの容量を必要とし、それによって、データセンターにおける冷却用を含め、水とエネルギーの使用を促進し得る。データセンターへの依存度は、計算集約度、効率性、アーキテクチャー、ライフサイクルに関する決定、スケーリング、地域的な展開の選択に左右されて異なる。データセンター関連のインパクトについては、データセンター（インフラ）のセクションを参照のこと。 |"
+    },
+    {
+      "page": 56,
+      "type": "h3",
+      "en": "External factors",
+      "ja": "外部要因"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "External factors with relevance to the technology and communications sector include:",
+      "ja": "技術・通信セクターに関連する外部要因には、次のようなものがある。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "Climate change leads to a higher frequency of extreme weather events. These influence provisioning services such as water supply and regulating and maintenance ecosystem services, such as rainfall pattern regulation, with increased droughts in some regions and increased rainfall in others. Technology and communications organisations will need to assess the influence of climate change on the ecosystem services upon which they depend, such as the impacts of water shortages, drought, storm and flood events and the unintended consequences these may have on the manufacture or infrastructure they depend on to operate. For example, East Asia’s 2021 drought resulted in a 20% fall in water reservoir capacity impacting semiconductor supply chains globally. This highlights the sector’s dependence on water supply and vulnerability when water shortages occur, severely restricting output.54",
+      "ja": "気候変動は、異常気象の頻度を高める。これらは、淡水供給などの供給サービスや、降雨パターンの調整などの調整・維持サービスに影響を及ぼし、一部の地域では干ばつが、他の地域では降雨が増加する。技術・通信関連の組織は、自らが依存する生態系サービスに対する気候変動の影響を評価する必要がある。例えば、水不足、干ばつ、暴風雨や洪水の事象によるインパクトや、それらが操業のために依存している製造やインフラにもたらし得る意図せざる結果などである。例えば、2021年の東アジアの干ばつにより貯水池の容量が20%低下し、世界の半導体サプライチェーンに影響を与えた。このことは、当該セクターの淡水供給への依存と、水不足が発生した際の脆弱性を浮き彫りにしており、その際には生産高が大きく制約される54。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "Other actors within the same landscape or water basin may also affect the land and freshwater resources on which technology and communications organisations depend. Organisations should therefore consider cumulative pressures and relevant land stewardship and water governance arrangements.",
+      "ja": "同じランドスケープまたは流域内の他の主体も、技術・通信関連の組織が依存する土地および淡水資源に影響を及ぼす可能性がある。したがって、組織は累積的な圧力と、関連する土地スチュワードシップおよび水ガバナンスの取り決めを考慮すべきである。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "Organisations should refer to the TNFD biome guidance for more examples of ecosystem services that may be present in the locations where they are operating.",
+      "ja": "組織は、自らが事業を行っている地域に存在し得る生態系サービスのさらなる例について、TNFDのバイオーム別ガイダンスを参照すべきである。"
+    },
+    {
+      "page": 56,
+      "type": "h3",
+      "en": "E3: Dependency and impact measurement",
+      "ja": "E3：依存とインパクトの測定"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "Guiding questions: What is the scale and scope of our dependencies on nature? What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature?",
+      "ja": "指針となる問い：自組織の自然への依存の規模と範囲はどの程度か。自組織の自然に対するマイナスのインパクトの深刻度はどの程度か。自組織の自然に対するプラスのインパクトの規模と範囲はどの程度か。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "In E3, organisations move to measure the scale and scope of these dependencies and impacts (noting measurement quality depends on data availability, which may improve over time in consecutive assessment cycles).",
+      "ja": "E3では、組織はこれらの依存とインパクトの規模と範囲の測定に移る（測定の質はデータの利用可能性に左右され、データの利用可能性は連続する評価サイクルを経て時間とともに改善し得ることに留意する）。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "For the quantification of dependencies and impacts in the technology and communications sector, organisations may find it useful to refer to the TNFD sector metrics in Section 3 of this guidance.",
+      "ja": "技術・通信セクターにおける依存とインパクトの定量化にあたっては、本ガイダンスの第3節にあるTNFDのセクター測定指標を参照することが有用であろう。"
+    },
+    {
+      "page": 56,
+      "type": "p",
+      "en": "Metrics linked to the location of assets and/or activities can be used to quantify impact drivers, changes to the state of nature and changes in the supply of ecosystem services. Such assessment metrics are provided in Annex 1 of the TNFD LEAP guidance. These can be provided as an absolute figure, rate of change or as an intensity/efficiency ratio. Intensity or efficiency ratios can provide useful complementary information but may not accurately represent the scale or severity of an impact. For example, water use effectiveness (WUE) should be considered alongside total water consumption, water source, cooling technology and the condition and water stress of the relevant basin (see also Box 3 on water efficiency and impact metrics for datacentres). Further guidance on measurements, including the use of baselines and reference conditions, is covered in the TNFD recommendations and LEAP guidance.",
+      "ja": "資産および／または活動の地域に結び付いた測定指標は、インパクト要因、自然の状態の変化、生態系サービスの供給の変化を定量化するために用いることができる。こうした評価測定指標は、TNFDのLEAPガイダンスの別紙1に示されている。これらは、絶対値、変化率、または原単位／効率比として示すことができる。原単位または効率比は有用な補完的情報を提供し得るが、インパクトの規模や深刻度を正確に表さない場合がある。例えば、水使用効率（WUE）は、総水消費量、水源、冷却技術、および関連する流域の状態と水ストレスとあわせて検討すべきである（データセンターの水効率とインパクトの測定指標に関するボックス3も参照）。ベースラインや参照条件の使用を含む測定に関するさらなるガイダンスは、TNFDの提言とLEAPガイダンスで扱われている。"
+    },
+    {
+      "page": 56,
+      "type": "footnote",
+      "en": "54 Zang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry.",
+      "ja": "54 Zang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry."
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "Measuring water-related dependencies and impacts",
+      "ja": "水関連の依存とインパクトの測定"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Semiconductor fabrication, EMS & ODM and hardware manufacturing, datacentres and some telecommunications operations depend on reliable supplies of water of sufficient quantity and quality. Relevant measurements to consider include:",
+      "ja": "半導体製造、EMS & ODMおよびハードウェアの製造、データセンター、ならびに一部の電気通信事業は、十分な量と質の水の安定した供給に依存している。検討すべき関連する測定には、次のものがある。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Water withdrawal and consumption from areas of water scarcity, disaggregated by facility, source and basin;",
+      "ja": "水不足の地域からの取水量と消費量（施設、水源、流域別に分類したもの）"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Water recycled and reused;",
+      "ja": "リサイクルおよび再利用された水"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Water replenished, including the volume replenished and verified changes in water availability or ecosystem condition in the relevant basin;",
+      "ja": "補充された水（補充量、および関連する流域における水の利用可能性または生態系の状態の検証済みの変化を含む）"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Wastewater discharge, including volume, temperature, quality and pollutant loads; and",
+      "ja": "廃水の排出（量、温度、水質、汚染負荷を含む）"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Exposure of operations to high physical water risk, including limited water availability, flooding and poor quality of water, considering basin-level water availability, water quality, other users’ requirements and applicable withdrawal limits.",
+      "ja": "高い物理的な水リスクに対する操業のエクスポージャー（水の利用可能性の制約、洪水、水質の悪さを含む）。流域レベルの水の利用可能性、水質、他の利用者の需要、適用される取水制限を考慮する。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "For semiconductor fabrication and electronics manufacturing, measurements can also distinguish water used for ultrapure water production, cleaning and rinsing, cooling, humidity control and other facility operations. For datacentres, organisations can distinguish water used for server-level cooling, facility-level cooling and heat rejection. Organisations should estimate water withdrawn and consumed through purchased electricity where this is significant separately from water used at the facility. WRI’s Guidance for Calculating Water Use Embedded in Purchased Electricity can support such estimations. Where facility or supplier data are unavailable, organisations can combine production volumes, technology or process information and location-specific water-use factors, disclosing levels of uncertainty. These estimates should be progressively replaced by primary data for priority locations and suppliers.",
+      "ja": "半導体製造および電子機器製造については、超純水の製造、洗浄とすすぎ、冷却、湿度管理、その他の施設運用に使用される水を区別して測定することもできる。データセンターについては、組織はサーバーレベルの冷却、施設レベルの冷却、および排熱に使用される水を区別することができる。購入電力を通じて取水・消費される水が重要である場合、組織はそれを施設で使用される水とは別に推計すべきである。世界資源研究所（WRI）の「Guidance for Calculating Water Use Embedded in Purchased Electricity」は、こうした推計の助けとなり得る。施設またはサプライヤーのデータが入手できない場合、組織は生産量、技術またはプロセスの情報、および地域固有の水使用係数を組み合わせ、不確実性の程度を開示することができる。これらの推計値は、優先地域とサプライヤーについて、段階的に一次データに置き換えていくべきである。"
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "Measuring pollution and waste impacts",
+      "ja": "汚染と廃棄物のインパクトの測定"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "For pollution, relevant measurements to consider include:",
+      "ja": "汚染について、検討すべき関連する測定には、次のものがある。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Pollutant releases to air, water and soil, including wastewater volume, temperature and pollutant loads, and effects beyond the site boundary;",
+      "ja": "大気、水、土壌への汚染物質の放出（廃水の量、温度、汚染負荷、および敷地境界外への影響を含む）"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Hazardous and non-hazardous waste by type and treatment route, including e-waste reuse, repair, refurbishment, recycling, recovery and disposal; and",
+      "ja": "種類別および処理経路別の有害廃棄物および非有害廃棄物（電子廃棄物の再利用、修理、リファービッシュ（再整備）、リサイクル、リカバリー、処分を含む）",
+      "flag": "term-uncertain: recovery"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Changes in receiving ecosystem health, considering cumulative pollutant loads.",
+      "ja": "受け入れ側の生態系の健全性の変化（累積的な汚染負荷を考慮する）"
+    },
+    {
+      "page": 58,
+      "type": "h4",
+      "en": "Measuring land, ocean and ecosystem impacts",
+      "ja": "陸、海洋、生態系に対するインパクトの測定"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "For fabrication and manufacturing facilities, datacentres and telecommunications infrastructure, relevant measurements to consider include:",
+      "ja": "ファブおよび製造施設、データセンター、電気通信インフラについて、検討すべき関連する測定には、次のものがある。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "The extent and condition of ecosystems affected during construction, operation, expansion and decommissioning;",
+      "ja": "建設、運用、拡張、廃止・撤去の間に影響を受ける生態系の面積と状態"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Habitat loss, degradation and fragmentation, particularly from linear infrastructure and cable routes;",
+      "ja": "特に線状インフラとケーブルルートによる、生息地の損失、劣化、分断化"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Changes in soil or sediment condition; and",
+      "ja": "土壌または堆積物の状態の変化"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "Changes in habitat connectivity and relevant species populations.",
+      "ja": "生息地の連結性および関連する種の個体数の変化"
+    },
+    {
+      "page": 58,
+      "type": "h4",
+      "en": "Measuring dependencies on ecosystem services",
+      "ja": "生態系サービスへの依存の測定"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "Dependency measurements combine the extent of reliance on an ecosystem service with information on the condition and resilience of the environmental assets that provide it and the supply of the ecosystem service itself. Relevant examples of measurements of dependencies include:",
+      "ja": "依存の測定は、生態系サービスへの依存の程度を、その生態系サービスを提供する環境資産の状態とレジリエンス、および生態系サービスそのものの供給に関する情報と組み合わせるものである。依存の測定の関連する例には、次のものがある。"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "The proportion of semiconductor or hardware production capacity dependent on freshwater of a specified quality;",
+      "ja": "特定の水質の淡水に依存する半導体またはハードウェアの生産能力の割合"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "The proportion of datacentre capacity dependent on water-based cooling or on electricity generation with significant water dependencies;",
+      "ja": "水を利用した冷却、または水への依存度が高い発電に依存するデータセンター容量の割合"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "The number, capacity or route length of telecommunications assets dependent on flood and storm mitigation, soil and sediment retention or seabed stability;",
+      "ja": "洪水緩和と暴風雨の緩和、土壌と土砂の保持、または海底の安定性に依存する電気通信資産の数、容量またはルート長"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "For water supply and water flow regulation, changes in the volume or reliability of water available to semiconductor fabs, electronics manufacturing facilities or datacentres at the relevant basin or site;",
+      "ja": "淡水供給と水流調整については、関連する流域またはサイトにおいて半導体ファブ、電子機器製造施設またはデータセンターが利用できる水の量または信頼性の変化"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "For flood and storm mitigation, changes in the level of protection provided by natural buffers to datacentres, telecommunications infrastructure and other exposed assets, including changes in flood frequency or severity; and",
+      "ja": "洪水緩和と暴風雨の緩和については、データセンター、電気通信インフラ、その他のエクスポージャーのある資産に対して自然の緩衝帯が提供する保護の水準の変化（洪水の頻度または深刻度の変化を含む）"
+    },
+    {
+      "page": 58,
+      "type": "li",
+      "en": "For soil and sediment retention and seabed stability, changes in erosion, sediment movement or slope/seabed stability along telecommunications infrastructure and cable routes.",
+      "ja": "土壌と土砂の保持および海底の安定性については、電気通信インフラとケーブルルートに沿った侵食、土砂移動、または斜面／海底の安定性の変化"
+    },
+    {
+      "page": 58,
+      "type": "p",
+      "en": "Table 24 in the LEAP guidance provides further examples of ecosystem service indicators and metrics. Organisations can consider assessing current conditions and trends in the provision of these ecosystem services. The financial consequences of changes in ecosystem service provision are considered subsequently in the Assess phase.",
+      "ja": "LEAPガイダンスの表24には、生態系サービスの指標と測定指標のさらなる例が示されている。組織は、これらの生態系サービスの提供に関する現在の状態と傾向を評価することを検討できる。生態系サービスの提供の変化がもたらす財務的な帰結は、その後の評価フェーズで検討される。"
+    },
+    {
+      "page": 59,
+      "type": "h4",
+      "en": "Measuring impacts associated with digital products and services",
+      "ja": "デジタル製品・サービスに関連するインパクトの測定"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "Software products, digital platforms, media and telecommunications services create physical resource demands through the datacentres, telecommunications networks and hardware used to provide them. Organisations can allocate energy, water, hardware and other resource use to products, services or workloads using measures such as:",
+      "ja": "ソフトウェア製品、デジタルプラットフォーム、メディアおよび電気通信サービスは、それらを提供するために使用されるデータセンター、電気通信ネットワーク、ハードウェアを通じて、物理的な資源需要を生み出す。組織は、次のような尺度を用いて、エネルギー、水、ハードウェアおよびその他の資源使用を製品、サービスまたはワークロードに配分することができる。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Compute-hours or processing time;",
+      "ja": "コンピュート時間または処理時間"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Electricity consumption;",
+      "ja": "電力消費量"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Data storage and transmission volumes;",
+      "ja": "データの保存量および伝送量"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "Workload or hosting location; and",
+      "ja": "ワークロードまたはホスティングの場所"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "The number or type of transactions, users, queries or other service units.",
+      "ja": "トランザクション、ユーザー、クエリーまたはその他のサービス単位の数または種類"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "These service-unit measures should only be used to allocate physical resource use and related impacts; they are not measures of impact on the state of nature.",
+      "ja": "これらのサービス単位の尺度は、物理的な資源使用と関連するインパクトを配分するためにのみ用いるべきであり、自然の状態に対するインパクトの尺度ではない。"
+    },
+    {
+      "page": 59,
+      "type": "h4",
+      "en": "Measurement methods",
+      "ja": "測定方法"
+    },
+    {
+      "page": 59,
+      "type": "p",
+      "en": "Potential methods and data sources include in-house company data on impact drivers and resource use, such as water withdrawal and consumption, wastewater discharge, energy use and waste generation. Where more detailed site-level or ecosystem information is needed, organisations can draw on environmental impact assessment data, geographic information systems, satellite and other remote-sensing data, field surveys, sensors, camera traps, acoustic monitoring and locally applicable habitat condition or biodiversity metrics. Primary data should be prioritised for direct operations and value chain locations associated with the most significant dependencies and impacts. Where primary data are unavailable, organisations may use estimates or proxy data, documenting the sources, assumptions, uncertainty and limitations (see also Box 17 of the Guidance on the identification and assessment of nature-related issues: The LEAP approach). When life cycle assessment and other value chain estimation methods support measurement, assessment boundaries should reflect the activity being analysed:",
+      "ja": "考えられる方法とデータソースには、取水と水消費、廃水の排出、エネルギー使用、廃棄物の発生など、インパクト要因と資源使用に関する企業内部のデータが含まれる。より詳細なサイトレベルまたは生態系の情報が必要な場合、組織は、環境影響評価のデータ、地理情報システム、衛星その他のリモートセンシングデータ、現地調査、センサー、カメラトラップ、音響モニタリング、および現地に適用可能な生息地の状態または生物多様性の測定指標を活用することができる。最も重要な依存とインパクトに関連する直接操業とバリューチェーンの地域については、一次データを優先すべきである。一次データが入手できない場合、組織は推計値やプロキシデータを使用することができるが、その出典、前提、不確実性、限界を文書化する（「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」のボックス17も参照）。ライフサイクルアセスメントやその他のバリューチェーンの推計方法を測定に用いる場合、評価の境界は分析対象の活動を反映すべきである。"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "For EMS & ODM and hardware, the types of components, equipment and products manufactured and their production and end-of-life pathways;",
+      "ja": "EMS & ODMおよびハードウェアについては、製造される部品、機器、製品の種類と、それらの生産および使用済み段階の経路"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "For datacentres and telecommunications infrastructure, construction, operation, maintenance, expansion and decommissioning;",
+      "ja": "データセンターと電気通信インフラについては、建設、運用、維持管理、拡張、廃止・撤去"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "For software and digital services, development, training where applicable, operational use, data transmission and storage, and changes or optimisation; and",
+      "ja": "ソフトウェアとデジタルサービスについては、開発、該当する場合は学習（トレーニング）、運用時の使用、データの伝送と保存、および変更または最適化"
+    },
+    {
+      "page": 59,
+      "type": "li",
+      "en": "For upstream materials, components and energy, supplier locations, procurement volumes and production technologies.",
+      "ja": "上流の材料、部品、エネルギーについては、サプライヤーの所在地、調達量、生産技術"
+    },
+    {
+      "page": 60,
+      "type": "h4",
+      "en": "Measuring positive impacts",
+      "ja": "プラスのインパクトの測定"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Relevant measurements for the technology and communications sector may include improvements in water availability or quality in affected basins, reductions in pollutant loads entering ecosystems, and restoration or improved connectivity of habitats affected by facilities, linear infrastructure or cable routes. Refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach for further guidance.",
+      "ja": "技術・通信セクターにとって関連する測定には、影響を受ける流域における水の利用可能性または水質の改善、生態系に流入する汚染負荷の削減、施設、線状インフラまたはケーブルルートの影響を受けた生息地の復元または連結性の向上が含まれ得る。さらなるガイダンスについては、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照のこと。"
+    },
+    {
+      "page": 60,
+      "type": "h3",
+      "en": "E4: Impact materiality assessment",
+      "ja": "E4：インパクトのマテリアリティの評価"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Guiding question: Which of our impacts are material?",
+      "ja": "指針となる問い：自組織のインパクトのうち、どれがマテリアルか。"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "すべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照のこと。"
+    }
+  ]
+}

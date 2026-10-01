@@ -1,0 +1,1488 @@
+{
+  "doc": "leap",
+  "pages": [
+    113,
+    140
+  ],
+  "segments": [
+    {
+      "page": 113,
+      "type": "h2",
+      "en": "6.5. A2: Adjustment of existing risk mitigation and risk and opportunity management",
+      "ja": "6.5. A2：既存のリスク緩和とリスクと機会の管理の調整"
+    },
+    {
+      "page": 113,
+      "type": "h4",
+      "en": "A2: Adjustment of existing risk mitigation and risk and opportunity management",
+      "ja": "A2：既存のリスク緩和とリスクと機会の管理の調整"
+    },
+    {
+      "page": 113,
+      "type": "quote",
+      "en": "What existing risk mitigation and risk and opportunity management processes and elements are we already applying? How can risk and opportunity management processes and associated elements (e.g. risk taxonomy, risk inventory, risk tolerance criteria) be adapted?",
+      "ja": "既存のリスク緩和とリスクと機会の管理のプロセスと要素で、すでに適用されているものは何か？リスクと機会の管理プロセスとこれに伴う要素（例えばリスクタクソノミー、リスクインベントリ、リスク許容基準等）をどうすれば適応させていくことができるか？"
+    },
+    {
+      "page": 113,
+      "type": "p",
+      "en": "In A2, the LEAP assessment team should identify the specific risk mitigation and risk and opportunity management processes and elements that exist today and what adjustments the organisation should make, based on knowledge gained through the previous components of LEAP and on the unique characteristics of nature-related risks and opportunities. Implementing these adjustments will take time and involve teams and departments within the organisation beyond the LEAP assessment team. The objective of this component of the LEAP approach is to identify adjustments and improvements that should be recommended to the organisation’s senior management as part of the LEAP assessment.",
+      "ja": "A2では、LEAP評価チームは、LEAPのこれまでの構成要素を通じて得られた知識や、自然関連のリスクと機会に固有の特性にもとづいて、現時点で存在している具体的なリスク緩和と、リスクと機会の管理のプロセスと要素、ならびに組織が実施すべき調整を特定すべきである。これらの調整の実施には時間が必要であり、LEAP評価チームを超えた組織内のチームや部門を関与させることになる。LEAPアプローチのこの構成要素の目的は、LEAP評価の一環として組織の上級管理者層に提言すべき調整と改善を特定することである。"
+    },
+    {
+      "page": 113,
+      "type": "p",
+      "en": "Financial institutions as part of A2 should:",
+      "ja": "A2の一環として、金融機関は以下を実行すべきである。"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "In line with Basel Committee on Banking Supervision (BCBS) for climate-related risks, seek to ensure that their internal reporting systems are capable of monitoring nature-related risks and producing timely information to ensure effective board and senior management decision making;",
+      "ja": "気候関連リスクに対するバーゼル銀行監督委員会（BCBS）に従い、自然関連リスクの監視と、取締役会や上級管理者層が確実に効果的意思決定をできるような適時の情報作成を、内部報告システムが確実にできることを目指す。"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Ensure that their credit, market, liquidity, operational and other risk management systems and processes consider nature-related risks. As an example, they should establish effective processes to control or mitigate the potential risk of losses on and increased volatility of their portfolio, or the calibration of liquidity buffers;93 and",
+      "ja": "信用、市場、流動性、操業、ならびにその他のリスクの管理システムやプロセスにおいて、自然関連リスクが確実に考慮される。一例として、金融機関はポートフォリオに関する潜在的な損失リスクやポートフォリオの変動率の増大、あるいは流動性バッファーの較正を制御又は緩和するための効果的なプロセスを確立すべきである93。"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Assess their current stewardship policies, engagement or client due diligence processes applied to portfolio companies/activities in relation to nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "自然関連の依存、インパクト、リスク、機会に関連して、ポートフォリオ企業／活動に適用されている現在のスチュワードシップポリシー、エンゲージメント、あるいは顧客のデューディリジェンスプロセスを評価すること。"
+    },
+    {
+      "page": 113,
+      "type": "p",
+      "en": "An important aspect of integrating nature-related risks and opportunities into existing processes is to understand how risk and opportunity management and strategic planning tie together, and the relevant key stakeholders. In this regard, it may be helpful to review key governance, strategy setting and risk management elements and then identify the various functions involved in risk management activities that support strategic planning. Organisations could refer to the TCFD for further support.94",
+      "ja": "自然関連のリスクと機会を既存のプロセスに統合する際の重要な側面の一つは、リスクと機会の管理及び戦略的計画立案がどう結びついているかの理解と、関連する主要なステークホルダーを理解することにある。この点に関して、主要なガバナンス、戦略設定、リスク管理の要素を見直したうえで、戦略的計画立案を支えるリスク管理活動に関わる多様な部門を特定するのが役に立つだろう。詳細な支援については、TCFDが参考となる94。"
+    },
+    {
+      "page": 113,
+      "type": "p",
+      "en": "The TCFD Guidance on Risk Management Integration and Disclosure refers to a general set of overarching activities or processes and associated key elements that are common to risk management in most organisations, and the various ways they manage their risks in terms of organisational structure, roles and responsibility, specific approaches and tools used. Some of the key elements of risk management that may be adjusted to integrate nature-related risks and opportunities include:",
+      "ja": "リスク管理の統合と開示に関するTCFDガイダンスは、大半の組織のリスク管理に共通する、一連の包括的活動やプロセスとそれに伴う主要要素、並びに組織構造、役割と責任、適用する具体的なアプローチやツールの点から、リスクを管理する多様な方法について言及している。自然関連のリスクと機会を統合する上で調整が可能なリスク管理の主要な要素の一例には、例えば次のようなものがある。"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk inventory;",
+      "ja": "リスク目録"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk taxonomy;",
+      "ja": "リスクタクソノミー"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk metrics and data;",
+      "ja": "リスクの測定指標とデータ"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk management tools;",
+      "ja": "リスク管理ツール"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk assessments;",
+      "ja": "リスク評価"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk responses;",
+      "ja": "リスク対応"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk tolerance criteria; and",
+      "ja": "リスク許容基準"
+    },
+    {
+      "page": 113,
+      "type": "li",
+      "en": "Risk reporting.95",
+      "ja": "リスク報告95"
+    },
+    {
+      "page": 113,
+      "type": "footnote",
+      "en": "93 Basel Committee on Banking Supervision (2022) Principles for the effective management and supervision of climate-related financial risks.",
+      "ja": "93 バーゼル銀行監督委員会（2022）『気候関連金融リスクの実効的な管理と監督のための諸原則』"
+    },
+    {
+      "page": 113,
+      "type": "footnote",
+      "en": "94 Specifically, identify the specific risk management processes and elements that may need to be adjusted for the integration of climate-related risk as well as the functions and departments responsible for those processes and elements.",
+      "ja": "94 具体的には、気候関連リスクを統合するために調整しなければならない場合がある具体的なリスク管理プロセス及び要素に加え、これらのプロセスや要素に責任を負う部門及び部署を特定する。"
+    },
+    {
+      "page": 113,
+      "type": "footnote",
+      "en": "95 In line with the TCFD, the TNFD’s considerations related to integration of nature-related risks into risk management framework build on Committee of Sponsoring Organizations and World Business Council for Sustainable Development (2018) Enterprise Risk Management– Applying Enterprise Risk Management to Environmental, Social and Governance-Related Risks.",
+      "ja": "95 TCFDに従い、自然関連リスクのリスク管理枠組みへの統合に関するTNFDの考察は、トレッドウェイ委員会組織委員会及び持続可能な開発のための世界経済人会議（2018）『全社的リスクマネジメントー全社的リスクマネジメントの環境・社会・ガバナス関連リスクへの適用』を土台にしている。"
+    },
+    {
+      "page": 114,
+      "type": "h3",
+      "en": "6.5.1. Key principles for integrating nature-related risks and opportunities into existing risk and opportunity management frameworks",
+      "ja": "6.5.1. 自然関連のリスクと機会を既存のリスクと機会の管理枠組みに統合するための主要原則"
+    },
+    {
+      "page": 114,
+      "type": "p",
+      "en": "The TNFD has adopted five principles for integrating nature-related risks and opportunities into existing risk and opportunity management frameworks. The TNFD aligns with the TCFD’s four principles to guide integration of climate-related risks (interconnections, temporal orientation, proportionality and consistency) and includes an additional nature-specific principle of ‘location-based’ to emphasise that dependencies and impacts on nature are specific to particular geographic locations.",
+      "ja": "TNFDは、自然関連のリスクと機会を既存のリスクと機会の管理枠組みに統合するため、5つの原則を採用している。TNFDは、TCFDによる気候関連リスク統合の4つの原則（相互関係、時間軸、釣り合い、一貫性）に準拠し、自然に対する依存及びインパクトが個々の地理学的位置によることを強調するため、「場所ベース」という自然固有の追加の原則を組み入れている。"
+    },
+    {
+      "page": 114,
+      "type": "caption",
+      "en": "Figure 24: The TNFD’s principles for integrating nature-related risks and opportunities into risk and opportunity management frameworks",
+      "ja": "図24：自然関連のリスクと機会を既存のリスクと機会の管理枠組みに統合するためのTNFDの原則"
+    },
+    {
+      "page": 114,
+      "type": "figure",
+      "en": "Location-based: Nature-related risks and opportunities should be analysed based on an assessment of nature-related dependencies and impacts that considers location specifics (in the Locate and Evaluate phases of the LEAP approach).",
+      "ja": "場所ベース：自然関連のリスクと機会は、（LEAPアプローチの発見および診断フェーズにおける）場所の詳細を考慮した自然関連の依存とインパクト評価にもとづき分析すべきである。"
+    },
+    {
+      "page": 114,
+      "type": "figure",
+      "en": "Interconnections: Integrating nature-related risks and opportunities into existing risk and opportunity management requires analysis and collaboration across the company. The principle of interconnections means all relevant functions, departments and experts are involved in the integration of nature-related risks and opportunities into the company’s risk and opportunity management processes and in the ongoing management of nature-related risks and opportunities.",
+      "ja": "相互関係：自然関連のリスクと機会を既存のリスクと機会の管理に統合するためには、企業全体に及ぶ分析と協力が必要である。相互関係の原則は、自然関連のリスクと機会の企業におけるリスクと機会の管理プロセスへの統合と、自然関連のリスクと機会の継続的な管理に、すべての関連部門、部署、専門家が関与することを意味している。"
+    },
+    {
+      "page": 114,
+      "type": "figure",
+      "en": "Temporal orientation: Nature-related physical, transition and systemic risks and nature-related opportunities should be analysed across short, medium and long-term time frames and should consider natural variabilities across time horizons (e.g. seasonality) for operational and strategic planning. This may require extending beyond traditional planning horizons.",
+      "ja": "時間軸：自然関連の物理的リスク、移行リスク、システミックリスク、ならびに自然関連の機会は短期、中期および長期の時間枠において分析し、業務と戦略の計画立案における対象期間全体における自然の変数（例えば季節性など）について考慮すべきである。",
+      "flag": "ja-missing-last-sentence"
+    },
+    {
+      "page": 114,
+      "type": "figure",
+      "en": "Proportionality: The integration of nature-related risks and opportunities into existing risk management processes should be proportionate in the context of the company’s other risks, the materiality of its exposure to nature-related risks, and the imperfections for the company’s strategy.",
+      "ja": "釣り合い：自然関連のリスクと機会の既存のリスク管理プロセスへの統合は、企業の他のリスク、自然関連リスクへのエクスポージャーのマテリアリティ、企業戦略の不備といった背景状況において釣り合いの取れたものであるべきだ。"
+    },
+    {
+      "page": 114,
+      "type": "figure",
+      "en": "Consistency: The methodology used to integrate nature-related risks should be used consistently within a company’s risk management processes to support clarity on analysis and developments and drivers of change over time.",
+      "ja": "一貫性：自然関連リスクの統合に用いる手法は、分析の明瞭性や、時間をかけた発展と変化要因を支えられるよう、企業のリスク管理プロセス内で一貫して用いられるべきである。"
+    },
+    {
+      "page": 115,
+      "type": "p",
+      "en": "The TNFD recommends that nature-related risks and opportunities are integrated into existing enterprise or portfolio risk management processes using the categories or sub-categories already in use by the organisation to manage other types of risks.",
+      "ja": "TNFDは、企業が他のタイプのリスクを管理するのにすでに適用しているカテゴリー又は下位カテゴリーを用いて、自然関連のリスクと機会を既存の企業又はポートフォリオのリスク管理プロセスに統合するよう提言している。"
+    },
+    {
+      "page": 115,
+      "type": "p",
+      "en": "Commonly used (traditional) risk categories include financial, operational and strategic risk. However, most organisations also have additional risk categories. Table 12 shows examples of nature-related risks for each of these common categories.",
+      "ja": "一般的に使用されている（伝統的）リスクカテゴリーには、例えば財務リスクや操業リスク、戦略リスク等がある。しかしながら、大部分の企業は他にもリスクカテゴリーを定めている。表12に、これらの一般的なカテゴリーのそれぞれに対する自然関連リスクの例を提示する。"
+    },
+    {
+      "page": 115,
+      "type": "caption",
+      "en": "Table 12: Sample of risk categories, risk types and nature-related risks",
+      "ja": "表12：リスクカテゴリー、リスクのタイプ、自然関連リスクの例"
+    },
+    {
+      "page": 115,
+      "type": "table",
+      "en": "| Traditional risk category | Traditional risk subcategory | Nature-related risk category | Nature-related risk manifestation (example) |\n|---|---|---|---|\n| Financial | Credit risk<br>Liquidity risk<br>Tax strategy | Physical risk (chronic)<br>Transition risk (policy) | Creditworthiness is eroded as an agricultural company’s crop yield projection is highly affected by the decline of pollinators.<br>Mining company’s costs increase from taxes and fees on groundwater use. |\n| Operational | Supply chain<br>Raw material availability<br>Business continuity | Physical risk (acute)<br>Transition risk (policy) | Supply chain disruptions occur because of droughts/ extreme weather in supply regions exacerbated by ecosystem degradation, which has impact on production.<br>Costs increase on raw materials due to sustainable forestry practice requirements. |\n| Strategic | Competitive landscape<br>Changing consumer sentiment | Transition risk (market) | Shift in consumer preferences toward products that are produced from recycled, regenerative, renewable, biodegradable, ethically, responsibly sourced organic materials. |",
+      "ja": "| 伝統的リスクカテゴリー | 伝統的リスクサブカテゴリー | 自然関連リスクカテゴリー | 自然関連リスクの顕在化（例） |\n|---|---|---|---|\n| 財務 | 信用リスク<br>流動性リスク<br>税務戦略 | 物理的リスク（慢性）<br>移行リスク（政策） | 農業企業の作物収量予測が花粉媒介生物の減少によって大きな影響を受けると、信用価値が減退する。<br>地下水の使用に対する課税や料金により、採鉱企業の経費が増大する。 |\n| 操業 | サプライチェーン<br>原材料の利用可能性<br>事業継続性 | 物理的リスク（急性）<br>移行リスク（政策） | 生態系システムの劣化によって悪化した供給地域の干ばつ／極端な天候でサプライチェーンの混乱が発生し、これが生産にインパクトを及ぼす。<br>持続可能な林業慣行要件により、原材料費が増加する。 |\n| 戦略 | 市場勢力図<br>変化する消費者心理 | 移行リスク（市場） | 消費者の選好が、リサイクル、再生、再生可能、生分解性の材料のほか、倫理的及び責任ある形態で調達された有機材料へと移行する。 |"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "Aligned with the TCFD, integrating nature-related risks and opportunities into existing processes involves determining whether such risks will be treated as:",
+      "ja": "TCFDに準拠し、自然関連のリスクと機会の既存のプロセスへの統合では、これらのリスクが次のいずれかとして扱われるかどうかを判断する。"
+    },
+    {
+      "page": 116,
+      "type": "li",
+      "en": "Stand-alone risks and opportunities;",
+      "ja": "単独のリスク及び機会"
+    },
+    {
+      "page": 116,
+      "type": "li",
+      "en": "Cross-cutting drivers of existing risks and opportunities; or",
+      "ja": "既存のリスク及び機会の横断的要因"
+    },
+    {
+      "page": 116,
+      "type": "li",
+      "en": "A combination of both.",
+      "ja": "これら両方の組み合わせ"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "Adapting enterprise and portfolio risk management processes is a complex undertaking that takes significant time and resources. A LEAP assessment team can usefully contribute to that task by reflecting on the guidance and examples above to identify and recommend where the organisation can more appropriately incorporate the nature-related risks and opportunities into its risk and opportunity taxonomy and its core processes.",
+      "ja": "企業やポートフォリオのリスク管理プロセスを適応させるのは複雑な作業であり、かなりの時間と資源が必要になる。LEAP評価チームは上述のガイダンスや例を熟考して、組織がどこであればより適切に自然関連のリスク及び機会を自らのリスクと機会のタクソノミーや中核的プロセスに組み入れることができるかを特定し、提言することにより、この作業に有益な貢献ができる。"
+    },
+    {
+      "page": 116,
+      "type": "h3",
+      "en": "6.5.2. The TNFD nature-related risk and opportunity registers",
+      "ja": "6.5.2. TNFDによる自然関連のリスクと機会の台帳"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "A LEAP assessment team should consider enhancements to the organisation’s risk register to ensure it is comprehensive and incorporates nature-related risks and the interconnections across environmental and social risks, not just climate, as well as their contribution to systemic risks. Organisations can create a register of nature-related risks and opportunities most relevant to their business or portfolio, referring to the TNFD templates for nature-related risk and opportunity registers, available on the TNFD website.",
+      "ja": "LEAP評価チームは、組織のリスク台帳が包括的で、気候だけでなく、自然関連リスクと、環境リスク及び社会的リスク全体の相互関係に加え、これらのシステミックリスクへの寄与についても取り込んだものに確実になるよう、その強化を考慮すべきである。組織はTNFDウェブサイトから入手可能なTNFDの自然関連のリスクと機会台帳のテンプレートを参照して、それぞれの事業やポートフォリオに最も関連性の高い自然関連のリスクと機会台帳を作成できる。"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "For organisations that undertake scenario analysis to support their nature-related strategy and risk management decision making, a risk and opportunity register can usefully inform internal scenario thinking and be informed by this as relevant trends and critical uncertainties shift over time. For more on scenario analysis, see the TNFD guidance on scenario analysis.",
+      "ja": "自然関連戦略とリスク管理の意思決定を支えるためにシナリオ分析を実施する組織では、リスクと機会台帳から内部のシナリオ考察に有益な情報を得られ、関連する傾向や重要な不確実性の経時的変化として、この考察が台帳への情報ともなる。シナリオ分析に関する詳細は、シナリオ分析に関するTNFDガイダンスを参照のこと。"
+    },
+    {
+      "page": 116,
+      "type": "h3",
+      "en": "6.5.3. Considering contributions and exposure to nature-related systemic risks",
+      "ja": "6.5.3. 自然関連システミックリスクに対する寄与とエクスポージャーの考察"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "Addressing nature-related risks and harnessing nature-related opportunities, particularly through strategic transformation and circular economy models, can influence the drivers of nature loss globally and contribute to a reduction in nature-related systemic risks. Where possible, the LEAP assessment team should consider connections between physical and transition risks, and systemic risks. For ecological stability risk, this would include considering how a potential materialisation would generate different forms of physical and transition risk. For financial stability risk, this would include considering how a compounding of physical and/or transition risks could result in destabilisation to the financial system the organisation operates in and/or is reliant on.",
+      "ja": "自然関連リスクに対処し、特に戦略的変容と循環経済モデルを通じて自然関連の機会を活用していくことで、世界規模の自然損失要因に影響を及ぼし、自然関連のシステミックリスクの低減に寄与することができる。可能であれば、LEAP評価チームは、物理的リスク、移行リスク、システミックリスクの関連性について考察すべきである。生態系の安定性リスクでは、これには起きうるある顕在化がどのようにして多様な形態の物理的リスクと移行リスクを生じさせるかの考察が含まれる。金融の安定性リスクでは、この作業において、物理的リスクや移行リスクの複合化がどのようにして組織が活動又は依拠している金融システムに不安定化をもたらすかの考察を行うことになる。"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "The LEAP assessment team should also consider both the organisation’s exposure to different forms of systemic risk and how their activities can contribute to the reduction and management of different forms of systemic risk. When performing the prioritisation and assessment of nature-related risks and opportunities, organisations should consider whether, and to what extent, the risk or opportunity affects progress on societal environmental priorities or goals, including, at the global scale, towards the targets of the UN Convention on Biological Diversity’s Kunming-Montreal Global Biodiversity Framework (GBF), the safe operating spaces of planetary boundaries and safe and just earth system boundaries, and the Sustainable Development Goals (SDGs).96",
+      "ja": "LEAP評価チームはまた、組織の多様な形態のシステミックリスクへのエクスポージャーと、組織の活動がどのように多様な形態のシステミックリスクの軽減と管理に寄与できるかの両方を考察すべきである。自然関連のリスク及び機会の優先順位付けと評価を実施する際、組織は、地球規模では国連生物多様性条約の昆明モントリオール生物多様性枠組（GBF）の目標、人類が安全に活動できる地球の限界及び安全で公正な地球システムの限界、持続可能な開発目標（SDGs）等、社会的環境的優先事項又は目標の進捗にリスク又は機会が影響を与えるかどうか、また、それはどの程度かを考察すべきである96。"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "Once the LEAP assessment team has determined how nature-related risks and opportunities fit into the risk and opportunity taxonomy and risk and opportunity categories, it can recommend how the organisation can update its risk and opportunity inventory, which may include possible risk responses, and assign a risk owner.",
+      "ja": "自然関連のリスクと機会がリスクと機会のタクソノミーやリスクと機会のカテゴリーにどのように適合するかを確定したら、LEAP評価チームは、起こりうるリスク対応を含め、組織がどのようにリスクと機会の目録を更新できるかを提言し、リスクオーナーを任命することが可能になる。"
+    },
+    {
+      "page": 116,
+      "type": "footnote",
+      "en": "96 Convention on Biological Diversity (2022) Kunming-Montreal Global Biodiversity Framework; United Nations (2015) Transforming our world: the 2030 Agenda for Sustainable Development; Rockström, J. et al. (2023) Safe and just Earth system boundaries. Nature 619, 102–111.",
+      "ja": "96 生物多様性条約（2022）昆明モントリオール生物多様性枠組，国際連合（2015）『我々の世界を変革する：持続可能な開発のための2030アジェンダ』，Rockström, J. et al.（2023）「安全で公正な地球システムの限界」『Nature』619, 102–111."
+    },
+    {
+      "page": 117,
+      "type": "h2",
+      "en": "6.6. A3: Risk and opportunity measurement and prioritisation",
+      "ja": "6.6. A3：リスクと機会の測定及び優先順位付け"
+    },
+    {
+      "page": 117,
+      "type": "h4",
+      "en": "A3: Risk and opportunity measurement and prioritisation",
+      "ja": "A3：リスクと機会の測定及び優先順位付け"
+    },
+    {
+      "page": 117,
+      "type": "quote",
+      "en": "Which risks and opportunities should be prioritised?",
+      "ja": "どのリスクと機会を優先すべきか？"
+    },
+    {
+      "page": 117,
+      "type": "p",
+      "en": "In this component, organisations should prioritise the risks and opportunities identified in the previous components by assessing and measuring their severity, as determined by the intersection of their magnitude, likelihood and additional criteria. Measurement and prioritisation are fundamental to the management of risks and opportunities. The concepts of magnitude, severity and likelihood are consistent with standard risk management practices and aligned with the application guidance provided in the IFRS S1 General Requirement standard, the European ESRS General requirements and General Disclosures standards (ESRS 1 and ESRS 2) and other market guidance on materiality assessment.97",
+      "ja": "この構成要素では、組織は、前の構成要素で特定したリスクと機会について、大きさ、発生可能性、その他付加的基準が交差することで求められる深刻さを評価測定することにより、これらの優先順位付けを行うべきである。測定と優先順位付けは、リスクと機会の管理にとって不可欠である。大きさ、深刻さ、発生可能性の概念は標準的なリスク管理慣習と一致するものであり、IFRS S1一般要求事項に関する基準、欧州ESRS一般要求事項と一般開示に関する基準（ESRS 1及びESRS 2）、及びマテリアリティ評価に関するその他の市場ガイダンスに提示されている実用ガイダンスに準拠している97。"
+    },
+    {
+      "page": 117,
+      "type": "p",
+      "en": "For financial institutions:",
+      "ja": "金融機関の場合："
+    },
+    {
+      "page": 117,
+      "type": "li",
+      "en": "The first output of A3 is a view of their portfolios where each of the risks and opportunities identified in A2 gets scaled and quantified to the extent possible. Financial institutions can approach this in a granular manner, by looking at each of their holdings and quantifying the risk delta stemming from their interface with nature;",
+      "ja": "A3の最初のアウトプットは、A2で特定された個々のリスクと機会を可能な範囲で量り定量化した、ポートフォリオの概観である。金融機関は、それぞれの保有資産の一つ一つを調べ、これらの自然との接点から生じるリスクデルタを定量化することにより、この概観に粒度の高い方法でアプローチできる。"
+    },
+    {
+      "page": 117,
+      "type": "li",
+      "en": "In A3, financial institutions can use risk assessment methods at varying levels of granularity (see Annex 4). It may prove useful for financial institutions to assess the severity, magnitude and likelihood of risks in A3 at the level of a sub-portfolio. For example, a scenario can be developed for the extractive sector on the effects of water depletion, or a scenario can be developed on increased inflation linked to droughts; and98",
+      "ja": "A3では、金融機関は多様な粒度レベルのリスク評価法を適用することができる（別紙4を参照）。金融機関の場合、サブポートフォリオのレベルでA3におけるリスクの深刻さ、大きさ、発生可能性を評価すると有用な場合がある。例えば、採掘セクターの水の枯渇への影響に関するシナリオを構築してもよいし、干ばつに関連するインフレーションの増大に関するシナリオを構築することも可能である98。"
+    },
+    {
+      "page": 117,
+      "type": "li",
+      "en": "A second output of A3 for financial institutions is a view, quantified as far as possible, of opportunities, such as expected revenues from a new nature bond offering.",
+      "ja": "金融機関に関するA3の二つ目のアウトプットは、例えば新たな自然債の提供から予想される収益等、可能な限り定量化した機会の展望である。"
+    },
+    {
+      "page": 117,
+      "type": "h3",
+      "en": "6.6.1. Prioritising nature-related risks and opportunities",
+      "ja": "6.6.1. 自然関連のリスクと機会の優先順位付け"
+    },
+    {
+      "page": 117,
+      "type": "p",
+      "en": "Many organisations use a traditional likelihood-and-impact approach to gauge the severity or materiality of their risks and then assess the severity of risks relative to their risk appetite and risk tolerance criteria (refer to the TCFD for further details on risk appetite and risk tolerance). The TCFD expands these prioritisation criteria to also include vulnerability and speed of onset.",
+      "ja": "多くの組織は、伝統的な発生可能性－インパクトアプローチを用いてリスクの深刻さ又はマテリアリティを測定し、その後に自身のリスク選好度とリスク許容基準（リスク選好度とリスク許容基準に関する詳細はTCFDを参照）を基準としてリスクの深刻さを評価している。TCFDはこれらの優先順位付けの基準を拡大し、脆弱性と発現速度も内容に組み入れている。"
+    },
+    {
+      "page": 117,
+      "type": "footnote",
+      "en": "97 Such as Organisation for Economic Co-operation and Development (2018) Due Diligence Guidance for Responsible Business Conduct.",
+      "ja": "97 例えば経済協力開発機構（2018）『責任ある企業行動のためのOECDデュー・ディリジェンス・ガイダンス』"
+    },
+    {
+      "page": 117,
+      "type": "footnote",
+      "en": "98 As defined in the TNFD scenario guidance, The TNFD is working with partners to explore the possibilities for more advanced scenarios for financial institutions (that could also be used by large or multinational corporates), which build on the TNFD’s 2x2 critical uncertainties matrix and are consistent with the approaches outlined in Annex 4.",
+      "ja": "98 TNFDシナリオガイダンスに定義されているように、TNFDはパートナーと連携して、金融機関向けに（大規模又は多国籍企業も活用できる可能性がある）、TNFDによる2×2の重要な不確実性マトリクスに立脚し、別紙4に概説するアプローチと整合するより高度なシナリオを作成できる可能性はないかを探求しているところである。"
+    },
+    {
+      "page": 118,
+      "type": "caption",
+      "en": "Figure 25: Criteria for prioritising nature-related risks and opportunities",
+      "ja": "図25：自然関連のリスクと機会に対する優先順位付けの基準",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 118,
+      "type": "figure",
+      "en": "Magnitude of risks and opportunities: Qualitative or quantitative assessment of financial impact / Likelihood of risks and opportunities / Additional criteria / Severity/scale and scope of risks and opportunities used to rate and prioritise risks and opportunities",
+      "ja": "リスクおよび機会の大きさ：財務的インパクトの定性的または定量的な評価 / リスクおよび機会の発生可能性 / その他の基準 / リスクおよび機会の評定と優先順位付けに使用されるリスクおよび機会の深刻さ／規模と範囲"
+    },
+    {
+      "page": 118,
+      "type": "p",
+      "en": "Aligned with application guidance provided by the ISSB and other standards bodies, the TNFD recommends using the same prioritisation criteria,99 with two additional criteria that relate to:",
+      "ja": "ISSBやその他の標準化機関が提供している実用ガイダンスに準拠し、TNFDは、同じ優先順位付けの基準に99以下に関する二つの追加基準を加えたものを使用するよう提言している。"
+    },
+    {
+      "page": 118,
+      "type": "li",
+      "en": "1. The severity (or scale and scope, for positive impacts) of impacts on nature; and",
+      "ja": "1. 自然へのインパクトの深刻さ（又はプラスのインパクトの場合は規模と範囲）"
+    },
+    {
+      "page": 118,
+      "type": "li",
+      "en": "2. The severity (or scale and scope, for positive impacts) of implications for society from those nature impacts.100",
+      "ja": "2. 自然へのこれらのインパクトによる社会への影響の深刻さ（又はプラスのインパクトの場合は規模と範囲）100"
+    },
+    {
+      "page": 118,
+      "type": "p",
+      "en": "As with the efforts to identify risks, the efforts to prioritise risks should take into account the geographic location of dependencies and impacts.101",
+      "ja": "リスクを特定する際の取り組みと同様、リスクを優先順位付けするための取り組みでは依存及びインパクトの地理学的位置を考慮に入れるべきである101。"
+    },
+    {
+      "page": 118,
+      "type": "p",
+      "en": "Table 13 provides an overview of the TNFD’s criteria for prioritising nature-related risks and opportunities.",
+      "ja": "表13に、自然関連のリスク及び機会の優先順位付けに関するTNFD基準の概要を提示する。"
+    },
+    {
+      "page": 118,
+      "type": "footnote",
+      "en": "99 The TNFD refers to the TCFD impact criteria as magnitude to avoid confusion with the directionality of the term for impacts on nature.",
+      "ja": "99 TNFDは、自然に対するインパクトに関する用語の方向性に対する混乱を避けるため、大きさとしてTCFDのインパクト基準を参照している。"
+    },
+    {
+      "page": 118,
+      "type": "footnote",
+      "en": "100 In line with ESRS, severity is composed of the following factors: the scale; the scope and irremediable character of the impact.",
+      "ja": "100 ESRSに従い、深刻さは、インパクトの規模、範囲、修復不能の性質という要因で構成されている。"
+    },
+    {
+      "page": 118,
+      "type": "footnote",
+      "en": "101 Network for Greening the Financial System (2023) Nature-related Financial Risks: A conceptual framework to guide action by Central Banks and Supervisors; Organisation for Economic Co-operation and Development (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks.",
+      "ja": "101 気候変動リスク等に係る金融当局ネットワーク（2023）『自然関連金融リスク：中央銀行及び監督当局による行動を導く概念枠組み』，経済協力開発機構（2023）『自然関連財務リスク評価の規制枠組み：生物多様性リスクの特定と舵取り』"
+    },
+    {
+      "page": 119,
+      "type": "caption",
+      "en": "Table 13: TNFD prioritisation criteria for nature-related risks and opportunities",
+      "ja": "表13：自然関連のリスク及び機会に対するTNFDの優先順位付け基準"
+    },
+    {
+      "page": 119,
+      "type": "table",
+      "en": "| Prioritisation criteria | Description |\n|---|---|\n| Magnitude | The significance of the risk or opportunity to the organisation, based on the risk implications for the organisation, measured through risk assessment methods such as scenario analysis. |\n| Likelihood | The severity of information about a possible risk is higher if the event is likely to occur. |",
+      "ja": "| 優先順位付けの基準 | 説明 |\n|---|---|\n| 大きさ | シナリオ分析等のリスク評価法を通じて測定される、組織へのリスクの影響に基づくリスク又は機会の組織にとっての重大性。 |\n| 発生可能性 | 事象が起こる可能性が高い場合、起こりうるリスクについての情報の深刻さが高くなる。 |"
+    },
+    {
+      "page": 119,
+      "type": "table",
+      "en": "| Additional TCFD prioritisation criteria | Description |\n|---|---|\n| Vulnerability | Vulnerability refers to propensity or predisposition to be adversely affected. Vulnerability encompasses a variety of concepts and elements, including sensitivity or susceptibility to harm and lack of capacity to cope and adapt. It includes the organisation’s ability or inability to adapt, mitigate or control the risk, or ability to harness the opportunity. It is dependent on risk and opportunity awareness, management along the value chain, operational and managerial resilience, value chain and/or product diversification, or market or sector influence. |\n| Speed of onset102 | The speed of onset that the risk/opportunity is expected to arise, i.e. in the long term, medium term or short term.103 |",
+      "ja": "| TCFDの追加優先順位基準 | 説明 |\n|---|---|\n| 脆弱性 | 脆弱性とは、有害な影響を受ける傾向又は素因をいう。脆弱性は、例えば危害への感度又は感受性や、対処し適応する能力の欠如等、多様な概念や要素を包含するものである。脆弱性にはリスクへの適応、緩和、制御に対する組織の能力又はその欠如、あるいは機会を活用する能力が含まれる。リスクと機会の認識、バリューチェーンに沿った管理、操業管理上のレジリエンス、バリューチェーンや製品の多様化、市場又はセクターの影響に左右される。 |\n| 発現速度102 | リスク／機会の発現速度は、例えば長期的、中期的、あるいは短期的に生じるものと予想される103。 |"
+    },
+    {
+      "page": 119,
+      "type": "table",
+      "en": "| Additional TNFD prioritisation criteria104 | Description |\n|---|---|\n| Severity (or scale and scope) of impact on nature | The scale (temporal and spatial), scope and irremediable character of the negative impact, or the scale (temporal and spatial) and scope of the positive impact on nature. |\n| Impact to society | The value of the impact on nature to society. See Annex 3 on valuation of nature-related dependencies and impacts, drawing from the Natural Capital Protocol, for more details. |",
+      "ja": "| TNFDの追加優先順位基準104 | 説明 |\n|---|---|\n| 自然に対するインパクトの深刻さ（又は規模と範囲） | マイナスのインパクトの規模（時間的及び空間的）、範囲及び不可逆的な性質、又は自然へのプラスのインパクトの規模（時間的及び空間的）と範囲。 |\n| 社会に対するインパクト | 自然へのインパクトが社会に生じさせる価値。詳細は、自然資本プロトコルから引用した自然関連の依存とインパクトの価値評価に関する別紙3を参照のこと。 |"
+    },
+    {
+      "page": 119,
+      "type": "p",
+      "en": "When prioritising (and measuring) nature-related risks and opportunities, organisations may find it helpful to use valuation techniques, which can be qualitative or quantitative, and provide indications of the importance of a nature-related impact and dependency from either a business or societal perspective.",
+      "ja": "自然関連のリスクと機会を優先順位付け（及び測定）する際、組織は価値評価手法を適用すると有用な場合がある。この手法は定性的な場合もあれば、定量的な場合もあり、事業又は社会のいずれかの観点から自然関連のインパクトと依存の重要性に関する兆候を提供する。"
+    },
+    {
+      "page": 119,
+      "type": "footnote",
+      "en": "102 Speed of onset refers to the time that elapses between the occurrence of an event and the point at which the organisation first feels its effects.",
+      "ja": "102 発現速度とは、事象が発生してから、組織がその影響を初めて感じる時点までの間に経過する時間をいう。"
+    },
+    {
+      "page": 119,
+      "type": "footnote",
+      "en": "103 Task Force on Climate-related Financial Disclosures (2020) Guidance on Risk Management Integration and Disclosure.",
+      "ja": "103 気候関連財務情報開示タスクフォース（2020）『リスクマネジメント統合及び開示ガイダンス』"
+    },
+    {
+      "page": 119,
+      "type": "footnote",
+      "en": "104 The TNFD has identified additional criteria that could reasonably be expected to affect (in positive or negative) the undertaking’s financial position, financial performance, cash flows, its access to finance or cost of capital over the short, medium or long term and therefore are relevant for assessing financial materiality.",
+      "ja": "104 TNFDは、事業の財務状態、財務実績、キャッシュフロー、資金へのアクセス、資本コストに（プラス又はマイナスの）短中長期で影響を及ぼすと合理的に予想され、従って財務上のマテリアリティ評価に関連を有する追加基準を特定した。"
+    },
+    {
+      "page": 120,
+      "type": "h3",
+      "en": "6.6.2. Methods for measuring the magnitude of nature-related risks",
+      "ja": "6.6.2. 自然関連リスクの大きさを測定するための方法"
+    },
+    {
+      "page": 120,
+      "type": "h4",
+      "en": "Context and objectives",
+      "ja": "文脈と目的"
+    },
+    {
+      "page": 120,
+      "type": "p",
+      "en": "Throughout LEAP, the LEAP assessment team can consider using a number of risk assessment methods to help the organisation link assets to sectors and locations in order to assess the magnitude of nature-related risks:",
+      "ja": "LEAPを通じ、LEAP評価チームは、自然関連リスクの大きさを評価する上で、組織が資産をセクターや場所に関連付けるのに役立ついくつかのリスク評価法を検討することができる。"
+    },
+    {
+      "page": 120,
+      "type": "li",
+      "en": "Heatmapping;",
+      "ja": "ヒートマッピング"
+    },
+    {
+      "page": 120,
+      "type": "li",
+      "en": "Asset tagging; and",
+      "ja": "資産タグ付け"
+    },
+    {
+      "page": 120,
+      "type": "li",
+      "en": "Scenario-based risk assessment.",
+      "ja": "シナリオベースのリスク評価方法"
+    },
+    {
+      "page": 120,
+      "type": "p",
+      "en": "These methods build on each other and can be deployed in sequence when applying the LEAP approach iteratively.",
+      "ja": "これらの方法は互いを基盤として構築されており、LEAPアプローチを反復的に適用する際に順を追って展開していくことができる。"
+    },
+    {
+      "page": 120,
+      "type": "caption",
+      "en": "Figure 26: Methods for locating and assessing nature-related risks to the organisation",
+      "ja": "図26：組織に対する自然関連リスクを発見し、評価するための方法"
+    },
+    {
+      "page": 120,
+      "type": "figure",
+      "en": "Where is the risk? Heatmap / How much risk is there? Asset tagging / What is the financial implication? Scenario based risk method",
+      "ja": "リスクはどこに存在しているか？ ヒートマップ / どのくらいのリスクがあるか？ 資産タグ付け / 財務的意味合いは何か？ シナリオベースのリスク方法"
+    },
+    {
+      "page": 121,
+      "type": "p",
+      "en": "Financial institutions tend to use risk assessment methods to measure nature-related risk in a specific sector or company to which they have a financial exposure. Corporates typically use them to understand their exposure to nature-related dependencies, impacts and risks stemming from sectors of operation, products and services, and geographic locations. See Annex 4 for additional information on how these methods can support organisations in the assessment of nature-related risks.",
+      "ja": "金融機関は、財務上のエクスポージャーのある具体的なセクターや企業の自然関連リスクの測定にリスク評価法を用いる傾向がある。企業は通常、操業、製品、サービスのセクターや、地理学的位置から生じる、自然関連の依存、インパクト、リスクへの自らのエクスポージャーの把握にこれらを用いている。これらの方法が自然関連リスクの評価においてどのように組織を支援できるかについての詳しい情報は別紙4を参照のこと。"
+    },
+    {
+      "page": 121,
+      "type": "h4",
+      "en": "Box 21: Assessing nature-related risks and opportunities – Reckitt",
+      "ja": "ボックス21：自然関連のリスク及び機会の評価－レキット"
+    },
+    {
+      "page": 121,
+      "type": "quote",
+      "en": "Reckitt is a British multinational consumer goods company that produces health, hygiene and nutrition products. Reckitt scoped a LEAP assessment to understand nature-related risks and opportunities in their natural latex supply chain in Surat Thani, Thailand, which supplies a large proportion of material for the Durex brand. Nature-based Insights (NbI) developed a desk-based analytical framework for evaluating and assessing the nature-related dependencies, impacts, risks, and opportunities in the landscape to support the pilot.",
+      "ja": "レキットは、健康、衛生、栄養製品を製造している英国の多国籍消費財企業である。レキットは、LEAP評価のスコープを設定し、デュレックスブランドの大部分の材料を供給している、タイのスラーターニーにおける同社の天然ラテックスのサプライチェーンに存在する、自然関連のリスクと機会の把握を試みた。Nature-based Insights（NbI）が、パイロットを支援するため、ランドスケープにおける自然関連の依存、インパクト、リスク、機会を診断し、評価するための机上ベースの分析枠組みを考案した。"
+    },
+    {
+      "page": 121,
+      "type": "quote",
+      "en": "The Surat Thani landscape in Thailand was chosen as a deep-dive location for analysis due to its importance for supplying latex for Reckitt’s Durex brand and an existing partnership programme with Earthworm Foundation to support farmers in the region. Reckitt’s impacts on biodiversity were estimated using NbI Analytics model, a spatially explicit approach to quantifying the state of nature, which combines established datasets and methods, including the PREDICTS and IUCN databases and tools such as the GLOBIO, InVEST models and IPCC carbon accounting methodologies. The outputs are represented as a Biodiversity Impact Metric105 (BIM; units: weighed impact hectares; CISL, 2018). Following an overview of the potential impacts in the landscape, Reckitt and NbI carried out a deep-dive into deforestation and water-related impacts and their associated risks. This took a forward-looking approach with the aim of predicting areas at high risk of deforestation and water stress into the future.",
+      "ja": "タイのスラーターニーのランドスケープが詳細分析の場所として選ばれたのは、レキットのデュレックスブランドへのラテックスの供給に対する重要性と、同地域の農家を支援するアースワーム財団との既存のパートナーシッププログラムがあるからである。レキットの生物多様性へのインパクトは、自然の状態を定量化するための空間的に明確なアプローチであるNbI Analyticsモデルを、例えばPREDICTSやIUCNのデータベースのほか、GLOBIOやInVEST models、IPCC炭素会計手法等のツールを含む既定のデータセットや方法と組み合わせることによって推定した。アウトプットは生物多様性インパクト測定指標105（BIM；単位：重み付けしたインパクトヘクタール；CISL, 2018）ランドスケープにおける潜在的インパクトの概要に続き、レキットとNbIは、森林破壊と水関連のインパクト、ならびにこれらに伴うリスクの詳細分析を実行した。この作業には、将来的に森林破壊や水ストレスのリスクが高い地域の予測を目的に、フォワードルッキングアプローチを適用した。"
+    },
+    {
+      "page": 121,
+      "type": "h4",
+      "en": "Deforestation risk",
+      "ja": "森林破壊リスク"
+    },
+    {
+      "page": 121,
+      "type": "quote",
+      "en": "To map deforestation risk, Reckitt and NbI first filtered for forest pixels suitable for expansion of rubber plantations (based on rainfall, elevation, slope and temperature). Spatial information was then added on distance to roads and farms, protected status, and recent forest loss in the adjacent area.106 For each variable, each area was ranked and scored from 1-10 and those values summed, providing a high-level indication of deforestation risk. The analysis highlighted some priority areas of high deforestation risk.",
+      "ja": "森林破壊リスクのマップを作成するため、レキットとNbIはまず、（降雨量、標高、傾斜及び気温に基づく）ゴム農園の拡張に適した森林ピクセルにフィルタリングを行った。その後、道路や農場との距離、保護の状態、近隣地域における最近の森林損失に関する空間情報を追加した106。変数ごとに個々の地域をランク付けし、1から10のスコアをつけてこれらの値を合算することにより、森林破壊リスクを高いレベルで示唆している箇所を得た。分析結果は、森林破壊のリスクが高いいくつかの優先地域を強調的に示すものであった。"
+    },
+    {
+      "page": 121,
+      "type": "footnote",
+      "en": "105 The BIM is the inverse of Mean Species Abundance (MSA), a common species-focused measure of ecosystem integrity, and calculated from the PREDICTS database (Hudson et al., 2017) and several other published scientific meta-analyses (Benitez-Lopez et al. 2010; 2017; 2019; Meijer et al., 2018; Midolo et al., 2019; Nunez et al., 2019). It also uses rarity weighted species richness as a measure of biodiversity importance, weighting the impact score according to local species richness and endemism.",
+      "ja": "105 BIMは種にフォーカスした生態系十全性の一般的な指標である平均生物種豊富度（MSA）の逆数であり、PREDICTSデータベース（Hudson et al. 2017）や公開されている他のいくつかの科学的メタ分析（Benitez-Lopez et al. 2010; 2017; 2019; Meijer et al. 2018; Midolo et al. 2019; Nunez et al. 2019）から算出したものである。BIMはまた、生物多様性の重要性の測定指標として希少性に重み付けした種の豊かさを使用しており、地域の種の豊かさと固有度でインパクトスコアに加重している。"
+    },
+    {
+      "page": 121,
+      "type": "footnote",
+      "en": "106 Burivalova, Z. et al. (2021) “Early warning sign of forest loss in protected areas.” Current Biology 31.20 (2021): 4620-4626; Rosa, I. M. et al. (2013) Predictive modelling of contagious deforestation in the Brazilian Amazon. PLoS One, 8: e77231.",
+      "ja": "106 Burivalova, Z. et al.（2021）「Early warning sign of forest loss in protected areas」『Current Biology』31.20 (2021): 4620–4626，Rosa, I.M. et al.（2013）「Predictive modelling of contagious deforestation in the Brazilian Amazon」『PLoS One』8: e77231."
+    },
+    {
+      "page": 122,
+      "type": "h4",
+      "en": "Water risk",
+      "ja": "水リスク"
+    },
+    {
+      "page": 122,
+      "type": "quote",
+      "en": "The baseline water risk was mapped according to the Aqueduct Water Risk Atlas produced by WRI. This tool combines multiple sources of geospatial data and hydrological models to estimate risks across 13 indicators (relating to quantity, quality and regulatory risks). These are aggregated into an overall ‘water risk’ indicator. Overall water risk is low throughout most of the landscape (Figure 3a); disaggregating this using the Water Risk Atlas online viewer highlights that the region is not at risk of water stress or depletion, has low interannual and seasonal variability at the baseline, and overall low regulatory risk. Coastal regions have a high coastal flood risk, but the inland basin that occupies the majority of the landscape is rated as low. Water quality risks (untreated wastewater and coastal eutrophication potential) are medium to high. From the perspective of disaster risk reduction, both riverine flood risk and drought risk are high or extremely high in the region. Further, as seasonal variability is expected to increase by 2030, this risk will likely be exacerbated. This analysis showed the importance of disaggregating the overall water risk metric to get an understanding of the particular hydrological pressures faced in the region. It highlights opportunities for implementing solutions to address flood risk, drought risk and nutrient run off.",
+      "ja": "ベースラインの水リスクは、WRIが作成したアキダクト水リスクアトラスに従ってマッピングした。このツールは地理空間データや水文モデルの複数の取得源を組み合わせ、（量、質、規制上のリスクに関連する）13の指標にわたってリスクを推定するものである。これらは全体的な「水リスク」指標に集約される。全体的な水リスクはランドスケープの大部分で低く（図3a）、これを水リスクアトラスのオンラインビューアを用いて分解すると、同地域はベースラインの時点で水のストレスや枯渇のリスクにさらされておらず、経年や季節性の変動も少ないことを強調している。沿岸地域は沿岸付近の浸水リスクが高いものの、ランドスケープの大部分を占める内陸盆地は低リスクに評定されている。水質リスク（未処理の排水や沿岸の富栄養化の可能性）は中から高である。災害リスク低減という観点から見て、同地域では河川の洪水リスクと干ばつリスクの両方が高か、もしくはきわめて高いに評定されている。さらに、2030年までに季節性の変動が増大すると予想されており、このリスクが悪化する可能性が高い。この分析結果は、全体的な水リスクの測定指標を分解して、地域が直面している個々の水文圧力の知見を得ることの重要性を示している。洪水リスク、干ばつリスク、養分流出に対処するための解決策を実行することの機会が明確に見えてきた。"
+    },
+    {
+      "page": 122,
+      "type": "h4",
+      "en": "Market risk",
+      "ja": "市場リスク"
+    },
+    {
+      "page": 122,
+      "type": "quote",
+      "en": "Consultation with the project implementation partner (the Earthworm Foundation) by Reckitt and NbI revealed that high market prices for durian is further incentivising smallholders in the landscape to switch their primary cash crop. Durian is generally produced with higher levels of fertilisers and pesticides, requires irrigation (as opposed to rain-fed rubber), and has a 10-year plantation cycle (as opposed to 25-30 years for rubber) after which the wood is not used for timber production. Transitioning productive landscapes from rubber to durian not only risks increasing the intensity of inputs and water abstractions, but also reduces long-term biodiversity and carbon gains in mature rubber plantations.",
+      "ja": "レキットとNbIによるプロジェクト実施パートナー（アースワーム財団）との協議により、ドリアンの高い市場価格が、ランドスケープ内の小規模自作農に対し、主要換金作物の切り換えを促すさらなる動機付けになっていることが明らかになった。ドリアンは一般に生産時の肥料や農薬の使用レベルが高く、灌漑が必要であるとともに（ゴムでは天水）、植え付けのサイクルが10年（ゴムでは25～30年）であり、その後の樹木は材木生産には使用されない。ゴムからドリアンへの生産ランドスケープの移行は、投入原料や水の汲み上げの強度が増大するリスクを生じさせるだけでなく、成熟したゴム農園における長期的な生物多様性や炭素の利得を減少させることになる。"
+    },
+    {
+      "page": 122,
+      "type": "quote",
+      "en": "Reckitt has taken measures to support smallholder livelihoods by investing in the Smallholder Rubber Association and Earthworm’s Rurality programme. However, current political instability and an uncertain regulatory landscape could threaten these programmes, and the risk of rubber conversion needs to be monitored.",
+      "ja": "レキットは、「小規模自作農ゴム生産者協会」とアースワームの田園（Rurality）プログラムに投資することで、小規模自作農の生計を支援する措置を実施している。しかしながら、現在の政治的不安定と不確実な規制情況がこれらのプログラムを脅威にさらす可能性があり、ゴム転換のリスクを監視していかなければならない。"
+    },
+    {
+      "page": 122,
+      "type": "h4",
+      "en": "Assessing nature-related opportunities",
+      "ja": "自然関連機会の評価"
+    },
+    {
+      "page": 122,
+      "type": "quote",
+      "en": "In assessing nature-related opportunities, the mitigation hierarchy was used to first mitigate the negative impacts of latex farming on biodiversity in the landscape, before identifying opportunities for restoration and NbS implementation. The outcomes of the analysis were discussed in a three-day stakeholder workshop held in the Surat Thani province of Thailand. Teams from Reckitt, NbI and Earthworm Foundation worked with local stakeholders to explore a portfolio of NbS activities. These included opportunities for improving farm management practices, protecting ecosystems from conversion or degradation, and restoring ecosystems connected to these farms (e.g. forests, riparian buffer zones, wetlands).",
+      "ja": "自然関連の機会を評価するにあたり、復元とNbSを実施する前に、まずは緩和階層を用いてラテックス栽培がランドスケープの生物多様性に及ぼすマイナスのインパクトを緩和した。分析の結果は、タイのスラーターニー県で開催した3日間のステークホルダーワークショップにおいて議論した。レキット、NbI、アースワーム財団三者のチームが現地のステークホルダーと連携して取り組み、NbS活動のポートフォリオを探求した。これらは、農場管理慣行の改善、転換や劣化からの生態系の保護、これらの農場と繋がっている生態系の復元（例えば森林、水辺の緩衝帯、湿地等）による機会を含むものであった。"
+    },
+    {
+      "page": 122,
+      "type": "h4",
+      "en": "Outputs of analysis",
+      "ja": "分析のアウトプット"
+    },
+    {
+      "page": 122,
+      "type": "quote",
+      "en": "The results of the analysis indicated that the region has a high-risk rating for drought, coastal floods and riverine floods (physical acute risk) and the large forest complexes are both upstream of the river basin highlighting their importance in regulating water flow into the basin (physical chronic risk).",
+      "ja": "分析の結果は、同地域では干ばつ、沿岸付近の浸水、河川洪水（物理的急性リスク）が高リスクと評定され、大きな森林群が河川流域の上流の両岸に位置し、流域への水流の調節における重要性が明確に見えるものだった（物理的慢性リスク）。"
+    },
+    {
+      "page": 123,
+      "type": "quote",
+      "en": "Several areas of unprotected forest are at risk from future deforestation based on their spatial characteristics and suitability for planting rubber (reputational risk). High durian prices on the market are incentivising rubber farmers to switch to comparatively intensive plantation systems (market risks), combined with fluctuating natural rubber prices impacting income stability and the growing popularity of synthetic rubber (technology risk).",
+      "ja": "その空間的特性とゴム植え付けへの適合性から、無保護の森林のいくつかの地域は将来的な森林破壊のリスクにさらされている（評判リスク）。収入の安定性に影響を及ぼす天然ゴム価格の変動と、合成ゴムの人気の増加（技術リスク）もあり、ドリアンの高い市場価格が、ゴム農家に対し、比較的集約度の高いプランテーションシステムへの切り換えを促す動機付けになっている（市場リスク）。",
+      "flag": "ja-split-differs"
+    },
+    {
+      "page": 123,
+      "type": "caption",
+      "en": "Exhibit 1: Outputs of nature-related risk and opportunity assessment",
+      "ja": "資料1：自然関連のリスク及び機会の評価によるアウトプット"
+    },
+    {
+      "page": 123,
+      "type": "caption",
+      "en": "Figure 1: Deforestation risks are estimated based on multiple factors, including topographical and climatological suitability for optimal rubber production, level of protection, distance to roads, amount of recent deforestation in 1km radius, distance to supply chain farms. Each variable is scored from 1-10 and these scores are summed across all variables (suitability for production is used as a filter to remove unsuitable pixels so is not included in the scoring).",
+      "ja": "図1：森林破壊リスクは、最適なゴム生産のための地形学的気候学的適合性、保護のレベル、道路との距離、1 km圏内の最近の森林破壊、サプライチェーン農家との距離等、多様な要因にもとづいて推定している。個々の変数を1から10でスコア付けし、すべての変数においてこれらのスコアを合算する（生産への適合性をフィルターとして使用することで、不適合のピクセルを除外し、スコア判定に含まれないようにする）。"
+    },
+    {
+      "page": 123,
+      "type": "caption",
+      "en": "Figure 2: Water risk as mapped by the Aqueduct Water Risk Atlas (World Resources Institute). a) Overall water risk representing 13 sub-indicators; b) Riverine flood risk; c) Drought risk.",
+      "ja": "図2：水リスクはアキダクト水リスクアトラス（世界資源研究所）によってマッピングしたものである。a）13の下位指標を代表する全体的な水リスク　b）河川洪水リスク　c）干ばつリスク"
+    },
+    {
+      "page": 123,
+      "type": "p",
+      "en": "Source: Reckitt (2023)",
+      "ja": "出典：レキット（2023）"
+    },
+    {
+      "page": 124,
+      "type": "p",
+      "en": "When measuring and prioritising risks, financial institutions should consider that physical and transition risks can have not only microeconomic but also macroeconomic effects. Box 22 provides an overview of possible key macro effects of physical and transition risks.",
+      "ja": "リスクを測定し、優先順位付けする際、金融機関は物理的リスクと移行リスクがミクロ経済学的影響だけでなく、マクロ経済学的影響も及ぼす可能性があることを考慮すべきである。ボックス22に、物理的リスクと移行リスクから起こりうる主要なマクロ影響の概要を提示する。"
+    },
+    {
+      "page": 124,
+      "type": "h4",
+      "en": "Box 22: Key macroeconomic effects of nature-related risks107",
+      "ja": "ボックス22：自然関連リスクの主要なマクロ経済学的影響107"
+    },
+    {
+      "page": 124,
+      "type": "quote",
+      "en": "As outlined by NGFS, on a macro level, physical and transition risks may have implications for prices, productivity, investment, socio-economic changes, fiscal balances and trade and capital flow, in particular affecting information and gross domestic product (GDP).",
+      "ja": "NGFSが概説しているように、マクロレベルにおいて、物理的リスクと移行リスクは価格や生産性、投資、社会経済的変化、財政収支、貿易と資本の流れに何らかの影響があり、特に情報や国内総生産（GDP）に影響を及ぼす場合がある。"
+    },
+    {
+      "page": 124,
+      "type": "quote",
+      "en": "Potential macro effects could be the following:",
+      "ja": "潜在的なマクロ影響には、例えば次のようなものが考えられる。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Prices: Changes in prices of commodities, energy or water could create inflationary pressure;",
+      "ja": "価格：商品やエネルギー、水の価格における変化はインフレ圧力を生じさせるおそれがある。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Productivity: Effects on GDP from a diversion of investment or lower risk appetites for innovation, reduced labour productivity (e.g. as a result of heat or pollution), the loss of provisioning or regulating service productivity (e.g. affecting agriculture) or damage and disruptions to assets;",
+      "ja": "生産性：イノベーションに関する投資の転換やリスク選好の低下、（例えば暑さや公害の結果の）労働生産性の低下、（農業への影響等）供給や調節サービスの生産性の損失、資産への損害や混乱から生じる、GDPへの影響。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Capital: Higher investment needs for mitigation or adaptation to prevent nature degradation and potentially accelerated depreciation of the current capital base;",
+      "ja": "資本：自然の劣化や、現在の資本基盤の潜在的な償却の加速化を防止するために、緩和又は適応にさらに多額の投資が必要になる。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Socio-economic changes: Effects from changing societal preferences, arising inequalities, migration or conflict;",
+      "ja": "社会経済的変化：社会的選好の変化、不平等や移住、紛争の高まりによる影響。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Trade and capital flows: Changes to trade and capital flows may result from shocks in ecosystem service provision, potentially amplified via value chains, which affects exchange rates and sovereign credit ratings; and",
+      "ja": "貿易及び資本の流れ：潜在的にはバリューチェーンによって増幅される、生態系サービスにおける衝撃がもたらす貿易と資本の流れに対する変化で、為替レートやソブリン格付けに影響する。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Fiscal balances: The lack of access to ecosystem services may necessitate an increase in social protection spending on, for instance, water or food. Losses in production and employment may also reduce fiscal revenue.",
+      "ja": "財政収支：生態系サービスへのアクセスが失われることによって、例えば水や食料などに支出される社会的保護の引き上げが必要になる場合がある。また、生産や雇用の損失も財政収入を低減させる場合がある。"
+    },
+    {
+      "page": 124,
+      "type": "h4",
+      "en": "Valuation",
+      "ja": "評価"
+    },
+    {
+      "page": 124,
+      "type": "p",
+      "en": "Valuation is the process of determining the importance, worth or usefulness of something in a particular context. A number of different types of valuation are possible that include:",
+      "ja": "価値評価とは特定の文脈における何ものかの重要性、価値又は有用性を判断するプロセスである。例えば次のような様々な異なるタイプの評価が可能である。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Qualitative valuation is used to identify the potential scale of costs and/or benefits, expressed through qualitative, non-numerical terms (e.g. high increase in health impacts from emitted pollutants or low decrease in recreation visits);",
+      "ja": "定性的評価は、費用や便益の潜在的な規模を特定し、定性的な数値以外の観点（例えば排出された汚染物質による健康へのインパクトの大幅増、レクリエーション訪問の微減等）から表現される。"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Quantitative valuation is used to provide numerical data as indicators for costs and/or benefits (e.g. 20% increase of health impacts from emitted pollutants or 0.5% decrease in number of people benefitting from recreation visits); and",
+      "ja": "定量的評価は、費用や便益の指標として数値によるデータを提供するのに用いられる（例えば排出された汚染物質による健康へのインパクトの20%増、レクリエーション訪問から便益を得る人数の0.5%減等）"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Monetary valuation translates quantitative estimates of costs and/or benefits into a single common currency.",
+      "ja": "金銭的評価は、費用や便益の定量的推定値を単一の共通通貨に言い換えるものである。"
+    },
+    {
+      "page": 124,
+      "type": "p",
+      "en": "Understanding the social, environmental and/or economic context is essential to allow organisations to estimate value meaningfully and correctly interpret results.",
+      "ja": "社会、環境及び／又は経済状況についての理解は、組織が価値を有意義に推定し、結果を正確に解釈できるようにするのに欠かせない。"
+    },
+    {
+      "page": 124,
+      "type": "footnote",
+      "en": "107 Network for Greening the Financial System (2023) Nature-related Financial Risks: A conceptual framework to guide action by Central Banks and Supervisors.",
+      "ja": "107 気候変動リスク等に係る金融当局ネットワーク（2023）『自然関連金融リスク：中央銀行及び監督当局による行動を導く概念枠組み』"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "A valuation exercise can help a LEAP assessment team define the consequences of dependencies and impacts on nature for both business and society, determine the relative significance of associated costs and benefits, and determine the value of these costs and benefits in the given context. Valuation can help assess the relative importance of risks and opportunities to determine which are material for the business (in A4).",
+      "ja": "評価演習は、LEAP評価チームが企業と社会の両方に対する自然への依存とインパクトの帰結を定義し、これらに伴う費用と便益の相対的重要性並びに所与の文脈におけるこれらの費用と便益の価値を決定する手助けとなれる。評価は、事業にとってどれがマテリアルなのかを決定するためにリスクと機会の相対的重要性を評価する手助けとなれる（A4）。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "If the LEAP assessment team undertakes a valuation exercise, they are encouraged to follow four steps, aligned with the Natural Capital Protocol:",
+      "ja": "LEAP評価チームが評価演習を実施する場合、自然資本プロトコルと整合する以下の4つの手順に従うよう推奨する。"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Step 1: Define the consequences of impacts and/or dependencies on nature (for business and/or society);",
+      "ja": "ステップ1：自然へのインパクトや依存の（企業や社会に対する）帰結を定義する。"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Step 2: Determine the relative significance of associated costs and/or benefits;",
+      "ja": "ステップ2：これらに伴う費用と便益の相対的重要性を判断する。"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Step 3: Select appropriate valuation technique(s); and",
+      "ja": "ステップ3：適切な評価手法を選択する。"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Step 4: Undertake or commission valuation.",
+      "ja": "ステップ4：評価にとりかかかるまたは委託する。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "Organisations should refer to Annex 3 for further details. This draws from relevant material in the Natural Capital Protocol (mainly Step 7) and has been co-developed with the Capital Coalition. Further guidance can also be found on the Capitals Coalition website.",
+      "ja": "詳細については別紙3を参照すべきである。これは自然資本プロトコルの関連資料（主としてステップ7）から引用したもので、キャピタルコアリションと共同で作成した。詳細なガイダンスもキャピタルコアリションのウェブサイトから入手することが可能である。"
+    },
+    {
+      "page": 125,
+      "type": "h2",
+      "en": "6.7. A4: Risk and opportunity materiality assessment",
+      "ja": "6.7. A4：リスクと機会のマテリアリティの評価"
+    },
+    {
+      "page": 125,
+      "type": "h4",
+      "en": "A4: Risk and opportunity materiality assessment",
+      "ja": "A4：リスクと機会のマテリアリティの評価"
+    },
+    {
+      "page": 125,
+      "type": "quote",
+      "en": "Which risks and opportunities are material and therefore should be disclosed in line with the TNFD recommended disclosures?",
+      "ja": "どのリスクと機会がマテリアルであり、したがってTNFD開示提言に従って開示する必要があるか？"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "This component of LEAP will help assess which nature-related risks and opportunities are material and should be disclosed based on an understanding of the current and anticipated effects of nature-related risks and opportunities on the organisation’s financial position, financial performance and cash flows.",
+      "ja": "LEAPのこの構成要素は、どの自然関連のリスクと機会がマテリアルであり、自然関連のリスクと機会が組織の財務状況や財務実績、キャッシュフローに及ぼす現在の影響と予想される影響にもとづいて開示すべきかを評価する手助けとなろう。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "For financial institutions, this component will help focus on the risks and opportunities they will disclose, and in particular bring to light the elements of their portfolios (assets, liabilities, revenue and expenses) that are assessed as vulnerable to nature-related transition and physical risks.",
+      "ja": "金融機関の場合、この構成要素は、自らが開示するリスクと機会に重点を置き、特に、ポートフォリオのうちで自然関連の移行リスクと物理的リスクに脆弱であると判定された要素（資産、賠償責任、収益及び費用）を明らかにする手助けとなろう。"
+    },
+    {
+      "page": 125,
+      "type": "h3",
+      "en": "6.7.1. Financial effects of nature-related risks and opportunities",
+      "ja": "6.7.1. 自然関連のリスクと機会の財務効果"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "The measurement and prioritisation of nature-related risks and opportunities (in A2 and A3) helps the organisation understand the implications such risks and opportunities may have on its financial position, financial performance and cash flows (financial effects). This can be in the form of quantitative or qualitative information.",
+      "ja": "自然関連のリスク及び機会の測定と優先順位付け（A2及びA3）は、リスクと機会が自らの財務状況、財務実績、キャッシュフローにもたらす意味合い（財務効果）を把握するのに有用である。これは定量的な情報形態の場合もあれば、定性的な情報形態の場合もある。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "Determining the financial implications of nature-related risks and opportunities generally involves an organisation assessing its:",
+      "ja": "自然関連のリスクと機会の財務的意味合いを確定する場合、通常、組織は次の項目の評価を行う。"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Potential for damages or benefits from identified risks and opportunities;",
+      "ja": "特定されたリスクと機会からの被害又は便益の可能性"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Planned responses; and",
+      "ja": "計画されている対応"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Response effectiveness.",
+      "ja": "対応の有効性"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "Forward-looking analysis is also important and can be informed by scenario analysis (see the TNFD scenarios analysis guidance for the TNFD’s proposed approach to scenarios).",
+      "ja": "フォワードルッキング分析も重要であり、これにはシナリオ分析から情報が得られる可能性がある（TNFDが推奨するシナリオへのアプローチは、TNFDシナリオ分析ガイダンスを参照のこと）。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "Those risks and opportunities identified that satisfy the materiality definition and guidance provided by the ISSB’s IFRS S1 materiality guidance or equivalent national regulatory requirements for corporate disclosure should be disclosed.108",
+      "ja": "ISSBのIFRS S1マテリアリティガイダンス、又はこれと同等の企業開示に関する国内規制要件が提示するマテリアリティの定義とガイダンスを充足すると特定されたリスクと機会を開示することが望ましい108。"
+    },
+    {
+      "page": 125,
+      "type": "p",
+      "en": "Table 14 and Table 15 provide examples of financial effects generated by nature-related risks and nature-related opportunities respectively.",
+      "ja": "表14及び表15は、自然関連のリスクと自然関連の機会がそれぞれ発生させる財務効果の例を提示したものである。"
+    },
+    {
+      "page": 125,
+      "type": "footnote",
+      "en": "108 International Sustainability Standards Board (2023) IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information.",
+      "ja": "108 国際サステナビリティ基準審議会（2023）『IFRS S1号サステナビリティ関連財務情報の開示に関する全般的要求事項』"
+    },
+    {
+      "page": 126,
+      "type": "caption",
+      "en": "Table 14: Examples of nature-related risks and their potential financial impact",
+      "ja": "表14：自然関連のリスクとその潜在的な財務的インパクトの例"
+    },
+    {
+      "page": 126,
+      "type": "table",
+      "en": "| Risk type | Category | Financial effects |\n|---|---|---|\n| Physical risk | Acute<br>• Degradation of nature and loss of natural protection (e.g. caused by vegetation clearance for initial clearing for mining sites) can exacerbate severity of damages from extreme weather events such as cyclones, droughts, flooding and storms;<br>• Species loss and ecosystem degradation (e.g. loss of connectivity associated with species ranges, impacting flyways or marine migratory corridors) due to leaks or accidental discharges (e.g. oil) contaminating air, soil and water bodies by the organisation itself or by other stakeholders located in the same area; and<br>• Disease or pests affecting the species or variety of crop the organisation relies on, especially in the case of no or low genetic diversity. | • Increased natural hazard costs, for example, impaired assets due to damages resulting from floods or cyclones, not limited to the organisation’s property (e.g. the infrastructure it relies on);<br>• Reduced revenue and/or increased costs due to interruption of operations or interruption/deterioration of supply chains because of uncertainty over natural inputs/raw material supply (e.g. loss of pollinators, pests, loss of fish stocks, water), or damage caused by natural hazards;<br>• Increased insurance premiums and potential for reduced availability of insurance on assets;<br>• Increased capital expenditure due to adaptation (e.g. mechanical pollination, protection against floods);<br>• Reduced productivity and consequent rethinking of production processes or timing (e.g. agricultural production); and<br>• Write-offs, early retirement of existing assets and relocation of operations and suppliers, affecting the costs of raw materials (e.g. transport). |",
+      "ja": "| リスクのタイプ | カテゴリー | 財務効果 |\n|---|---|---|\n| 物理的リスク | 急性<br>• 自然の劣化と自然の保護の損失（例えば採掘現場のための最初の刈り払い等から生じるもの）は、例えばサイクロンや干ばつ、洪水、暴風雨等の極端な天候事象による被害の深刻さを悪化させる可能性がある。<br>• 組織又は同じ地域に位置する他のステークホルダーによる漏出や偶発的な放出（例えば石油等）が空気や土壌、水域を汚染することによって生じる、種の損失や生態系の劣化（例えば渡り鳥の飛行ルートや海洋の回遊回廊にインパクトを及ぼす、種の範囲が伴う連結性の喪失等）。<br>• 組織が依存している種や作物品種に影響を及ぼす病害や害虫。特に遺伝的多様性がないか、もしくは少ない場合。 | • 組織の所有物に限らず（例えば依存しているインフラ等）、例えば洪水やサイクロンから生じた被害に起因する資産の損傷等、自然災害による経費の増大。<br>• 自然によるインプット／原材料供給における不確実性（例えば花粉媒介生物の損失、害虫、漁業資源の損失、水）や自然災害によって引き起こされた被害に起因する、業務の中断やサプライチェーンの混乱／劣化による収益の減少や経費の増加。<br>• 保険料の増額、及び資産に対する保険の利用可能性が低下する可能性。<br>• 適応（機械による授粉、洪水に対する防護等）による資本支出の増大。<br>• 生産性の低下とその結果として生産工程や時期の見直し。（例えば農業生産）<br>• 原材料費に影響を及ぼす、既存の資産の償却、早期除却、事業拠点の移転とサプライヤーの変更。（例えば輸送） |"
+    },
+    {
+      "page": 127,
+      "type": "table",
+      "en": "| Risk type | Category | Financial effects |\n|---|---|---|\n|  | Chronic<br>• Increasing scarcity of key natural inputs<br>• Ecosystem degradation due to operations leading to, for example, deforestation<br>• Ocean acidification<br>• Overfishing<br>• Land loss to desertification and soil degradation and consequent loss of soil fertility<br>• Species loss and degradation due to soil, water and ocean contamination caused by organisation itself or stakeholders in specific areas |  |\n| Transition risk | Policy<br>• Changes to existing policies/new policies aimed at achieving nature-positive outcomes and targets<br>• Tighter (emerging) legislation (e.g. trade restrictions or taxes) on activities, products and/or services that impact nature, and rights, permits and allocations on natural resources designated to alleviate pressure on nature or impacts on local communities<br>• Enhanced reporting obligations | • Increased costs of operations and inputs<br>• Increased costs of personnel and monitoring of activities required for reporting<br>• Increased capital costs or production losses due to permit denials or delays |\n|  | Market<br>• Shifting customer values or preferences to products (e.g. foods, textiles) with lower impacts on nature<br>• Volatility or increased costs of materials | • Reduced demand for products and services – supply disruption<br>• Increased production costs<br>• Loss of market access<br>• Increased raw material costs |",
+      "ja": "| リスクのタイプ | カテゴリー | 財務効果 |\n|---|---|---|\n|  | 慢性<br>• 自然からの主要インプットの欠乏増加<br>• 例えば森林破壊につながる、事業運営に起因する生態系の劣化<br>• 海洋酸性化<br>• 魚の乱獲<br>• 砂漠化と土壌劣化による土地の損失及びその結果としての土壌肥沃度の損失<br>• 組織自身や特定の地域のステークホルダーによって引き起こされた土壌、水、海洋の汚染に起因する種の損失と劣化 |  |\n| 移行リスク | 政策<br>• ネイチャーポジティブな成果と目標の実現を目指す既存の政策の変更／新たな政策<br>• 自然への圧力又は地域社会へのインパクトを軽減することを目的とした、指定自然資源についての権利、許可、割り当てにインパクトを及ぼす活動、製品、サービスに関する法令（例えば貿易制限や課税等）の厳格化（新たな制定）<br>• 報告義務の強化 | • 操業及びインプットの経費増<br>• 人件費及び報告で要求される活動の監視に要する費用の増大<br>• 許可の却下又は遅延に起因する資本コストや生産損失の増大 |\n|  | 市場<br>• 自然へのインパクトが低い製品（例えば食品や繊維等）に顧客価値又は選好が移行<br>• 材料費の変動又は上昇 | • 製品又はサービスへの需要の低下－供給の混乱<br>• 生産費用の増大<br>• 市場アクセスの損失<br>• 原材料費の増大 |"
+    },
+    {
+      "page": 128,
+      "type": "table",
+      "en": "| Risk type | Category | Financial effects |\n|---|---|---|\n| Transition risk | Reputation<br>• Shifts in consumer sentiment towards the organisation/brand as a result of poor nature management and/or lack of stewardship activities | • Reduced demand for products<br>• Decreased employee retention and worker strikes<br>• Reduced loyalty of suppliers or key stakeholders |\n|  | Technology<br>• Transition to more efficient and cleaner technologies (i.e. with lower impacts on nature)<br>• Lack of access to data, or access to poor quality data, that hamper nature-related assessments<br>• New monitoring technologies used by regulators | • Increased expenditure for research and development of new and alternative technologies<br>• Increased costs of operations and raw materials required to achieve nature-related goals<br>• New monitoring technologies used by regulators<br>• Lack of access to technology developed by competitors resulting in higher operational costs |\n|  | Liability<br>• Arising directly or indirectly from legal claims | • Increased forms of litigation and other legal claims, fines and penalties |",
+      "ja": "| リスクのタイプ | カテゴリー | 財務効果 |\n|---|---|---|\n| 移行リスク | 評判<br>• 不十分な自然の管理やスチュワードシップ活動の欠如の結果として起こる、組織／ブランドへの消費者心理の変化 | • 製品の需要の低下<br>• 従業員定着率の低下と労働者によるストライキ<br>• 供給業者や主要なステークホルダーの帰属意識の低下 |\n|  | テクノロジー<br>• より効率的で清浄な（すなわち、より自然へのインパクトの低い）技術への移行<br>• 自然関連評価の妨げとなるデータへのアクセスの欠如やアクセスするデータの品質不良<br>• 規制当局による新たな監視技術の使用 | • 新規技術や代替技術の研究開発に要する支出の増加<br>• 自然関連目標を達成するのに必要な操業費用や原材料費の増加<br>• 規制当局による新たな監視技術の使用<br>• 競合他者が開発した技術へのアクセスの欠如による操業費用の上昇 |\n|  | 賠償責任<br>• 法的請求から直接的又は間接的に生じるもの | • 訴訟の形態やその他法的請求、罰金、科料の増加 |"
+    },
+    {
+      "page": 128,
+      "type": "p",
+      "en": "Compiled from: Climate Disclosure Standards Board (2021) Application guidance for biodiversity-related disclosures; Task Force on Climate-related Financial Disclosures (2017) Recommendations of the Task Force on Climate-related Financial Disclosures and Taskforce for Nature-related Financial Disclosures (2021) Nature in scope.",
+      "ja": "以下より編集：気候情報開示基準審議会（2021）『Application guidance for biodiversity-related disclosures』，気候関連財務情報開示タスクフォース（2017）『気候関連財務情報開示タスクフォースによる提言』，自然関連財務情報開示タスクフォース（2021）『Nature in scope』"
+    },
+    {
+      "page": 129,
+      "type": "caption",
+      "en": "Table 15: Nature-related opportunities and their potential financial impact",
+      "ja": "表15：自然関連の機会とその潜在的な財務的インパクト"
+    },
+    {
+      "page": 129,
+      "type": "table",
+      "en": "| Category | Financial effects |\n|---|---|\n| Resource efficiency<br>• Transition to more efficient services and processes that require fewer natural resources, energy or impacts on nature<br>• Increased reuse and recycling of natural resources<br>• Reduced waste production<br>• Diversification of nature-related resources (e.g. use of different plant species) | • Reduced operation and compliance costs<br>• Reduced exposure to raw material and natural resource price volatility<br>• Reduced reliance on natural resources and increased resilience to potential shortages |\n| Products/services<br>• Development of less natural resource-intensive products and services (e.g. regenerative agriculture that preserves and restores soil fertility and leads to a reduced use of fertilisers)<br>• Development of green solutions (e.g. nature-related insurance risk products)<br>• Diversification of business activities (e.g. new business units on green infrastructures) | • Increased resilience due to business diversification<br>• New revenue streams<br>• Reduced costs of raw materials and production inputs<br>• Better competitive position to reflect shifting consumer preferences |\n| Markets<br>• Access to new markets<br>• Use of public sector incentives<br>• Access to new assets and locations needing insurance coverage | • Increased revenues through access to new and emerging markets<br>• Access to public sector incentives<br>• Increased diversification of financial assets |\n| Financial incentives<br>• Access to nature-related and/or green funds, bonds or loans<br>• Incentives for suppliers to improve their nature and ecosystem management | • Increased access to funds and loans<br>• Access to capital for high-risk projects |",
+      "ja": "| カテゴリー | 財務効果 |\n|---|---|\n| 資源効率<br>• 必要な自然資源やエネルギー、あるいは自然へのインパクトの少ない、より効率的なサービス及びプロセスへの移行<br>• 自然資源の再利用やリサイクルの増加<br>• 発生する廃棄物の減少<br>• 自然関連資源の多様化（例えば異なる植物種の利用等） | • 操業費用及び法令遵守費用の削減<br>• 自然資源の入手可能性低下に対するレジリエンス増大<br>• 自然資源への依存の軽減と潜在的な不足に対するレジリエンスの向上 |\n| 製品／サービス<br>• 自然資源への集約度の低い製品及びサービスの開発（例えば土壌の肥沃性を保全し、回復させるとともに、肥料使用量の削減につながる再生型農業等）<br>• グリーンソリューションの開発（例えば自然関連の保険リスク製品等）<br>• 事業活動の多様化（例えばグリーンインフラに関する事業部門の新設等） | • 事業の多様化によるレジリエンスの向上<br>• 新たな収益の流れ<br>• 原材料及び生産投入物のコスト削減<br>• 消費者選好の変化を反映した競争的位置の向上 |\n| 市場<br>• 新規市場へのアクセス<br>• 公共部門によるインセンティブの活用<br>• 保険による保護を必要とする新たな資産や場所へのアクセス | • 新規及び新興市場へのアクセスを通じた収益増<br>• 公共部門によるインセンティブへのアクセス<br>• 金融資産の多様化の向上 |\n| 財務インセンティブ<br>• 自然関連又は環境関連のファンドや債券、融資へのアクセス<br>• 自然や生態系の管理向上を目的とするサプライヤー向け奨励金 | • ファンドや融資へのアクセスの向上<br>• 高リスクのプロジェクトのための資本へのアクセス |"
+    },
+    {
+      "page": 130,
+      "type": "table",
+      "en": "| Category | Financial effects |\n|---|---|\n| Reputation<br>• Collaborative engagement with stakeholders to tackle nature-related challenges<br>• Improved condition of nature the organisation relies on | • Improved reputation among stakeholders located in different areas<br>• Improved stability of operations and working conditions, and ability to attract and retain employees<br>• Increased brand value<br>• Improved supply chain engagement<br>• Increased influence of government policy |",
+      "ja": "| カテゴリー | 財務効果 |\n|---|---|\n| 評判<br>• 自然関連課題と闘うための協働的ステークホルダーエンゲージメント<br>• 組織が依存する自然の状態の改善 | • 異なる地域に位置するステークホルダーの間での評判の向上<br>• 操業や作業条件の安定性、及び従業員をひきつけ定着させる能力の向上<br>• ブランド価値の強化<br>• サプライチェーンエンゲージメントの向上<br>• 政府の政策の影響力の増大 |"
+    },
+    {
+      "page": 130,
+      "type": "p",
+      "en": "Compiled from: Climate Disclosure Standards Board (2021) Application guidance for biodiversity-related disclosures; and Task Force on Climate-related Financial Disclosures (2017) Recommendations of the Task Force on Climate-related Financial Disclosures.",
+      "ja": "以下より編集：気候情報開示基準審議会（2021）『Application guidance for biodiversity-related disclosures』，気候関連財務情報開示タスクフォース（2017）『気候関連財務情報開示タスクフォースによる提言』"
+    },
+    {
+      "page": 130,
+      "type": "h3",
+      "en": "6.7.2. Metrics for nature-related risks and opportunities",
+      "ja": "6.7.2. 自然関連のリスクと機会のための測定指標"
+    },
+    {
+      "page": 130,
+      "type": "p",
+      "en": "The LEAP assessment team should use the TNFD’s recommended metrics for risks and opportunities to assess the current and anticipated financial impacts on the organisation (see the TNFD’s core and additional disclosure metrics in the TNFD recommendations and assessment metrics in Annex 1.2 of this document). Metrics for individual risks and opportunities during the assessment may be at the site, project, product/service or location level.",
+      "ja": "LEAP評価チームはTNFDが推奨するリスクと機会の測定指標を用いて、組織に対する現在及び予想される財務的インパクトを評価すべきである（TNFD提言に記載されているTNFDの中核及び追加の開示指標、ならびに本文書の別紙1.2における評価測定指標を参照のこと）。評価の際の個々のリスクと機会に対する測定指標は、現場レベルやプロジェクトレベル、製品／サービス、あるいは場所レベルになりうる。"
+    },
+    {
+      "page": 130,
+      "type": "p",
+      "en": "The TNFD recommends nature-related risks and opportunities are assessed through the use of:",
+      "ja": "TNFDは、以下の項目の使用を通じて自然関連のリスクと機会を評価するよう提言している。"
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Exposure metrics based on nature-related dependencies and impacts (refer to the Evaluate phase of LEAP); and",
+      "ja": "自然関連の依存とインパクトに基づくエクスポージャー測定指標（LEAPの診断フェーズを参照）。"
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Magnitude metrics used to assess the financial implications to the organisation of nature-related risks and opportunities. As far as possible, magnitude metrics should quantify the financial value of nature-related risks and opportunities for the organisation.",
+      "ja": "自然関連のリスクと機会の組織への財務的意味合いを評価するのに用いた大きさ測定指標。可能な限り、大きさ測定指標は組織に対する自然関連のリスクと機会の財務的価値を定量化すべきである。"
+    },
+    {
+      "page": 130,
+      "type": "p",
+      "en": "Table 16 contains illustrative examples, drawing from the TNFD’s suggested assessment metrics, for the exposure to risks and opportunities, based on dependencies and impacts, and the financial implication of risks and opportunities to the organisation.",
+      "ja": "表16に、TNFDが推奨する評価測定指標を活用した、依存とインパクトに基づくリスクや機会へのエクスポージャーと、リスクと機会が組織に及ぼす財務的意味合いの事例を提示する。"
+    },
+    {
+      "page": 131,
+      "type": "caption",
+      "en": "Table 16: Illustrative examples of the quantification of risks",
+      "ja": "表16：リスク定量化の説明例"
+    },
+    {
+      "page": 131,
+      "type": "table",
+      "en": "| Type | Risk | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n| Physical risk<br>Acute risk | Changes in the state of ecosystems (condition and/or extent) and species (population size, extinction risk) the organisation is dependent on or impacted by, resulting in changes to the flow of ecosystem services. | Degradation of freshwater habitat due to pollutants released by the organisation and other stakeholders. | Quantity and concentration of pollutants emitted (impact driver).<br>Change in mean species abundance in freshwater ecosystems (ecosystem condition).<br>Concentration of pollutants in water (ecosystem condition). | Costs associated with the relocation of operations and suppliers.<br>Reduction in revenue/ costs associated with an interruption of operations/ supply chain.<br>Restoration costs.<br>Value of assets/revenue dependent on area.<br>Number of locations/ business lines/facilities exposed. |",
+      "ja": "| タイプ | リスク | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n| 物理的リスク<br>急性リスク | 結果的に生態系サービスの流れに変化を生じさせる、組織が依存もしくはその影響を受ける生態系（状態や範囲、又はその両方）と種（個体数、絶滅リスク）の状態の変化 | 組織やその他のステークホルダーが放出した汚染物質に起因する淡水生息環境の劣化 | 排出される汚染物質の量と濃度（インパクト要因）<br>淡水生態系における平均生物種豊富度の変化（生態系の状態）<br>水中の汚染物質の濃度（生態系の状態） | 事業拠点の移転や供給業者の変更に伴う費用<br>操業／サプライチェーンの中断に伴う収益減少／費用<br>復元費用<br>地域に依存する資産の価値／収益<br>リスクにさらされている場所／事業部／施設の数 |"
+    },
+    {
+      "page": 132,
+      "type": "table",
+      "en": "| Type | Risk | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n| Chronic risk | Changes in the state of ecosystems (condition and/or extent) and species (population size, extinction risk) the organisation is dependent on or impacted by, resulting in changes to the flow of ecosystem services. | Reduction in crop yield due to change in abundance of pollinators. | Change in abundance of pollinators (species).<br>Changes to crop yield (ecosystem service). | Increased costs of natural inputs/reduced supply.<br>Increased capital expenditure on adaptation e.g. mechanical pollinators.<br>Reduction in revenue/costs associated with interruption of operations/supply chain.<br>Costs associated with the relocation of operations and suppliers.<br>Costs related to substituting existing products/services<br>Value of assets/revenue dependent on area.<br>Restoration costs.<br>Number of locations/ business lines/facilities exposed. |",
+      "ja": "| タイプ | リスク | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n| 慢性リスク | 結果的に生態系サービスの流れに変化を生じさせる、組織が依存もしくはその影響を受ける生態系（状態や範囲、又はその両方）と種（個体数、絶滅リスク）の状態の変化 | 花粉媒介生物の豊富度の変化に起因する作物収量の減少 | 花粉媒介生物の豊富度の変化（種）<br>作物収量の変化（生態系サービス） | 自然のインプットに要する費用の増加／供給の減少<br>機械による授粉等、適応に関する資本支出の増加<br>収益減少、操業／供給網の中断に伴う費用<br>事業拠点の移転や供給業者の変更に伴う費用<br>既存製品／サービスの代用に関する費用<br>地域に依存する資産の価値／収益<br>復元費用<br>リスクにさらされている場所／事業部／施設の数 |"
+    },
+    {
+      "page": 133,
+      "type": "table",
+      "en": "| Type | Risk | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n|  |  | Inability of ecosystem to provide protection against storms/ flooding due to increased natural disasters. | Occurrence/ increase of storms/ floods in area (external factor). | Capital expenditure on infrastructure repair/ adaptation.<br>Reduction in revenue/costs associated with interruption of operations/supply chain.<br>Write-offs and early retirement of existing assets.<br>Restoration costs.<br>Costs associated with the relocation of operations and suppliers.<br>Value of assets/revenue dependent on area.<br>Insurance costs. |\n| Transition risk<br>Liability | Fines/penalties due to nature-negative outcomes | Degradation of freshwater habitat due to pollutants released by the organisation that exceeds legislative limits. | Quantity and concentration of pollutants (impact driver). | Increased costs of personnel and monitoring of activities required.<br>Losses due to delays in operations/permit denials.<br>Revenue reduction due to loss of license to operate.<br>Costs related to the loss of operating areas.<br>Clean-up costs. |",
+      "ja": "| タイプ | リスク | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n|  |  | 自然災害の増大により、暴風雨／洪水に対する保護を提供する生態系の能力不足 | 地域における暴風雨／洪水の発生／増加（外部要因） | インフラの補修／適応に関する資本支出<br>収益減少、操業／供給網の中断に伴う費用<br>既存の資産の償却及び早期除却<br>復元費用<br>事業拠点の移転や供給業者の変更に伴う費用<br>地域に依存する資産の価値／収益<br>保険費用 |\n| 移行リスク<br>賠償責任 | 自然へのマイナスの結果に起因する罰金／科料 | 組織による法令限界値を超える汚染物質の放出に起因する淡水生息環境の劣化 | 汚染物質の量と濃度（インパクト要因） | 活動に必要とされる要員とモニタリングのコストの増加<br>操業遅延／許可申請の却下に起因する損失<br>操業ライセンス消失に起因する収益の減少<br>操業地域の損失に関連する費用<br>浄化費用 |"
+    },
+    {
+      "page": 134,
+      "type": "table",
+      "en": "| Type | Risk | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n| Policy | Changes to legislation/ regulations aimed at achieving nature-positive outcomes/ reducing nature-negative outcomes. | New protected area in close proximity to area of operations. | Change to state of ecosystem (ecosystem condition). | Increased compliance costs.<br>Increased costs of personnel and monitoring of activities required.<br>Costs related to relocation of operations. |\n| Technology | Requirements to transition to more efficient, resilient and less environmentally damaging technologies. | Failure of nature-friendly technological innovation. | Reduction in negative impact drivers expected as a result of innovation (impact driver). | Increased research and development expenditure of new and alternative technologies.<br>Increased costs of operations required to achieve nature-related goals.<br>Write-offs and early retirement of existing assets. |\n| Market | Shifting customer/ investor values or preferences to products and/or services that are nature-positive/ have lower impacts on nature. | Increased cost of plant-based inputs the organisation uses in the production process. | Amount of input used in the production process (ecosystem service). | Increased production/raw material costs.<br>Costs related to substituting existing products/services. |",
+      "ja": "| タイプ | リスク | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n| 政策 | ネイチャーポジティブな結果の実現／ネイチャーネガティブな結果の低減を目指す法令／規制への変更 | 事業運営地域に近接した新たな保護地域 | 生態系の状態に対する変化（生態系状況） | 法令遵守費用の増加<br>活動に必要とされる要員とモニタリングのコストの増加<br>事業拠点の移転に関連する費用 |\n| テクノロジー | より効率的で回復力が高く、環境への被害の少ない技術への移行要求 | 自然に配慮した技術イノベーションの失敗 | イノベーションの結果として予想されるマイナスのインパクト要因の低減（インパクト要因） | 新規技術や代替技術の研究開発支出の増加<br>自然関連目標を実現するのに必要な業務経費の増大<br>既存の資産の償却及び早期除却 |\n| 市場 | ネイチャーポジティブ／自然へのインパクトの少ない製品やサービスへの顧客／投資家の価値又は選好の変化 | 組織が生産工程に使用する植物ベースのインプットへの費用増大 | 生産工程に使用されるインプットの量（生態系サービス） | 生産／原材料費の増大<br>既存の製品／サービスの代用に関連する費用 |"
+    },
+    {
+      "page": 135,
+      "type": "table",
+      "en": "| Type | Risk | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n| Reputation | Changes in sentiment towards the organisation/ brand due to impacts on nature. | Company is responsible for an oil spill. | Total number of recorded oil spills (impact driver).<br>Volume of spill (impact driver).<br>Change in biodiversity intactness (ecosystem condition).<br>Change in catch numbers of fish in local fisheries (ecosystem service).<br>Decline in recreational value of area (ecosystem service). | Reduction in revenue due to lower demand for products and services.<br>Increased costs due to increased employee turnover/strikes.<br>Increased operational costs due to reduction in loyalty of suppliers or stakeholders.<br>Costs related to substituting existing products/services. |",
+      "ja": "| タイプ | リスク | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n| 評判 | 自然へのインパクトに起因する組織／ブランドに対するセンチメントの変化 | 企業が石油流出に責任を負う | 記録された石油流出の総回数（インパクト要因）<br>流出量（インパクト要因）<br>生物多様性の十全性における変化（生態系状況）<br>現地の漁場における漁獲数の変化（生態系サービス）<br>地域のレクリエーション価値の低下（生態系サービス） | 製品やサービスに対する需要低下による収益の減少<br>従業員離職率の増大／ストライキによるコスト増加<br>供給業者やステークホルダーの忠誠心低下による運営費用の増加<br>既存の製品／サービスの代用に関連する費用 |"
+    },
+    {
+      "page": 136,
+      "type": "caption",
+      "en": "Table 17: Illustrative examples of the quantification of opportunities",
+      "ja": "表17：機会の定量化の説明例"
+    },
+    {
+      "page": 136,
+      "type": "table",
+      "en": "| Sustainability performance opportunity | Business performance opportunity | Example | Exposure indicators | Magnitude indicators |\n|---|---|---|---|---|\n| Sustainable use of natural resources: Transition to processes/circularity mechanisms that reduce risks related to business dependencies on nature, including within the value chain: reduced pollution and waste | Transmission mechanisms:<br>Resource efficiency<br>Markets | An organisation adopts internal processes that reduce the levels of pollutants emitted to freshwater | Reduction in total freshwater discharge in areas with water scarcity (impact driver)<br>Water quality in area (ecosystem condition) | Reduced operational and compliance costs<br>Increased market valuation through resilience planning<br>Access to new sources of finance |\n| Ecosystem protection, restoration and regeneration: Direct restoration, conservation or protection of ecosystems or habitats | Transmission mechanisms:<br>Reputational capital<br>Markets | An organisation invests in the restoration of an area of degraded mangrove with the purpose to increase resilience of infrastructure | Area of degraded land restored (impact driver)<br>Improvement in ecosystem condition (ecosystem condition)<br>Incidence of flooding events (ecosystem service) | Increase in revenue due to improved reputation<br>Increased market valuation through resilience planning |",
+      "ja": "| サステナビリティパフォーマンスの機会 | 事業パフォーマンスの機会 | 例 | エクスポージャー指標 | 大きさ指標 |\n|---|---|---|---|---|\n| 自然資源の持続可能な利用：バリューチェーンを含む企業の自然への依存に関連するリスクを低減するプロセス／循環メカニズムへの移行：汚染や廃棄物の軽減 | 伝達のメカニズム：<br>資源効率<br>市場 | 組織が淡水に放出される汚染物質のレベルを低減する内部プロセスを採用する | 水不足の地域における淡水への総放出量の削減（インパクト要因）<br>地域の水質（生態系状況） | 業務費用及び法規制遵守コストの削減<br>レジリエンス計画を通じての市場評価の上昇<br>新規資金源へのアクセス |\n| 生態系の保護、復元、再生：生態系又は生息地の直接の復元、保全又は保護 | 伝達のメカニズム：<br>評判資本<br>市場 | 組織がインフラのレジリエンス向上を目的に、劣化したマングローブ地域の復元に投資する | 土地が劣化した地域の復元（インパクト要因）<br>生態系の状態の改善（生態系状況）<br>洪水事象の発生率（生態系サービス） | 評判の向上に起因する収益の増加<br>レジリエンス計画を通じての市場評価の上昇 |"
+    },
+    {
+      "page": 136,
+      "type": "p",
+      "en": "Organisations should refer to the TNFD’s suggested set of assessment metrics (Annex 1). Where the location is not known, potential exposure can be surmised through the use of estimates, models or generic sector impacts.",
+      "ja": "組織はTNFDが推奨する評価の測定指標（別紙1）を参照すべきである場所が把握できない場合は、推定値やモデル、一般的なセクターのインパクトの利用を通じて潜在的なエクスポージャーを要約してもよい。"
+    },
+    {
+      "page": 136,
+      "type": "p",
+      "en": "Financial institutions should also refer to the TNFD Additional Guidance for Financial Institutions for metrics currently in use among financial institutions for nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "金融機関はまた、自然関連の依存、インパクト、リスク及び機会に関し現在金融機関の間で使用されている測定指標について、TNFDの金融機関向け追加ガイダンスを参照すべきである。"
+    },
+    {
+      "page": 136,
+      "type": "h3",
+      "en": "6.7.3. Summary metrics",
+      "ja": "6.7.3. 概要測定指標"
+    },
+    {
+      "page": 136,
+      "type": "p",
+      "en": "Summary metrics provide an understanding of the overall exposure and/or potential financial implications for the organisation of nature-related risks and opportunities. They may be useful to define at a:",
+      "ja": "概要測定指標は、組織における自然関連のリスクと機会への全体的なエクスポージャー及び／又は潜在的な財務的意味合いの理解を提供するものである。以下のレベルで定めるのが有用だろう。"
+    },
+    {
+      "page": 136,
+      "type": "li",
+      "en": "Corporate level; and/or",
+      "ja": "企業レベル"
+    },
+    {
+      "page": 136,
+      "type": "li",
+      "en": "Portfolio level.",
+      "ja": "ポートフォリオレベル"
+    },
+    {
+      "page": 137,
+      "type": "p",
+      "en": "Summary metrics can help inform corporate and financial institution decision making and feed into external disclosures.",
+      "ja": "概要測定指標は企業や金融機関の意思決定に参考情報を提供し、外部への開示に組み入れるのに有用である。"
+    },
+    {
+      "page": 137,
+      "type": "h4",
+      "en": "Illustrative risk and opportunity summary metrics",
+      "ja": "リスクと機会の概要測定指標例示"
+    },
+    {
+      "page": 137,
+      "type": "p",
+      "en": "The following summary metrics can be used to assess nature-related risks and opportunities:",
+      "ja": "次に挙げる概要測定指標は、自然関連のリスクと機会の評価に使用することができる。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of assets, liabilities, revenue and expenses assessed as vulnerable to nature-related physical/ transition risks (total and proportion of total);",
+      "ja": "自然関連の物理的／移行リスクに脆弱であると判定された資産、賠償責任、収益、費用の価額（総額と総額に占める割合）"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of assets, liabilities, revenue and expenses exposed to nature-related physical/transition risks (total and proportion of total);",
+      "ja": "自然関連の物理的／移行リスクに曝露される資産、賠償責任、収益、費用の価額（総額と総額に占める割合）"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of significant fines/penalties received/litigation action in the year due to negative nature-related impacts;",
+      "ja": "自然関連のマイナスのインパクトに起因してその年に受けた重大な罰金／科料及び訴訟行動の価額"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of write-offs and early retirements of assets due to nature-related risks;",
+      "ja": "自然関連リスクに起因する資産の償却及び早期除却の価額"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of capital expenditure, financing or investment deployed towards nature-related risks/opportunities; and",
+      "ja": "自然関連のリスク／機会に投入された資本支出、資金拠出又は投資の価額"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Value of revenue from products and services producing demonstrable positive impacts on nature.109",
+      "ja": "実証可能な自然へのプラスのインパクトを生成する製品やサービスから得られる収益の価額109"
+    },
+    {
+      "page": 137,
+      "type": "p",
+      "en": "Where possible, it may be useful to split values into:",
+      "ja": "可能であれば、これらの価額を次のように分割すると有用である。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Values currently already being realised; and those that could be realised;",
+      "ja": "現時点ですでに実現されている価額、および実現できる可能性のある価額"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Different risk/opportunity categories; and",
+      "ja": "異なるリスク／機会のカテゴリー"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Prioritisation rating categories (e.g. very high, high, medium, low).",
+      "ja": "優先順位等級のカテゴリー（例えば非常に高い、高い、中等度、低い等）"
+    },
+    {
+      "page": 137,
+      "type": "h2",
+      "en": "6.8. Desired outputs from the Assess phase",
+      "ja": "6.8. 評価フェーズに求められる望ましいアウトプット"
+    },
+    {
+      "page": 137,
+      "type": "p",
+      "en": "As a result of working through the four components of the Assess phase, the LEAP assessment team should be equipped with:",
+      "ja": "評価フェーズの4つの構成要素に取り組んできた結果として、LEAP評価チームは以下のアウトプットが得られているべきである。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "A longlist of relevant nature-related risks and opportunities for the organisation. The output of this can support reporting on TNFD recommended disclosures (Metrics and targets A);",
+      "ja": "組織にとって適切な自然関連リスク及び機会のロングリスト。このアウトプットはTNFD開示提言での報告を支えられる（測定指標とターゲットA）。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "A matrix of risks consistent with the enterprise risk management framework of the organisation (e.g. significance by sector, business line, location and value chain);",
+      "ja": "組織の企業リスク管理枠組みと整合するリスクのマトリクス（例えばセクター、事業拠点、場所、バリューチェーンごとの意義）等。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "A shortlist of material nature-related risks and opportunities. The output of this can support reporting on TNFD Recommended Disclosures (Strategy A);",
+      "ja": "マテリアルな自然関連のリスクと機会のショートリスト。このアウトプットはTNFD開示提言での報告を支えられる（戦略A）。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "A list of priority locations. The output of this can support reporting on TNFD Recommended Disclosures (Strategy D); and",
+      "ja": "優先場所のリスト。このアウトプットはTNFD開示提言での報告を支えられる（戦略D）。"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "An outline of the process followed to identify existing risk mitigation and risk and opportunity management processes and elements and a set of recommendations for senior management to consider regarding the adaptation and improvement of these processes and elements to integrate nature-related risks and opportunities. The output of this can support reporting on TNFD recommended disclosures (Strategy B, and Risk and impact management A, B, and C).",
+      "ja": "既存のリスク緩和及びリスクと機会の管理プロセスや要素を特定する際に踏んだプロセスの概要と、自然関連のリスクと機会を統合するためこれらのプロセスや要素を改変改善することについて、上級管理層が検討できる一群の提言。このアウトプットはTNFD開示提言での報告を支えられる（戦略B、リスク及びインパクト管理A、B、C）。"
+    },
+    {
+      "page": 137,
+      "type": "h2",
+      "en": "6.9. Resources to support the Assess phase",
+      "ja": "6.9. 評価フェーズを支援するリソース"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Suggested metrics for nature-related risks and opportunities (Annex 1.2: Assess – Risk and opportunity metrics);",
+      "ja": "自然関連のリスクと機会に推奨される測定指標（別紙1.2：評価－リスクと機会測定指標）"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Guidance on valuation of dependencies and impacts on nature, prepared with the Capitals Coalition and based on the Natural Capital Protocol (Annex 3);",
+      "ja": "キャピタルコアリションが作成し、自然資本プロトコルに準拠した自然への依存とインパクトの評価に関するガイダンス（別紙3）"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Guidance on risk assessment methods for measuring nature-related risks and opportunities (Annex 4: Risk assessment methods);",
+      "ja": "自然関連のリスクと機会を測定するためのリスク評価法に関するガイダンス（別紙4：リスク評価の方法）"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "TNFD guidance on scenario analysis; and",
+      "ja": "シナリオ分析に関するTNFDガイダンス"
+    },
+    {
+      "page": 137,
+      "type": "li",
+      "en": "Nature-related risk and opportunity registers.",
+      "ja": "自然関連のリスクと機会台帳"
+    },
+    {
+      "page": 137,
+      "type": "footnote",
+      "en": "109 Positive impacts on nature refer to positive changes to the state of nature. They can be generated by both positive impact drivers and reducing negative impacts.",
+      "ja": "109 自然へのプラスのインパクトとは、自然の状態へのプラスの変化を指している。これらはプラスのインパクト要因とマイナスのインパクトの低減の両方によって創出することができる。"
+    },
+    {
+      "page": 138,
+      "type": "h1",
+      "en": "7. Preparing to respond and report",
+      "ja": "7. 対応と報告の準備"
+    },
+    {
+      "page": 138,
+      "type": "p",
+      "en": "This Prepare phase guidance is consistent with the joint guidance for corporates setting science-based targets for nature developed by the TNFD with the Science Based Targets Network (SBTN). Organisations are recommended to refer to SBTN’s full guidance for further details.110",
+      "ja": "この準備フェーズのガイダンスは、TNFDが科学に基づく目標ネットワーク（SBTN）とともに作成した、科学に基づく自然への目標を設定する企業向けの共同ガイダンスと整合するものである。SBTNのガイダンス全体を参照し、詳細を確認することを推奨する110。"
+    },
+    {
+      "page": 138,
+      "type": "h2",
+      "en": "7.1. Why",
+      "ja": "7.1. なぜ"
+    },
+    {
+      "page": 138,
+      "type": "p",
+      "en": "Having completed the Locate, Evaluate and Assess phases of the LEAP approach, a project team will be equipped with an assessment of material nature-related issues – dependencies, impacts, risks and opportunities – for the organisation.",
+      "ja": "LEAPアプローチの発見、診断、評価フェーズを完了すると、プロジェクトチームは、組織に対するマテリアルな自然関連課題－依存、インパクト、リスク、機会－の評価結果が得られていることになる。"
+    },
+    {
+      "page": 138,
+      "type": "p",
+      "en": "The project team will need to use this assessment to inform a discussion with internal stakeholders on how the organisation should respond to the issues identified, and what the organisation will disclose in line with the TNFD recommended disclosures.",
+      "ja": "プロジェクトチームは、この評価結果を参考情報として活用し、組織が特定された課題にどのように対応すべきか、また、組織がTNFDの開示提言に沿って何を開示するかを内部のステークホルダーと協議する必要がある。"
+    },
+    {
+      "page": 138,
+      "type": "h2",
+      "en": "7.2. What",
+      "ja": "7.2. 何を"
+    },
+    {
+      "page": 138,
+      "type": "p",
+      "en": "Your organisation should consider how to respond to the assessment of nature-related dependencies, impacts, risks and opportunities identified using the LEAP approach. This should include discussions among senior management teams across the organisation on implications for the organisation’s strategy, resource deployment and capital allocation at a business unit and enterprise level. The response decisions by your organisation should be framed within the broader corporate strategy and take into account short, medium and long-term considerations.",
+      "ja": "組織は、LEAPアプローチを用いて特定した自然関連の依存、インパクト、リスク、機会の評価結果にどのように対応すべきかを考察すべきである。これには、事業部門レベルと企業レベルにおける組織の戦略、資源の配置、資本の配分に関する組織全体の上級管理者チーム間の協議を含めるべきである。組織による対応の判断は、より広範囲の企業戦略の枠内で判断するとともに、短期、中期、長期の考察事項を組み入れるべきである。"
+    },
+    {
+      "page": 138,
+      "type": "p",
+      "en": "Your organisation’s response to the identified material nature-related dependencies, impacts, risks and opportunities will be specific to the sector, biome and geographic location in which the organisation is interfacing with nature. This guidance focuses on the process of forming organisational responses and targets, rather than what the specific responses and targets should be.",
+      "ja": "特定したマテリアルな自然関連の依存、インパクト、リスク、機会への組織の対応は、組織が自然と接するセクター、バイオーム、地理学的位置に固有のものになる。本ガイダンスは、具体的な対応や対象を何にすべきかではなく、組織の対応と対象を形成するプロセスに重点を置くものである。"
+    },
+    {
+      "page": 138,
+      "type": "h4",
+      "en": "Objective",
+      "ja": "目的"
+    },
+    {
+      "page": 138,
+      "type": "quote",
+      "en": "To decide how the organisation should respond to the material nature-related issues identified in the LEAP approach, including what to disclose and how to disclose the material issues identified.",
+      "ja": "特定したマテリアルな課題の何をどう開示すべきかを含め、組織がLEAPアプローチで特定したマテリアルな自然関連の課題にどう対応すべきかを決めること。"
+    },
+    {
+      "page": 138,
+      "type": "h4",
+      "en": "Desired outputs",
+      "ja": "望ましいアウトプット"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "Agreement on how the organisation will respond to the nature-related issues identified in the LEAP approach, including through setting effective goals and targets;",
+      "ja": "効果的な目標やターゲット設定を通じても含め、組織がLEAPアプローチで特定した自然関連課題にどのように対応するかについての合意。"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "A discussion within the organisation of its governance and risk management processes in light of its nature-related assessment;",
+      "ja": "自然関連評価の結果に照らした、組織のガバナンスとリスク管理プロセスの内部協議。"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "The setting of nature-related targets and goals by the organisation in light of its nature-related assessment; and",
+      "ja": "自然関連評価の結果に照らした、組織による自然関連ターゲットと目標の設定。"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "The production and publication of a set of TNFD-aligned disclosures.",
+      "ja": "TNFDと整合する開示情報の作成と発表。"
+    },
+    {
+      "page": 138,
+      "type": "h4",
+      "en": "Practical tips from pilot testers",
+      "ja": "実証試験実施組織から得られた実用的なヒント"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "Review and revisit previous phases of the LEAP approach if you need to, to ensure you have a fully informed response; and",
+      "ja": "完全に情報を得た上での対応であることを確認すべく、必要に応じてLEAPアプローチの前のフェーズを再確認し、再考する。"
+    },
+    {
+      "page": 138,
+      "type": "li",
+      "en": "Reflect on the learning from the LEAP assessment about how to define and describe the scope of the disclosures the organisation might make.",
+      "ja": "組織が作成する開示のスコープをどのように定義し、詳述するかについて、LEAP評価から得られた学びを熟考する。"
+    },
+    {
+      "page": 138,
+      "type": "footnote",
+      "en": "110 SBTN (2023) Resources",
+      "ja": "110 科学に基づく目標ネットワーク（2023）資料．"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "When corporates apply the TNFD Recommendations to set targets, the TNFD recommends they use methods developed by the SBTN to set science-based targets for nature. The TNFD recommends that corporates use SBTN guidance to take action towards, and measure progress and performance against these targets, as available.111",
+      "ja": "企業がTNFD提言をターゲットの設定に適用する場合、TNFDはSBTNの考案した方法を用いて科学に基づく自然のターゲットを設定するよう推奨している。TNFDは企業に対し、これらのターゲットに向けた行動や、その進捗と履行状況の測定に、SBTNのガイダンスを適宜使用することを提言している111。"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "Where relevant, further details on specific business responses to identified issues is provided in the TNFD sector and biome additional guidance.",
+      "ja": "必要に応じ、特定した課題に対する具体的な事業対応の詳細がTNFDのセクター及びバイオームに関する追加ガイダンスに提示されている。"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "Your organisation will then need to decide what to disclose on nature-related issues in line with the TNFD recommended disclosures and the form and presentation of those disclosures in line with relevant voluntary disclosure standards, such as those provided by the ISSB and GRI, and in line with regulatory requirements.",
+      "ja": "その後、組織はTNFD提言に従って自然関連課題に関し何を開示するか決め、ISSBやGRIが提供しているような関連する任意開示基準や規制要件に沿ってその形式と体裁を決める必要がある。"
+    },
+    {
+      "page": 139,
+      "type": "h2",
+      "en": "7.3. Guiding questions",
+      "ja": "7.3. ガイドとなる質問"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "The following high-level questions should guide analysis in the Prepare phase:",
+      "ja": "以下の概観レベルの質問が準備フェーズの分析を導くべきものである。"
+    },
+    {
+      "page": 139,
+      "type": "li",
+      "en": "P1: Strategy and resource allocation plans – What risk management, strategy and resource allocation decisions should be made as a result of this analysis?",
+      "ja": "P1：戦略及び資源配分計画－この分析の結果として、リスク管理、戦略、資源配分に関してどのような決定を行うべきか？"
+    },
+    {
+      "page": 139,
+      "type": "li",
+      "en": "P2: Target setting and performance management – How will we set targets and define and measure progress?",
+      "ja": "P2：ターゲットの設定とパフォーマンスの管理－どのようにしてターゲットを設定し、進捗を定義して測定するか？"
+    },
+    {
+      "page": 139,
+      "type": "li",
+      "en": "P3: Reporting – What will we disclose in line with the TNFD recommended disclosures?",
+      "ja": "P3：報告－TNFDの開示提言に従い何を開示するか？"
+    },
+    {
+      "page": 139,
+      "type": "li",
+      "en": "P4: Presentation – Where and how do we present our nature-related disclosures?",
+      "ja": "P4：提示－自然関連の開示をどこに、どのようにして提示するか？"
+    },
+    {
+      "page": 139,
+      "type": "h2",
+      "en": "7.4. P1: Strategy and resource allocation plans",
+      "ja": "7.4. P1：戦略及び資源配分計画"
+    },
+    {
+      "page": 139,
+      "type": "h4",
+      "en": "P1: Strategy and resource allocation plans",
+      "ja": "P1：戦略及び資源配分計画"
+    },
+    {
+      "page": 139,
+      "type": "quote",
+      "en": "What risk management, strategy and resource allocation decisions should be made as a result of this analysis?",
+      "ja": "この分析の結果として、リスク管理、戦略、資源配分に関してどのような決定を行うべきか？"
+    },
+    {
+      "page": 139,
+      "type": "h3",
+      "en": "7.4.1. Key considerations",
+      "ja": "7.4.1. 主要な考察事項"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "Based on the assessment of nature-related dependencies, impacts, risks and opportunities in the Locate, Evaluate and Assess phases of the LEAP approach, the LEAP assessment team, backed by their senior sponsor, should present their assessment to senior management teams from across the organisation and discuss the implications for risk management, strategy and resource allocation decisions at a business unit and enterprise level.",
+      "ja": "LEAPアプローチの発見、診断、評価フェーズでの自然関連の依存、インパクト、リスク、機会の分析結果にもとづき、LEAP評価チームは上司の支援の下、評価結果を組織全体の上級管理者チームに提示し、事業部門レベル及び企業レベルにおけるリスク管理、戦略、資源配分決定にとっての示唆を議論すべきである。"
+    },
+    {
+      "page": 139,
+      "type": "p",
+      "en": "These discussions and subsequent decisions should be framed within the context of broader risk management, strategy, governance processes and resource allocation, taking into account short, medium and long-term considerations. They should include:",
+      "ja": "これら議論とその後の決定は、短期、中期、長期の検討事項を考慮に入れた上で、より広い範囲のリスク管理、戦略、ガバナンスプロセス、資源配分の文脈の中で行われるべきである。ここには次の事項を含めるべきである。"
+    },
+    {
+      "page": 139,
+      "type": "li",
+      "en": "Implications for the organisation’s strategy: What are the implications of our assessment of nature-related dependencies, impacts, risks and opportunities for the organisation’s corporate or business unit strategy? What should be the organisation’s strategy in relation to nature-related issues? How is this shaped by different plausible future scenarios facing the organisation? Is the strategy resilient in the face of the trends and uncertainties, and risks and opportunities identified?",
+      "ja": "組織の戦略に対する示唆：自然関連の依存、インパクト、リスク及び機会の評価結果が組織の企業戦略や事業部門戦略に示唆するものは何か？自然関連課題に関する組織の戦略はどのようなものであるべきか？この戦略を、組織が直面する、将来に起こりうる多様なシナリオごとにどのように形成していくか？戦略は、傾向と不確実性、特定したリスクと機会に直面した時にレジリエントか？"
+    },
+    {
+      "page": 139,
+      "type": "footnote",
+      "en": "111 SBTN (2023) Resources",
+      "ja": "111 科学に基づく目標ネットワーク（2023）資料．"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Implications for the organisation’s governance processes: What are the implications of nature-related dependencies, impacts, risks and opportunities for the organisation’s governance process? Do board and management oversight of nature-related dependencies, impacts, risks and opportunities need to be improved in light of the assessment?",
+      "ja": "組織のガバナンスプロセスへの示唆：自然関連の依存、インパクト、リスク、機会が組織のガバナンスプロセスに示唆するものは何か？役員会や経営層による自然関連の依存、インパクト、リスク、機会の監督は、評価結果に照らすと改善の必要があるか？"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Implications for the organisation’s risk management processes: What are the implications of nature-related dependencies, impacts, risks and opportunities for the organisation’s overall risk management processes? Based on the assessment, do nature-related issues need to be better integrated into overall risk management processes? If so, how?",
+      "ja": "組織のリスク管理プロセスへの示唆：自然関連の依存、インパクト、リスク、機会が組織の全体的なリスク管理プロセスに示唆するものは何か？評価結果をふまえて、自然関連課題をより良い形で全体的なリスク管理プロセスに統合していく必要はあるか？そうであれば、どのように統合すべきか？"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Implications for the organisation’s resource allocation and financial position: What are the implications of nature-related dependencies, impacts, risks and opportunities for the organisation’s resource allocation? How would the organisation’s financial position change over the short, medium and long term, given its proposed strategy to manage nature-related risks and opportunities? What investment and disposal plans (for example, plans for capital expenditure, major acquisitions and divestments, joint ventures, business transformation, innovation, new business areas and asset retirements) and planned sources of funding should be considered to implement the strategy?",
+      "ja": "組織の資源配分と財務状況への示唆：自然関連の依存、インパクト、リスク、機会が組織の資源配分に示唆するものは何か？自然関連のリスクと機会の管理のために提案された戦略を所与とすると、組織の財務状況は短期的、中期的、長期的にどのように変化しうるか？戦略を実施するために、どのような投資及び資産の処分計画（例えば資本支出、規模の大きな買収と売却、合弁事業、事業転換、イノベーション、新規事業領域、除却のための計画等）や計画上の資金源を検討すべきか？"
+    },
+    {
+      "page": 140,
+      "type": "p",
+      "en": "To inform these discussion and decisions, an organisation should consider:",
+      "ja": "これらの議論や決定に情報を提供するため、組織は次の点を考察すべきである。"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Investor preferences: What are the attitudes and investment criteria of key capital providers to our organisation? What nature-related issues are they assessing? How can we address their concerns and/ or capitalise on their interest in financing nature-positive outcomes in the locations, and across the sectors and value chains, in which we are active? What risks, if any, do we face with respect to a possible loss of investor confidence as a result of our nature-related dependencies, impacts and risks? What impact could that have on our access to, or cost of, capital?",
+      "ja": "投資家の選好：主要な出資者の組織に対する態度や投資基準はどのようなものか？これらの出資者はどの自然関連課題を評価しているか？その場所で、ならびに組織が活発に活動しているセクターやバリューチェーンの全体において、ネイチャーポジティブな結果に資金を獲得する上で、どうしたらこれらの出資者の懸念に対処したり、出資者の関心を存分に活用していくことができるか？あるとすれば、自然関連の依存、インパクト、リスクの結果として起こりうる投資家の信頼喪失に関連して組織が直面するリスクはどのようなものか？これは組織の資本へのアクセスや資本コストにどのようなインパクトを及ぼす可能性があるか？"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Government and financial regulatory policies: What implications do current and potential changes in government policy in relevant jurisdictions have for our responses to nature-related issues? Are policy and regulatory signals within and across key markets and areas of nature-related issues aligned or misaligned? What are the implications for managing potential transition risks? For financial institutions, what implications do current and potential changes in financial regulation have for our responses to nature-related issues?",
+      "ja": "政府および金融当局の政策：関連する法域における現在及び潜在的な政府の政策の変更が組織の自然関連課題への対応に示唆するものは何か？主要市場内及び主要市場全体にわたっての政策と規制のシグナルは、自然関連課題分野と一致しているか、それともずれているか？潜在的な移行リスクの管理に示唆するものは何か？金融機関の場合、金融規制の現在及び潜在的な変更が組織の自然関連課題への対応に示唆するものは何か？"
+    },
+    {
+      "page": 140,
+      "type": "li",
+      "en": "Rights-holders and stakeholders: What are we learning from our engagement with Indigenous Peoples, Local Communities and affected stakeholders at the locations where our organisation interfaces with nature and has moderate/high impacts, dependencies, risks and opportunities? What potential responses and solutions have we identified through this engagement?",
+      "ja": "権利保有者及びステークホルダー：組織が自然と接し、中／高程度のインパクト、依存、リスク、機会を保有している場所での先住民族や地域社会、影響を受けているステークホルダーとのエンゲージメントから何を学んでいるか？このエンゲージメントを通じ、どのような潜在的な対応や解決策を特定したか？"
+    },
+    {
+      "page": 140,
+      "type": "p",
+      "en": "Financial institutions should look into resource allocation and governance of several key functions, including risk functions (in the case of all institutions), underwriting units (in the case of insurers), lending teams (in the case of banks) and investment teams (in the case of asset managers and owners) to monitor nature-related dependencies. These teams and the processes they are responsible for should be readied to integrate the nature-related issues identified. It can entail the integration of nature into risk management, commercial strategy investment management or insurance hazard models. A more specific focus may be needed for certain geographies or sectors. Additional engagement or due diligence processes may need to be put in place. New teams may need to be built to develop nature-related advisory and product and service offerings. External data providers may be able to support these teams and processes.",
+      "ja": "金融機関は、自然関連の依存を監視するため、リスク部門（すべての機関の場合）、引き受け部門（保険企業の場合）、融資チーム（銀行の場合）及び投資チーム（運用機関とアセットオーナーの場合）を含む複数の主要部門の資源配分とガバナンスについて調査すべきである。これらのチームと、チームが責任を負っているプロセスは、特定された自然関連課題を統合する準備ができているべきである。これは、リスク管理、商業的戦略的投資管理、あるいは保険ハザードモデルへの自然の統合を必然的に伴う可能性がある。特定の地理学的位置やセクターでは、より具体的な重点事項が必要になる場合がある。さらなるエンゲージメントやデューディリジェンスプロセスの整備が必要になるかもしれない。自然関連の助言や製品サービス提供案を作成するのに、新たなチームの構築が必要かもしれない。既存のデータプロバイダーはこれらのチームやプロセスを支援できる可能性がある。"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "doc": "tc",
+  "pages": [
+    101,
+    120
+  ],
+  "segments": [
+    {
+      "page": 101,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C3.1 (cont.) |  | Quantity of high-risk natural commodities98 (tonnes) sourced under a sustainable management plan or certification programme, including proportion of total high-risk natural commodities. | Semiconductors, EMS & ODM and Hardware<br>In reporting this core global disclosure metric, an organisation should disclose the quantity (tonnes) and proportion (%) of high-risk natural commodities sourced that are covered by recognised responsible sourcing, sustainable management or certification programmes, broken down by commodity and programme.<br>Datacentres, Telecommunications Infrastructure and Services, Software & IT Services, Internet Media & Services<br>In reporting this core global disclosure metric, an organisation should disclose the proportion (%) of procured electronic and electrical equipment (EEE) covered by recognised responsible sourcing or certification programmes, broken down by product and programme.<br>Examples of recognised responsible sourcing and certification programmes include the Initiative for Responsible Mining Assurance (IRMA), Aluminium Stewardship Initiative (ASI), The Copper Mark, the Responsible Minerals Assurance Process (RMAP), Fairtrade Gold, Fairmined.99 | TNFD |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 本セクター向けガイダンス | 出典 |\n|---|---|---|---|---|\n| C3.1（続き） |  | 持続可能な管理計画または認証プログラムの下で調達された高リスク天然一次産品98の量（トン）。高リスク天然一次産品全体に占める割合を含む。 | 半導体、EMS & ODMおよびハードウェア<br>このグローバル中核開示指標を報告するにあたり、組織は、調達した高リスク天然一次産品のうち、認知された責任ある調達、持続可能な管理または認証のプログラムの対象となっているものの量（トン）と割合（%）を、一次産品別およびプログラム別に内訳を示して開示すべきである。<br>データセンター、電気通信インフラおよびサービス、ソフトウェアおよびITサービス、インターネット・メディアおよびサービス<br>このグローバル中核開示指標を報告するにあたり、組織は、調達した電気電子機器（EEE）のうち、認知された責任ある調達または認証のプログラムの対象となっているものの割合（%）を、製品別およびプログラム別に内訳を示して開示すべきである。<br>認知された責任ある調達および認証のプログラムの例としては、Initiative for Responsible Mining Assurance（IRMA）、Aluminium Stewardship Initiative（ASI）、The Copper Mark、Responsible Minerals Assurance Process（RMAP）、Fairtrade Gold、Fairminedがある99。 | TNFD |"
+    },
+    {
+      "page": 101,
+      "type": "footnote",
+      "en": "98 Users should refer to the Science Based Targets Network (SBTN) High Impact Commodity List (HICL) and indicate what proportion of these commodities represent threatened and CITES listed species.",
+      "ja": "98 利用者は、科学に基づく目標ネットワーク（SBTN）の高インパクト一次産品リスト（HICL）を参照し、これらの一次産品のうち、絶滅のおそれのある種およびワシントン条約（CITES）の掲載種に該当するものの割合を示すべきである。"
+    },
+    {
+      "page": 101,
+      "type": "footnote",
+      "en": "99 Disclosure of certification coverage does not imply full alignment with the TNFD recommendations and does not replace other TNFD disclosure guidance.",
+      "ja": "99 認証の対象範囲の開示は、TNFDの提言との完全な整合を意味するものではなく、TNFDの他の開示ガイダンスに代わるものでもない。"
+    },
+    {
+      "page": 102,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C4.0 | Placeholder indicator:<br>Measures against unintentional introduction of invasive alien species (IAS) | Proportion of high-risk activities operated under appropriate measures to prevent unintentional introduction of IAS, or low risk designed activities. | No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 本セクター向けガイダンス | 出典 |\n|---|---|---|---|---|\n| C4.0 | プレースホルダー指標：<br>侵略的外来種（IAS）の非意図的導入に対する対策 | IASの非意図的導入を防止する適切な対策の下で運営されている高リスクの活動、または低リスクに設計された活動の割合。 | セクター固有の追加ガイダンスはない。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 103,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C5.0 | Placeholder indicator: Ecosystem condition | For those organisations that choose to report on state of nature metrics, the TNFD encourages them to report the following indicators and to refer to the TNFD additional guidance on measurement of the state of nature in Annex 2 of the LEAP approach:<br>• Level of ecosystem condition by type of ecosystem and business activity; and<br>• Species extinction risk. | No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 本セクター向けガイダンス | 出典 |\n|---|---|---|---|---|\n| C5.0 | プレースホルダー指標：生態系の状態 | 自然の状態の測定指標について報告することを選択した組織については、TNFDは以下の指標を報告するよう奨励し、LEAPアプローチの別紙2にあるTNFDの自然の状態の測定に関する追加ガイダンスを参照することを推奨している。<br>• 生態系の種類別と事業活動別の生態系の状態レベル<br>• 種の絶滅リスク | セクター固有の追加ガイダンスはない。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 104,
+      "type": "table",
+      "en": "| Metric no. | Core global indicator | Core global metric | Guidance for this sector | Source |\n|---|---|---|---|---|\n| C5.0 | Placeholder indicator: Species extinction risk | There are a number of different measurement options for these indicators. The TNFD continues to work with knowledge partners to increase alignment. | No further sector specific guidance; refer to the core global disclosure metric. |  |",
+      "ja": "| 測定指標番号 | グローバル中核指標 | グローバル中核測定指標 | 本セクター向けガイダンス | 出典 |\n|---|---|---|---|---|\n| C5.0 | プレースホルダー指標：種の絶滅リスク | これらの指標には、さまざまな測定オプションがある。TNFDは整合性を高めるために、引き続きナレッジ・パートナーと協力している。 | セクター固有の追加ガイダンスはない。グローバル中核開示指標を参照のこと。 |  |"
+    },
+    {
+      "page": 105,
+      "type": "caption",
+      "en": "Box 3: Water efficiency and impact metrics for datacentres",
+      "ja": "ボックス3：データセンターの水効率およびインパクトの測定指標"
+    },
+    {
+      "page": 105,
+      "type": "quote",
+      "en": "Datacentre water use can vary significantly by cooling technology, operating conditions and location. Facility-level metrics are therefore important for understanding both operational water efficiency and pressure on local water resources.",
+      "ja": "データセンターの水使用量は、冷却技術、運転条件および立地によって大きく異なり得る。したがって、施設レベルの測定指標は、操業上の水効率と地域の水資源への負荷の双方を理解するうえで重要である。"
+    },
+    {
+      "page": 105,
+      "type": "quote",
+      "en": "Water usage effectiveness (WUE)100 is established in the datacentre sector and relates annual site water use to IT equipment energy consumption. WUE is also standardised under ISO/IEC 30134-9.101 However, reported values may still differ depending on the measurement boundary and calculation approach used. In line with the TNFD recommendations, organisations should disclose WUE by location and explain the definition, boundary and methodology used. This supports interpretation, comparability and further market convergence.",
+      "ja": "水使用効率（WUE）100はデータセンターセクターにおいて確立された測定指標であり、事業拠点の年間水使用量をIT機器のエネルギー消費量と関連付けるものである。WUEはISO/IEC 30134-9の下でも標準化されている101。しかし、報告される値は、使用される測定のバウンダリーおよび計算アプローチによって依然として異なる場合がある。TNFDの提言に沿って、組織はWUEを拠点別に開示し、使用した定義、バウンダリーおよび方法論を説明すべきである。これにより、解釈、比較可能性および市場におけるさらなる収斂が促される。"
+    },
+    {
+      "page": 105,
+      "type": "quote",
+      "en": "Water usage impact (WUI)102 complements WUE by combining site water consumption with local water stress. WUI is a recent metric and is not currently widely used for benchmarking across datacentres; its methodology may evolve as adoption increases. It is therefore included as a TNFD additional sector metric. Organisations reporting WUI should disclose the metric version, water-consumption definition, water-stress source and reference year used.",
+      "ja": "水使用インパクト（WUI）102は、事業拠点の水消費量と地域の水ストレスを組み合わせることでWUEを補完する。WUIは新しい測定指標であり、現時点ではデータセンター間のベンチマーキングに広く使用されてはいない。その方法論は、普及が進むにつれて変化する可能性がある。そのため、WUIはTNFDの追加セクター測定指標として含められている。WUIを報告する組織は、使用した測定指標のバージョン、水消費量の定義、水ストレスの情報源および基準年を開示すべきである。",
+      "flag": "term-uncertain: Water usage impact (WUI)"
+    },
+    {
+      "page": 105,
+      "type": "h2",
+      "en": "3.2. Core sector disclosure indicators and metrics",
+      "ja": "3.2. セクター中核開示指標と測定指標"
+    },
+    {
+      "page": 105,
+      "type": "p",
+      "en": "The TNFD core sector disclosure metrics for the technology and communications sector are outlined in Table 11. These metrics are recommended by the TNFD to be disclosed by all report preparers in this sector on a comply or explain basis, in addition to reporting the core global metrics outlined above. Some of these metrics are applicable for a limited number of sub-sectors, which have been highlighted where relevant. All other metrics apply to all subsectors within the scope of this guidance.",
+      "ja": "技術・通信セクターに関するTNFDのセクター中核開示測定指標を表11に示す。これらの測定指標は、上記のグローバル中核測定指標の報告に加えて、本セクターのすべての報告書作成者がコンプライ・オア・エクスプレインの原則に基づいて開示することをTNFDが推奨するものである。これらの測定指標の一部は限られた数のサブセクターに適用されるものであり、該当する場合はその旨を明示している。その他の測定指標はすべて、本ガイダンスのスコープ内のすべてのサブセクターに適用される。"
+    },
+    {
+      "page": 105,
+      "type": "footnote",
+      "en": "100 The Green Grid (2011) WP #35 – Water Usage Effectiveness (WUE): A Green Grid Data Center Sustainability Metric.",
+      "ja": "100 The Green Grid（2011）WP #35 – Water Usage Effectiveness (WUE): A Green Grid Data Center Sustainability Metric."
+    },
+    {
+      "page": 105,
+      "type": "footnote",
+      "en": "101 ISO (2012) ISO/IEC 30134-9: Information technology – Data centres key performance indicators – Part 9: Water Use Effectiveness (WUE).",
+      "ja": "101 ISO（2012）ISO/IEC 30134-9: Information technology – Data centres key performance indicators – Part 9: Water Use Effectiveness (WUE)."
+    },
+    {
+      "page": 105,
+      "type": "footnote",
+      "en": "102 The Green Grid (2025) WP#95 Water Usage Impact (WUI) v1 Metric.",
+      "ja": "102 The Green Grid（2025）WP#95 Water Usage Impact (WUI) v1 Metric."
+    },
+    {
+      "page": 106,
+      "type": "caption",
+      "en": "Table 11: Core sector disclosure indicators and metrics",
+      "ja": "表11：セクター中核開示指標と測定指標"
+    },
+    {
+      "page": 106,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Core sector disclosure indicator | Core sector disclosure metric | Source |\n|---|---|---|---|---|---|\n| T.C1.0 | Impact driver | Land/freshwater/ocean use change | Habitat fragmentation | Telecommunications infrastructure<br>Length (km) of new or expanded linear telecommunications infrastructure constructed outside existing infrastructure corridors (including terrestrial and subsea cables, fibre-optic routes, ducts/conduits and overhead telecommunications lines):<br>• In sensitive locations, by sensitive location criteria met, stating the ecosystem type; and<br>• In other areas, stating the ecosystem type. | Adapted from TNFD Engineering, Construction and Real Estate guidance |\n| T.C2.0 | Impact driver | Pollution/pollution removal | Pollution incidents to air, soil and/or water | Number of pollution incidents involving releases to air, soil and/or water that required notification to a competent authority, required remediation or containment, or exceeded permit, licence or legal limits including location, substance spilled, volume and any observed impacts. | Adapted from GRI |\n| T.C2.1 | Impact driver | Pollution/pollution removal | Material recovery from wastewater | Weight (tonnes) of materials (e.g. minerals and metals) recovered from wastewater, and the proportion (%) this represents of the total quantity of those materials present in the wastewater before recovery. | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | セクター中核開示指標 | セクター中核開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.C1.0 | インパクト要因 | 陸／淡水／海洋利用の変化 | 生息地の分断化 | 電気通信インフラ<br>既存のインフラ回廊の外に建設された、新設または拡張された線状の電気通信インフラ（陸上ケーブルおよび海底ケーブル、光ファイバールート、ダクト／管路、架空電気通信線を含む）の長さ（km）：<br>• 要注意地域におけるもの（満たしている要注意地域の基準別。生態系の種類を明記する）<br>• その他の地域におけるもの（生態系の種類を明記する） | TNFDのエンジニアリング・建設・不動産ガイダンスから改変 |\n| T.C2.0 | インパクト要因 | 汚染／汚染除去 | 大気、土壌および／または水への汚染事故 | 大気、土壌および／または水への放出を伴う汚染事故のうち、所管当局への届出を要したもの、修復もしくは封じ込めを要したもの、または許可、ライセンスもしくは法令上の限度を超過したものの件数。発生場所、流出した物質、量および観察されたインパクトを含む。 | GRIから改変 |\n| T.C2.1 | インパクト要因 | 汚染／汚染除去 | 廃水からの物質回収 | 廃水から回収された物質（例：鉱物および金属）の重量（トン）、ならびに回収前の廃水に含まれていた当該物質の総量に占めるその割合（%）。 | TNFD |"
+    },
+    {
+      "page": 107,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Core sector disclosure indicator | Core sector disclosure metric | Source |\n|---|---|---|---|---|---|\n| T.C2.3 | Impact driver | Pollution/pollution removal | Circularity of infrastructure | Datacentres, Telecommunications infrastructure<br>Weight (tonnes) of network equipment or infrastructure installed during the reporting period that was reused or refurbished, and the proportion (%) this represents of the total weight installed during the reporting period. | Adapted from GSMA (2024) |\n| T.C23.0 | Response | Dependency, impact, risk and opportunity management: Changes to nature (dependency and impact): mitigation hierarchy steps | Reduction, reuse and recycling of water | Semiconductors, EMS & ODM, Hardware and Datacentres<br>Volume (m³) of water reused or recycled, and the reuse or recycling rate (%), calculated as water reused or recycled divided by the sum of water reused or recycled and new water intake. Water reused or recycled multiple times should be counted each time it is reused or recycled. | TNFD |\n| T.C23.1 | Response | Dependency, impact, risk and opportunity management: Changes to nature (dependency and impact): mitigation hierarchy steps | Wastewater reclamation | Semiconductors, EMS & ODM, Hardware, and Datacentres<br>Quantity (m³) and proportion (%) of wastewater reclaimed internally. | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | セクター中核開示指標 | セクター中核開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.C2.3 | インパクト要因 | 汚染／汚染除去 | インフラの循環性 | データセンター、電気通信インフラ<br>報告期間中に設置されたネットワーク機器またはインフラのうち、再利用またはリファービッシュ（再整備）されたものの重量（トン）、ならびに報告期間中に設置された総重量に占めるその割合（%）。 | GSMA（2024）から改変 |\n| T.C23.0 | 対応 | 依存、インパクト、リスクと機会の管理：自然の変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 水の削減、再利用およびリサイクル | 半導体、EMS & ODM、ハードウェアおよびデータセンター<br>再利用またはリサイクルされた水の量（m³）と再利用率またはリサイクル率（%）。再利用率またはリサイクル率は、再利用またはリサイクルされた水を、再利用またはリサイクルされた水と新規取水量の合計で除して算出する。複数回再利用またはリサイクルされた水は、再利用またはリサイクルされるたびに計上すべきである。 | TNFD |\n| T.C23.1 | 対応 | 依存、インパクト、リスクと機会の管理：自然の変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 廃水の再生利用 | 半導体、EMS & ODM、ハードウェアおよびデータセンター<br>内部で再生利用された廃水の量（m³）と割合（%）。 | TNFD |"
+    },
+    {
+      "page": 108,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Core sector disclosure indicator | Core sector disclosure metric | Source |\n|---|---|---|---|---|---|\n| T.C23.2 | Response | Dependency, impact, risk and opportunity management: Changes to nature (dependency and impact): mitigation hierarchy steps | Resource recovery and circularity | Semiconductors, EMS & ODM, Hardware, Datacentres, Telecommunications Infrastructure<br>Weight (tonnes) and proportion (%) of high-impact commodities identified under C3.1 that are sourced as recycled/secondary materials or substituted with lower impact alternative materials, reported separately. Disclose the methodology and criteria used to determine lower environmental impact. | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | セクター中核開示指標 | セクター中核開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.C23.2 | 対応 | 依存、インパクト、リスクと機会の管理：自然の変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 資源回収と循環性 | 半導体、EMS & ODM、ハードウェア、データセンター、電気通信インフラ<br>C3.1で特定された高インパクト一次産品のうち、リサイクル材／二次材料として調達されたもの、またはインパクトのより低い代替材料に置き換えられたものの重量（トン）と割合（%）（それぞれ区別して報告する）。環境インパクトがより低いことの判断に使用した方法論と基準を開示する。 | TNFD |"
+    },
+    {
+      "page": 109,
+      "type": "h2",
+      "en": "3.3. Additional sector disclosure indicators and metrics",
+      "ja": "3.3. 追加セクター開示指標と測定指標"
+    },
+    {
+      "page": 109,
+      "type": "p",
+      "en": "Table 12 includes additional disclosure metrics which are recommended for disclosure, where relevant, to best represent an organisation’s material nature-related issues, based on their specific circumstances.",
+      "ja": "表12には、組織の個別の状況に基づき、組織のマテリアルな自然関連課題を最もよく表すために、関連する場合に開示が推奨される追加開示測定指標を示す。"
+    },
+    {
+      "page": 109,
+      "type": "caption",
+      "en": "Table 12: Additional sector disclosure indicators and metrics",
+      "ja": "表12：追加セクター開示指標と測定指標"
+    },
+    {
+      "page": 109,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A1.0 | Impact driver | Land/freshwater/ocean use change | Land conversion | For organisations expanding their physical infrastructure:<br>• Proportion (%) of new deployments using existing infrastructure and/or colocation rather than greenfield development. | TNFD |\n| T.A1.1 | Impact driver | Land/freshwater/ocean use change | Restoration in the wider landscape/water basin | Number and area (km2) of projects where an organisation has restored or contributed to the restoration of the wider water basin (e.g. upstream reforestation) beyond the land under direct operational control of the organisation. | TNFD |\n| T.A2.2 | Impact driver | Pollution/pollution removal | Packaging | EMS & ODM, Hardware<br>Total weight of non-plastic packaging placed on the market (tonnes), and the weight and proportion (%) that is reusable and recyclable, respectively. |  |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A1.0 | インパクト要因 | 陸／淡水／海洋利用の変化 | 土地転換 | 物理的インフラを拡張している組織の場合：<br>• 新規展開（設置）のうち、グリーンフィールド開発ではなく既存のインフラおよび／またはコロケーションを利用したものの割合（%） | TNFD |\n| T.A1.1 | インパクト要因 | 陸／淡水／海洋利用の変化 | より広域のランドスケープ／流域における復元 | 組織の直接的な運営管理下にある土地を越えて、組織がより広域の流域を復元した、または流域の復元に貢献したプロジェクト（例：上流での再植林）の件数と面積（km2）。 | TNFD |\n| T.A2.2 | インパクト要因 | 汚染／汚染除去 | 包装材 | EMS & ODM、ハードウェア<br>市場に投入されたプラスチック以外の包装材の総重量（トン）、ならびにそのうち再利用可能なものとリサイクル可能なもののそれぞれの重量と割合（%）。 |  |",
+      "flag": "layout-uncertain: only two Source entries for three rows; T.A2.2 source left blank"
+    },
+    {
+      "page": 110,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A3.0 | Impact driver | Resource use/replenishment | Daily and monthly water withdrawal | Semiconductors, EMS & ODM, Hardware and Datacentres<br>• Monthly water withdrawal (m3); and<br>• Peak daily water withdrawal (m3), including calendar date. | TNFD |\n| T.A3.1 | Impact & response driver | Resource use/replenishment | Cooling system operation | Datacentre facilities using evaporative cooling systems<br>• Operating hours in each cooling mode: evaporative, mechanical/DX, chilled water and hybrid;<br>• Water used per cooling mode (m3);<br>• Seasonal operation pattern (summer/winter cooling profile);<br>• On-site water storage capacity (m3); and<br>• Maximum cooling duration without external water supply (hours). | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A3.0 | インパクト要因 | 資源使用／資源補充 | 日次および月次の取水量 | 半導体、EMS & ODM、ハードウェアおよびデータセンター<br>• 月次の取水量（m3）<br>• ピーク時の日次取水量（m3）（その暦日を含む） | TNFD |\n| T.A3.1 | インパクト要因・対応要因 | 資源使用／資源補充 | 冷却システムの運転 | 蒸発冷却システムを使用しているデータセンター施設<br>• 各冷却モード（蒸発式、機械式／DX（直接膨張式）、冷水式、ハイブリッド）の運転時間<br>• 冷却モードごとの使用水量（m3）<br>• 季節別の運転パターン（夏季／冬季の冷却プロファイル）<br>• オンサイトの貯水容量（m3）<br>• 外部からの水供給なしでの最大冷却継続時間（時間） | TNFD |",
+      "flag": "term-uncertain: Impact & response driver"
+    },
+    {
+      "page": 111,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A3.2 | Impact driver | Resource use/replenishment | Metering coverage | Datacentres<br>• Proportion (%) of water inflows metered rather than estimated; and<br>• Proportion (%) of water outflows, including wastewater, that are metered.<br>An organisation should provide details of submetering for cooling towers, adiabatic units, humidifiers. | TNFD |\n| T.A3.3 | Impact driver | Resource use/replenishment | Water use of installed IT capacity | Datacentres<br>Water use (m3) per megawatt (MW) of installed IT capacity. | TNFD |\n| T.A3.4 | Impact driver | Resource use/replenishment | Water Usage Impact (WUI) | Datacentres<br>Water Usage Impact (WUI103) score, calculated using water consumed and the water stress level at the datacentre location (see Box 3). | The Green Grid (2025) |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A3.2 | インパクト要因 | 資源使用／資源補充 | 計量の対象範囲 | データセンター<br>• 推計ではなく計量されている流入水の割合（%）<br>• 計量されている流出水（廃水を含む）の割合（%）<br>組織は、冷却塔、断熱（アディアバティック）冷却装置、加湿器のサブメータリング（個別計量）の詳細を提供すべきである。 | TNFD |\n| T.A3.3 | インパクト要因 | 資源使用／資源補充 | 設置済みIT容量当たりの水使用量 | データセンター<br>設置済みIT容量1メガワット（MW）当たりの水使用量（m3）。 | TNFD |\n| T.A3.4 | インパクト要因 | 資源使用／資源補充 | 水使用インパクト（WUI） | データセンター<br>消費された水量とデータセンター所在地の水ストレスレベルを用いて算出される水使用インパクト（WUI103）スコア（ボックス3参照）。 | The Green Grid（2025） |",
+      "flag": "term-uncertain: Water Usage Impact (WUI)"
+    },
+    {
+      "page": 111,
+      "type": "footnote",
+      "en": "103 See Box 3 on Water efficiency and impact metrics for datacentres.",
+      "ja": "103 ボックス3「データセンターの水効率およびインパクトの測定指標」を参照のこと。"
+    },
+    {
+      "page": 112,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A3.5 | Impact driver | Resource use/replenishment | AI/HPC water intensity | Datacentres<br>For Graphics Processing Units (GPU)-heavy sites:<br>• Water use per GPU per hour (m3/h);<br>• Water use per kWh delivered to GPU racks (m3/kWh); and<br>• Water use per model training run (if the customer requests structured reporting) (m3/run). | TNFD |\n| T.A3.6 | Impact driver | Resource use/replenishment (multiple drivers of change associated with electricity generation) | Electricity consumption by source | Datacentres<br>Total electricity consumption for datacentre operations (MWh) and proportion (%), disaggregated by source of supply, including:<br>• Electricity imported from the grid;<br>• Electricity generated on-site from renewable sources;<br>• Electricity generated on-site from fossil-fuel sources; and<br>• Electricity supplied through direct power purchase agreements or other dedicated off-site generation arrangements, where applicable. | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A3.5 | インパクト要因 | 資源使用／資源補充 | AI／高性能計算（HPC）の水原単位 | データセンター<br>画像処理装置（GPU）の比重が高い事業拠点の場合：<br>• GPU1基・1時間当たりの水使用量（m3/h）<br>• GPUラックに供給される電力1kWh当たりの水使用量（m3/kWh）<br>• モデルの学習1回当たりの水使用量（顧客が構造化された報告を求める場合）（m3/run） | TNFD |\n| T.A3.6 | インパクト要因 | 資源使用／資源補充（発電に関連する複数の変化要因） | 供給源別の電力消費量 | データセンター<br>データセンターの運営に係る総電力消費量（MWh）と割合（%）を供給源別に分けたもの。以下を含む。<br>• 電力系統（グリッド）から受電した電力<br>• 再生可能エネルギー源によりオンサイトで発電された電力<br>• 化石燃料源によりオンサイトで発電された電力<br>• 該当する場合、直接の電力購入契約（PPA）またはその他の専用のオフサイト発電の取り決めを通じて供給された電力 | TNFD |"
+    },
+    {
+      "page": 113,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A19.0 | Response | Strategy: Policies, commitments and targets | Science-based target for freshwater quantity/landscape approach/water withdrawal | Number and proportion (%) of sites in areas of water scarcity where an organisation has set a science-based target for freshwater quantity104 and/or has worked with other stakeholders in the water basin to determine sustainable water withdrawal limits from the basin. Disclose relevant information on the stakeholder process, basin and withdrawal limits. | TNFD, SBTN |\n| T.A23.0 | Response | Dependency, impact, risk and opportunity management: Changes to nature (dependency and impact): mitigation hierarchy steps | Design for disassembly | Semiconductors, EMS & ODM, Hardware, Datacentres, Telecommunications Infrastructure<br>Number and proportion (%) of new products, facilities, infrastructure and equipment developed or procured that are covered by defined design-for-disassembly, repair, refurbishment and component-recovery criteria, by product or asset category. Disclose the criteria or standard applied. | TNFD |\n| T.A25.0 | Response | Dependency, impact, risk and opportunity management: Dependency, impact, risk and opportunity assessment | Protected/sensitive natural areas screening | Proportion (%) of sites geolocated and screened for overlap with or proximity to protected and/or sensitive natural areas. | TNFD |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A19.0 | 対応 | 戦略：方針、コミットメントおよびターゲット | 淡水の量に関する科学に基づくターゲット／ランドスケープ・アプローチ／取水 | 水不足の地域にある事業拠点のうち、組織が淡水の量に関する科学に基づくターゲット104を設定している、および／または流域の他のステークホルダーと協力して当該流域からの持続可能な取水限度を決定している事業拠点の数と割合（%）。ステークホルダーのプロセス、流域および取水限度に関する関連情報を開示する。 | TNFD、SBTN |\n| T.A23.0 | 対応 | 依存、インパクト、リスクと機会の管理：自然の変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 分解を考慮した設計 | 半導体、EMS & ODM、ハードウェア、データセンター、電気通信インフラ<br>開発または調達された新規の製品、施設、インフラおよび機器のうち、分解を考慮した設計、修理、リファービッシュおよび部品回収に関する所定の基準の対象となっているものの数と割合（%）（製品または資産のカテゴリー別）。適用した基準または規格を開示する。 | TNFD |\n| T.A25.0 | 対応 | 依存、インパクト、リスクと機会の管理：依存、インパクト、リスクと機会の評価 | 保護地域／要注意自然地域のスクリーニング | 位置情報が特定され、保護地域および／または要注意の自然地域との重複または近接についてスクリーニングされた事業拠点の割合（%）。 | TNFD |"
+    },
+    {
+      "page": 113,
+      "type": "footnote",
+      "en": "104 SBTN (2024) Freshwater targets. Freshwater targets – Science Based Targets Network.",
+      "ja": "104 SBTN（2024）Freshwater targets. Freshwater targets – Science Based Targets Network."
+    },
+    {
+      "page": 114,
+      "type": "table",
+      "en": "| Metric no. | Metric category | Metric subcategory | Indicator | Additional sector disclosure metrics | Source |\n|---|---|---|---|---|---|\n| T.A25.1 | Response | Dependency, impact, risk and opportunity management: Dependency, impact, risk and opportunity assessment | Environmental impact assessment coverage | Semiconductors, Datacentres<br>Number and proportion (%) of new facilities and expansions subject to an environmental impact assessment that included assessment of impacts on biodiversity, ecosystems and habitat connectivity. | TNFD<br>IFC Performance Standard 1: Assessment and Management of Environmental and Social Risks and Impacts<br>IFC Performance Standard 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources |",
+      "ja": "| 測定指標番号 | 測定指標のカテゴリー | 測定指標のサブカテゴリー | 指標 | 追加セクター開示測定指標 | 出典 |\n|---|---|---|---|---|---|\n| T.A25.1 | 対応 | 依存、インパクト、リスクと機会の管理：依存、インパクト、リスクと機会の評価 | 環境影響評価の対象範囲 | 半導体、データセンター<br>新規施設および拡張のうち、生物多様性、生態系および生息地の連結性に対するインパクトの評価を含む環境影響評価の対象となったものの数と割合（%）。 | TNFD<br>国際金融公社（IFC）パフォーマンス・スタンダード1：環境・社会リスクと影響の評価と管理<br>IFCパフォーマンス・スタンダード6：生物多様性の保全と生物自然資源の持続可能な管理 |",
+      "flag": "term-uncertain: environmental impact assessment (established term 環境影響評価 kept)"
+    },
+    {
+      "page": 115,
+      "type": "h1",
+      "en": "Annex 1: SICS® industries in scope",
+      "ja": "別紙1：スコープ内のSICS®産業"
+    },
+    {
+      "page": 115,
+      "type": "caption",
+      "en": "Box 4: SICS® industries in the scope of this guidance document",
+      "ja": "ボックス4：本ガイダンス文書のスコープ内のSICS®産業"
+    },
+    {
+      "page": 115,
+      "type": "h4",
+      "en": "Semiconductors",
+      "ja": "半導体"
+    },
+    {
+      "page": 115,
+      "type": "quote",
+      "en": "Semiconductors industry entities design or manufacture semiconductor devices, integrated circuits, their raw materials and components, or capital equipment. Some entities in the industry provide outsourced manufacturing, assembly or other services for designers of semiconductor devices.",
+      "ja": "半導体産業の企業は、半導体デバイス、集積回路、それらの原材料および部品、または資本設備を設計または製造する。この産業の一部の企業は、半導体デバイスの設計者向けに、外部委託による製造、組立またはその他のサービスを提供する。"
+    },
+    {
+      "page": 115,
+      "type": "h4",
+      "en": "Electronic Manufacturing Services (EMS) & Original Design Manufacturing (ODM)",
+      "ja": "電子機器受託製造サービス（EMS）および相手先ブランド設計製造（ODM）"
+    },
+    {
+      "page": 115,
+      "type": "quote",
+      "en": "The EMS and ODM industry consists of two main segments. EMS entities provide assembly, logistics and after-market services for original equipment manufacturers. ODM entities provide engineering and design services for original equipment manufacturers and may own significant intellectual property. Although EMS and ODM entities produce equipment for a variety of sectors, the industry is associated closely with the hardware industry, which consists of entities that design technology hardware products such as personal computers, consumer electronics and storage devices for both personal consumers and businesses.",
+      "ja": "EMSおよびODM産業は、主に2つのセグメントで構成される。EMS企業は、相手先ブランド製造業者（OEM）向けに組立、ロジスティクスおよびアフターマーケットサービスを提供する。ODM企業は、相手先ブランド製造業者向けにエンジニアリングおよび設計サービスを提供し、重要な知的財産を保有している場合がある。EMS企業およびODM企業はさまざまなセクター向けに機器を製造しているが、この産業はハードウェア産業と密接に関連している。ハードウェア産業は、個人消費者と企業の双方を対象として、パーソナルコンピューター、民生用電子機器、ストレージデバイスなどの技術ハードウェア製品を設計する企業で構成される。"
+    },
+    {
+      "page": 115,
+      "type": "h4",
+      "en": "Hardware",
+      "ja": "ハードウェア"
+    },
+    {
+      "page": 115,
+      "type": "quote",
+      "en": "Hardware industry entities design and sell technology hardware products, including computers, consumer electronics, communications equipment, storage devices, components and peripherals. Many entities in the industry rely heavily upon the EMS and ODM industry for manufacturing services. The industry is expected to continue to grow as technology use rapidly increases, especially among emerging market consumers.",
+      "ja": "ハードウェア産業の企業は、コンピューター、民生用電子機器、通信機器、ストレージデバイス、部品および周辺機器を含む技術ハードウェア製品を設計・販売する。この産業の多くの企業は、製造サービスをEMSおよびODM産業に大きく依存している。特に新興市場の消費者の間で技術の利用が急速に拡大するにつれ、この産業は今後も成長を続けると見込まれている。"
+    },
+    {
+      "page": 115,
+      "type": "h4",
+      "en": "Software & Information Technology (IT) Services",
+      "ja": "ソフトウェアおよび情報技術（IT）サービス"
+    },
+    {
+      "page": 115,
+      "type": "quote",
+      "en": "The Software & IT Services industry offers products and services globally to retail, business and government customers and includes entities that develop and sell applications software, infrastructure software and middleware. The industry generally is competitive but with dominant players in some segments. Although relatively immature, the industry is characterised by high-growth entities that place a heavy emphasis on innovation and depend on human and intellectual capital. The industry also includes IT services entities delivering specialised IT functions, such as consulting and outsourced services. New industry business models include cloud computing, software as a service, virtualisation, machine-to-machine communication, big data analysis and machine learning. Additionally, brand value is important for entities in the industry to scale and achieve network effects, whereby wide adoption of a particular software product may result in self-perpetuating growth in sales.",
+      "ja": "ソフトウェアおよびITサービス産業は、個人顧客、企業顧客および政府顧客に対して製品とサービスをグローバルに提供しており、アプリケーションソフトウェア、インフラストラクチャーソフトウェアおよびミドルウェアを開発・販売する企業を含む。この産業は一般に競争が激しいが、一部のセグメントには支配的なプレーヤーが存在する。比較的未成熟ではあるものの、この産業は、イノベーションを重視し、人的資本と知的資本に依存する高成長企業によって特徴づけられる。この産業には、コンサルティングや外部委託サービスなど、専門的なIT機能を提供するITサービス企業も含まれる。この産業における新たなビジネスモデルには、クラウドコンピューティング、SaaS（Software as a Service）、仮想化、マシン・ツー・マシン（M2M）通信、ビッグデータ分析および機械学習が含まれる。さらに、この産業の企業が規模を拡大し、ネットワーク効果を達成するうえでは、ブランド価値が重要である。ネットワーク効果とは、特定のソフトウェア製品が広く普及することにより、販売が自己増殖的に成長する場合があることをいう。"
+    },
+    {
+      "page": 116,
+      "type": "h4",
+      "en": "Telecommunications Services",
+      "ja": "電気通信サービス"
+    },
+    {
+      "page": 116,
+      "type": "quote",
+      "en": "Telecommunication Services industry entities provide a range of services from wireless and wireline telecommunications to cable and satellite services. The wireless services segment provides direct communication through radio-based cellular networks and operates and maintains the associated switching and transmission facilities. The wireline segment provides local and long-distance voice communication via the Public Switched Telephone Network. Wireline carriers also offer voice over internet protocol (VoIP) telephone, television and broadband internet services over an expanding network of fibre optic cables. Cable providers distribute television programming from cable networks to subscribers. They typically also provide consumers with video services, high-speed internet service and VoIP. Traditionally, these services are bundled into packages that charge subscribers a single payment. Satellite entities distribute TV programming through broadcasting satellites orbiting the earth or through ground stations. Entities serve customers primarily in their domestic markets, although some entities operate in more than one country.",
+      "ja": "電気通信サービス産業の企業は、無線通信および有線通信からケーブルサービスおよび衛星サービスまで、幅広いサービスを提供する。無線サービス・セグメントは、無線ベースのセルラーネットワークを通じて直接的な通信を提供し、関連する交換設備および伝送設備を運用・保守する。有線セグメントは、公衆交換電話網を介して市内および長距離の音声通信を提供する。有線通信事業者は、拡大を続ける光ファイバーケーブル網を通じて、VoIP（Voice over Internet Protocol）電話、テレビおよびブロードバンドインターネットサービスも提供する。ケーブル事業者は、ケーブルネットワークのテレビ番組を加入者に配信する。また、一般に、消費者に対して映像サービス、高速インターネットサービスおよびVoIPも提供する。従来、これらのサービスは、加入者に一括で料金を請求するパッケージとしてバンドルされている。衛星企業は、地球を周回する放送衛星または地上局を通じてテレビ番組を配信する。企業は主に国内市場の顧客にサービスを提供しているが、一部の企業は複数の国で事業を展開している。"
+    },
+    {
+      "page": 116,
+      "type": "h4",
+      "en": "Internet Media & Services",
+      "ja": "インターネット・メディアおよびサービス"
+    },
+    {
+      "page": 116,
+      "type": "quote",
+      "en": "The Internet Media & Services industry consists of two main segments. Entities in the Internet Media segment provide search engines and internet advertising channels, online gaming and online communities such as social networks. They also provide content, which is usually easily searchable, such as educational, medical, health, sports or news content. Entities in the internet-based services segment sell services, mainly through the internet. The industry generates revenue primarily from online advertising, usually on free content, with other revenue coming from subscription fees, content sales or the sale of user information to third parties.",
+      "ja": "インターネット・メディアおよびサービス産業は、主に2つのセグメントで構成される。インターネット・メディア・セグメントの企業は、検索エンジンおよびインターネット広告チャネル、オンラインゲーム、ならびにソーシャルネットワークなどのオンラインコミュニティを提供する。また、教育、医療、健康、スポーツ、ニュースなど、通常は容易に検索可能なコンテンツも提供する。インターネットベースのサービス・セグメントの企業は、主にインターネットを通じてサービスを販売する。この産業は、主にオンライン広告（通常は無料コンテンツ上の広告）から収益を得ており、その他の収益は購読料、コンテンツの販売、またはユーザー情報の第三者への販売から得ている。"
+    },
+    {
+      "page": 116,
+      "type": "p",
+      "en": "From SASB Standards (2024) Sustainable Industry Classification System (SICS®)",
+      "ja": "出典：SASBスタンダード（2024）「持続可能な産業分類システム（SICS®）」"
+    },
+    {
+      "page": 117,
+      "type": "h1",
+      "en": "Annex 2: ISIC groups/classes included in industry materiality ratings",
+      "ja": "別紙2：産業別マテリアリティ評価に含まれるISICのグループ／クラス"
+    },
+    {
+      "page": 117,
+      "type": "p",
+      "en": "Annex 2 provides an overview of the SASB industries and the associated ISIC division and group/class that have been mapped under each industry as part of the materiality ratings in Section 2.",
+      "ja": "別紙2は、SASBの産業と、セクション2のマテリアリティ評価の一環として各産業に対応付けられたISICの中分類（division）およびグループ／クラスの概要を示す。",
+      "flag": "term-uncertain: ISIC division"
+    },
+    {
+      "page": 117,
+      "type": "caption",
+      "en": "Table 13: SASB industries mapped against ISIC division and group/class",
+      "ja": "表13：ISICの中分類およびグループ／クラスに対応付けたSASBの産業"
+    },
+    {
+      "page": 117,
+      "type": "table",
+      "en": "| SASB industry | ISIC Division | ISIC Group / Class |\n|---|---|---|\n| Semiconductors | Manufacture of computer, electronic and optical products | Manufacture of electronic components and boards |\n| EMS & ODM | Manufacture of computer, electronic and optical products<br>Manufacture of electronic equipment | Manufacture of computers and peripheral equipment<br>Manufacture of electronic components and boards<br>Manufacture of communication equipment<br>Manufacture of consumer electronics<br>Manufacture of batteries and components<br>Manufacture of wiring and wiring devices<br>Manufacture of other electronic equipment |\n| Hardware | Manufacture of computer, electronic and optical products<br>Wholesale and retail trade<br>Retail trade | Manufacture of consumer electronics<br>Wholesale of machinery, equipment and supplies<br>Retail sale of information and communications equipment in specialised stores |",
+      "ja": "| SASBの産業 | ISIC中分類 | ISICグループ／クラス |\n|---|---|---|\n| 半導体 | コンピューター、電子製品および光学製品の製造 | 電子部品および基板の製造 |\n| EMS & ODM | コンピューター、電子製品および光学製品の製造<br>電子機器の製造 | コンピューターおよび周辺機器の製造<br>電子部品および基板の製造<br>通信機器の製造<br>民生用電子機器の製造<br>電池および部品の製造<br>配線および配線器具の製造<br>その他の電子機器の製造 |\n| ハードウェア | コンピューター、電子製品および光学製品の製造<br>卸売業および小売業<br>小売業 | 民生用電子機器の製造<br>機械、機器および用品の卸売<br>専門店における情報通信機器の小売 |",
+      "flag": "layout-uncertain: merged cells; row grouping reconstructed"
+    },
+    {
+      "page": 118,
+      "type": "table",
+      "en": "| SASB industry | ISIC Division | ISIC Group / Class |\n|---|---|---|\n| Datacentres | Information services<br>Computer programming, consultancy and related activities | Data processing, hosting and related activities<br>Computer programming, consultancy and related activities |\n| Telecommunications infrastructure & services | Telecommunications | Wired telecommunication activities<br>Wireless telecommunication activities<br>Satellite telecommunication activities<br>Other telecommunication activities |\n| Software & IT services | Computer programming, consultancy and related activities<br>Information services<br>Wholesale and retail trade | Computer programming, consultancy and related activities<br>Data processing, hosting and related activities<br>Wholesale of machinery, equipment and supplies |\n| Internet & Media services | Information service activities | Other service information activities<br>Retail trade, not in stores, stalls or markets |",
+      "ja": "| SASBの産業 | ISIC中分類 | ISICグループ／クラス |\n|---|---|---|\n| データセンター | 情報サービス<br>コンピュータープログラミング、コンサルティングおよび関連活動 | データ処理、ホスティングおよび関連活動<br>コンピュータープログラミング、コンサルティングおよび関連活動 |\n| 電気通信インフラおよびサービス | 電気通信 | 有線電気通信活動<br>無線電気通信活動<br>衛星電気通信活動<br>その他の電気通信活動 |\n| ソフトウェアおよびITサービス | コンピュータープログラミング、コンサルティングおよび関連活動<br>情報サービス<br>卸売業および小売業 | コンピュータープログラミング、コンサルティングおよび関連活動<br>データ処理、ホスティングおよび関連活動<br>機械、機器および用品の卸売 |\n| インターネット・メディアおよびサービス | 情報サービス活動 | その他の情報サービス活動<br>店舗、露店または市場以外での小売 |",
+      "flag": "layout-uncertain: merged cells; division/group alignment for Software & IT and Internet rows reconstructed"
+    },
+    {
+      "page": 119,
+      "type": "h1",
+      "en": "Annex 3: List of pollutant classes and illustrative examples of substances of concern by sub-sector",
+      "ja": "別紙3：汚染物質の分類およびサブセクター別の懸念物質の例示の一覧"
+    },
+    {
+      "page": 119,
+      "type": "p",
+      "en": "This list provides sector-specific illustrative examples of substances of concern within each pollutant class and is not exhaustive. Organisations should refer to this list when disclosing against the relevant pollution metrics in Section 3. This list provides sector-specific examples and is not exhaustive.",
+      "ja": "この一覧は、各汚染物質の分類における懸念物質のセクター固有の例示を示すものであり、網羅的なものではない。組織は、セクション3の関連する汚染の測定指標に照らして開示する際に、この一覧を参照すべきである。この一覧はセクター固有の例を示すものであり、網羅的なものではない。"
+    },
+    {
+      "page": 119,
+      "type": "p",
+      "en": "Refer to Annex 4 for selected standards, regulations and frameworks relevant to pollutants. Where applicable legal or regulatory frameworks require disclosure of additional pollutants or impose more stringent measurement or reporting requirements, organisations should apply those requirements when reporting against the relevant TNFD metric.",
+      "ja": "汚染物質に関連する主な基準、規制およびフレームワークについては、別紙4を参照のこと。適用される法令上または規制上のフレームワークが追加の汚染物質の開示を求めている場合、またはより厳格な測定もしくは報告の要件を課している場合、組織は、関連するTNFDの測定指標に照らして報告する際に、それらの要件を適用すべきである。"
+    },
+    {
+      "page": 119,
+      "type": "caption",
+      "en": "Table 14: List of water-related pollutant classes and illustrative examples of substances of concern relevant by subsector",
+      "ja": "表14：水関連の汚染物質の分類と、サブセクター別に関連する懸念物質の例示の一覧"
+    },
+    {
+      "page": 119,
+      "type": "table",
+      "en": "| Pollutant class | Illustrative examples of substances of concern | Applicable sub-sector(s) |\n|---|---|---|\n| Per- and Polyfluoroalkyl Substances (PFAS) | PFOS and other PFAS compounds | Semiconductors, EMS & ODM, Hardware |\n| Metals and Metalloids | Copper (Cu), Zinc (Zn), Nickel (Ni), Chromium (Cr), Lead (Pb), Cadmium (Cd), Mercury (Hg), Arsenic (As), Selenium (Se), Tin (Sn) | Semiconductors, EMS & ODM, Hardware, Datacentres |\n| Organic Pollutants | Tetramethylammonium Hydroxide (TMAH), azoles, solvents, developers, surfactants, cleaning-agent residues, flux residues | Semiconductors, EMS & ODM, Hardware |\n| Cyanides (CN–) | Total cyanide, free cyanide | Semiconductors, EMS & ODM, Hardware |\n| Nutrients | Ammonia (NH₃-N), nitrate (NO₃–), Total Nitrogen (TN), Total Phosphorus (TP) | Semiconductors, EMS & ODM, Hardware |\n| Halogenated organic compounds | Chlorinated and brominated organic compounds | Semiconductors |\n| Fluoride Compounds | Fluoride | Semiconductors |\n| Cooling-water Treatment Chemicals | Biocides, corrosion inhibitors | Datacentres |",
+      "ja": "| 汚染物質の分類 | 懸念物質の例示 | 該当するサブセクター |\n|---|---|---|\n| 有機フッ素化合物（PFAS） | PFOSおよびその他のPFAS化合物 | 半導体、EMS & ODM、ハードウェア |\n| 金属および半金属 | 銅（Cu）、亜鉛（Zn）、ニッケル（Ni）、クロム（Cr）、鉛（Pb）、カドミウム（Cd）、水銀（Hg）、ヒ素（As）、セレン（Se）、スズ（Sn） | 半導体、EMS & ODM、ハードウェア、データセンター |\n| 有機汚染物質 | 水酸化テトラメチルアンモニウム（TMAH）、アゾール類、溶剤、現像液、界面活性剤、洗浄剤の残留物、フラックスの残留物 | 半導体、EMS & ODM、ハードウェア |\n| シアン化物（CN–） | 全シアン、遊離シアン | 半導体、EMS & ODM、ハードウェア |\n| 栄養塩類 | アンモニア（NH₃-N）、硝酸（NO₃–）、全窒素（TN）、全リン（TP） | 半導体、EMS & ODM、ハードウェア |\n| 有機ハロゲン化合物 | 有機塩素化合物および有機臭素化合物 | 半導体 |\n| フッ素化合物 | フッ化物 | 半導体 |\n| 冷却水処理薬品 | 殺生物剤、腐食防止剤 | データセンター |"
+    },
+    {
+      "page": 120,
+      "type": "h1",
+      "en": "Annex 4: List of standards, regulations and frameworks relevant to pollution",
+      "ja": "別紙4：汚染に関連する基準、規制およびフレームワークの一覧"
+    },
+    {
+      "page": 120,
+      "type": "p",
+      "en": "Organisations should refer to selected standards, regulations and frameworks below when disclosing against the relevant pollution metrics in Section 3.",
+      "ja": "組織は、セクション3の関連する汚染の測定指標に照らして開示する際に、以下に示す主な基準、規制およびフレームワークを参照すべきである。"
+    },
+    {
+      "page": 120,
+      "type": "p",
+      "en": "This list includes international conventions and regional and national frameworks relevant to pollutants, hazard classes and substances of concern, and is not exhaustive. Where applicable legal or regulatory frameworks require disclosure of additional pollutants or impose more stringent measurement or reporting requirements, organisations should apply those requirements when reporting against the relevant TNFD metric.",
+      "ja": "この一覧には、汚染物質、有害性クラスおよび懸念物質に関連する国際条約ならびに地域および国のフレームワークが含まれるが、網羅的なものではない。適用される法令上または規制上のフレームワークが追加の汚染物質の開示を求めている場合、またはより厳格な測定もしくは報告の要件を課している場合、組織は、関連するTNFDの測定指標に照らして報告する際に、それらの要件を適用すべきである。"
+    },
+    {
+      "page": 120,
+      "type": "caption",
+      "en": "Table 15: Selected examples of environmental quality standards, regulations and frameworks for pollutants",
+      "ja": "表15：汚染物質に関する環境品質基準、規制およびフレームワークの主な例"
+    },
+    {
+      "page": 120,
+      "type": "table",
+      "en": "| List | Type of source | Summary |\n|---|---|---|\n| PFAS Toxic Release Inventory | Inventory | PFAS Toxic release inventory. |\n| Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS) | Regulation | RoHS restricts the use of ten substances: lead, cadmium, mercury, hexavalent chromium, polybrominated biphenyls (PBB) and polybrominated diphenyl ethers (PBDE), bis(2-ethylhexyl) phthalate (DEHP), butyl benzyl phthalate (BBP), dibutyl phthalate (DBP) and diisobutyl phthalate (DIBP). |\n| EU REACH Regulation | Regulation | REACH lists 476 substances that, if exceeding 1 tonne per year per company, must be registered with ECHA. Companies must identify the risks linked to the substances they handle and indicate how they manage them. This obligation applies to both substances and mixtures. |",
+      "ja": "| リスト | 情報源の種類 | 概要 |\n|---|---|---|\n| PFAS有害化学物質排出目録（Toxic Release Inventory） | 目録（インベントリー） | PFASの有害化学物質排出目録。 |\n| 電気電子機器における特定有害物質の使用制限（RoHS指令） | 規制 | RoHS指令は、鉛、カドミウム、水銀、六価クロム、ポリ臭化ビフェニル（PBB）およびポリ臭化ジフェニルエーテル（PBDE）、フタル酸ビス（2-エチルヘキシル）（DEHP）、フタル酸ブチルベンジル（BBP）、フタル酸ジブチル（DBP）ならびにフタル酸ジイソブチル（DIBP）の10物質の使用を制限している。 |\n| EU REACH規則 | 規制 | REACH規則は、1社当たり年間1トンを超える場合に欧州化学品庁（ECHA）への登録が義務付けられる476物質を掲載している。企業は、取り扱う物質に関連するリスクを特定し、それらをどのように管理しているかを示さなければならない。この義務は、物質と混合物の双方に適用される。 |"
+    }
+  ]
+}

@@ -1,0 +1,1768 @@
+{
+  "doc": "leap",
+  "pages": [
+    57,
+    84
+  ],
+  "segments": [
+    {
+      "page": 57,
+      "type": "h2",
+      "en": "4.7. L4: Interface with sensitive locations",
+      "ja": "4.7. L4：要注意地域との接点"
+    },
+    {
+      "page": 57,
+      "type": "h4",
+      "en": "L4: Interface with sensitive locations",
+      "ja": "L4：要注意地域との接点"
+    },
+    {
+      "page": 57,
+      "type": "quote",
+      "en": "For our organisation’s activities in moderate and high dependency and impact value chains and sectors, which of these are in ecologically sensitive locations? And which of our direct operations are in sensitive locations?",
+      "ja": "中から高程度の依存とインパクトを伴うバリューチェーンやセクターでの組織の活動において、そのうち、生態学的な要注意地域にあるのはどれか？また、直接操業のうちどれが要注意地域に位置しているか？"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Organisations may have significant dependencies and impacts and/or face elevated nature-related risks and opportunities in business locations that are also ecologically sensitive locations.",
+      "ja": "組織は、生態学的にも注意を要する事業拠点に重大な依存やインパクトがあったり、これらの拠点において自然関連のリスク及び機会の引き上げに直面している場合がある。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "For corporates: Building on the assessment in L1 to L3, corporates should assess whether activities are geographically located in ecologically sensitive locations: (i) anywhere in their direct operations; and (ii) in their assessed moderate and high dependency and impact value chains and sectors.",
+      "ja": "企業の場合：L1からL3の評価に立脚して、企業は、（i）直接操業のいずれかの場所、及び（ii）評価した中から高程度の依存とインパクトを伴うバリューチェーンやセクターにおいて、活動が要注意地域に地理学的に位置しているかどうかを評価すべきである。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "For financial institutions: Financial institutions should look at the interfaces of their clients and investees with sensitive locations – as well as considering their direct operations. They may draw on external providers to undertake their analysis as well as information directly from clients and investees. The Storebrand case study (Box 11) highlights this type of analysis.",
+      "ja": "金融機関の場合：金融機関は、自身の直接操業について検討するだけでなく、顧客や投資先企業の要注意地域との接点について考察する必要がある。顧客や投資先企業から直接得られた情報に加え、外部のプロバイダーを利用して分析を実施してもよい。ストアブランドの事例研究（ボックス11）は、この種の分析を強調的に説明したものである。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Sensitive locations are defined by TNFD as:",
+      "ja": "要注意地域について、TNFDは次のように定義している。"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Areas important for biodiversity, including species; and/or",
+      "ja": "種を含め、生物多様性にとって重要な地域"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Areas of high ecosystem integrity; and/or",
+      "ja": "生態系の十全性が高い地域"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Areas of rapid decline in ecosystem integrity; and/or",
+      "ja": "生態系の十全性が急速に低下している地域"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Areas of high physical water risks; and/or",
+      "ja": "物理的な水リスクが高い地域"
+    },
+    {
+      "page": 57,
+      "type": "li",
+      "en": "Areas of importance for ecosystem service provision, including benefits to Indigenous Peoples, Local Communities and stakeholders.",
+      "ja": "先住民族、地域社会及びステークホルダーへの便益を含め、生態系サービスの供給にとって重要な地域"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "Table 4 provides greater detail on these five criteria defining sensitive locations, including recommended reference datasets that can be used by a LEAP assessment team to get started with its identification of any sensitive locations meeting one or more of these criteria. Only one criterion needs to be met to constitute a sensitive location.",
+      "ja": "表4は、要注意地域を定義するこれら5つの基準についてさらに詳しく説明したものである。LEAP評価チームがこれらの基準の1つ又は複数に適合する要注意地域の特定に着手するために使用できる、推奨参照データセットも含まれている。1つでも基準に当てはまれば、要注意地域に該当するものと考えなければならない。"
+    },
+    {
+      "page": 57,
+      "type": "p",
+      "en": "These are only example datasets to provide some consistency of analytic approach. The list provided is not exhaustive and there may be other reference sources and datasets that a LEAP assessment team might consider, depending on the specifics of the organisation’s business model and value chains. Relevant information may also be found in national and regional-level data. In addition, stakeholder engagement and judgement are critical to this assessment, based on the unique business model of the organisation and its interface with nature.",
+      "ja": "これらは分析のアプローチにある程度の一貫性を確保するためのデータセットの一例に過ぎない。提示したリストはすべてを網羅した包括的なものではなく、組織のビジネスモデルやバリューチェーンの詳細に応じ、LEAPチームが検討できる他の参考情報源やデータセットもあるだろう。国や地域レベルのデータにも関連情報が見つかる可能性がある。更に、組織独自のビジネスモデルやその自然との接点をふまえ、この評価にはステークホルダーエンゲージメントと判断が不可欠である。"
+    },
+    {
+      "page": 58,
+      "type": "caption",
+      "en": "Table 4: Criteria for sensitive location identification and reference datasets28",
+      "ja": "表4：要注意地域の特定に関する基準と参照データセット28"
+    },
+    {
+      "page": 58,
+      "type": "table",
+      "en": "| Area | Criteria | Recommended metrics and reference datasets |\n|---|---|---|\n| Biodiversity importance | Areas of biodiversity importance include, but are not limited to:<br>• Areas protected through legal or other effective means, for example, areas designated as protected areas according to local, national, regional and/or international conventions and agreements, and/or areas conserved through other effective area-based conservation measures (OECMs). | • World Database on Protected Areas (WDPA) and other effective area-based conservation measures (OECMs) that include both legally protected areas of all IUCN management categories and areas recognised by international and regional conventions and agreements (e.g. natural and mixed World Heritage sites, Ramsar Wetlands of International Importance, Natura 2000 sites, regional seas agreements). |\n|  | • Areas scientifically recognised for importance for biodiversity. | • Key Biodiversity Areas (that include IPAs, AZEs, IBAs);<br>• Ecologically or Biologically Significant Marine Areas (EBSAs); and<br>• Important Marine Mammal Areas: IMMA e-Atlas – Marine Mammal Protected Areas Task Force. |\n|  | • Areas important for species, including threatened species (Critically Endangered, Endangered and Vulnerable at global and/or national and/or regional levels), and/or congregatory, migratory and/or range-restricted or endemic species. | • IUCN Red List of Threatened Species;<br>• Minimum threshold for the Species Threat Abatement and Restoration (STAR) metric; and<br>• Ocean+ Data Viewer marine biodiversity spatial datasets. |",
+      "ja": "| 地域 | 基準 | 推奨評価指標と参照データセット |\n|---|---|---|\n| 生物多様性の重要性 | 生物多様性の重要性には、例えば次のようなものがある。ただし、これらに限定されるわけではない。<br>• 例えば地域や国、地方、国際的な条約や協定に従って保護地域に指定されている地域や、保護地域以外で生物多様性保全に資する地域（OECMs）を通じて保全されている地域等、法律上又はその他の有効な手段を通じて保護されている地域。 | • 世界保護地域データベース（WDPA）、及び保護地域以外で生物多様性保全に資する地域（OECMs）。すべてのIUCN管理カテゴリーにおける法律で保護されている地域と、国際及び地方の条約や協定（例えば自然及び複合世界遺産、国際的に重要なラムサール登録湿地、ナチューラ2000指定地、地方の公海協定等）の両方を含む。 |\n|  | • 生物多様性にとっての重要性が科学的に認識されている地域。 | • 生物多様性重要地域（IPAs、AZEs、IBAsを含む）<br>• 生態学的又は生物学的に重要な海域（EBSAs）<br>• 重要な海洋哺乳類地域：IMMA e-Atlas – Marine Mammal Protected Areas Task Force |\n|  | • 絶滅のおそれのある種（全世界や国、地方のレベルでの近絶滅種、絶滅危惧種、危急種）や、集散種や移動種、生息地が限定されている種又は固有種等、種にとって重要な地域。 | • IUCN絶滅危惧種レッドリスト<br>• 種に脅威をもたらす要因の軽減と個体数回復（STAR）指標における最小閾値<br>• オーシャン＋ Data Viewer marine biodiversity spatial dataset |"
+    },
+    {
+      "page": 58,
+      "type": "footnote",
+      "en": "28 Areas identified as critical habitat (based on IFC PS6 definition) and high conservation value and high carbon stock areas would meet some of the criteria. These are areas that are not mapped globally, although screening layers exist to support an understanding of where they are likely to occur.",
+      "ja": "28（IFC PS6の定義にもとづいて）重要生息地及び高保護価値区域として特定されている地域、ならびに高炭素貯蔵地域は基準のいずれかに該当することになる。発生の可能性が高い場所を把握する助けとして、スクリーニング用レイヤーがあるが、世界規模でマッピングされていない地域である。"
+    },
+    {
+      "page": 59,
+      "type": "table",
+      "en": "| Area | Criteria | Recommended metrics and reference datasets |\n|---|---|---|\n| Biodiversity importance | • Areas containing ecosystems that are rare or very localised, highly threatened, important for ecosystem connectivity, and/or associated with key evolutionary processes.<br>• Areas important for ecological connectivity – including important ecological corridors, areas and routes that are important for seasonal migratory patterns and areas that provide adaptive space for species to spread across a landscape in the face of changing environmental conditions. | • IUCN Red List of Ecosystems, seamounts or coastal upwellings;<br>• Ocean+ Habitat datasets such as mangroves, seagrasses, coral reefs;<br>• World Database of Ecological Corridors (upcoming);<br>• Eurasian African Bird Migration Atlas; and<br>• Atlas on Migratory Ungulates (under development by Global Initiative on Ungulate Migrations (GIUM)). |\n| Ecosystem integrity | Ecosystem integrity refers to the extent to which the composition, structure and function of an ecosystem falls within the natural range of variation. It should be characterised at a landscape scale, using an appropriate area of assessment, such as an ecoregion.<br>High integrity locations (both at global scale, and relative to the integrity in the surrounding landscape) are those that may contain large opportunities for safeguarding stocks of environmental assets and maintaining ecosystem service provision, both locally and globally.<br>Areas of rapid decline in integrity represent areas with declining resilience of ecosystem service provision, high exposure to an organisation’s dependency-related risks, and potentially at risk of ecological tipping points. This could include areas that have declined to a low state of integrity. | Metrics and datasets that assess all components of ecosystem integrity (composition, structure and function):<br>• EII – Ecosystem Integrity Index; and<br>• IUCN Red List of Ecosystems database.<br>Metrics and datasets that assess selected components of ecosystem integrity:<br>• EAI – Ecosystem Area Index;<br>• EHI – Ecosystem Health Index;<br>• ErII – Ecoregion [Ecosystem] Intactness Index; and<br>• The Natural History Museum – Biodiversity Intactness Index (BII).<br>See additional guidance on the measurement of state of nature in Annex 2 for further guidance on the measurement of ecosystem condition and integrity. |",
+      "ja": "| 地域 | 基準 | 推奨評価指標と参照データセット |\n|---|---|---|\n| 生物多様性の重要性 | • 稀少又は非常に局所的な生態系や深刻な脅威にさらされている生態系、生態系の連結性にとって重要な生態系、重要な進化の過程に関連する生態系が存在する地域。<br>• 重要な生態学的回廊、季節的移動のパターンにとって重要な地域と経路、環境条件の変化に直面した種が自然景観全体に拡散するための適応空間を提供する地域等、生態学的連結性にとって重要な地域。 | • IUCN生態系レッドリスト、海山及び沿岸湧昇<br>• オーシャン＋ Habitat datasets、マングローブや海草、サンゴ礁等<br>• 生態系回廊世界データベース（近刊予定）<br>• ユーラシア－アフリカ渡り鳥アトラス<br>• 哺乳類移動アトラス（哺乳類動物の移動に関するグローバルイニシアティブ（GIUM）が開発中） |\n| 生態系の十全性 | 生態系の十全性とは、生態系の構成、構造、機能が自然のばらつきの範囲に収まる程度をいう。これは、エコリージョン等、適切な評価地域を使用し、自然景観規模で特性づけられるべきものである。<br>十全性が高い地域（グローバル規模と、周辺の自然景観の十全性との比較の両方）は、環境資産のストックを保護し、地域と世界の両方の規模で生態系サービスの供給を維持するための大きな機会が存在する可能性のある地域をいう。<br>十全性が急速に低下している地域は、生態系サービス供給のレジリエンス力が低下し、ある組織の依存関連リスクに深刻にさらされ、生態学的な転換点の潜在的リスクがある地域をいう。これには十全性が低い状態まで低下してしまった地域が含まれる可能性がある。 | 生態系の十全性のすべての構成要素を評価するための指標及びデータセット<br>• EII － 生態系保全指数<br>• IUCN生態系レッドリストデータベース<br>生態系の十全性における特定の構成要素を評価するための指標及びデータセット<br>• EAI － 生態系地域インデックス<br>• EHI － 生態系健全性指数<br>• ErII － エコリージョン［生態系］無損傷指数<br>• 自然史博物館－生物多様性無損傷指数（BII）<br>生態系の状態及び十全性の測定に関する詳しいガイダンスは、別紙2の自然の状態に関する補足ガイダンスを参照のこと。 |"
+    },
+    {
+      "page": 60,
+      "type": "table",
+      "en": "| Area | Criteria | Recommended metrics and reference datasets |\n|---|---|---|\n| Ecosystem service delivery importance | • Areas important for delivery of ecosystem service benefits, including to Indigenous Peoples and Local Communities. These include areas in which healthy ecosystems and biodiversity support local livelihoods, areas in which biodiversity and ecosystem services are important for the realisation of human rights, areas that have been traditionally owned, occupied or otherwise used and/or acquired by Indigenous Peoples and Local Communities, and areas of biocultural importance to Indigenous Peoples and Local Communities. | • Indigenous Peoples’ and community-conserved territories and areas (ICCAs);<br>• Global Land Governance Index LANDex Indicators;<br>• The Indigenous Navigator;<br>• LandMark (also available in the Global Forest Watch map);<br>• ENCORE (that contains hotspots of natural capital depletion spatial layers);<br>• InVEST (quantifies, maps and values ecosystem services);<br>• TESSA;<br>• Ocean Wealth (maps ocean ecosystem services); and<br>• Critical Natural Asset layers. |\n| Water physical risk | • Area of known high physical water risk, including limited water availability, flooding and poor quality of water. This also includes marine areas with high levels of land-based pollution. | • WRI Aqueduct Water Risk Atlas and Tools;<br>• WWF Water Risk Filter; and<br>• Ocean+ for information on marine biodiversity and critical marine and coastal habitats. |",
+      "ja": "| 地域 | 基準 | 推奨評価指標と参照データセット |\n|---|---|---|\n| 生態系サービス供給の重要性 | • 先住民族や地域社会への供給を含め、生態系サービスによる便益の供給に重要な地域。これらには、健全な生態系や生物多様性が地域の生活を支えている地域や、人権の実現にとって生物多様性や生態系サービスが重要な地域、先住民族や地域社会によって伝統的に所有や占有、あるいはその他の方法で使用や取得が行われていた地域、先住民族や地域社会にとって生物文化的に重要な地域等が含まれる。 | • Indigenous Peoples’ and community-conserved territories and areas（ICCAs）<br>• Global Land Governance Index LANDex Indicators<br>• The Indigenous Navigator<br>• LandMark（グローバルフォレストウォッチ地図からも入手が可能）<br>• ENCORE（自然資産枯渇の空間層のホットスポットが組み入れられているもの）<br>• InVEST（生態系サービスの量、マップ及び価値）<br>• TESSA<br>• Ocean Wealth（海洋生態系サービスのマップ）<br>• Critical Natural Asset Layers |\n| 水に関する物理的リスク | • 限られた水の利用可能性、洪水、水質の低さ等、水に関する物理的なリスクが高いことが知られている地域。これには陸上由来の汚染レベルが高い海域も含まれる。 | • WRIアキダクト水リスクアトラスとツール<br>• WWF水リスクフィルター<br>• オーシャン＋海洋生物多様性及び重要な海洋と沿岸の生息地に関する情報 |"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Organisations should not seek to use a rigid, formulaic approach to identifying sensitive locations and rather use judgement based on an understanding of the specific characteristics of the organisation and its activities. The locations where an organisation interfaces with nature vary over time. The sites and associated areas of influence are particularly variable in certain ecosystems, for example, in freshwater and marine biomes. Organisations should review which locations meet the criteria for sensitive locations after completing the Evaluate phase and each time they assess their nature-related issues.",
+      "ja": "組織は要注意地域を特定するのに厳格で定型的なアプローチを模索するのではなく、組織とその活動の具体的な特徴の理解に基づく判断を適用すべきである。組織が自然と接する場所は経時的に変化するからである。事業拠点及びこれに伴う影響範囲は、例えば淡水と海洋のバイオーム等、個々の生態系によって特にばらつきが大きい。組織は、診断フェーズが完了したら、また、自然関連課題を評価するたびに、どの拠点が要注意地域の基準に該当するかを再確認すべきである。"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "Box 13 provides a case study for how a piloting organisation, Iberdrola, approached this.",
+      "ja": "ボックス13には、実証試験実施組織であるイベルドローラがこの点にどのようにアプローチしたかに関する事例研究を提示する。"
+    },
+    {
+      "page": 60,
+      "type": "p",
+      "en": "As new tools and sources emerge over time, the TNFD will update the list of these reference tools and sources as part of its TNFD Tools Catalogue.",
+      "ja": "時間の経過とともに新たなツールや情報源が出現するに伴い、TNFDは、TNFDツール目録の一環として、これらの参照ツールや情報源のリストを更新していく予定である。"
+    },
+    {
+      "page": 61,
+      "type": "caption",
+      "en": "Figure 20: Assessment of priority locations: sensitive and material locations",
+      "ja": "図20：優先地域の評価：要注意およびマテリアルな地域"
+    },
+    {
+      "page": 61,
+      "type": "figure",
+      "en": "Assessment locations: All geographic locations in the organisation’s direct operations, upstream and downstream.",
+      "ja": "評価場所：組織の直接操業、上流、下流におけるすべての地理学的位置"
+    },
+    {
+      "page": 61,
+      "type": "figure",
+      "en": "Sensitive locations: Locations where the assets and/or activities in the organisation’s direct operations – and where possible, upstream and downstream value chain(s) – interface with nature in areas deemed to be ecologically sensitive.",
+      "ja": "要注意地域：組織の直接操業、また、可能であれば上流と下流のバリューチェーンにおける資産や活動が、生態学的に要注意と考えられる地域において自然と接する地域"
+    },
+    {
+      "page": 61,
+      "type": "figure",
+      "en": "Material locations: Locations where the organisation has identified material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "マテリアルな場所：組織がマテリアルな自然関連の依存、インパクト、リスク、機会を特定した場所"
+    },
+    {
+      "page": 61,
+      "type": "figure",
+      "en": "Priority locations for Strategy D disclosure",
+      "ja": "戦略D開示のための優先地域"
+    },
+    {
+      "page": 62,
+      "type": "h3",
+      "en": "Box 13: Identifying sensitive locations – Iberdrola",
+      "ja": "ボックス13：要注意地域の特定－イベルドローラ"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "Iberdrola is a multinational electric utilities company and the world’s largest producer of wind power. To conduct a LEAP assessment, it mapped its locations and operations for both operational projects as well as projects under construction.",
+      "ja": "イベルドローラは多国籍の電力公益企業であり、世界最大の風力発電事業者である。LEAP評価を実施するため、同社は、運営中のプロジェクトだけでなく、建設中のプロジェクトについても場所と事業をマッピングした。"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "Iberdrola combined its asset data with a range of nature datasets to identify potential sensitive locations as defined by the LEAP approach. It first collected data on the environmental surroundings of assets (e.g. Ramsar Wetlands, Natura 2000 sites), disaggregated them by the type of technology used for each asset, and calculated the length and area of the ecosystem affected. Iberdrola also drew from the IUCN Red List, as well as national and regional threat lists, to identify vulnerable species and their associated threat categories across the six regions where it has facilities (figure below). This helped Iberdrola understand regions where it has assets interfacing with hotspots for endangered species.",
+      "ja": "イベルドローラはLEAPアプローチによって定義されている潜在的な要注意地域を特定するため、自社の資産データを自然関連の多様なデータセットと統合した。まずは資産の環境周辺に関するデータ（例えばラムサール登録湿地やナチューラ2000指定地等）を収集し、個々の資産に適用されている技術のタイプごとに分解して、影響を受ける生態系の距離と面積を算出した。イベルドローラはまた、IUCNのレッドリストのほか、国内及び地域における脅威のリストを抽出し、同社が設備を有する6つの地域（下図を参照）における危急種とこれらに関連する脅威のカテゴリーを特定した。これにより、イベルドローラは自社の資産が絶滅のおそれのある種のホットスポットと接している地域を把握しやすくすることができた。"
+    },
+    {
+      "page": 62,
+      "type": "table",
+      "en": "| IUCN Red List of Threatened Species | Critically endangered (CR) | Endangered (EN) | Vulnerable (VU) | Near Threatened (NT) | Least Concern (LC) |\n|---|---|---|---|---|---|\n| Spain | 8 | 20 | 41 | 53 | 561 |\n| United Kingdom | 2 | 4 | 8 | 12 | 120 |\n| United States/Canada | 2 | 13 | 12 | 11 | 39 |\n| Brazil | 4 | 17 | 33 | 34 | 584 |\n| Mexico | 0 | 4 | 6 | 12 | 306 |\n| Iberdrola Energía International IEI | 0 | 26 | 10 |  | 105 |\n| Totals | 16 | 55 | 100 | 113 | 1,393 |",
+      "ja": "| IUCN絶滅危惧種レッドリスト | 近絶滅種（CR） | 絶滅のおそれのある種（EN） | 危急種（VU） | 準絶滅危惧種（NT） | 軽度懸念種（LC） |\n|---|---|---|---|---|---|\n| スペイン | 8 | 20 | 41 | 53 | 561 |\n| 英国 | 2 | 4 | 8 | 12 | 120 |\n| 米国／カナダ | 2 | 13 | 12 | 11 | 39 |\n| ブラジル | 4 | 17 | 33 | 34 | 584 |\n| メキシコ | 0 | 4 | 6 | 12 | 306 |\n| Iberdrola Energía Internacional IEI | 0 | 26 | 10 |  | 105 |\n| 合計 | 16 | 55 | 100 | 113 | 1,393 |",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 62,
+      "type": "p",
+      "en": "Source: Iberdrola (2022) Biodiversity Report, page 42",
+      "ja": "出典：イベルドローラ（2022）『生物多様性報告』42頁．"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "This remotely collected data was complemented by existing internal field-based studies that assessed the facilities surrounding Iberdrola’s projects prior to project approval. Criteria for field assessments vary between projects, but include bird sightings, endemic species studies or habitat characterisation studies.",
+      "ja": "この遠隔によって収集したデータを、プロジェクト承認に先だちイベルドローラのプロジェクト周辺施設を評価した、既存の社内の現地調査研究により補足した。フィールド評価の基準はプロジェクト間で異なっているが、鳥類の視認や固有種の研究、生息地の特性評価研究等が含まれている。"
+    },
+    {
+      "page": 62,
+      "type": "quote",
+      "en": "Using the results of this asset location mapping, Iberdrola identified which sectors and assets are operating in sensitive locations. By taking a sectoral lens, Iberdrola was able to consider how business processes differ across different sections of the value chain, and therefore better conduct a full LEAP assessment.",
+      "ja": "この資産場所地図作成作業の結果を用いて、イベルドローラはどのセクターや資産が要注意地域で事業を運営しているかを特定した。視点をセクターに置いたことで、イベルドローラは事業プロセスがバリューチェーンのセクションごとにどれだけ異なっているかを考察し、完全なLEAP評価をより良い形で実施することができた。"
+    },
+    {
+      "page": 63,
+      "type": "table",
+      "en": "| Technology | Location with respect to the protected area | Affected area length | Degree of protection |\n|---|---|---|---|\n| Hydroelectric power plants – Reservoirs | Interior | 31,505 ha | Biosphere reserves, Ramsar Wetlands, Natura 2000 Network, National Parks and Natural Parks |\n| Power lines | Interior | 19,315 km | Natura 2000 Network, Ramsar Wetlands, National Parks, Natural Parks, Biosphere Reserves |\n| Substations | Interior | 131 units | Natura 2000 Network, Ramsar Wetlands, National Parks, Natural Parks, Biosphere Reserves |\n| Transformer stations | Interior | 8,425 units | Natura 2000 Network, Ramsar Wetlands, National Parks, Natural Parks, Biosphere Reserves |\n| Onshore wind farms | Interior | 568 ha | Natura 2000 Network, Important Bird and Biodiversity Areas |\n| Nuclear power plants | Interior | 82 ha | Natura 2000 Network |\n|  | Adjacent | 3 units | Nature 2000 Network and Important Bird and Biodiversity Areas |\n| Thermal power plants | Adjacent | 6 units | Natura 2000 Network, Protected Landscapes, Biosphere Reserves and Marine Protected Areas |",
+      "ja": "| テクノロジー | 保護地域に対する位置 | 影響を受ける地域の距離 | 保護の程度 |\n|---|---|---|---|\n| 水力発電所－貯水池 | 内部 | 31,505 ha | 生物圏保存地域、ラムサール登録湿地、ナチューラ2000ネットワーク、国立公園、自然公園 |\n| 送電線 | 内部 | 19,315 km | ナチューラ2000ネットワーク、ラムサール登録湿地、国立公園、自然公園、生物圏保存地域 |\n| 変電所 | 内部 | 131ユニット | ナチューラ2000ネットワーク、ラムサール登録湿地、国立公園、自然公園、生物圏保存地域 |\n| 配電用変電所 | 内部 | 8,425ユニット | ナチューラ2000ネットワーク、ラムサール登録湿地、国立公園、自然公園、生物圏保存地域 |\n| 陸上風力発電所 | 内部 | 568 ha | ナチューラ2000ネットワーク、重要野鳥生物多様性地域 |\n| 原子力発電所 | 内部 | 82 ha | ナチューラ2000ネットワーク |\n|  | 隣接 | 3ユニット | ナチューラ2000ネットワーク、重要野鳥生物多様性地域 |\n| 火力発電所 | 隣接 | 6ユニット | ナチューラ2000ネットワーク、陸上景観保護区、生物圏保存地域、海洋保護区 |"
+    },
+    {
+      "page": 63,
+      "type": "p",
+      "en": "Source: Iberdrola (2022) Biodiversity Report, page 39",
+      "ja": "出典：イベルドローラ（2022）『生物多様性報告』39頁．"
+    },
+    {
+      "page": 64,
+      "type": "h2",
+      "en": "4.8. Desired outputs from the Locate phase",
+      "ja": "4.8. 発見フェーズから得られる望ましいアウトプット"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "After completing the Locate phase, corporates and financial institutions should each have the following outputs:",
+      "ja": "発見フェーズの完了後、企業及び金融機関はそれぞれ以下のアウトプットが得られるべきである。"
+    },
+    {
+      "page": 64,
+      "type": "h4",
+      "en": "For corporates:",
+      "ja": "企業の場合"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "A list of potentially material activities in the business model and value chain (L2); and",
+      "ja": "ビジネスモデル及びバリューチェーンにおける潜在的にマテリアルな活動のリスト（L2）"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "A list and/or map of assessment locations. This includes:",
+      "ja": "評価地域のリストやマップ、又はその両方。これには、次のようなものが含まれる。"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "All sensitive locations: Locations where the organisation has activities and/or assets in its direct operations and value chains that meet the TNFD criteria for sensitive locations (L4); and",
+      "ja": "すべての要注意地域：要注意地域に関するTNFDの基準に適合し、組織が直接操業及びバリューチェーンにおける活動や資産を有する地域（L4）"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "Other locations where the organisation has potentially material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "組織が潜在的にマテリアルな自然関連の依存、インパクト、リスク及び機会を有するその他の地域"
+    },
+    {
+      "page": 64,
+      "type": "h4",
+      "en": "For financial institutions:",
+      "ja": "金融機関の場合"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "A heatmap of potentially material sectors (L2);",
+      "ja": "潜在的にマテリアルなセクターのヒートマップ（L2）"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "High-level geographies of potentially material sectors, and analysis of the types of ecosystem or biome likely to be associated with these sectors and geographies (L3); and",
+      "ja": "潜在的にマテリアルなセクターの概観レベルの地理学的場所、ならびにこれらのセクターや地理学的場所に関連している可能性のある生態系又はバイオームのタイプの分析結果（L3）"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "An analysis (most likely by portfolio) of its clients/investees’ interface with sensitive locations.",
+      "ja": "顧客／投資先企業と要注意地域の接点の（十中八九ポートフォリオごとの）分析"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "Throughout the LEAP approach, the organisation may find there are potentially relevant locations that were not initially captured in the Locate phase. The organisation should then revisit this phase to add the missing sectors, value chains and geographic locations, and revisit its list of assessment locations.",
+      "ja": "LEAPアプローチの全体を通じ、組織は、当初発見フェーズでは捉えていなかった潜在的な関連地域が存在することに気づく場合がある。その場合、組織はこの段階に戻り、欠けていたセクターやバリューチェーン、地理学的位置を追加するとともに、評価対象場所のリストについて再度考察すべきである。"
+    },
+    {
+      "page": 64,
+      "type": "h2",
+      "en": "4.9. Resources to support the Locate phase",
+      "ja": "4.9. 発見フェーズを支援するリソース"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "There are a range of data, tools and methods that can be used to inform the Locate phase. Further tools are available in the TNFD Tools Catalogue.",
+      "ja": "発見フェーズで情報を得るため使用可能なデータやツール、方法は色々ある。TNFDツール目録では、さらに詳しいツールが利用可能である。"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "These include, but are not limited to:",
+      "ja": "これらには、例えば次のようなものがある。ただし、これらに限定されるわけではない。"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "Internal or external data on the location of the organisation’s physical assets and operations;",
+      "ja": "組織の物理的資産や事業運営の場所に関する内部又は外部のデータ"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "Internal data on the organisation’s value chain locations, both upstream and downstream (this might have been collected for other due diligence activities such as compliance with modern slavery legislation or KYC due diligence procedures);",
+      "ja": "上流及び下流の両方を含めた組織のバリューチェーンの場所に関する内部データ（これは、現代奴隷法や本人確認手続きの遵守等、他のデューディリジェンス活動を目的に、すでに収集されている可能性がある）"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "External data sources and online mapping tools identifying the location of ecosystems and ecosystem types (i.e. biome);",
+      "ja": "生態系の位置や生態系のタイプ（すなわち、バイオーム等）の場所を特定する外部のデータ源及びオンラインマッピングツール"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "Other spatial nature-related data measuring ecosystem integrity, biodiversity importance and physical water risks, such as measures of critical habitats, protected areas, key biodiversity areas, stressed watersheds and endangered species (see Table 4); and",
+      "ja": "重要生息地、保護地域、生物多様性重要地域、ストレスの加わっている流域、絶滅のおそれのある種の指標（表4を参照）等、生態系の十全性、生物多様性の重要性、物理的な水リスクを測定するためのその他の空間的自然関連データ"
+    },
+    {
+      "page": 64,
+      "type": "li",
+      "en": "Heatmapping tools to help identify locations of potentially material nature-related dependencies, impacts, risk and opportunities.",
+      "ja": "潜在的にマテリアルな自然関連の依存、インパクト、リスク及び機会の場所を特定しやすくするためのヒートマップ作成ツール"
+    },
+    {
+      "page": 64,
+      "type": "h3",
+      "en": "4.9.1. Public availability versus fee-for-service considerations",
+      "ja": "4.9.1. 公開されているサービスの利用可能性とサービス料金の比較考察"
+    },
+    {
+      "page": 64,
+      "type": "p",
+      "en": "Most of the tools and datasets listed are publicly available, but some are provided on a fee-for-service basis. The lists are not exhaustive. Compendiums of useful data have been developed by the European Business and Biodiversity Platform,29 WWF30 and UNEP-WCMC and the Finance for Biodiversity Initiative.31 The TNFD recognises that data availability will vary across geographies, biomes and sectors. As such, criteria will need to be developed to reflect data availability.",
+      "ja": "リストに上げたツールやデータセットの大部分は公開されており、利用が可能であるが、中には料金ベースで提供されているものもある。リストはすべてを網羅した包括的なものではない。有用なデータの選集が、欧州ビジネス・生物多様性プラットフォーム29、WWF30、UNEP-WCMC及び生物多様性のための金融イニシアティブ31によって作成されている。TNFDは、地理学的場所やバイオーム、セクターによってデータの利用可能性にはばらつきがあることを認識している。従って、データの利用可能性を反映した基準を構築しなければならない。"
+    },
+    {
+      "page": 65,
+      "type": "h3",
+      "en": "4.9.2. Considerations for use of spatial datasets",
+      "ja": "4.9.2. 空間データセットの使用に関する考察事項"
+    },
+    {
+      "page": 65,
+      "type": "p",
+      "en": "The TNFD recommends that geographic locations should be analysed using both economy-wide spatial data and sector-specific data. In addition, your LEAP assessment team should first consult global databases, which can be supplemented with national level datasets. These are important to understand national and regional priorities for which spatial data may be available.",
+      "ja": "TNFDは、地理学的位置は経済全般に及ぶ空間データとセクター固有のデータの両方を用いて分析するよう提言している。更に、LEAP評価チームはまず、国内レベルのデータベースで補完されている可能性のあるグローバルなデータベースを照会すべきである。空間データの入手が可能な国内及び地域の優先事項を把握する上で、これらは重要なものだからである。"
+    },
+    {
+      "page": 65,
+      "type": "p",
+      "en": "When using global datasets to identify sensitive locations, the TNFD cautions organisations to be aware that datasets vary in quality, and some may be out of date or represent information at an inappropriate spatial scale. The TNFD supports the use of high-level screening models to identify sensitive locations, understanding that organisations may have concerns about practicality and resource requirements. However, the models used, their limitations and the assumptions made in the process should be made transparent.",
+      "ja": "グローバルなデータセットを用いて要注意地域を特定する場合、TNFDは組織に対し、データセットは質にばらつきがあり、中には最新でない情報や不適切な空間尺度で情報を提示している場合があることを認識しておくよう注意喚起している。TNFDは、組織が実用性や資源の必要性を懸念している可能性があることを理解しており、概観レベルのスクリーニングモデルを活用した要注意地域の特定を支持している。ただし、使用するモデルとその制約、過程で作った前提条件を透明にすべきである。"
+    },
+    {
+      "page": 65,
+      "type": "p",
+      "en": "Improving the quality and availability of spatial data is an ongoing priority focus for the TNFD, which is working with a wide range of partner organisations to do so. The TNFD is continuing to evaluate the possible introduction of a confidence indicator, and/or criteria for users to assess the suitability of data in their circumstances, to assist both report preparers and users in the assessment and disclosure of nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "空間データの質と利用可能性の改善はTNFDにとって継続的な優先的重点事項であり、その目的に向けて多様なパートナー組織と取り組んでいるところである。TNFDはユーザーがそれぞれの状況においてデータの適合性を評価し、自然関連の依存、インパクト、リスク及び機会の評価と開示において報告作成者と利用者の両方を支援できるよう、信頼性の指標や基準の導入に関する可能性を継続的に評価している。"
+    },
+    {
+      "page": 65,
+      "type": "p",
+      "en": "While a number of leading scientific and data organisations are developing new tools and datasets for assessing the integrity and condition of ecosystems, there is currently no single global reference to make this determination. As a result, the TNFD encourages organisations to use a number of different tools and datasets to triangulate an understanding of ecosystem integrity and condition so they can identify potential priority locations. Annex 2 provides further guidance on measurement of ecosystem condition and related tools and reference sources.",
+      "ja": "いくつかの主導的な科学機関やデータ機関が生態系の十全性と状態を評価するための新たなツールやデータセットの作成に取り組んでいるが、現時点ではこのような測定を実行できる単独の世界的参照源は存在していない。その結果として、TNFDは、組織はいくつかの異なるツールやデータセットを組み合わせ、生態系の十全性と状態に関する知見を多角的視点で把握することにより、潜在的な優先場所を特定するよう推奨している。別紙2に、生態系の状態の測定に関する詳しいガイダンスと、これらに関連するツール及び参照情報源を提示する。"
+    },
+    {
+      "page": 65,
+      "type": "quote",
+      "en": "The TNFD encourages organisations to use a number of different tools and data sets to triangulate an understanding of ecosystem integrity and resilience.",
+      "ja": "TNFDは、組織はいくつかの異なるツールやデータセットを組み合わせ、生態系の十全性と状態に関する知見を多角的視点で把握することにより、潜在的な優先場所を特定するよう推奨している。"
+    },
+    {
+      "page": 65,
+      "type": "p",
+      "en": "While the TNFD recognises that current data constraints may mean that early attempts at undertaking this analysis are limited to direct organisational assets and operations, it encourages all organisations to assess related upstream and downstream locations as soon as practicable, given data availability.",
+      "ja": "TNFDは、現時点ではデータが制約されていることから、この分析を実施しようとする初期の試みは組織の直接的な資産や事業に限定される可能性があることを認識してはいるが、あらゆる組織に対し、データの可用性を考慮して、実行可能な限り速やかに上流及び下流の関連のある場所を評価するよう推奨している。"
+    },
+    {
+      "page": 65,
+      "type": "footnote",
+      "en": "29 EU Business and Biodiversity Platform (2022) Biodiversity measurement approaches for businesses and financial institutions. Thematic report: Biodiversity data.",
+      "ja": "29 欧州ビジネス生物多様性プラットフォーム（2022）『Biodiversity measurement approaches for businesses and financial institutions. Thematic report: Biodiversity data』"
+    },
+    {
+      "page": 65,
+      "type": "footnote",
+      "en": "30 WWF, World Bank Group and Global Canopy (2020) Geospatial ESG. The emerging application of geospatial data for gaining environmental insights on the asset, corporate and sovereign level.",
+      "ja": "30 WWF、世界銀行グループ、グローバルキャノピー（2020）『Geospatial ESG. The emerging application of geospatial data for gaining environmental insights on the asset, corporate and sovereign level』"
+    },
+    {
+      "page": 65,
+      "type": "footnote",
+      "en": "31 UNEP-WCMC and Finance for Biodiversity Initiative (2022) The Climate Nature Nexus. An investor guide to expanding from climate to nature data.",
+      "ja": "31 UNEP-WCMC及び生物多様性のための金融イニシアティブ（2022）『The Climate Nature Nexus.An investor guide to expanding from climate to nature data』"
+    },
+    {
+      "page": 66,
+      "type": "h1",
+      "en": "5. Evaluating nature-related dependencies and impacts",
+      "ja": "5. 自然関連の依存とインパクトの診断"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "This Evaluate phase guidance is consistent with the Natural Capital Protocol (the Protocol for short) developed by the Capitals Coalition. Organisations are recommended to refer to the Natural Capital Protocol for further details.32",
+      "ja": "この診断フェーズのガイダンスは、キャピタルコアリションが作成した自然資本プロトコル（略して「プロトコル」）に整合するものである。詳細に関しては、組織は自然資本プロトコルを参照するよう推奨する32。"
+    },
+    {
+      "page": 66,
+      "type": "h2",
+      "en": "5.1. Why",
+      "ja": "5.1. なぜ"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "An organisation’s nature-related risks and opportunities arise from dependencies and impacts on nature, as outlined in Section 2. Analysis of dependencies and impacts is therefore an essential first step to understanding the risks and opportunities the organisation faces. For financial institutions, this essential first step concerns the dependencies and impacts of its portfolio companies.",
+      "ja": "第2節に概説したように、組織の自然関連のリスクと機会は自然への依存と自然に及ぼすインパクトから生じる。したがって、依存とインパクトの分析は、組織が直面しているリスクと機会を把握するのに不可欠な最初のステップである。金融機関の場合、この不可欠な最初のステップはそのポートフォリオ企業の依存とインパクトに関するものになる。"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "Organisations depend on the reliable and cost-effective provision of ecosystem services from nature that are essential to their business processes and those of the organisations in their value chains, including portfolio companies for financial institutions. These ecosystem services underpin the organisation’s cashflows and therefore its enterprise value as assessed by investors and other capital providers. Nature loss can undermine the delivery of these services, creating risks for a corporate and its capital providers.",
+      "ja": "組織は、それぞれの事業プロセスや、金融機関の場合にはポートフォリオ企業を含む、バリューチェーンにいる組織の事業プロセスに不可欠な、自然からの信頼性と費用効果の高い生態系サービスの供給に依存している。これらの生態系サービスは、組織のキャッシュフローと、結果的に投資家やその他の出資者が評価する企業の価値を支えている。自然の損失はこれらのサービスの供給を徐々に弱め、企業とその出資者に対するリスクを生じさせる可能性がある。"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "Organisations also have impacts on nature and the provision of ecosystem services. These impacts may be positive or negative. An organisation’s negative impacts on nature can undermine the provision of ecosystem services on which the organisation and others depend and create both physical and transition risks.",
+      "ja": "組織はまた、自然や生態系サービスの供給にインパクトも生じさせている。これらのインパクトはプラスの場合もあれば、マイナスの場合もある。組織が自然に及ぼすマイナスのインパクトは、組織や他者が依存する生態系サービスの供給を徐々に弱め、物理的リスクと移行リスクの両方を生じさせることになる。"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "In short, today’s impacts can shape tomorrow’s dependencies and the future ability of the organisation to produce its goods and services and ultimately generate cashflows. Negative impacts on nature erode the health and resilience of nature and its ability to provide ecosystem services. Conversely, contributing positively to the health and resilience of nature can secure and enhance the flow of ecosystem services on which the organisation and its value chain partners depend.",
+      "ja": "要するに、今日のインパクトは、明日の依存と、組織がその商品やサービスを生産し、最終的にキャッシュフローを生み出す将来の能力を形作るものになる可能性がある。自然へのマイナスのインパクトは自然の健全性とレジリエンス、そして生態系サービスを供給する能力を徐々にむしばんでいく。逆に、自然の健全性とレジリエンスへのプラスの寄与は、組織とそのバリューチェーンのパートナーが依存する生態系サービスの流れを確実なものにし、さらに強化することができる。"
+    },
+    {
+      "page": 66,
+      "type": "h4",
+      "en": "Objective",
+      "ja": "目的"
+    },
+    {
+      "page": 66,
+      "type": "p",
+      "en": "To develop an understanding of the organisation’s potentially material dependencies and impacts on nature.",
+      "ja": "組織による潜在的にマテリアルな自然への依存とインパクトの理解を構築すること。"
+    },
+    {
+      "page": 66,
+      "type": "h4",
+      "en": "Desired outputs",
+      "ja": "望ましいアウトプット"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "A list of relevant environmental assets and ecosystem services;",
+      "ja": "関連のある環境資産及び生態系サービスのリスト"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "A list of the organisation’s dependencies and impacts on nature;",
+      "ja": "組織による自然への依存とインパクトのリスト"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "Analysis of potentially material dependencies and impacts on nature; and",
+      "ja": "潜在的にマテリアルな自然への依存とインパクトの分析"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "A list of material dependencies and impacts (for disclosure using an impact materiality approach such as GRI and incorporated into the ESRS in Europe).",
+      "ja": "マテリアルな依存とインパクトのリスト（開示用に、GRIのようなインパクトマテリアリティアプローチを使用し、欧州のESRSに組み入れたもの）"
+    },
+    {
+      "page": 66,
+      "type": "h4",
+      "en": "Practical tips from pilot testers",
+      "ja": "実証試験実施組織から得られた実用的なヒント"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "Source a range of skills and expertise including internal and external experts; and",
+      "ja": "内外の専門家を含む多様なスキルや専門知識を入手すること。"
+    },
+    {
+      "page": 66,
+      "type": "li",
+      "en": "Set feasible goals and build up over time.",
+      "ja": "実行可能な目標を設定し、時間をかけて構築を図ること。"
+    },
+    {
+      "page": 66,
+      "type": "footnote",
+      "en": "32 Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "32 キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "For corporates: A LEAP assessment team identifies, analyses and measures the environmental assets and ecosystem services on which it depends and from which its business processes generate value. This includes its upstream and downstream value chains. The LEAP assessment team also identifies and analyses the impact drivers its organisation has that affect environmental assets and the provision of ecosystem services and could affect its dependencies and wider society.",
+      "ja": "企業の場合：LEAP評価チームは、自らの組織が依存し、事業プロセスから価値を創出する元となっている環境資産と生態系サービスを特定し、分析し、測定する。これには上流と下流のバリューチェーンも含まれることになる。LEAP評価チームはまた、環境資産や生態系サービスの供給に影響を及ぼし、組織の依存とより広範囲の社会に影響を生じるおそれのある組織のインパクト要因についても特定し、分析を行う。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "For financial institutions: A LEAP assessment team identifies and analyses the impacts and dependencies of the companies/activities in its portfolios. For large portfolios, this analysis focuses on key companies/activities within priority sectors and companies with activities that are in, or have impacts and dependencies on, sensitive locations as an initial focus.",
+      "ja": "金融機関の場合：LEAP評価チームは、そのポートフォリオに属する企業／活動のインパクトと依存を特定し、分析する。規模の大きなポートフォリオの場合、優先セクターに属する主要な企業／活動と、要注意地域内にあるか、これらの地域にインパクトや依存を有する活動を行っている企業を初期の重点事項として、分析の焦点を当てる。"
+    },
+    {
+      "page": 67,
+      "type": "p",
+      "en": "The complex interplay between an organisation’s own dependencies and impacts and those of others in society and external factors underscores the need for engagement with stakeholders (see TNFD guidance on engagement). This is needed in the Evaluate phase to identify costs and benefits to society (relevant to determining impact materiality in E4). It is also relevant in the Assess phase to understand how dependencies and impacts on nature, and resulting costs and benefits to society, create potentially material risks and opportunities for the organisation.",
+      "ja": "企業自らの依存及びインパクトと、社会の他者や外部要因における依存及びインパクトの複雑な相互作用は、ステークホルダーとのエンゲージメントの必要性を明確に強調している（エンゲージメントに関するTNFDのガイダンスを参照）。このようなエンゲージメントは、診断フェーズでは（E4のインパクトのマテリアリティの特定に関わる）社会への費用と便益を特定する上で必要になる。また、評価フェーズでも、自然に対する依存及びインパクトと結果的に発生する社会への費用や便益が、どのようにして潜在的にマテリアルなリスクと機会を組織に生じさせるのかを理解する際に関連してくる。"
+    },
+    {
+      "page": 67,
+      "type": "h2",
+      "en": "5.2. What",
+      "ja": "5.2. 何を"
+    },
+    {
+      "page": 67,
+      "type": "p",
+      "en": "Based on the approach in the Protocol, the Evaluate phase involves a LEAP assessment team moving from the sectors, value chains and locations associated with potentially material nature-related dependencies and impacts, and sensitive locations identified in L2, L3 and L4 to a more detailed description and evaluation of those dependencies and impacts. The project team may also create a list of specific impacts on nature that are deemed material using an impact materiality approach (for example, for disclosure aligned with the use of GRI Standards or the European Sustainability Reporting Standards), and dependencies and impacts that are likely to be the basis for material risks and opportunities for the organisation to be considered further in the Assess phase of LEAP.",
+      "ja": "プロトコルのアプローチにもとづいて、診断フェーズでは、LEAP評価チームは潜在的にマテリアルな自然関連の依存及びインパクトに付随するセクター、バリューチェーン、場所、ならびにL2、L3、L4で特定した要注意地域から、これらの依存及びインパクトのさらに詳細な記述と評価に移る。プロジェクトチームは、インパクトマテリアリティのアプローチ（例えば、開示を目的とし、GRI基準や欧州サステナビリティ報告基準と整合するためのもの等）を用いて、マテリアルであると考えられる自然への具体的なインパクトや、LEAPの評価フェーズでさらに詳しく検討する組織のマテリアルなリスクと機会の根拠になる可能性が高い依存とインパクトのリストを作成してもよい。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "For corporates: The starting point for the identification of dependencies and impacts on nature should be the understanding of activities associated with business processes, building on the hypothesis identified in the Scoping phase and the initial screening in L2, as well as the assessment locations identified in L3 and L4.",
+      "ja": "企業の場合：自然に対する依存及びインパクトを特定する出発点として、スコープ設定段階で特定した仮説とL2の初期スクリーニングに加え、L3及びL4で特定した評価場所を土台に、事業プロセスに付随する活動の把握から始めるべきである。"
+    },
+    {
+      "page": 67,
+      "type": "li",
+      "en": "For financial institutions: The focus should start with understanding the dependencies and impacts of the companies in their portfolios, and the magnitude of these dependencies and impacts within the context of the management efforts undertaken by portfolio companies.",
+      "ja": "金融機関の場合：ポートフォリオ内の企業の依存とインパクト、ならびにポートフォリオ企業が実施する経営努力の文脈でのこれら依存とインパクトの規模に焦点を置くことから始めるべきである。"
+    },
+    {
+      "page": 67,
+      "type": "p",
+      "en": "The detailed assessment of dependencies and impacts in the Evaluate phase may identify new sectors, activities, value chains and locations that were not picked up in the Locate phase, for example, where the dependency or impact takes place beyond the organisation’s site boundary. Where this is the case, organisations should revisit their assessment in L3 and L4. Evaluate and Locate should be undertaken iteratively.",
+      "ja": "診断フェーズにおける依存とインパクトの詳細な評価から、例えば依存又はインパクトが組織の施設の境界を超えて発生しているケース等、発見フェーズでは見つけられなかった新たなセクターや活動、バリューチェーンが特定される場合がある。このようなケースでは、組織はL3及びL4の評価を再度考察すべきである。「診断」及び「発見」は反復的に実施する必要がある。"
+    },
+    {
+      "page": 67,
+      "type": "p",
+      "en": "The Evaluate phase provides the due diligence and evidence base for disclosing material dependencies and impacts on nature and the basis for subsequent detailed risk and opportunity assessment in the Assess phase.",
+      "ja": "診断フェーズからは、自然へのマテリアルな依存とインパクトを開示するためのデューディリジェンスと証拠、ならびに評価フェーズで行うその後の詳細なリスクと機会の評価のための基盤を得ることができる。"
+    },
+    {
+      "page": 67,
+      "type": "h2",
+      "en": "5.3. Guiding questions",
+      "ja": "5.3. ガイドとなる質問"
+    },
+    {
+      "page": 67,
+      "type": "p",
+      "en": "How corporates and financial institutions work their way through the Evaluate phase may vary based on the granularity of geographic locations generated in the Locate phase. As such, there is some variation in the guiding questions for corporates and financial institutions to accommodate different approaches through the Evaluate phase.",
+      "ja": "企業と金融機関が診断フェーズに向けて作業を進める方法は、発見フェーズで作成した地理学的位置の詳細度に応じて異なる場合がある。従って、企業と金融機関では、診断フェーズを通じて多様なアプローチに適応していくため、ガイドとなる質問に多少の違いがある。"
+    },
+    {
+      "page": 68,
+      "type": "table",
+      "en": "|  | Corporates | Financial institutions |\n|---|---|---|\n| E1. Identification of environmental assets, ecosystem services and impact drivers | What are the sectors, business processes or activities to be analysed? What environmental assets, ecosystem services and impact drivers are associated with these sectors, business processes, activities and assessment locations? | What are the companies/activities in our portfolios that are in sectors, geographies and sensitive locations identified? What are the environmental assets, ecosystem services and impact drivers associated with these companies/activities? |\n| E2. Identification of dependencies and impacts | What are our dependencies and impacts on nature? | What are our dependencies and impacts on nature resulting from the dependencies and impacts of these companies in our portfolios? |\n| E3. Measurement of dependencies and impacts | Dependency measurement – What is the scale and scope of our dependencies on nature?<br>Impact measurement – What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature? | Dependency measurement – What is the scale and scope of our dependencies on nature as a result of the dependencies of our portfolio companies?<br>Impact measurement – What is the severity of their negative impacts on nature? What is the scale and scope of their positive impacts on nature? |\n| E4. Determination of impact materiality | Which of the identified impacts are material? | Which of the identified impacts are material? |",
+      "ja": "|  | 企業 | 金融機関 |\n|---|---|---|\n| E1：環境資産、生態系サービス、インパクト要因の特定 | 分析すべきセクターや事業プロセス、活動は何か？これらのセクターや事業プロセス、活動、評価場所に関連する環境資産、生態系サービス、インパクト要因は何か？ | 特定したセクター、地理学的位置、要注意地域に存在するポートフォリオ中の企業／活動は何か？これらの企業／活動に関連する環境資産、生態系サービス、インパクト要因は何か？ |\n| E2：依存及びインパクトの特定 | 組織の自然への依存とインパクトは何か？ | ポートフォリオ中のこれらの企業の依存とインパクトから生じる、自らの組織の自然への依存とインパクトは何か？ |\n| E3：依存とインパクトの測定 | 依存の測定－組織の自然への依存の規模とスコープはどのようなものか？<br>インパクトの測定－組織が自然に及ぼすマイナスのインパクトの深刻さはどの程度か？組織が自然にもたらすプラスのインパクトの規模とスコープはどのようなものか？ | 依存の測定－ポートフォリオ企業の依存の結果として生じる、自らの組織の自然への依存の規模とスコープはどのようなものか？<br>インパクトの測定－これらの企業が自然に及ぼすマイナスのインパクトの深刻さはどの程度か？これらの企業が自然にもたらすプラスのインパクトの規模とスコープはどのようなものか？ |\n| E4：インパクトのマテリアリティの判定 | 特定したインパクトのうちマテリアルなものはどれか？ | 特定したインパクトのうちマテリアルなものはどれか？ |"
+    },
+    {
+      "page": 69,
+      "type": "h2",
+      "en": "5.4. E1: Identification of environmental assets, ecosystem services and impact drivers",
+      "ja": "5.4. E1：環境資産、生態系サービス、インパクト要因の特定"
+    },
+    {
+      "page": 69,
+      "type": "table",
+      "en": "|  | For corporates | For financial institutions |\n|---|---|---|\n| E1: Identification of environmental assets, ecosystem services and impact drivers | What are the business processes and activities to be analysed? What environmental assets, ecosystem services and impact drivers are associated with these business processes, activities and assessment locations? | What are the companies/activities in our portfolios that are in sectors, geographies and sensitive locations identified? What are the environmental assets, ecosystem services and impact drivers associated with these companies/activities? |",
+      "ja": "|  | 企業の場合 | 金融機関の場合 |\n|---|---|---|\n| E1：環境資産、生態系サービス、インパクト要因の特定 | 分析すべき事業プロセスと活動は何か？これらの事業プロセス、活動、評価場所に関連する環境資産、生態系サービス、インパクト要因は何か？ | 特定したセクター、地理学的位置、要注意地域に存在するポートフォリオ中の企業／活動は何か？これらの企業／活動に関連する環境資産、生態系サービス、インパクト要因は何か？ |"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "For corporates: Building on the analysis in the Locate phase, the LEAP assessment team can engage line/site managers, suppliers (upstream) and customers (downstream) to produce:",
+      "ja": "企業の場合：発見フェーズの分析結果を踏まえ、LEAP評価チームはポートフォリオに属するライン／事業拠点の責任者や供給業者（上流）、顧客（下流）に働きかけることにより、以下のリストを作成することができる。"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of business activities and processes;",
+      "ja": "事業活動及びプロセスのリスト"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of impact drivers that are associated with these business activities and processes; and",
+      "ja": "これらの事業活動及びプロセスに関連するインパクト要因のリスト"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of applicable environmental assets and ecosystem services.",
+      "ja": "該当する環境資産及び生態系サービスのリスト"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "For financial institutions: Building on the analysis in the Locate phase, the LEAP assessment team can engage companies in their portfolios to produce:",
+      "ja": "金融機関の場合：発見フェーズの分析結果を踏まえ、LEAP評価チームはポートフォリオに属する企業に働きかけることにより、以下のリストを作成することができる。"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of business activities and processes in the identified priority sectors;",
+      "ja": "特定した優先セクターにおける事業活動及びプロセスのリスト"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of impact drivers that are associated with these business activities and processes; and",
+      "ja": "これらの事業活動及びプロセスに関連するインパクト要因のリスト"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "A list of applicable environmental assets and ecosystem services in the identified geographies and sensitive locations.",
+      "ja": "特定した地理学的位置及び要注意地域に該当する環境資産及び生態系サービスのリスト"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "Organisations can start with the sectors, activities and value chains identified in L2, or the assessment locations identified in L3 and L4, or do both in parallel. If starting with sectors, activities and value chains, organisations should move to location-specific analysis as they proceed through the Evaluate phase, identifying specific environmental assets their activities interface with.",
+      "ja": "組織は、L2で特定したセクター、活動、バリューチェーンや、L3及びL4で特定した評価場所のいずれかから着手してもよいし、両方を並行して実施してもよい。セクター、活動、バリューチェーンから着手する場合、組織は診断フェーズを進めるにつれて場所に特化した分析に移行し、それぞれの活動が接点を有する具体的な環境資産を特定すべきである。"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "For corporates: When considering locations, corporates should recognise in their analysis that impacts and dependencies can occur in locations at a distance from where business processes and activities occur.",
+      "ja": "企業の場合：場所について考察する場合、企業は分析の際に、事業プロセスや活動が行われている箇所から離れた場所でインパクト及び依存が発生している可能性があることを認識すべきである。"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "For financial institutions: This analysis will centre on mapping impact drivers, environmental assets and ecosystem services to those companies based in the priority sectors and business processes identified in their portfolios, drawing on the results of the analysis in the Locate phase.",
+      "ja": "金融機関の場合：この分析は、発見フェーズの分析結果を活用し、インパクト要因、環境資産、生態系サービスを、ポートフォリオ内で特定した優先セクターと事業プロセスに基づくこれら企業にマッピングする作業が中心になる。"
+    },
+    {
+      "page": 69,
+      "type": "p",
+      "en": "In order to assess their business activities and processes and develop lists for each assessment location, organisations may find it useful to use the categorisation in the SBTN Materiality Screening Tool,33 sub-industries in ENCORE and the TNFD biome guidance.",
+      "ja": "事業活動及びプロセスを評価し、個々の評価場所に関するリストを作成するために、SBTNのマテリアリティスクリーニングツール33、ENCOREの産業下位区分、TNFDバイオームガイダンスにおける分類の利用が役立つ場合がある。"
+    },
+    {
+      "page": 69,
+      "type": "h4",
+      "en": "Identifying relevant impact drivers",
+      "ja": "関連するインパクト要因の特定"
+    },
+    {
+      "page": 69,
+      "type": "li",
+      "en": "For corporates: The TNFD recommends that LEAP assessment teams in corporates qualitatively identify their impact drivers for each assessment location and associated with their business activities. This covers the organisation’s direct operations, upstream and downstream. Organisations should list the main impact drivers that they, or entities upstream and downstream in their value chain, are responsible for.",
+      "ja": "企業の場合：TNFDは企業のLEAP評価チームに対し、個々の評価場所におけるインパクト要因と、事業活動に関連するインパクト要因を定性的に特定するよう推奨している。これには、組織の直接操業、上流及び下流が含まれる。組織は、自らに加え、バリューチェーンの上流及び下流の事業体に責任がある、主なインパクト要因をリストにするべきである。"
+    },
+    {
+      "page": 69,
+      "type": "footnote",
+      "en": "33 Science Based Targets Network (2023) Materiality Screening Tool.",
+      "ja": "33 科学に基づく目標ネットワーク（2023）『マテリアリティスクリーニングツール』"
+    },
+    {
+      "page": 70,
+      "type": "li",
+      "en": "For financial institutions: Financial institutions should analyse the impact drivers that are commonly associated with sectors and their typical business activities and processes, based on what was identified in their portfolios as priorities for analysis in the Locate phase.",
+      "ja": "金融機関の場合：金融機関は、発見フェーズでポートフォリオにおける分析の優先事項として特定した内容にもとづき、セクターやそれぞれの代表的な事業活動及びプロセスが共通して伴うインパクト要因を分析すべきである。"
+    },
+    {
+      "page": 70,
+      "type": "p",
+      "en": "When listing impact drivers that are associated with business activities and processes for each location or sector, organisations should refer to the list of impact drivers in Table 5, although this is not exhaustive. Other impact drivers that are also relevant to the organisation, but not included in that table, should also be considered. Organisations may wish to refer to the Natural Capital Protocol,34 which provides examples of impact drivers, and the TNFD biome guidance for impact drivers associated with specific biomes.",
+      "ja": "個々の場所やセクターについて、事業活動及びプロセスに伴うインパクト要因をリストにする際、組織は、すべてを網羅した包括的なものではないが、表5のインパクト要因のリストを参照すべきである。この表には含まれていなくても、組織に関連のある他のインパクト要因も併せて考慮すべきである。組織は、インパクト要因の例が提示されている自然資本プロトコル34や、具体的なバイオームに関連のあるインパクト要因が記載されているTNFDバイオームガイダンスを参照してもよい。"
+    },
+    {
+      "page": 70,
+      "type": "caption",
+      "en": "Table 5: Impact drivers, by driver of nature change",
+      "ja": "表5：自然の変化の要因別に見たインパクト要因"
+    },
+    {
+      "page": 70,
+      "type": "table",
+      "en": "| Driver of nature change | Impact driver |\n|---|---|\n| Land/freshwater/ocean-use change | Land-use change<br>Freshwater-use change<br>Ocean-use change |\n| Climate change | Greenhouse gas emissions |\n| Resource use/replenishment | Water use<br>Other resource use |\n| Pollution/pollution removal | Non-GHG air pollution<br>Water pollution<br>Soil pollution<br>Waste<br>Disturbances |\n| Invasive species and other | Biological alterations |",
+      "ja": "| 自然の変化の要因 | インパクト要因 |\n|---|---|\n| 陸／淡水／海洋利用の変化 | 土地利用変化<br>淡水利用の変化<br>海洋利用の変化 |\n| 気候変動 | 温室効果ガス排出 |\n| 資源の利用と補充 | 水利用<br>その他の資源利用 |\n| 汚染／汚染の除去 | 温室効果ガス以外の大気汚染<br>水質汚染<br>土壌汚染物質<br>廃棄物<br>攪乱 |\n| 侵略的外来種等 | 生物学的変化 |"
+    },
+    {
+      "page": 70,
+      "type": "footnote",
+      "en": "34 Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "34 キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "Organisations may find it useful to compare the list of business activities identified in E1 with the impact drivers identified for each business production process, activity and sector in the SBTN Materiality Screening Tool35 to identify which impact drivers are likely to be present.",
+      "ja": "E1で特定した事業活動のリストと、SBTNのマテリアリティスクリーニングツール35で特定されている各事業生産プロセス、活動、セクターのインパクト要因との比較が、存在している可能性の高いインパクト要因の特定に有用な場合がある。"
+    },
+    {
+      "page": 71,
+      "type": "h4",
+      "en": "Identifying relevant environmental assets and ecosystem services",
+      "ja": "関連のある環境資産及び生態系サービスの特定"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "For listing environmental assets and ecosystem services associated with each location, organisations should refer to Section 2 of this document, which provides a comprehensive list of types of environmental assets and ecosystem services to which organisations can refer to complete this component.",
+      "ja": "個々の位置に関連のある環境資産や生態系サービスをリストにする場合、組織は本文書の第2節を参照すべきである。同節には、この構成要素を実行する際に参照可能な、環境資産や生態系サービスのタイプの包括的なリストが提示されている。"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "For financial institutions: Depending on the degree of specificity possible and desirable for understanding potentially material dependencies and impacts, financial institutions can list the environmental assets and ecosystem services in the high-level geographies and sectors identified as priorities in their portfolio. Financial institutions may find the ENCORE tool useful to provide lists of dependencies on ecosystem services by sector and sub-industry. The Global Ecosystem Typology website provides functionality that can be useful to identify biomes and ecosystems in the high-level geographies and sensitive locations identified as priorities in the financial institution’s portfolio.",
+      "ja": "金融機関の場合：潜在的にマテリアルな依存とインパクトを把握する上で可能かつ望ましい具体性の程度に応じ、金融機関は、ポートフォリオにおいて優先事項として特定した概観レベルの地理学的場所とセクターに存在する環境資産及び生態系サービスを、リストにすることができる。ENCOREツールを使用すると、セクターごと及び産業下位区分ごとの生態系サービスへの依存のリストを提示しやすい場合がある。グローバル生態系タイポロジーのウェブサイトには、金融機関がポートフォリオにおいて優先事項として特定した概観レベルの地理学的場所と要注意地域におけるバイオームや生態系を特定するのに役立つ機能が提供されている。"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "Organisations may wish to refer to tools like ENCORE, which rates the usual dependency of certain sectors on specific ecosystem services as evidence for which ecosystem services might be prioritised.",
+      "ja": "生態系サービスの優先性が高い可能性があることを示す証拠として、組織は、個々のセクターが具体的な生態系サービスに依存する一般的な度合いを等級づけしたENCOREのようなツールを参照できる場合がある。"
+    },
+    {
+      "page": 71,
+      "type": "h2",
+      "en": "5.5. E2: Identification of dependencies and impacts",
+      "ja": "5.5. E2：依存及びインパクトの特定"
+    },
+    {
+      "page": 71,
+      "type": "table",
+      "en": "|  | For corporates | For financial institutions |\n|---|---|---|\n| E2: Identification of dependencies and impacts | What are our dependencies and impacts on nature? | What are our dependencies and impacts on nature resulting from the dependencies and impacts of these companies in our portfolios? |",
+      "ja": "|  | 企業の場合 | 金融機関の場合 |\n|---|---|---|\n| E2：依存及びインパクトの特定 | 組織の自然への依存とインパクトは何か？ | ポートフォリオ中のこれらの企業の依存とインパクトから生じる、自らの組織の自然への依存とインパクトは何か？ |"
+    },
+    {
+      "page": 71,
+      "type": "h3",
+      "en": "5.5.1. Supporting questions",
+      "ja": "5.5.1. 補助的質問"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "External factors: What are the external factors affecting our business processes and activities, and each assessment location?",
+      "ja": "外部要因：組織の事業プロセスと活動、ならびに個々の評価場所に影響を及ぼす外部要因は何か？"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "Ecosystem service provision: What ecosystem services do our business processes and activities depend on? What ecosystem services do we and others depend on in our assessment locations?",
+      "ja": "生態系サービスの供給：組織の事業プロセスや活動はどのような生態系サービスに依存しているか？組織や他者は、自らの評価場所においてどの生態系サービスに依存しているか？"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "Changes to the state of nature: What changes to the state of nature are our impact drivers and the external factors in our assessment locations and area of influence contributing to? What might this mean for nature’s capacity to provide ecosystem services in the future?",
+      "ja": "自然の状態の変化：組織のインパクト要因及び組織の評価場所や影響範囲における外部要因要素は、自然の状態のどのような変化の一因になっているか？これは、今後、自然が生態系サービスを提供する能力にとって何を意味する可能性があるか？"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "Identification of dependencies and impacts: What are our identified dependencies and impacts associated with each assessment location?",
+      "ja": "依存およびインパクトの特定：個々の評価場所が伴う特定された組織の依存とインパクトにはどのようなものがあるか？"
+    },
+    {
+      "page": 71,
+      "type": "li",
+      "en": "Dependency and impact pathways: How do these changes fit together to form dependency and impact pathways, including consideration of interactions between them?",
+      "ja": "依存とインパクトの経路：相互作用の考察を含め、これらの変化はどのように複合的に作用することによって依存とインパクトを形成しているか？"
+    },
+    {
+      "page": 71,
+      "type": "p",
+      "en": "For financial institutions, these questions primarily relate to the business processes, activities and locations of their portfolio companies.",
+      "ja": "金融機関の場合、これらの質問は主として、それぞれのポートフォリオ企業の事業プロセスや活動、場所に関連するものになる。"
+    },
+    {
+      "page": 71,
+      "type": "footnote",
+      "en": "35 Science Based Targets Network (2023) Materiality Screening Tool.",
+      "ja": "35 科学に基づく目標ネットワーク（2023）『マテリアリティスクリーニングツール』"
+    },
+    {
+      "page": 72,
+      "type": "h3",
+      "en": "5.5.2. Understand the key elements of dependencies and impacts",
+      "ja": "5.5.2. 依存及びインパクトの主要な要素の理解"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "In E2, building on the conceptual foundations set out in Section 2, your organisation should bring together the key elements of dependencies and impacts. Namely:",
+      "ja": "E2では、第2節で述べた概念上の基礎をふまえ、組織は依存及びインパクトの主要な要素を集約すべきである。すなわち、"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "A list of impact drivers (prepared in E1);",
+      "ja": "インパクト要因のリスト（E1で作成したもの）。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "A list of external factors for consideration, including both natural forces and human activities. This is particularly important when considering your business dependencies;",
+      "ja": "自然の力と人間活動の両方を含めた、考察対象の外部要因のリスト。これは組織の依存について考察する際に特に重要である。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "A list of ecosystem services the organisation and others (for financial institutions, this includes their portfolio companies) depend on (prepared in E1); and",
+      "ja": "組織や他者（金融機関の場合、これにはポートフォリオの企業が含まれる）が依存している生態系サービスのリスト（E1で作成したもの）。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "An understanding of how the impact drivers and external factors can influence the state of nature and consequently ecosystem service provision for the organisation and others, recognising these may be beyond the organisation’s site boundary. This can be done using the guidance on dependency and impact pathways provided in the Natural Capital Protocol (see Box 14).36",
+      "ja": "インパクト要因及び外部要因が、自然の状態と、その結果としての組織及び他者への生態系サービスの供給にどのように影響を及ぼす可能性があるかについての理解。これらが組織の事業拠点の境界を超える場合があることを認識すること。この作業は、自然資本プロトコルに提示されている依存とインパクトの経路に関するガイダンスを活用して実施することが可能である（ボックス14を参照）36。"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "For both corporates and financial institutions, the E2 component of LEAP is about developing a higher degree of granularity and insight about potentially material dependencies and impacts (for financial institutions, with respect to their portfolio companies).",
+      "ja": "企業と金融機関のいずれにおいても、LEAPのE2構成要素は、潜在的にマテリアルな（金融機関の場合はそれぞれのポートフォリオ企業に関する）依存及びインパクトについて、さらに粒度の高い情報と知見を作成する作業になる。"
+    },
+    {
+      "page": 72,
+      "type": "h3",
+      "en": "Box 14: Impact and dependency pathways",
+      "ja": "ボックス14：インパクト及び依存の経路"
+    },
+    {
+      "page": 72,
+      "type": "quote",
+      "en": "Dependency and impact pathways are fundamental to evaluating dependencies and impacts on nature, as set out in the Natural Capital Protocol.37",
+      "ja": "インパクト及び依存の経路は、自然資本プロトコルに述べられているように、依存とインパクトを評価するのに不可欠である37。"
+    },
+    {
+      "page": 72,
+      "type": "h4",
+      "en": "Impact pathway",
+      "ja": "インパクト経路"
+    },
+    {
+      "page": 72,
+      "type": "quote",
+      "en": "An impact pathway describes how, as a result of a specific business activity, a particular impact driver can lead to changes in natural capital (stocks of environmental assets) and flows of ecosystem services, and how these changes affect different stakeholders. It broadly involves the following steps:",
+      "ja": "インパクト経路とは、具体的な事業活動の結果として、個々のインパクト要因がどのように自然資本（自然資産のストック）や生態系サービスの流れにおける変化につながるか、また、これらの変化が多様なステークホルダーにどのように影響を及ぼすかを表わすものである。これには大まかに次のステップが含まれている。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Identify/measure impact drivers;",
+      "ja": "インパクト要因を特定／測定する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Identify/measure changes in the state of nature:",
+      "ja": "自然の状態の変化を特定／測定する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Identify/measure changes in nature associated with your business activities and impact drivers;",
+      "ja": "組織の事業活動とインパクト要因に関連する自然の変化を特定／測定する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Identify/measure changes in nature associated with external factors;",
+      "ja": "外部要因に関連する自然の変化を特定／測定する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Assess trends affecting the state of nature; and",
+      "ja": "自然の状態に影響を及ぼす傾向を評価する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Value impacts:",
+      "ja": "インパクトの価値を評価する。"
+    },
+    {
+      "page": 72,
+      "type": "li",
+      "en": "Identify/measure changes in ecosystem service provision (qualitative/quantitative/monetary valuation).",
+      "ja": "生態系サービスの供給における変化を特定／測定する（定性的／定量的／金銭的価値の評価）。"
+    },
+    {
+      "page": 72,
+      "type": "footnote",
+      "en": "36 Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "36 キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 72,
+      "type": "footnote",
+      "en": "37 For further details, organisations should refer to Steps 04-07 of the Natural Capital Protocol. Capitals Coalition (2016) Natural Capital Protocol. Financial institutions may find it helpful to refer to the Protocol Finance Sector Supplement. Capitals Coalition (2018) Connecting finance and natural capital: A supplement to the Natural Capital Protocol.",
+      "ja": "37 詳細については、組織は自然資本プロトコルのステップ04から07を参照すべきである。キャピタルコアリション（2016）『自然資本プロトコル』。金融機関の場合は、プロトコルの金融セクターに関する補遺を参照すると有用な場合がある。キャピタルコアリション（2018）『Connecting finance and natural capital: A supplement to the Natural Capital Protocol』"
+    },
+    {
+      "page": 73,
+      "type": "h4",
+      "en": "Dependency pathway",
+      "ja": "依存経路"
+    },
+    {
+      "page": 73,
+      "type": "quote",
+      "en": "A dependency pathway describes how a particular business activity depends upon ecosystem services and specific features of natural capital (stocks of environmental assets). It identifies how observed or potential changes in natural capital (caused by specific business activities and external factors) affect the costs and/or benefits of doing business. It broadly involves the following steps:",
+      "ja": "依存経路とは、個々の事業活動が生態系サービスや自然資本（環境資産のストック）の具体的な特性にどのように依存しているかを表わすものである。実際に観察されたか、もしくは潜在的な（具体的な事業活動や外部要因によって引き起こされた）自然資本の変化が、どのように事業実施の経費や便益に影響しているかを特定する。これには大まかに次のステップが含まれている。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Identify/measure dependencies (on ecosystem services and associated environmental assets);",
+      "ja": "依存（生態系サービス及び関連の環境資産に対するもの）を特定／測定する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Identify/measure changes in the state of nature:",
+      "ja": "自然の状態の変化を特定／測定する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Identify changes in nature associated with your business activities and impact drivers;",
+      "ja": "組織の事業活動とインパクト要因に関連する自然の変化を特定する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Identify changes in nature associated with external factors;",
+      "ja": "外部要因に関連する自然の変化を特定する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Assess trends affecting the state of nature; and",
+      "ja": "自然の状態に影響を及ぼす傾向を評価する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Value dependencies:",
+      "ja": "依存の価値を評価する。"
+    },
+    {
+      "page": 73,
+      "type": "li",
+      "en": "Identify/measure changes in ecosystem service provision (qualitative/quantitative/monetary valuation).",
+      "ja": "生態系サービスの供給における変化を特定／測定する（定性的／定量的／金銭的価値の評価）。"
+    },
+    {
+      "page": 73,
+      "type": "quote",
+      "en": "Valuation appears as the final step of each of these pathways. It is a way to provide comparable information across the dependencies and impacts to support decision making. Measurement quantifies changes, but valuation provides an understanding of their relative importance. Further guidance on valuation is provided in Annex 3.",
+      "ja": "価値の評価はこれらの経路のそれぞれにおける最終のステップである。これは意思決定を支える依存とインパクト全体にわたる比較可能な情報を確保するための、1つの方法である。測定は変化を定量化するが、価値評価によりその相対的重要性の理解が得られる。価値評価に関する詳細は別紙3に提示する。"
+    },
+    {
+      "page": 73,
+      "type": "h3",
+      "en": "5.5.3. Consideration of external factors",
+      "ja": "5.5.3. 外部要因の考察"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Qualitatively describe the external factors affecting the state of nature in the assessment locations and areas of influence.",
+      "ja": "評価場所及び影響範囲における自然の状態に影響を及ぼす外部要因を定性的に詳述する。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The state of nature in any particular location is shaped not only by the organisation’s impacts but by those of others, as well as a range of other factors external to the organisation. External factors include natural forces, such as rivers changing routes or geological activity, and human activities beyond the business, such as climate change, land-use change, increased water use and pollution. As part of their assessment of dependencies and impacts, organisations should consider external factors that already affect, or could affect, the state of nature and the environmental assets and ecosystem services on which they depend. For example, a drought caused by climate change or overuse of water by another company could affect the availability of the supply of regular freshwater to a farm operation.",
+      "ja": "個々の場所における自然の状態は、組織によるインパクトだけでなく、他者のインパクトによっても、また、組織外部のその他の多様な要素によっても形成されるものである。外部要因には、例えば河川の流路の変化や生物学的活動のような自然の力、気候変動、土地利用の変化、水使用量の増加、汚染といった、事業を超える人間活動が含まれる。依存及びインパクトの評価の一環として、組織は、自然の状態や、それぞれが依存する環境資産や生態系サービスにすでに影響を及ぼしている、あるいは及ぼす可能性のある外部要因を考察する必要がある。例えば、気候変動や他の企業の水の過剰な使用によって引き起こされる干ばつは、農場での作業に対する定期的な淡水供給の利用可能性に影響を及ぼすおそれがある。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "External factors are also relevant for impacts as they could interact with the organisation’s impact drivers to create tipping points or cumulative impacts. For example, a small food-processing business may have relatively minor impacts on freshwater availability today, but development of irrigated farming in the region could mean the company’s water use becomes much more significant in a local context, due to changing supply and demand conditions.",
+      "ja": "外部要因はまた、インパクトにも関連性がある。組織のインパクト要因と相互作用することで転換点や累積的なインパクトを生じさせる可能性があるからである。例えば、小規模の食品加工企業は現在は淡水の利用可能性に対するインパクトが比較的小さいかもしれないが、地域に灌漑による農場が開発された場合、当該企業の水の使用は、供給と需要の状態が変化することにより、地域の状況においてはるかに重大なものになる可能性がある。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Organisations may need to look beyond their immediate site to identify relevant external factors at a regional, national or even global level. For example, another industry may be adding pollution to a river far upstream that is affecting the environmental assets where the organisation or its value chain partners are operating.",
+      "ja": "組織は直接操業拠点を超えて考察を行うことにより、地域、国あるいはさらに世界規模のレベルで関連のある外部要因を特定しなければならない場合がある。例えば、別の産業が河川のはるか上流で汚染を加え、組織又はそのバリューチェーンのパートナーが事業を運営している環境資産に影響を及ぼしている場合等が考えられる。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Organisations can source and review external government or academic reporting on the state of nature in particular locations to help understand potential external factors of relevance to their analysis.",
+      "ja": "個々の場所における自然の状態が記載されている政府や学術界の外部報告を入手し、内容を精査すると、それぞれの分析に関連している可能性がある外部要因を理解する助けになるものと思われる。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "Organisations may also find it useful to refer to the Political, Economic, Social, Technological, Legal and Environmental (PESTLE) or Social, Technology, Economic, Environmental and Policy (STEEP) frameworks38 and use scenario analysis to explore a range of external factors, as outlined in the TNFD scenario guidance.",
+      "ja": "また、政治、経済、社会、技術、法律、環境（PESTLE）や、社会、技術、経済、環境および政策（STEEP）フレームワークを参照したり38、TNFDシナリオガイダンスに概説されているシナリオ分析を利用して多様な外部要因を探求すると有益な場合がある。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "When the organisation can identify where the activities of other businesses are likely to be driving nature change, the SBTN Materiality Screening Tool may again be useful to identify external factors.39",
+      "ja": "他の企業の活動が自然の変化を引き起こしている可能性が高い場所を組織が特定できる場合には、ここでもSBTNのマテリアリティスクリーニングツールが外部要因の特定に有用性を発揮する可能性がある39。"
+    },
+    {
+      "page": 74,
+      "type": "h3",
+      "en": "5.5.4. Changes in the state of nature",
+      "ja": "5.5.4. 自然の状態の変化"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "Describe how the identified external factors and organisation’s impact drivers could lead to changes in the state of nature.",
+      "ja": "特定した外部要因及び組織のインパクト要因がどのように自然の状態の変化につながっていく可能性があるかを詳述する。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "Organisations should consider how the combination of their own impact drivers and external factors could lead to changes in the state of nature. This requires consideration of whether impact drivers and external factors may, currently or in the future, collectively affect environmental assets, considering ecosystem extent and condition, species population and species extinction risks as outlined in Section 2 and Annex 2 of this document.",
+      "ja": "組織は自らのインパクト要因と外部要因の組み合わせがどのように自然の状態の変化につながっていく可能性があるのかを考察すべきである。ここでは、本文書の第2節と別紙2に概説する生態系の範囲と状態、種の個体群と種の絶滅リスクを考慮しながら、インパクト要因と外部要因が、現在あるいは将来的に環境資産に集合的な影響を及ぼすのかどうかを考察しなければならない。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "While various tools, metrics and reports provide useful resources (see Section 5.9 and Annex 2), there is not yet a comprehensive, methodologically consistent global reference source describing linkages between drivers of nature change, changes to the state of nature and changes to the availability of ecosystem services. Organisations therefore need to form their own assessment of the state of nature in locations relevant to their LEAP due diligence. In some cases, the assessment may require an understanding of potential ecosystem tipping points (Box 15).",
+      "ja": "多様なツールや指標、報告が有用なリソースを提供しているが（第5.9節及び別紙2を参照）、自然の変化をもたらす要因と自然の状態の変化、生態系サービスの利用可能性に対する変化のつながりについて詳述した、包括的で手法的に整合性のあるグローバルな参照情報源はまだ作成されていない。したがって、組織は、自らのLEAPデューディリジェンスに関連する場所における自然の状態について、独自の評価を作成しなければならない。ケースによっては、評価において潜在的な生態系の転換点を把握しなければならない場合もある（ボックス15）。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "The TNFD encourages organisations to start forming this assessment by drawing on analysis in L3, which identified the locations associated with their high and moderate impacts and dependencies and L4, which identified sensitive locations where their business model and value chain interface with nature deemed to be ecologically sensitive.",
+      "ja": "TNFDは組織に対し、高及び中程度のインパクトと依存に関連する場所を特定したL3と、ビジネスモデル及びバリューチェーンが生態学的に注意を要するとみなされる自然と接する要注意地域を特定したL4の分析結果を活用して、この評価の作成を開始するよう推奨している。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "The TNFD encourages organisations to use the information they have available to them from their own data, from scientific and NGO sources (potentially including available modelling), and through their engagement with Indigenous Peoples, Local Communities, affected and other stakeholders to build their understanding over time and to triangulate an understanding of the changes occurring in each assessment location. The TNFD recognises that initial descriptions of these linkages set out in E2 may be high level, revealing knowledge gaps that require further investigation in future rounds of analysis.",
+      "ja": "TNFDは組織に対し、組織独自のデータ、科学界やNGOの情報源（利用可能なモデリングが含まれている可能性がある）、ならびに先住民族、地域社会、影響を受けるステークホルダーならびにその他のステークホルダーとのエンゲージメントを通じて入手し、利用が可能な情報を活用することにより、経時的な知見を構築し、それぞれの評価場所で起こっている変化を多角的視点で把握するよう推奨している。TNFDはE2に述べたこれらのつながりに関する初期の記述は概観レベルのものであり、今後の分析段階で更なる調査が必要となる知見不足が明らかになる可能性があることを認識している。"
+    },
+    {
+      "page": 74,
+      "type": "p",
+      "en": "Organisations should consider the timing of when impact drivers and external factors are likely to result in changes to the state of nature, including frequency, any time lags, cumulative impacts, possible timing of thresholds and tipping points, and the likelihood of this change occurring and over what geographical scale. For example:",
+      "ja": "組織は、例えば頻度や時間的遅延、累積的なインパクト、閾値や転換点の起こりうるタイミング、この変化が発生する可能性と地理学的範囲の規模等、インパクト要因と外部要因が自然の状態の変化に至る可能性が高いタイミングについて考察すべきである。例えば、"
+    },
+    {
+      "page": 74,
+      "type": "li",
+      "en": "Some impacts from climate change happen over long timeframes (over 100 years);",
+      "ja": "気候変動によるインパクトの中には、長期の時間枠（100年以上）で発生するものがある。"
+    },
+    {
+      "page": 74,
+      "type": "li",
+      "en": "Planting trees in upland areas can reduce soil erosion and sedimentation of water bodies downstream, with results observable within a decade; or",
+      "ja": "高地地域での植樹により、下流水域の土壌流出や土砂体積が低減し、結果を10年の範囲内で観察できる可能性がある。"
+    },
+    {
+      "page": 74,
+      "type": "li",
+      "en": "Fish populations in marine protected areas, or where fishing communities have taken coordinated voluntary action to avoid fishing in particular areas, have been known to restock rapidly, in five to 10 years or less.",
+      "ja": "海洋保護区、あるいは漁業共同体が特定の海域での漁を回避するための協調的な自発的取り組みを講じている箇所での魚の個体数は、5年から10年未満で急速に補充されることが知られている。"
+    },
+    {
+      "page": 74,
+      "type": "footnote",
+      "en": "38 In its Guidance on Scenario Analysis for Non-Financial Companies, the TCFD suggests the use of these types of analyses to identify forces of consequence that may vary by scale, highlighting that they are commonly used to gain insight into developments in the external environment during times of uncertainty.",
+      "ja": "38 非金融機関向けシナリオ分析ガイダンスの中で、TCFDは、これらのタイプの分析を使用することにより、規模により変わりうる帰結の力を特定するよう推奨し、これらが不安定な時代における外部環境の発展に対する知見を得る目的で広く使用されていることを強調している。"
+    },
+    {
+      "page": 74,
+      "type": "footnote",
+      "en": "39 Science Based Targets Network (2023) Materiality Screening Tool.",
+      "ja": "39 科学に基づく目標ネットワーク（2023）『マテリアリティスクリーニングツール』"
+    },
+    {
+      "page": 75,
+      "type": "p",
+      "en": "At this stage, organisations should also review any evidence available about thresholds for the level of impact that the ecosystems affected by the organisation’s impact drivers can endure. This should be science-based, consider cumulative impacts, include both unacceptable levels and desirable levels, and be location and context specific.",
+      "ja": "この段階で、組織は組織のインパクト要因によって影響を受ける生態系が耐えることのできるインパクトのレベルに対する閾値について、得られる科学的証拠を点検すべきである。この作業は科学に基づくもので、累積的なインパクトについて考察し、許容できないレベルと望ましいレベルの両方を組み入れ、場所と背景状況に特異的なものであるべきだ。"
+    },
+    {
+      "page": 75,
+      "type": "h3",
+      "en": "Box 15: Thresholds and tipping points",
+      "ja": "ボックス15：閾値と転換点"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Organisations analysing their dependencies and impacts should consider the potential for threshold effects and tipping points.",
+      "ja": "自らの依存とインパクトを分析する組織は、閾値効果と転換点の可能性について考察すべきである。"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "The relationship between impact drivers and external factors, changes in the state of nature and availability of ecosystem services will not always be smooth. In some cases, the accumulation of impact drivers and external factors can reach a point that triggers a sudden, rapid acceleration in the changes to the state of nature and availability of ecosystem services. When a threshold effect or tipping point is present, the ecosystem will no longer naturally return to its previous state once the driver of change has abated. It will instead move to a new steady state, with an altered availability of ecosystem services. This can mean that quantitatively small impact drivers can lead to large shifts in the availability of ecosystem services over an extended period. Organisations interfacing with ecosystems approaching thresholds and tipping points may therefore face elevated risks.",
+      "ja": "インパクト要因及び外部要因、自然の状態の変化、生態系サービスの利用可能性の関係は、常に円滑なものであるとは限らない。ケースによっては、インパクト要因と外部要因の蓄積により、自然の状態や生態系サービスの利用可能性の変化が突如急速に加速化する点に至らせてしまう可能性がある。閾値効果や転換点が存在する場合、変化の要因が弱まっても、もはや自然に元の状態に復帰することはない。その代わりに、生態系サービスの利用可能性が変化した新たな定常状態に移行する。これは、定量的には小さいインパクト要因が長い期間のうちに生態系サービスの利用可能性に大きな変化を生じさせる可能性があることを意味しうる。すなわち、閾値や転換点に近づいている生態系と接する組織は、リスク上昇に直面している可能性が考えられるのである。"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Tipping points are not always straightforward to identify but may be indicated by a slowdown in the recovery time from small shocks, such as a brief drought, warmer than usual winter or small outbreak of predatory insects.",
+      "ja": "転換点は常に簡単に特定できるとは限らないが、例えば短期間の干ばつや通常と比較した暖冬、捕食昆虫の小規模な発生等、小さな衝撃からの回復時間の遅延が示唆している場合がある。"
+    },
+    {
+      "page": 75,
+      "type": "h4",
+      "en": "Key definitions",
+      "ja": "主要な定義"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Threshold – The point at which a relatively small change in external conditions causes a rapid change in an ecosystem. When an ecological threshold has been passed, the ecosystem may no longer be able to return to its state by means of its inherent resilience.",
+      "ja": "閾値－外的条件の比較的小さな変化が生態系に急速な変化を引き起こすポイント。生態学的な閾値を超えると、生態系は本来のレジリエンスによってその状態へ戻ることがもはやできなくなる場合がある。"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Threshold effect – Harmful or fatal effect of a small change in environmental conditions that exceeds the limit of tolerance of an organism or population of a species.",
+      "ja": "閾値効果－生物、又は種の個体群の耐性の限界を超える、環境条件の小さな変化による有害又は致命的な影響。"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Tipping point – A level of change in system properties beyond which a system reorganises, often abruptly, and does not return to the initial state even if the drivers of the change are abated.",
+      "ja": "転換点－システムの特性において、これを超えると、多くのケースでは突然にシステムの再編成が起こり、変化の要因が弱まっても初期状態には復帰しない変化のレベルのこと。"
+    },
+    {
+      "page": 75,
+      "type": "quote",
+      "en": "Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services IPBES Glossary",
+      "ja": "生物多様性及び生態系サービスに関する政府間科学政策プラットフォーム『IPBES用語集』"
+    },
+    {
+      "page": 75,
+      "type": "p",
+      "en": "Useful guidance on thresholds is available through the concept of planetary boundaries and online databases of tipping points,40 as well as on specific issues such as pollutants through national legislation and Pollutant Release and Transfer Registers.41 Where quantitative thresholds are available, this will act as a useful input to E3 and E4.",
+      "ja": "閾値に関する有用なガイダンスは、地球の限界の概念や転換点のオンラインデータベース40を通じて入手できる40。また、汚染物質等の特定の課題についても、国内法令や環境汚染物質排出移動登録を介して入手することが可能である41。定量的な閾値が得られる場合、これはE3及びE4への有用なインプットの役割を果たすことになる。"
+    },
+    {
+      "page": 75,
+      "type": "footnote",
+      "en": "40 Steffen, W. et al. (2015). Planetary boundaries: Guiding human development on a changing planet. Science 347: 736, 1259855; Stockholm Resilience Centre. Regime Shifts DataBase; Resilience Alliance and Santa Fe Institute (2004) Thresholds and alternate states in ecological and social-ecological systems.",
+      "ja": "40 Steffen, W. et al.（2015）「Planetary boundaries: Guiding human development on a changing planet」『Science』347: 736, 1259855，ストックホルムレジリエンスセンター『Regime Shifts DataBase』，レジリエンスアライアンス、サンタフェ研究所（2004）『Thresholds and alternate states in ecological and social-ecological systems』"
+    },
+    {
+      "page": 75,
+      "type": "footnote",
+      "en": "41 Department of Environment Food and Rural Affairs (2022) UK Pollutant Release and Transfer Register. Threshold List.",
+      "ja": "41 英国環境食料農村地域省（2022）『英国汚染物質排出移動登録　閾値一覧』"
+    },
+    {
+      "page": 76,
+      "type": "h3",
+      "en": "5.5.5. Ecosystem service provision",
+      "ja": "5.5.5. 生態系サービスの提供"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "Describe which ecosystem services your business processes and activities depend on. Describe which ecosystem services identified in E1 other stakeholders may depend on. Describe how the changes in the state of nature identified could lead to changes in ecosystem service provision.",
+      "ja": "事業プロセスや活動がどの生態系サービスに依存しているかを詳述する。E1で特定した、他のステークホルダーが依存している可能性のある生態系サービスについて詳述する。特定した自然の状態の変化がどのようにして生態系サービスの提供における変化につながっていく可能性があるかを詳述する。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The organisation will have identified the ecosystem services present in each location in E1.",
+      "ja": "組織は、E1で個々の場所に存在する生態系サービスをすでに特定しているはずである。"
+    },
+    {
+      "page": 76,
+      "type": "li",
+      "en": "From a dependency pathway perspective, the organisation should review which of these ecosystem services the organisation depends on for its business activities, and any ecosystem services that are provided by environmental assets in other locations. For example, a clean, regular freshwater supply may depend on the health of forests far upstream.",
+      "ja": "依存経路の観点から、組織はこれらのうち、自らがその事業活動のために依存している生態系サービスと、他の場所の環境資産が提供する生態系サービスについて点検すべきである。例えば、清浄で日常的な淡水の供給は、はるか上流の森林の健全性に依存している可能性がある。"
+    },
+    {
+      "page": 76,
+      "type": "li",
+      "en": "From an impact pathway perspective, it is also necessary to identify which ecosystem services other stakeholders depend on, recognising these may arise in the wider area of influence beyond an organisation’s site boundary.42",
+      "ja": "インパクト経路の観点から、生態系サービスは組織の事業拠点の境界を超えた、より広い影響範囲において発生している可能性があることを認識し、他のステークホルダーがどの生態系サービスに依存しているかを特定することも必要である42。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The organisation should then be able to identify which environmental assets support the flow of those ecosystem services.",
+      "ja": "その後、組織は、どの環境資産がこれらの生態系サービスの流れを維持しているかを特定できるはずだ。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "At this stage, an inventory of identified ecosystem services, identified by who depends on the ecosystem service (the organisation, other stakeholders) and which environmental assets support the flow of ecosystem services is sufficient.",
+      "ja": "この段階では、生態系サービスに誰が依存しているか（組織、その他のステークホルダー）、及びどの環境資産が生態系の流れを支えているかを特定した、特定された生態系サービスの目録で十分である。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "While environment assets such as forests and rivers are location based, and the activities of your organisation and its value chain may have impacts on environmental assets in those same locations, those activities may also have impacts on assets and ecosystem services that are far away from those locations. For example, air and water pollution impacts or the impacts on migratory bird populations could be felt far away. As such, organisations need to consider the impact they have on environmental assets and ecosystem services at different scales:",
+      "ja": "森林や河川のような環境資産は場所がベースであり、組織とそのバリューチェーンの活動は同じ場所にある環境資産にインパクトを及ぼす可能性があるが、これらの活動はその場所から遠く離れた資産や生態系サービスにもインパクトを生じさせる場合がある。例えば、空気及び水の汚染インパクトや渡り鳥の個体群に対するインパクトが遠く離れた場所で知覚される可能性がある。従って、組織は、次のような異なる規模で自らが環境資産や生態系サービスに及ぼすインパクトについて考察しなければならない。"
+    },
+    {
+      "page": 76,
+      "type": "li",
+      "en": "1. In the specific geolocation (GPS coordinates or polygon) of their direct operations and those of their value chain;",
+      "ja": "1. 直接操業及びバリューチェーンの具体的な地理的位置（GPS座標もしくはポリゴン）"
+    },
+    {
+      "page": 76,
+      "type": "li",
+      "en": "2. In the area of influence around those locations (see Box 9 in Section 2); and",
+      "ja": "2. これらの場所周辺の影響範囲（第2節のボックス9を参照）"
+    },
+    {
+      "page": 76,
+      "type": "li",
+      "en": "3. Outside the area of influence where their activities may have impacts or dependencies on nature.",
+      "ja": "3. 活動が自然に対するインパクト又は依存を伴っている可能性のある影響範囲の外側"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "Organisations can refer to the TNFD biome guidance for typical ecosystem services in the biomes covered and to SBTN guidance on science-based targets for nature for consideration of impact drivers (called ‘pressures’ in SBTN guidance) that may have impacts outside the area of direct operations.",
+      "ja": "対象に含まれているバイオームにおける代表的な生態系サービスはTNFDバイオームガイダンスを、また、直接操業地域以外の場所でインパクトを及ぼす可能性のあるインパクト要因（SBTNガイダンスでは「圧力」と呼ばれている）については科学に基づく自然への目標に関するSBTNガイダンスを、それぞれ参照することができる。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "The organisation should seek to understand qualitatively how changes in the state of the environmental assets are likely to affect the flow of services available, and the likelihood of these changes occurring.43 Table 6 contains examples of how changes to the state of environmental assets are connected to the provision of ecosystem services.",
+      "ja": "組織は、環境資産の状態における変化が利用可能なサービスの流れにどのように影響する可能性が高いか、また、これらの変化が発生する可能性はどのくらいかを定性的に把握すべきである43。表6は、環境資産の状態に対する変化が生態系サービスの提供とどのようにつながっているかを示す一例を収載したものである。"
+    },
+    {
+      "page": 76,
+      "type": "p",
+      "en": "In linking business activities to ecosystem services, the organisation may wish to refer to the ecosystem service dependencies provided in the ENCORE tool by sector and sub-industry.44",
+      "ja": "事業活動と生態系サービスを関連付ける場合、ENCOREツールに提示されているセクター別及び産業下位区分別の生態系サービスへの依存を参照すると有用な場合がある44。"
+    },
+    {
+      "page": 76,
+      "type": "footnote",
+      "en": "42 UNEP-WCMC et al. (2022) Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature.",
+      "ja": "42 UNEP-WCMC他（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature』"
+    },
+    {
+      "page": 76,
+      "type": "footnote",
+      "en": "43 UNEP-WCMC et al. (2022) Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature.",
+      "ja": "43 UNEP-WCMC他（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature』"
+    },
+    {
+      "page": 76,
+      "type": "footnote",
+      "en": "44 The ENCORE tool uses a slightly different categorisation of ecosystem services from that recommended by the TNFD. ENCORE uses the Common International Classification of Ecosystem Services, whereas the TNFD uses United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting. A crosswalk is available if required from United Nations et al. (2021) System of Environmental-Economic Accounting—Ecosystem Accounting (SEEA EA), Online supplement: Ecosystem Services Reference List Crosswalk to Selected Ecosystem Services Classifications and Typologies.",
+      "ja": "44 ENCOREツールはTNFDが推奨するものとはやや異なる生態系サービスの分類を使用している。ENCOREは国際生態系サービス共通分類（Common International Classification of Ecosystem Services）を使用しているのに対し、TNFDは国際連合他（2021）「環境経済勘定－生態系勘定」を使用しているからである。国際連合がオンラインで提供している対照表を必要な場合は利用のこと。国際連合他（2021「）環境経済勘定－生態系勘定：Online supplement: Ecosystem Services Reference List Crosswalk to Selected Ecosystem Services Classifications and Typologies」"
+    },
+    {
+      "page": 77,
+      "type": "caption",
+      "en": "Table 6: Examples of changes in the state of nature affecting the provision of ecosystem services",
+      "ja": "表6：自然の状態の変化が生態系サービスの提供に影響を及ぼす一例"
+    },
+    {
+      "page": 77,
+      "type": "table",
+      "en": "| Ecosystem service | Change in the state of environmental asset affecting the flow of ecosystem service |\n|---|---|\n| Soil and sediment retention | Siltation of a hydropower reservoir |\n| Water supply | Diversion or desiccation of a river that provided a source of process water |\n| Soil quality regulation | Acid rain affecting soil fertility |\n| Biomass provisioning | Forest fires destroying raw material (fibre) inputs |\n| Storm mitigation, flood mitigation | Loss of mangrove habitat resulting in reduced protection from extreme weather events |\n| Nursery population and habitat maintenance | Reduction in bird populations resulting in increased insect damage to crops |\n| Solid waste remediation and air filtration | Loss of vegetation cover and natural dust suppression |\n| Various cultural services | Loss of iconic species, habitats and attractive landscapes |",
+      "ja": "| 生態系サービス | 環境資産の状態の変化が生態系サービスの流れに影響を及ぼす一例 |\n|---|---|\n| 土壌と土砂の保持 | 水力発電用貯水池の堆泥 |\n| 水供給 | 工程用水の水源である河川の分水又は乾燥 |\n| 土質調節 | 土壌の肥沃度に影響を及ぼす酸性雨 |\n| バイオマスの供給 | 投入原材料（繊維）を破壊する森林火災 |\n| 暴風雨の緩和、洪水緩和 | マングローブ生息地の損失による、異常気象現象からの保護の減衰 |\n| 生息地の個体数と生息環境の維持 | 作物に対する虫害の増大に至る鳥類個体数の減少 |\n| 固体廃棄物浄化と大気浄化 | 植生や自然の粉塵抑制物の損失 |\n| 多様な文化的サービス | 象徴的な種、生息環境及び魅力的な景観の損失 |"
+    },
+    {
+      "page": 77,
+      "type": "p",
+      "en": "Source: Adapted from Capitals Coalition (2016) Natural Capital Protocol",
+      "ja": "出典：キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 77,
+      "type": "h3",
+      "en": "5.5.6. Prioritising dependencies and impacts",
+      "ja": "5.5.6. 依存及びインパクトの優先順位付け"
+    },
+    {
+      "page": 77,
+      "type": "p",
+      "en": "To arrive at a final list of potentially material dependencies and impacts, the LEAP assessment team may wish to consider producing a probability-weighted estimate of the changes in the state of nature and ecosystem services that they have identified. This could be a qualitative or quantitative assessment, depending on the data and the resources and capabilities available to the organisation. That probability assessment can then help to identify high, medium or low levels of potential materiality for each identified dependency and impact for each assessment location.",
+      "ja": "潜在的にマテリアルな依存とインパクトの最終的なリストに行き着くため、LEAP評価チームは、特定した自然及び生態系サービスの状態の変化に対し、確率に重み付けした推定値の作出を検討してみると有効な場合がある。これは、組織が利用できるデータや資源、能力に応じて、定性的な評価でも定量的な評価でもよい。この確率評価はその後、個々の評価場所について特定した依存とインパクトのそれぞれに対し、高、中あるいは低の潜在的なマテリアリティのレベルを特定するのに役立つ可能性がある。"
+    },
+    {
+      "page": 77,
+      "type": "p",
+      "en": "E2 should conclude with the LEAP assessment team having a list of dependencies and impacts – by location for corporates; and by sectors or geographies for financial institutions and for specific geographic locations where possible – ranked on a high/medium/low qualitative scale. In component E3, dependencies and impacts assessed as high and medium will be measured quantitatively, where possible.",
+      "ja": "E2の最後に、LEAP評価チームは、企業の場合は拠点の場所ごと、金融機関の場合はセクターまたは地理学的場所ごと、また、可能であれば具体的な地理学的位置に関する依存とインパクトを、高／中／低の定性的尺度にランク付けしたリストが作成できているはずだ。E3の構成要素では、高及び中に評価された依存とインパクトに対し、可能であれば定量的に測定評価を実施する。"
+    },
+    {
+      "page": 78,
+      "type": "h2",
+      "en": "5.6. E3: Dependency and impact measurement",
+      "ja": "5.6. E3：依存及びインパクトの測定"
+    },
+    {
+      "page": 78,
+      "type": "table",
+      "en": "|  | Corporates | Financial institutions |\n|---|---|---|\n| E3: Dependency and impact measurement | Dependency measurement – What is the scale and scope of our dependencies on nature?<br>Impact measurement – What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature? | Dependency measurement – What is the scale and scope of our dependencies on nature as a result of the dependencies of our portfolio companies?<br>Impact measurement – What is the severity of their negative impacts on nature? What is the scale and scope of their positive impacts on nature? |",
+      "ja": "|  | 企業 | 金融機関 |\n|---|---|---|\n| E3：依存及びインパクトの測定 | 依存の測定－組織の自然への依存の規模とスコープはどのようなものか？<br>インパクトの測定－組織が自然に及ぼすマイナスのインパクトの深刻さはどの程度か？自然に対するプラスのインパクトの規模とスコープはどのようなものか？ | 依存の測定－ポートフォリオ企業の依存の結果として生じる、自らの組織の自然への依存の規模とスコープはどのようなものか？<br>インパクトの測定－これらの企業が自然に及ぼすマイナスのインパクトの深刻さはどの程度か？これらの企業が自然に及ぼすプラスのインパクトの規模とスコープは？ |"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "In E1 and E2, the organisation identified and described its dependencies and impacts, including:",
+      "ja": "E1とE2において、組織は、次のように依存とインパクトを特定し、記述した。"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "Identification of the impact drivers, environment assets and ecosystem services of relevance for each assessment location;",
+      "ja": "各評価場所に関連のあるインパクト要因、環境資産、生態系サービスの特定"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "Consideration of external factors, including potentially through scenario analysis;",
+      "ja": "シナリオ分析を通じて行われる可能性のあるものを含め、外部要因の考察"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "Consideration of the ecosystem services the organisation and others depend on; and",
+      "ja": "組織及び他者が依存している生態系サービスの考察"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "Consideration of current and potential future changes in the state of nature at each assessment location.",
+      "ja": "各評価場所における現在の、また、将来的に起こりうる自然の状態の変化についての考察"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "In E3, the organisation moves to measuring these dependencies and impacts.",
+      "ja": "E3では、組織はこれらの依存とインパクトの測定に移行する。"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "For corporates: Component E3 enables the corporate to measure the scale and scope of their dependencies and impacts on nature. They can do this by quantifying impact drivers, changes to the state of nature and changes to ecosystem service provision using the assessment metrics provided by the TNFD (Annex 1). These will also include the timing, extent and likelihood of the dependency or impact, and will be mapped back to assessment locations.",
+      "ja": "企業の場合：構成要素E3では、企業はそれぞれの自然に対する依存とインパクトの規模とスコープを測定することができる。これは、TNFDが提供している評価の測定指標（別紙1）を用いて、インパクト要因、自然の状態に対する変化、生態系サービスの提供に対する変化を定量化することによって実施が可能である。これらには依存又はインパクトの発生時期、程度、発生の可能性も含まれており、結果が評価場所にマッピングされることになる。"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "For financial institutions: Component E3 will involve gathering data and information to evaluate the scale of their portfolio companies’ dependencies and impacts on nature, taking account of those companies’ management and mitigation strategies. This analysis may require engagement with companies and/or acquisition of external relevant data. Financial institutions will select a number of companies/activities for which additional due diligence is needed for a thorough LEAP analysis. Through this process, a financial institution will develop a global view of the impacts and dependencies of its portfolios. Where data from companies is not yet globally available, a footprinting approach using data providers can help, bearing in mind the limitations of such approaches set out in the TNFD Additional Guidance for Financial Institutions.",
+      "ja": "金融機関の場合：構成要素E3では、ポートフォリオ企業の管理と緩和の戦略を考慮に入れながら、これらの企業の自然に対する依存とインパクトの規模を判断するためのデータ及び情報を収集する。この分析には、企業のエンゲージメントや外部関連データの取得が必要になる可能性がある。金融機関は、詳細なLEAP分析のため、追加のデューディリジェンスが必要ないくつかの企業／活動を選定する。このプロセスを通じ、金融機関はそのポートフォリオのインパクトと依存の世界的な概観を作成する。企業によるデータがまだ世界規模では得られていない場合には、データプロバイダーを活用したフットプリンティングアプローチが役立つ可能性がある。ただし、この場合は、TNFDの金融セクターガイダンスに述べられている、こういったアプローチの制約を念頭に置いておくこと。"
+    },
+    {
+      "page": 78,
+      "type": "p",
+      "en": "This sets the foundations for LEAP assessments for report preparers through two materiality lenses:",
+      "ja": "これにより、次の2つのマテリアリティに関する視点を通じ、報告作成者にとってのLEAP評価の土台が構築される。"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "An assessment meeting the material information needs of capital providers consistent with the ISSB Standards and TCFD recommendations, with a focus on risk management and how dependencies and impacts on nature create risks and opportunities for an organisation’s financial position and prospects (undertaken in the Assess phase); and",
+      "ja": "リスクマネジメントと、（評価フェーズで実施した）自然に対する依存及びインパクトがどのようにして組織の財政状態や見通しに対するリスク及び機会を創出するかに重点を置いた、ISSB基準やTCFD提言と整合する出資者のマテリアルな情報ニーズに適合した評価）。"
+    },
+    {
+      "page": 78,
+      "type": "li",
+      "en": "An assessment meeting the material information needs of stakeholders focused on impacts, aligned with a broader materiality approach, reporting against both the ISSB and the GRI standards (impact materiality assessment is undertaken in E4).",
+      "ja": "より広範囲のマテリアリティアプローチに整合し、ISSBとGRIの両方の基準に照らして報告を行う、インパクトに重点を置いたステークホルダーのマテリアルな情報ニーズに適合する評価（インパクトのマテリアリティ評価はE4で実施される）。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Note – Guidance on the TNFD’s recommended disclosure requirements can be found in the TNFD Recommendations.",
+      "ja": "注：TNFDが提言する開示要件についてのガイダンスは、TNFD提言に記載されている。"
+    },
+    {
+      "page": 79,
+      "type": "h4",
+      "en": "The challenge of measuring dependencies and impacts",
+      "ja": "依存及びインパクトの測定における課題"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "The Taskforce recognises that it can be difficult to quantify all identified dependencies and impacts due to data limitations, particularly around traceability through value chains.",
+      "ja": "タスクフォースは、特にバリューチェーンを通じたトレーサビリティをはじめとするデータの制約により、特定したすべての依存とインパクトを定量化するのは難しい可能性があることを認識している。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "In some cases, measurement of impact drivers, the state of nature and ecosystem services at sources upstream and downstream will require detailed tracing of products to the original production site or place of final disposal. However, in others, at least in the initial stage, tracing may be to the landscape, regional or country level, with sample data, industry or commodity averages being used to estimate dependencies and impacts. The level of tracing required, and which variables need quantification will depend on the level of detail users of the disclosures need to be able to make capital allocations and other decisions, and the information the organisation requires to be able to take action.",
+      "ja": "ケースによっては、上流および下流の発生源におけるインパクト要因、自然の状態、生態系サービスを測定するのに、製品を最初の生産現場や最終の廃棄処分場所まで詳細にたどっていかなければならない場合もある。これに対して、少なくとも初期の段階では、サンプルデータや産業または商品の平均値を使用し、ランドスケープや地域、国のレベルに遡及することによって依存とインパクトを推定すればよい場合もある。必要な遡及のレベルや定量化が必要な変数は、開示の利用者が資本の配分やその他の判断を行えるようにするための詳細度や、組織が行動を起こすのに必要になる情報によって異なる。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "For example, it may be that the organisation judges that it is sufficient to know that its palm oil comes from a region known to have a high risk of tropical deforestation to understand in broad terms the risks and opportunities it faces, and the dependencies and impacts the processes are likely to have. This level of information may enable the organisation to decide that it wants to review its sourcing procedures and ensure its palm oil from the region is certified to a high standard in response to the dependencies, impacts, risks and opportunities identified.",
+      "ja": "例えば、直面しているリスクと機会、プロセスに付随している可能性のある依存とインパクトを大まかに把握するのに、パーム油が熱帯雨林伐採のリスクが高い既知の地域から得られていることがわかれば十分であると組織が判断する場合がある。このレベルの情報であれば、組織は、特定した依存、インパクト、リスク、機会に応じて、調達手順を見直すとともに、当該地域から得られるパーム油が高い基準に照らして認証されていることを確認しようという意思決定を行うことができる。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Alternatively, it may want further reassurance on the performance of its farmers, particularly if it knows there is substantial variation in the sourcing region or decides that an absence of traceability carries unacceptable risks to the organisation. This could mean tracing all the way to the originating farmer and measuring the state of nature at the farm level. The appropriate level of detail will depend on the company’s individual circumstances, including its strategy, and the purpose of the assessment.",
+      "ja": "あるいは、調達地域に著しいばらつきがあることがわかっている場合等をはじめ、組織が農家の実績を再確認したり、トレーサビリティが確保できない場合は、組織に対して許容できないリスクが付随していると判断する可能性もある。これはすなわち、生産元の農家まではるばる遡及し、農家のレベルで自然の状態を測定することを意味する可能性がある。適切な詳細度は、戦略を含めた企業の個々の状況と、評価の目的によって異なることになる。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "This tracing will take time, and organisations should start with a small number of highly material issues and expand the scope of disclosures across all material issues. It is, however, important to describe qualitatively material issues, where they cannot be quantified.",
+      "ja": "このような遡及には時間を要するため、組織は少数のマテリアリティの高い課題からスタートし、すべてのマテリアルな課題の全域に開示のスコープを拡大していくべきである。ただし、定量化できない場合には、マテリアルな課題を定性的に記述することが重要である。"
+    },
+    {
+      "page": 79,
+      "type": "h4",
+      "en": "Choose indicators and metrics to measure the variables of interest.",
+      "ja": "関心対象の変数を測定するための指標と測定指標を選択する"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Having determined what the organisation wants to measure, the organisation needs to choose indicators and metrics to undertake this measurement. The TNFD provides a set of recommended assessment metrics to help get LEAP assessment teams started (Annex 1), while acknowledging that every business is unique and assessment teams should consider other relevant metrics beyond those recommended by the Taskforce.",
+      "ja": "何を測定するかを決定したら、組織はこの測定を理解するための指標と測定指標を選択しなければならない。TNFDはLEAP評価チームの着手を助ける集合的な評価の測定指標を提言し、提示しているが（別紙1）、同時にすべての事業は独自のものであり、評価チームはタスクフォースが提言するもの以外の関連のある測定指標について考察すべきであることを認めている。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Measurement can be:",
+      "ja": "測定は以下のいずれの性質を持つものでもよい。"
+    },
+    {
+      "page": 79,
+      "type": "li",
+      "en": "Qualitative (e.g. high, medium or low rates of pollution); or",
+      "ja": "定性的（例えば、高、中又は低の汚染率等）"
+    },
+    {
+      "page": 79,
+      "type": "li",
+      "en": "Quantitative, such as the tonnes of different pollutants emitted, cubic metres of water consumed per day or hectares of habitat converted.",
+      "ja": "定量的。排出された異なる汚染物質のトン数や、一日の水使用量の平方メートル数、転換された生息地のヘクタール数等"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Qualitative assessment can be useful to understand the linkages between impact drivers and impacts. A good understanding of these values can help to develop impact pathways. The understanding of these connections may be useful for understanding management options and effects.",
+      "ja": "定性的評価はインパクト要因とインパクトのつながりを理解するのに有用な場合がある。これらの値を適正に把握できれば、インパクト経路を構築するのに役立つ可能性がある。これらのつながりの把握は、経営の選択肢や作用の理解に有用性を発揮する場合がある。"
+    },
+    {
+      "page": 80,
+      "type": "p",
+      "en": "The TNFD assessment metrics take into account the following considerations:",
+      "ja": "TNFDの評価における測定指標は、次の考察事項を考慮に入れたものである。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "1. A range of relevant indicators and metrics: Metrics should include, where possible, an absolute figure, the rate of change and an intensity or efficiency ratio. Metrics should be location-specific and at the right organisational level (product, site, corporate-level) to provide useful insights. This desire for breadth needs to be balanced against organisational capacity to complete the assessment;",
+      "ja": "1. 関連のある多様な指標と測定指標：測定指標には、可能であれば、絶対的な数字や変化の速度、強度、効率の比を含めるべきである。有用な知見が得られるよう、測定指標は場所に固有で、なおかつ適正な組織レベル（製品、事業拠点、企業のレベル）であるべきだ。このような幅に対する希望は、評価を実施する組織の能力に照らしてバランスの取れたものにしなければならない。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "2. Relevance and decision usefulness: Metrics need to be relevant and decision-useful to the audience of the LEAP assessment and, eventually, for any disclosures made based on the LEAP assessment. At this stage, the recipients of the LEAP assessment will include internal senior management, but the eventual recipients will be external stakeholders, including the primary users of the organisation’s financial and sustainability reports for whom material information needs to be disclosed. For this reason, the TNFD’s recommended disclosure metrics are a sub-set of the larger set of suggested assessment metrics;",
+      "ja": "2. 妥当性と判断における有用性：測定指標は、LEAP評価の結果を読む人にとって、また、最終的にはLEAP評価にもとづいて行われるすべての開示において、妥当かつ判断に有用なものでなければならない。この段階ではLEAP評価結果の受領者は内部の上級管理層であるが、最終的な受領者は、マテリアルな情報を開示しなければならない相手である、組織の財務報告書及びサステナビリティ報告書の主たる利用者を含めた外部のステークホルダーになる。このような理由から、TNFDが提言する開示のための測定指標は、より規模の大きな推奨評価測定指標の部分集合としている。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "3. Scientific soundness and use of metrics for other frameworks and reporting: Metrics should have a strong scientific evidence base. Adoption by other frameworks and reporting standards provides a useful signal that the indicator or metric is science-based and considered decision-useful;",
+      "ja": "3. 科学的健全性と他のフレームワークおよび報告への測定指標の使用：測定指標は確固たる科学的証拠を持つものであるべきだ。他の枠組みや報告基準によって採択されているということは、その指標又は測定指標に科学的根拠があり、判断に有用であるとみなされていることをしめす有用な徴候である。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "4. Coverage of all relevant realms of nature: Indicators should cover all relevant realms of nature (land, freshwater, ocean, atmosphere);",
+      "ja": "4. 関連のあるあらゆる自然の領域の組み入れ：指標は関連のあるあらゆる自然の領域（陸、淡水、海洋、大気）を内容に含むものであるべきだ。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "5. Scalability: Metrics should be scalable and able to be applied at different levels across sectors and locations, and to measure performance against targets; and",
+      "ja": "5. 拡張性：測定指標には拡張性があり、セクターや場所全体に異なるレベルで適用できるとともに、パフォーマンスを目標に照らして測定できるものであるべきだ。"
+    },
+    {
+      "page": 80,
+      "type": "li",
+      "en": "6. Baselines and reference states: State of nature metrics should, wherever possible, compare the current ecosystem condition to a baseline and reference state. Rate of change metrics should be compared to a starting baseline. This is defined as the starting point or benchmark against which changes in the state of nature attributed to a business activity can be compared.",
+      "ja": "6. ベースラインと参照状態：自然の状態に対する測定指標は、可能な限り、現在の生態系の状態をベースラインや参照状態と比較するものであるべきだ。変化速度の測定指標は、開始時のベースラインと比較するものであるべきだ。これは、事業活動に起因する自然の状態の変化を比較する際の基準となる出発点又はベンチマークとして定義されている。"
+    },
+    {
+      "page": 80,
+      "type": "p",
+      "en": "Annex 1 and Annex 2 provide more details on assessment metrics for impact drivers, changes to the state of nature and changes to ecosystem services as key elements of dependency and impact pathways. Illustrative indicators are provided in Table 7.",
+      "ja": "別紙1と別紙2では、依存とインパクト経路の主要な要素として、インパクト要因、自然の状態の変化、生態系サービスの変化の評価測定指標についてさらに詳しく説明している。指標の例を表7に示す。"
+    },
+    {
+      "page": 81,
+      "type": "caption",
+      "en": "Table 7: Dependency and impact metrics categories with illustrative indicators",
+      "ja": "表7：指標例付き依存とインパクトの測定指標カテゴリー"
+    },
+    {
+      "page": 81,
+      "type": "table",
+      "en": "| Dependency & impact metrics category | Sub-category 1 | Sub-category 2 | Indicator – Illustrative example |\n|---|---|---|---|\n| Impact drivers | Land/water/ocean use change | Land ecosystem use | Extent of land use change |\n|  |  | Freshwater ecosystem use | Extent of freshwater area use change |\n|  |  | Ocean ecosystem use | Extent of ocean area use change |\n|  | Climate change | Greenhouse gas emissions | Greenhouse gas emissions |\n|  | Pollution/pollution removal | Non-GHG air pollution | Non-GHG air pollutants by type |\n|  |  | Soil pollution | Pollutants released to soil by type |\n|  |  | Water pollution | Wastewater discharged |\n|  |  | Waste | Waste generation and disposal |\n|  |  | Disturbances | Light and noise pollution |\n|  | Resource use/replenishment | Water use | Water withdrawal and consumption |\n|  |  | Other resource use | Quantity of high-risk natural commodities sourced |\n|  | Invasive alien species and other | Biological alterations | Measures against unintentional introduction of invasive alien species |",
+      "ja": "| 依存及びインパクトの測定指標カテゴリー | サブカテゴリー1 | サブカテゴリー2 | 指標―例示 |\n|---|---|---|---|\n| インパクト要因 | 陸／水／海洋利用の変化 | 陸域生態系利用 | 土地利用変化の面積 |\n|  |  | 淡水生態系の利用 | 淡水域利用の変化の面積 |\n|  |  | 海洋生態系の利用 | 海域利用の変化の面積 |\n|  | 気候変動 | 温室効果ガス排出 | 温室効果ガス排出 |\n|  | 汚染／汚染の除去 | 温室効果ガス以外の大気汚染 | タイプ別に見たGHG以外の大気汚染 |\n|  |  | 土壌汚染物質 | タイプ別に見た土壌への汚染物質の放出 |\n|  |  | 水質汚染 | 廃水排出 |\n|  |  | 廃棄物 | 廃棄物の発生と処理 |\n|  |  | 攪乱 | 光害と騒音公害 |\n|  | 資源の利用と補充 | 水利用 | 取水量と水の消費量 |\n|  |  | その他の資源利用 | 調達する高リスクの天然一次産品の量 |\n|  | 侵略的外来種等 | 生物学的変化 | 侵略的外来種の非意図的な導入 |"
+    },
+    {
+      "page": 82,
+      "type": "table",
+      "en": "| Dependency & impact metrics category | Sub-category 1 | Sub-category 2 | Indicator – Illustrative example |\n|---|---|---|---|\n| State of nature | Ecosystems | Extent | Habitat cover |\n|  |  | Condition | Ecosystem condition by type of ecosystem |\n|  | Species | Population size | Species population size |\n|  |  | Extinction risk | Mean species extinction risk |\n| Ecosystem services | Provisioning | Biomass provisioning | Weight of provisioned assets |\n|  |  | Water supply | Water withdrawal |\n|  | Regulating and maintenance | Water purification/flow regulation/maintenance | Water flow regulated |\n|  |  | Soil quality regulation/soil and sediment retention/solid waste remediation | Soil retained |\n|  |  | Pollinations/pest and disease control/nursery population/habitat maintenance | Area of habitat providing services |\n|  |  | Flood or storm mitigation/noise attenuation | Number of properties in low-risk categories |\n|  |  | Global or local climate regulation/rainfall pattern regulation/air filtration | Tonnes of GHG retained |\n|  | Cultural | Recreation/visual amenity/scientific and education/spiritual, artistic, symbolic | Number of visits for cultural purposes |",
+      "ja": "| 依存及びインパクトの測定指標カテゴリー | サブカテゴリー1 | サブカテゴリー2 | 指標―例示 |\n|---|---|---|---|\n| 自然の状態 | 生態系 | 広がり | 生息地の被覆 |\n|  |  | 状態 | 生態系のタイプ別に見た生態系の状態 |\n|  | 種 | 個体数 | 種の個体数 |\n|  |  | 絶滅リスク | 平均の種の絶滅リスク |\n| 生態系サービス | 供給 | バイオマスの供給 | 供給される資産の重量 |\n|  |  | 水供給 | 取水量 |\n|  | 調節と維持 | 水の浄化／水流調節／維持 | 調節される水流量 |\n|  |  | 土質調節／土壌と土砂の保持／固体廃棄物浄化 | 保持された土壌 |\n|  |  | 花粉媒介／害虫及び病害の防止／生育地の個体数／生息環境の維持 | サービスを供給する生息地面積 |\n|  |  | 洪水又は暴風雨の緩和／騒音減衰 | 低リスクカテゴリーにおける物件数 |\n|  |  | 世界又は地域の気候の調節／降雨パターンの調整／大気浄化 | 保持されるGHGの量 |\n|  | 文化 | レクリエーション／視覚的アメニティ―／科学及び教育／精神的、芸術的、象徴的 | 文化的目的のための訪問数 |"
+    },
+    {
+      "page": 83,
+      "type": "h3",
+      "en": "5.6.1. Measuring impact drivers",
+      "ja": "5.6.1. インパクト要因の測定"
+    },
+    {
+      "page": 83,
+      "type": "h4",
+      "en": "Prioritising impact drivers for measurement",
+      "ja": "測定のためのインパクト要因の優先順位付け"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Organisations will have identified a set of impact drivers linked to dependencies and impacts in E1. Continuing to focus on those that relate to high and moderate dependencies and impacts, the LEAP assessment team should select impact drivers for measurement that reflect the cross-cutting criteria for prioritisation above. The team should consider how impact driver metrics can be used as inputs to models to estimate changes to the state of nature and ecosystem service provision, and to interpret or anticipate trends in state indicators at a corporate, national or regional level.45",
+      "ja": "E1において、組織は依存とインパクトに関連付けられたインパクト要因の集合を特定しているはずである。引き続き高から中程度の依存とインパクトに関連するインパクト要因に重点を置きながら、LEAP評価チームは、上述の優先順位付けのための横断的基準を反映した測定対象のインパクト要因を選定すべきである。自然の状態及び生態系サービスの供給に対する変化を推定し、企業、国又は地方のレベルの状態指標における傾向を解釈又は予測するために、インパクト要因測定指標をモデルへの入力としてどう使えるか考察すべきである45。"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Organisations may wish to refer to tools like the SBTN materiality tool to assess which impact drivers are most likely to be material.",
+      "ja": "組織は、どのインパクト要因が最もマテリアルな可能性があるかを評価するのに、SBTNのマテリアリティツールのようなツールを参照するとよい。"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Quantification of an impact driver alone will not be sufficient for report users to understand the organisation’s impact. Impact driver metrics should be put in the context of the dependency or impact pathway, alongside other contextual information such as whether the ecosystem on which the impact driver is having an effect is approaching a tipping point, or if the organisation is one of many organisations having similar impacts.",
+      "ja": "報告利用者が組織によるインパクトを把握するためには、インパクト要因の定量化だけでは十分ではないだろう。インパクト要因測定指標は、インパクト要因が影響を及ぼしている生態系が転換点に近づいているか、あるいは組織が同様のインパクトを有する多くの組織の一つに過ぎないのかといった、他の文脈情報と併せて、依存とインパクト経路の文脈に配置されるべきだ。"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Where linking an impact driver metric to a location and providing full context is not yet possible due to capacity or data issues, impact drivers could be measured in aggregate for your organisation and not contextualised to a specific location and still provide useful insights.",
+      "ja": "能力やデータの問題により、インパクト要因の測定指標を特定の場所と関連付け、完全な文脈を提示することがまだ可能でないケースでは、インパクト要因を具体的な場所の文脈に落とし込むのではなく、組織に関して総体的に測定してもよい。"
+    },
+    {
+      "page": 83,
+      "type": "p",
+      "en": "Contextualisation can be quantitative or qualitative. Useful information to contextualise impact driver metrics where possible includes:46",
+      "ja": "文脈への落とし込みは定量的にも定性的にもなりうる。可能な場合インパクト要因測定指標を文脈に落とし込むために有用な情報には、次のようなものがある46。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Thresholds: Building on any evidence on thresholds gathered in E2, organisations should seek to compare their impact drivers and external drivers of change with quantitative thresholds where available for the ecosystems affected (see Box 9);",
+      "ja": "閾値：E2で収集した閾値に関する証拠に立脚して、組織は、影響を受ける生態系に関する定量的閾値が得られる時は、インパクト要因と変化の外部要因をこれら閾値と比較するよう努めるべきだ（ボックス9を参照）。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Direct or indirect: Whether impact drivers affect nature directly, through activities that have a direct causal link, such as through land-use change, and/or indirectly, through an indirect causal link, such as habitat degradation caused by climate change to which GHG emissions contributed.47 The former will be easier to attribute directly to the organisation and may require a different set of metrics;",
+      "ja": "直接的か間接的か：インパクト要因が、例えば土地利用の変化等を通じ、直接的な因果関係を有する活動を通じて自然に直接影響を及ぼしているのか、あるいはGHG排出がその一因になっている気候変動によって引き起こされた生息地の劣化等、間接的な因果関係を通じて間接的な影響を及ぼしているのか、又はその両方か47。前者は原因を組織に直接帰属させやすく、異なる測定指標集合が必要になる場合がある。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Timing: The timing of when impact drivers are likely to result in changes to the state of nature, including any time lags, cumulative impacts, thresholds and tipping points. This is of fundamental importance in decision-making to manage the impact;",
+      "ja": "タイミング：インパクト要因が、時間の落差、累積的インパクト、閾値及び転換点などを含め、自然の状態に対する変化に至る可能性のあるタイミング。これはインパクトを管理するための意思決定において根本的に重要である。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Regulation: Regulatory requirements to manage and disclose impact drivers, such as legal thresholds for water pollution; and",
+      "ja": "規制：水質汚染の法律上の閾値等、インパクト要因を管理し、開示するよう定めた規制上の要求事項。"
+    },
+    {
+      "page": 83,
+      "type": "li",
+      "en": "Stage of value chain: The stage of the value chain to which the impact driver relates. For some organisations, such as those with agricultural supply chains, a focus on direct operations may not capture the greatest impacts and dependencies.",
+      "ja": "バリューチェーンの段階：インパクト要因に関連があるバリューチェーンの段階。農業サプライチェーンを有するもの等、一部の組織では、直接操業に重点を置いた場合、最大のインパクト及び依存をとらえられない可能性がある。"
+    },
+    {
+      "page": 83,
+      "type": "footnote",
+      "en": "45 UNEP-WCMC et al. (2022) Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature.",
+      "ja": "45 UNEP-WCMC他（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature』"
+    },
+    {
+      "page": 83,
+      "type": "footnote",
+      "en": "46 Climate Disclosure Standards Board (2021) Application guidance for biodiversity-related disclosures.",
+      "ja": "46 気候変動開示基準審議会（2021）『Application guidance for biodiversity-related disclosures』"
+    },
+    {
+      "page": 83,
+      "type": "footnote",
+      "en": "47 Climate Disclosure Standards Board (2021) Application guidance for biodiversity-related disclosures.",
+      "ja": "47 気候変動開示基準審議会（2021）『Application guidance for biodiversity-related disclosures』"
+    },
+    {
+      "page": 84,
+      "type": "p",
+      "en": "The TNFD recommends organisations use the following sources of guidance when measuring impact drivers:",
+      "ja": "TNFDは組織に対し、インパクト要因を測定する際、以下に挙げるガイダンス情報源を利用するよう提言している。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "Natural capital accounting frameworks, such as the Natural Capital Protocol48, the related Transparent methodology49 and UN SEEA,50 which has also been applied at a corporate entity level;51",
+      "ja": "キャピタルコアリションの自然資本プロトコル48、これに関連するTransparent手法49、同じく企業体レベルで適用されているUN SEEA50等の自然資本勘定枠組み51。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "Existing corporate disclosure requirements such as GRI,52 CDSB guidance on water and biodiversity53 (CDSB is now incorporated into the ISSB), and the Corporate Sustainability Reporting Directive (CSRD)54 provide useful guidance on the measurement of impact drivers, particularly around resource exploitation, climate change and pollution;",
+      "ja": "GRI52水および生物多様性に関するCDSBのガイダンス53（CDSBは現在、ISSBに統合されている）、企業サステナビリティ報告指令（CSRD）54等の既存の企業開示要件には、特に資源の搾取や気候変動、汚染等に関するものをはじめ、インパクト要因の測定に関する有用なガイダンスが提示されている。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "Target and measurement setting initiatives including the collaborative Align project recommendations;55",
+      "ja": "協働的なAlignプロジェクトによる勧告を含め、目標及び測定の設定イニシアティブ55。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "Lifecycle analysis approaches, such as the EU Corporate Environmental Footprint (CEF) and Product Environmental Footprint (PEF);56 and",
+      "ja": "EUの企業環境フットプリント（CEF）や製品環境フットプリント（PEF）等のライフサイクル分析アプローチ）56。"
+    },
+    {
+      "page": 84,
+      "type": "li",
+      "en": "Environmental extended input–output models such as EXIOBASE, which may be useful for value chain analysis.",
+      "ja": "EXIOBASEのような環境拡張投入産出モデル。バリューチェーンの分析に有用な場合がある。"
+    },
+    {
+      "page": 84,
+      "type": "p",
+      "en": "Annex 1 contains the TNFD’s suggested set of assessment metrics for impact drivers.",
+      "ja": "別紙1に、インパクト要因の評価に対してTNFDが推奨する測定指標集合が記載されている。"
+    },
+    {
+      "page": 84,
+      "type": "h3",
+      "en": "Box 16: Assessing water stress related risk – Kirin Holdings Company",
+      "ja": "ボックス16：水ストレスに関連するリスク－キリンホールディングス株式会社"
+    },
+    {
+      "page": 84,
+      "type": "quote",
+      "en": "Kirin Holdings Company is an integrated Japanese food and beverage, biotechnology and pharmaceutical company founded in 1907. Kirin Holdings recognises that its business model and value chains are based primarily on agricultural products, and it relies heavily on a range of ecosystem services, including water provision, for its business activities.",
+      "ja": "キリンホールディングス株式会社は、1907年に設立された日本の食品飲料、バイオテクノロジー、医薬品製造の統合型企業である。キリンホールディングスは自社のビジネスモデルとバリューチェーンが主として農業製品に基づいていることを認識しており、その事業活動において、水の供給を含む多様な生態系サービスに大きく依存している。"
+    },
+    {
+      "page": 84,
+      "type": "quote",
+      "en": "Kirin Holdings scoped its LEAP assessment to focus on three priority areas related to its beverage business in July 2022: Sri Lankan tea farms, Japanese vineyards and water stressed areas in Australia. The results from this analysis, and an integrated climate/nature scenario assessment, informed the company’s overall risk assessment.",
+      "ja": "キリンホールディングスは2022年7月にLEAP評価のスコープ設定を行い、飲料事業に関連して、スリランカの茶葉農場、日本のブドウ園、オーストラリアの水ストレスが存在する地域の3つの優先地域に重点を置くこととした。この分析から得られた結果と、統合的な気候／自然シナリオの評価により、同社は全体的なリスク評価の情報を得た。"
+    },
+    {
+      "page": 84,
+      "type": "quote",
+      "en": "ENCORE was used at an early stage to assess the impact of upstream activities across all Kirin Holdings’ value chains, indicating the moderate impact of agricultural activities. This was complemented by secondary research into individual commodities, which provided important additional insight to contextualise the industry average data available through ENCORE.",
+      "ja": "初期段階ではENCOREを用いてキリンホールディングスのバリューチェーン全体における上流活動のインパクトを評価した。その結果は、農業活動の中等度のインパクトを示唆するものであった。ENCOREを通じて得られる業界の平均的なデータを文脈に落とし込むための重要な補足的知見を提供する個別産品別二次分析で、この評価を補完した。"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "48 Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "48 キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "49 Value Balancing Alliance, Capitals Coalition, World Business Council for Sustainable Development (2023) Standardized Natural Capital Management Accounting: A methodology promoting the integration of nature in business decision making.",
+      "ja": "49 バリューバランシングアライアンス、キャピタルコアリション、持続可能な開発のための世界経済人会議（2023）『Standardized Natural Capital Management Accounting: A methodology promoting the integration of nature in business decision making』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "50 United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting.",
+      "ja": "50 国際連合他（2021）『環境経済勘定－生態系勘定』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "51 Lammerant, J. (2021) Business and Natural Capital Accounting Case Study: Ambuja Cement, India; Lammerant, J. (2021) Business and Natural Capital Accounting Case Study: Quarry restoration by Holcim, Spain.",
+      "ja": "51 Lammerant, J.（2021）『Business and Natural Capital Accounting Case Study: Ambuja Cement, India』，Lammerant, J.（2021）『Business and Natural Capital Accounting Case Study: Quarry restoration by Holcim, Spain』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "52 GRI (2021) GRI Standards Glossary.",
+      "ja": "52 GRI（2021）『GRIスタンダード用語集』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "53 CDSB (2021) Application guidance for biodiversity-related disclosures.",
+      "ja": "53 気候変動開示基準審議会（2021）『Application Guidance for Biodiversity-related Disclosures』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "54 European Commission (2023) Delegated Regulation supplementing Directive 2013/34/EU.",
+      "ja": "54 欧州委員会（2023）『EU指令2013/34補完委任規則』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "55 UNEP-WCMC et al. (2022) Recommendations for a standard on biodiversity measurement and valuation. Aligning Accounting Approaches for Nature.",
+      "ja": "55 UNEP-WCMC他（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature』"
+    },
+    {
+      "page": 84,
+      "type": "footnote",
+      "en": "56 European Commission (2021) Environmental footprint methods.",
+      "ja": "56 欧州委員会（2021）『Environmental footprint methods』"
+    }
+  ]
+}

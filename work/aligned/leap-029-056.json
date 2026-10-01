@@ -1,0 +1,1980 @@
+{
+  "doc": "leap",
+  "pages": [
+    29,
+    56
+  ],
+  "segments": [
+    {
+      "page": 29,
+      "type": "h4",
+      "en": "Responding to nature-related risks and opportunities: The mitigation hierarchy",
+      "ja": "自然関連のリスクと機会への対応：ミティゲーションヒエラルキー"
+    },
+    {
+      "page": 29,
+      "type": "quote",
+      "en": "In responding to risks and opportunities, business actions that avoid or minimise negative impacts on nature should be prioritised over the pursuit of restoration efforts or mitigation of existing damage through reconstructive or compensatory measures. This is in line with mitigation hierarchy principles such as the SBTN AR3T framework.21",
+      "ja": "リスクと機会への対応において、自然へのマイナスのインパクトを回避又は最小化する事業活動は、復元の取り組み、又は再生若しくは補償措置による既存の損害の緩和の追求よりも優先されるべきである。これはSBTNのAR3Tフレームワーク等のミティゲーションヒエラルキーの原則に従ったものである21。"
+    },
+    {
+      "page": 29,
+      "type": "quote",
+      "en": "The AR3T framework includes four types of actions that should be followed sequentially:",
+      "ja": "AR3Tフレームワークには4つのタイプの行動があり、それらは順番に実行されるべきである。"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Avoid: Prevent negative impacts from happening in the first place; eliminate negative impacts entirely;",
+      "ja": "回避：マイナスのインパクトを未然に防ぎ、マイナスのインパクトを完全に排除する。"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Reduce: Minimise negative impacts that cannot be fully eliminated;",
+      "ja": "軽減：完全に排除できないマイナスのインパクトを最小化する。"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Regenerate: Take actions designed within existing land/ocean/freshwater uses to increase the biophysical function and/or ecological productivity of an ecosystem or its components, often with a focus on a few specific ecosystem services; and",
+      "ja": "再生：生態系又はその構成要素の生物物理学的な機能及び／又は生態学的な生産性を高めるために、既存の陸／海洋／淡水の利用の範囲内で計画された行動を取る。しばしば数種類の特定の生態系サービスに焦点をあてる。"
+    },
+    {
+      "page": 29,
+      "type": "li",
+      "en": "Restore: Initiate or accelerate the recovery of an ecosystem with respect to its health, integrity and sustainability, with a focus on permanent changes in state.",
+      "ja": "復元：恒久的な自然の状態の変化に焦点を当て、生態系の健全性、十全性、サステナビリティに関して、生態系の復元を開始または促進する。",
+      "flag": "ja-order-differs"
+    },
+    {
+      "page": 29,
+      "type": "quote",
+      "en": "It further includes transformative action, which covers the ways organisations can contribute to needed systemic change inside and outside their value chains.",
+      "ja": "さらに、バリューチェーンの内外で必要とされるシステミックな変化に組織が貢献する方法等の、変革に向けた行動も含まれる。"
+    },
+    {
+      "page": 29,
+      "type": "caption",
+      "en": "Figure 16: SBTN AR3T framework",
+      "ja": "図16：SBTN AR3Tフレームワーク"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "Transform / Restore & regenerate / Reduce / Avoid",
+      "ja": "変革/復元と再生/軽減/回避"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "Source: Science Based Targets Network (2023) Step 4. Act",
+      "ja": "引用元：科学に基づく目標ネットワーク（2023）『ステップ4：行動』"
+    },
+    {
+      "page": 29,
+      "type": "footnote",
+      "en": "21 Adapted from: WWF (2022) A Biodiversity Guide for Business; Science Based Targets Network (2023) Step 4. Act",
+      "ja": "21 引用元：WWF（2022）『ビジネスに対する生物多様性ガイド』，科学に基づく目標ネットワーク（2023）『ステップ4：行動』"
+    },
+    {
+      "page": 30,
+      "type": "h2",
+      "en": "2.3. Understanding financial effects on the organisation",
+      "ja": "2.3.組織に対する財務効果の理解"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "Nature-related risks and opportunities have financial effects on an organisation through changes to:",
+      "ja": "自然関連のリスクと機会は、以下の項目への変化を通じて組織に財務上の影響を及ぼす。"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Revenue, expenses and capital expenditure;",
+      "ja": "収益、費用及び資本支出"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Access to and cost of capital (through, for example, re-ratings of its credit risk or insurance premiums); and",
+      "ja": "資本へのアクセスと資本コスト（例えば信用リスクや保険料の再評価等を通じた変化）"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Carrying amount of assets and liabilities on the balance sheet.",
+      "ja": "貸借対照表における資産と負債の帳簿価額"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "These transmission channels can have a positive or negative effect on credit, operational, market, liquidity, liability, reputational and strategic risk (Figure 17).",
+      "ja": "これらの伝達経路は、信用、操業、市場、流動性、賠償責任、評判、戦略に関するリスクに対し、プラス又はマイナスの影響を生じさせる可能性がある（図17）。"
+    },
+    {
+      "page": 30,
+      "type": "caption",
+      "en": "Figure 17: Links between nature-related risks and opportunities, business performance and financial effects on an organisation",
+      "ja": "図17：自然関連のリスクと機会、組織のビジネスパフォーマンスと財務効果との関連性"
+    },
+    {
+      "page": 30,
+      "type": "figure",
+      "en": "Nature-related risks: Systemic risks (Ecosystem stability risk; Financial stability risk); Physical risks (Acute risk; Chronic risk); Transition risks (Policy risk; Liability risk; Reputational risk; Market risk; Technology risk)",
+      "ja": "自然関連リスク：システミックリスク（生態系の安定性リスク；金融安定性リスク）；物理的リスク（急性リスク；慢性リスク）；移行リスク（政策リスク；賠償責任リスク；評判リスク；市場リスク；技術リスク）"
+    },
+    {
+      "page": 30,
+      "type": "figure",
+      "en": "Nature-related opportunities: Business performance (Markets; Capital flow and financing; Products and services; Resource efficiency; Reputational capital); Sustainability performance (Sustainable use of natural resources; Ecosystem protection, restoration and regeneration)",
+      "ja": "自然関連の機会：ビジネスパフォーマンス（市場；資本フローと資金調達；製品とサービス；資源効率；評判資本）；サステナビリティパフォーマンス（自然資源の持続可能な利用；生態系の保護、復元、再生）"
+    },
+    {
+      "page": 30,
+      "type": "figure",
+      "en": "Resilience / Impact mitigation / Strategic planning and risk management / Financial effects: Income statement (Revenue; Expenditure); Cash flow statement; Balance sheet (Assets and liabilities; Capital and financing)",
+      "ja": "レジリエンス/インパクトの緩和/戦略的計画立案とリスクマネジメント/財務的効果：損益計算書（収益；支出）；キャッシュフロー計算書；貸借対照表（資産と負債；資本と資金調達）"
+    },
+    {
+      "page": 31,
+      "type": "h1",
+      "en": "3. Scoping a LEAP assessment",
+      "ja": "3. LEAP評価におけるスコープの設定"
+    },
+    {
+      "page": 31,
+      "type": "h2",
+      "en": "3.1. Why",
+      "ja": "3.1.なぜ"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Internal due diligence processes like LEAP require the support of an internal senior management champion (a committee or individual) and a dedicated project team.",
+      "ja": "LEAPのような内部のデューディリジェンスプロセスには、内部の上級管理者層に属する推進役（委員会又は個人）の支援と専属のプロジェクトチームが必要である。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Early alignment between management and the LEAP assessment team on the scope and resources to be committed for the LEAP assessment is vital before any in-depth analytical work commences.",
+      "ja": "詳細な分析作業を開始する前に、LEAP評価のスコープや充当される資源について管理者層とLEAP評価チームの間で早期に調整しておくことが極めて重要である。"
+    },
+    {
+      "page": 31,
+      "type": "h2",
+      "en": "3.2. What",
+      "ja": "3.2.何を"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "The TNFD recommends that the management and project teams draft and agree to a simple terms of reference document outlining the agreed parameters of the LEAP assessment to be undertaken. This will help to ensure alignment on goals, expected outcomes and timelines, and consequent resourcing and budget requirements. That assessment should be based on:",
+      "ja": "これから実施するLEAP評価の合意されたパラメータを概説する簡略的な業務事項文書の原案を、管理者層とプロジェクトチームで起草し合意することをTNFDは推奨している。これは、目標、予想される成果とスケジュール、その結果必要になる資源と予算について足並みをそろえるのに役立つからである。評価は、次の事項にもとづいて行われるべきである。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "A quick, high-level, preliminary scan of internal and external data and reference sources to generate a hypothesis about the organisation’s potential nature-related dependencies, impacts, risks and opportunities; and",
+      "ja": "内部及び外部のデータを迅速かつ概観レベルで暫定的にスクリーニングし、組織における潜在的な自然関連の依存、インパクト、リスク及び機会についての仮説を作成する。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "A determination of where likely skills and data gaps lie and how those gaps will be addressed to complete the scoped assessment successfully.",
+      "ja": "スキルやデータの不備が存在する可能性のある個所や、これらのギャップに対応し、スコープを定めた評価を適正に完了する方法を確定する。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "The key to effective scoping is not to invest too much time or resources in any initial research and data scan as the scoping process is only designed to define the parameters of the assessment to follow. Some pilot testing organisations found it easy to get pulled into detailed analysis at the scoping stage, which runs the risks of pre-empting the assessment itself.",
+      "ja": "効果的なスコープ設定の鍵は、初期の調査やデータのスクリーニングに過剰な時間や資源を投資しないことである。スコープ設定のプロセスは、評価において従うべきパラメータの定義のみを目的として考案されているからである。パイロットテストを実施した組織の中には、スコープ設定段階で容易に詳細な分析に引き込まれ、評価自体を先取りしてしまうリスクを感じたところもある。"
+    },
+    {
+      "page": 31,
+      "type": "h4",
+      "en": "Objective",
+      "ja": "目的"
+    },
+    {
+      "page": 31,
+      "type": "quote",
+      "en": "To align senior management and a designated LEAP assessment team on the parameters of the assessment to be undertaken, including the aspects of the business model and value chain to be assessed and the resources to be provided to undertake the assessment.",
+      "ja": "上級管理者層と指名されたLEAP評価チームが、評価するビジネスモデルやバリューチェーン、評価の実施に提供される資源といった側面を含め、実施される評価のパラメータについて足並みをそろえること。"
+    },
+    {
+      "page": 31,
+      "type": "h4",
+      "en": "Desired outputs",
+      "ja": "望ましいアウトプット"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Strong internal support to proceed with an assessment based on an agreed terms of reference and commensurate budget and resources; and",
+      "ja": "合意した業務事項とこれに見合った予算及び資源にもとづいて評価に進むことのできる、強力な内部支援"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "A working hypothesis about the organisation’s potential nature-related issues to focus the assessment.",
+      "ja": "評価において重点を置くべき、組織の潜在的な自然関連課題についての作業仮説"
+    },
+    {
+      "page": 31,
+      "type": "h4",
+      "en": "Practical tips from pilot testers",
+      "ja": "実証試験実施組織から得られた実用的なヒント"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Stay high level and avoid the temptation to dive into the data at this stage.",
+      "ja": "概観レベルを維持し、この段階でデータを詳細に分析したいという欲求を回避すること。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "In addition to scanning the organisation’s potential nature-related issues, also scan for potential skill and data gaps that will inform resourcing decisions.",
+      "ja": "組織の潜在的な自然関連課題を事前に調査するだけでなく、資源配分決定の判断材料となるような潜在的な、スキルやデータの不足も調査すること。"
+    },
+    {
+      "page": 32,
+      "type": "h2",
+      "en": "3.3. Guiding questions",
+      "ja": "3.3.ガイドとなる質問"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "The TNFD recommends that all organisations consider two high-level guiding questions to help ensure alignment on goals and expected outcomes of a LEAP assessment.",
+      "ja": "TNFDは、LEAP評価の目標や期待される成果について確実に合致できるよう、すべての組織に2つのガイドとなる概観レベルの質問について考察することを推奨する。"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "1. Generate a working hypothesis: What are the organisation’s business processes and activities where there are likely to be material nature-related dependencies, impacts, risks and opportunities?",
+      "ja": "1.作業仮説の作成：組織の事業プロセス及び活動のうち、マテリアルな自然関連の依存、インパクト、リスク及び機会が存在する可能性のあるものは何か？"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "2. Align on goals and resourcing: Given the current level of capacity, skills and data within the organisation and given organisational goals, what are the resource (financial, human and data) considerations and time allocations required and agreed for undertaking an assessment?",
+      "ja": "2.目標および資源配分の合致：組織内部の現時点での能力、スキル、データのレベル、組織の所定の目標を考慮した上で、評価を実施するためにどのような資源（財務、人材及びデータ）の検討と時間配分が必要かつ合意されているか？"
+    },
+    {
+      "page": 32,
+      "type": "h3",
+      "en": "3.3.1. Generate a working hypothesis",
+      "ja": "3.3.1.作業仮説の作成"
+    },
+    {
+      "page": 32,
+      "type": "h4",
+      "en": "(1) Generate a working hypothesis",
+      "ja": "（1）作業仮説の作成"
+    },
+    {
+      "page": 32,
+      "type": "quote",
+      "en": "What are the organisation’s activities where there are likely to be material nature-related dependencies, impacts, risks and opportunities?",
+      "ja": "組織の活動のうち、マテリアルな自然関連の依存、インパクト、リスク及び機会が存在する可能性のあるものは何か？"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Supporting questions:",
+      "ja": "補助的質問"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Does the organisation (and the assessment team) have a foundational understanding of nature-related dependencies, impacts, risks and opportunities?",
+      "ja": "組織（及び評価チーム）は、自然関連の依存、インパクト、リスク及び機会を根本的に理解しているか？"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "What activities and/or assets are in the organisation’s upstream and downstream value chains?",
+      "ja": "組織の上流及び下流のバリューチェーンには、どのような活動や資産が存在しているか？"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "In which sectors, value chains and/or geographies does the organisation have a presence?",
+      "ja": "どのセクター、バリューチェーン、及び／又は地理学的場所に組織は存在しているか？"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "How much revenue, expenditure or earnings is associated with each of these activities and assets? By sector, value chain and/or geography?",
+      "ja": "これらの活動や資産のそれぞれに関連する収益や支出、収入はどのくらいか？セクターやバリューチェーン、地理学的場所別に見た場合はどうか？"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "A key purpose of scoping is to create a shared internal understanding of the organisation’s goals and objectives for a nature-related assessment. It should take into consideration the organisation’s approach to materiality based on an understanding of its regulatory reporting requirements and the information needs of its capital providers and other stakeholders. Scoping should generate a working hypothesis as a basis for enquiry and a focus for where to prioritise the organisation’s time and resources.",
+      "ja": "スコープ設定の主要な目的は、自然関連評価に対する組織の目標と目的の理解を内部で共有できるようにすることである。規制によって求められている報告要件と、資本提供者やその他のステークホルダーの情報ニーズを理解した上で、組織のマテリアリティに対するアプローチを考慮に入れるべきである。スコープ設定により、組織の時間と資源をどこに優先的に充当すべきかの問いと重点の根拠としての作業仮説が作られるべきである。"
+    },
+    {
+      "page": 32,
+      "type": "quote",
+      "en": "The Locate phase of LEAP has been designed to enable prioritisation and focus, starting with all potentially assessable sectors and activities, value chains and geographies and ending with those most likely to be associated with material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "LEAPの発見フェーズは、潜在的に評価が可能なすべてのセクターや活動、バリューチェーン、地理学的場所に始まり、これらのうちでマテリアルな自然関連の依存、インパクト、リスク、機会と関連している可能性が最も高いものに終着することで、優先化と重点化が可能になるように設計されている。"
+    },
+    {
+      "page": 32,
+      "type": "h4",
+      "en": "Identifying assets and activities in direct operations and value chains",
+      "ja": "直接操業及びバリューチェーンにおける資産と活動の特定"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Your organisation needs to start by understanding the key components of its direct operations and upstream and downstream value chains. For corporates and financial institutions the entry point to this assessment will vary.",
+      "ja": "組織はまず、直接操業と上流及び下流のバリューチェーンを構成する主要な要素を理解することから出発しなければならない。企業と金融機関では、この評価への入り口が異なることになる。"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "For corporates: This may be assessed by organisational unit, product line, process or activity using asset-level data from internal sources and from other due diligence processes for value chain asset locations;",
+      "ja": "企業の場合、内部の情報源や、バリューチェーンの資産場所に対するその他のデューディリジェンスプロセスから得られた資産レベルのデータを用いて、組織の単位、製品ライン、工程あるいは活動ごとに評価を実施することができる。"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "For financial institutions: It will be important to consider financed, facilitated, investment and/or insured activities and assets which may be most appropriate to assess by sector, geography and asset class.",
+      "ja": "金融機関の場合、投融資による、促進させた、及び／又は保険関連の活動や資産について考察することが重要である。これらは、セクターや地理学的場所、資産クラスごとに評価するのが最も適切であると考えられる。"
+    },
+    {
+      "page": 33,
+      "type": "quote",
+      "en": "For corporates: Some companies that pilot tested the LEAP approach have found it difficult to source reliable internal and external asset-level data across their value chains, as this is not commonly asked as part of the supplier onboarding process. Other pilot testers found their organisations had already gathered this data to support other due diligence activities, such as greenhouse gas emissions accounting or human rights related reporting (for compliance with modern slavery legislation, for example).",
+      "ja": "企業の場合：LEAPアプローチを試験的に試した一部の企業から、バリューチェーン全体にわたって信頼できる内外の資産レベルデータを入手することは難しいという声があった。供給業者の採用プロセスの一環として、通常尋ねているものではないからである。また、温室効果ガス排出量の算定や人権関連の報告（例えば現代奴隷法の遵守等のための）といった、他のデューディリジェンス活動を支えるためにこのデータをすでに入手していたことに気づいたテスト実施企業もあった。"
+    },
+    {
+      "page": 33,
+      "type": "h4",
+      "en": "Identifying where nature-related issues might exist across the business model and value chain",
+      "ja": "ビジネスモデル及びバリューチェーンの全体で自然関連課題が存在しそうな場所を特定する"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "LEAP assessment teams and their organisations can increase their understanding of the relationship between business and nature and the key concepts that underpin an assessment of nature-related issues, building on Section 2 of this document and the resources referenced there.",
+      "ja": "LEAP評価チームとその組織は、本文書の第2節や同節において参照したリソースを土台として、事業と自然の関係や、自然関連課題の評価を支える主要な概念について、理解を向上させることができる。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Nature-related dependencies, impacts, risks and opportunities exist across every organisation’s business model and value chain. For any organisation, its potentially material nature-related issues could be associated with products, processes or activities that are not the core focus of its business strategy. For larger multinational corporates and financial institutions, a prioritisation process is essential. For example:",
+      "ja": "自然関連の依存、インパクト、リスク、機会は、すべての組織のビジネスモデルやバリューチェーンの全体に存在している。いかなる組織であっても、潜在的にマテリアルな自然関連課題が、事業戦略の中核ではない製品、プロセス、又は活動に関連している可能性がある。規模の大きな多国籍企業や金融機関では、優先順位付けのプロセスが不可欠である。例えば、"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "A global food and beverage company will potentially have hundreds of key supply chains for ingredients and potentially thousands of locations around the world from which it sources those inputs.",
+      "ja": "グローバルな食品飲料企業は、潜在的に材料を供給する何百という主要なサプライチェーンが存在し、世界中の何千という場所からこれらの投入材料を調達している可能性がある。"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "A global financial institution, such as a pension fund, asset manager or insurance company, will deploy capital into companies with supply chains that cover most of the world’s economic activity.",
+      "ja": "年金基金や運用機関、保険会社のようなグローバルな金融機関は、サプライチェーンが世界の経済活動の大半を網羅する企業に資本を投じる。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "The Locate phase of LEAP has been designed to enable the prioritisation process, starting with all potentially assessable sectors and activities, value chains and geographies and ending with those most likely to be associated with material nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "LEAPの発見フェーズは、潜在的に評価が可能なすべてのセクターや活動、バリューチェーン、地理学的場所に始まり、これらのうちでマテリアルな自然関連の依存、インパクト、リスク、機会と関連している可能性が最も高いものに終着することで、優先化のプロセスが可能になるように設計されている。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "To start the prioritisation process in the scoping phase, the TNFD recommends that LEAP assessment teams focus their attention and resources on three filters or lenses:",
+      "ja": "スコープ設定段階で優先化プロセスを開始するため、TNFDはLEAP評価チームに対し、次の3つのフィルター又はレンズに注意や資源を集中させるよう提言している。"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Sector:",
+      "ja": "セクター："
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "For corporates: In which sectors do our business model and value chain partners operate?",
+      "ja": "企業の場合：自分たちのビジネスモデルやバリューチェーンはどのセクターで事業を運営しているか？"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "For financial institutions: In which sectors do we allocate capital or provide products and services?",
+      "ja": "金融機関の場合：自分たちはどのセクターに資本を配分したり、製品またはサービスを提供しているか？"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Value chains: In which upstream and downstream value chains do we participate?",
+      "ja": "バリューチェーン：流および下流のバリューチェーンのどれに参加しているか？"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Geography: Where are the geographic locations of our direct operations and, where easily possible to identify, those of our value chain partners?",
+      "ja": "地理学的場所：自分たちの直接操業の地理学的な位置はどこか？また、容易に特定できる場合、自分たちのバリューチェーンのパートナーの位置はどこか？"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "To assist with scoping the assessment, a LEAP assessment team is encouraged to familiarise itself with some of the filtering tools recommended for the Locate phase and use these to undertake a quick, high-level scan across sectors, value chains and specific geolocations for potential areas of medium to high levels of nature-related dependency and impact.",
+      "ja": "評価のスコープ設定の補助として、LEAP評価チームは発見フェーズに推奨されているフィルタリングツールのいくつかを熟知しておくとともに、これらを活用してセクターやバリューチェーン、具体的な地理学的拠点全体を迅速かつ概観レベルでスクリーニングし、中から高程度の自然関連の依存とインパクトが潜在的に存在する領域を特定するよう推奨する。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "At this scoping stage, the team should use the filtering tools for a basic scan only to help inform and create the team’s working hypothesis, rather than conducting any deeper analysis. The team will return to these filters and tools in the Locate phase to undertake a more detailed analysis using the data they have assembled, including third-party subject matter experts or data sources if necessary.",
+      "ja": "このスコープ設定段階では、チームは詳細な分析を実施するためではなく、チームによる作業仮説に情報をもたらし仮説生成を助けるものとして、基礎的なスクリーニング用フィルタリングツールを使用するべきである。チームは発見フェーズでこれらのフィルターやツールに戻り、必要であれば対象分野の外部専門家や第三者データソース含め、それまでに収集したデータを用いてより詳細な分析に着手することになる。"
+    },
+    {
+      "page": 33,
+      "type": "quote",
+      "en": "Do a high-level scan for potential areas of medium to high levels of nature-related dependencies and impacts using the three filters – sectors, value chains and geographic locations – in order to form working hypotheses for the scope of the assessment.",
+      "ja": "評価のスコープ設定における作業仮説を形成するため、セクター、バリューチェーン、地理学的場所の3つのフィルターを用いて概観レベルのスクリーニングを実施し、中から高程度の自然関連の依存とインパクトが潜在的に存在する領域を特定すること。"
+    },
+    {
+      "page": 34,
+      "type": "h3",
+      "en": "3.3.2. Aligning on goals and resourcing",
+      "ja": "3.3.2.目標と資源配分について合致する"
+    },
+    {
+      "page": 34,
+      "type": "h4",
+      "en": "(2) Goals and resource alignment",
+      "ja": "（2）目標及び資源配分の合致"
+    },
+    {
+      "page": 34,
+      "type": "quote",
+      "en": "Given the current level of capacity, skills and data within the organisation and given organisational goals, what are the resource (financial, human and data) considerations and time allocations required and agreed for undertaking an assessment?",
+      "ja": "目標：組織内部の現時点での能力、スキル、データのレベル、組織の所定の目標を考慮した上で、評価を実施するためにどのような資源（財務、人材及びデータ）の検討と時間配分が必要かつ合意されているか？"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Supporting questions:",
+      "ja": "補助的質問"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "What are the organisation’s goals and expected outcomes from a LEAP assessment?",
+      "ja": "LEAP評価における組織の目標と期待される成果は何か？"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "What is the organisation’s approach to materiality? Who are the key stakeholders for TNFD-aligned corporate reporting and what information will be material to them?",
+      "ja": "マテリアリティに対する組織のアプローチはどのようなものか？TNFDと整合する企業報告における主要なステークホルダーは誰であり、どのような情報がこれらの人々にとってマテリアルか？"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "What level of assessment is feasible or appropriate at this time given the complexity of the organisation’s value chain? Should it be by product, process, input, business unit or site?",
+      "ja": "組織のバリューチェーンにおける複雑さを考えた場合、現時点ではどのレベルの評価が実行可能又は適切であるか？製品、プロセス、投入材料、事業単位、あるいは現場別にすべきか？"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "What are the baselines and time periods for the analysis?",
+      "ja": "分析のベースラインと期間はどうするか？"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "What are the current limitations and/or constraints of the assessment? For example, skills, data, financial resources; and",
+      "ja": "評価における現時点での制限や制約は何か？例えば、スキルやデータ、財源等はどうか"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "Where is it appropriate to place the boundaries around an analysis? What are the relevant business activities, sectors, geographies and biomes?",
+      "ja": "分析に関わる境界線はどこに置くのが適切か？関連のある事業活動、セクター、地理学的場所、バイオームは何か？"
+    },
+    {
+      "page": 34,
+      "type": "h4",
+      "en": "Defining goals and expected outcomes",
+      "ja": "目標と期待される成果の定義"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Nature-related dependencies, impacts, risks and opportunities affect all organisations of all types and sizes. For example:",
+      "ja": "自然関連の依存、インパクト、リスク、機会は、あらゆるタイプと規模のあらゆる組織に影響を及ぼす。例えば、"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "A small family-owned farming business that supplies produce into the national market has a dependency on the availability and quality of groundwater. This generates risks for the organisation as others also exploit and/or pollute that water resource and wider changes to nature in the watershed affect the rate at which the resource is replenished and purified. Farmers are also at the forefront of significant potential nature-related opportunities, such as regenerative agricultural practices and business models that could reduce yield volatility in the face of extreme weather events, reduce input costs and open up access to new markets; or",
+      "ja": "産出品を国内市場に供給している小規模の家族経営の農業企業は、地下水の利用可能性と水質に依存している。これはこの企業にとってリスクを生じさせるものである。他者もその水源を利用したり汚染したりしており、流域の自然に広範囲の変化が起こった場合、資源の補充や浄化の速度に影響が生じるからである。農業従事者はまた、再生型の農業慣習やビジネスモデル等、極端な気象現象に直面した際の収穫量の変動を抑制し、投入材料の経費を削減し、新たな市場へのアクセスを開く可能性のある、自然関連の重要な潜在的機会の最前線にいる。"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "A global financial institution may have less exposure to any single physical risk because of its highly diversified investment portfolio, but it may face potentially material transition risk if much of its portfolio is associated with financing activities where growth is linked to illegal deforestation, for example, rapidly changing customer expectations, or transition alignment expectations among institutional investors.",
+      "ja": "グローバルな金融機関は、投資ポートフォリオが高度に多様化されているため、単独の物理的リスクにさらされることは少ないと考えられるが、そのポートフォリオの大半が、例えば成長が違法な森林破壊と連動している金融活動や、急速に変化する顧客からの期待、機関投資家の間での移行への整合化に対する期待と関連している場合には、潜在的にマテリアルな移行リスクに直面する可能性がある。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "A LEAP assessment may therefore help any organisation achieve one or more of the following management priorities:",
+      "ja": "つまり、LEAP評価には、組織が以下の管理上の優先事項のいずれか1つ又は複数を達成する助けとなる可能性がある。"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "1. Inform management decision making about corporate strategy and resilience in the face of nature-related issues, including necessary mitigation and adaptation measures and the identification of new investment or growth opportunities in nature-based solutions;",
+      "ja": "1.必要な緩和と適応の措置や、自然に根ざした解決策における新たな投資又は成長の機会等、自然関連課題に直面した時の企業の戦略とレジリエンスに関する管理者層の意思決定に情報をもたらす。"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "2. Help achieve a particular corporate goal aligned with its mission and values, such as aligning with the targets and goals of the Kunming-Montreal Global Biodiversity Framework (GBF);",
+      "ja": "2.昆明モントリオール生物多様性枠組（GBF）のターゲット及び目標との整合等、自らの使命や価値と整合する特定の企業目標の達成を後押しする。"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "3. Support voluntary or regulated corporate reporting requirements (i.e. compliance reporting) and use of the TNFD recommended disclosures; and",
+      "ja": "3.自主的又は義務的企業報告要件（すなわち、法令遵守報告）とTNFD開示提言の利用を支援する。"
+    },
+    {
+      "page": 34,
+      "type": "li",
+      "en": "4. Meet the changing information needs of investors that may go beyond the information set out in standard corporate reporting.",
+      "ja": "4.標準的な企業報告に述べられている情報を超える場合のある、投資家の情報ニーズの変化に適合する。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "All organisations are therefore encouraged to identify and assess their nature-related issues, irrespective of whether they have formal corporate reporting requirements to external investors and other stakeholders.",
+      "ja": "これらのことから、外部の投資家やその他のステークホルダーへの正規の企業報告要件があるかどうかにかかわらず、自らの自然関連課題を特定し評価するよう、すべての組織に推奨する。"
+    },
+    {
+      "page": 35,
+      "type": "h4",
+      "en": "Approach to materiality",
+      "ja": "マテリアリティに対するアプローチ"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Those organisations that are conducting a LEAP assessment to inform and support their corporate reporting should make their approach to materiality a key consideration when scoping a LEAP assessment. The TNFD’s General Requirements ask that report preparers clearly state their approach to materiality and require that it be applied consistently across all disclosures. This approach will have a bearing on the breadth and depth of the due diligence necessary, given the range of information required for different disclosure statements. The TNFD provides further guidance on materiality in its Recommendations.",
+      "ja": "企業報告への情報提供と対応を目的にLEAP評価を実施する組織は、LEAP評価のスコープを設定する際、マテリアリティへのアプローチを重要な考察事項の一つとすることが望まれる。TNFDの一般要求事項は、報告作成者に対し、マテリアリティへのアプローチを明確に記述するよう求めており、このアプローチをあらゆる開示において一貫性のある形態で適用するよう求めている。様々な開示声明で要求されている情報の範囲を鑑みると、このアプローチが必要なデューディリジェンスの広さと深さに関わってくる。TNFDは、その提言の中で、マテリアリティに関する詳細なガイダンスを提供している。"
+    },
+    {
+      "page": 35,
+      "type": "h4",
+      "en": "Time horizons for the assessment",
+      "ja": "評価の対象期間"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "The TNFD Recommendations, consistent with ISSB’s IFRS-S1 General Requirements for Disclosure of Sustainability-related Financial Information, ask report preparers to describe how they define short, medium and long term dependencies, impacts, risks and opportunities. These definitions will have a significant bearing on the scope of any LEAP assessment.",
+      "ja": "ISSBのサステナビリティ関連財務情報開示に関する「IFRS S1全般的要求事項」に合わせ、TNFDの提言は、報告作成者に対し、短期、中期、長期の依存、インパクト、リスク及び機会をどのように定義しているかを説明するよう求めている。どのLEAP評価でもこれらの定義がそのスコープに重大に関わってくる。"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "The chosen time horizon relates to the time over which nature-related issues are identified and assessed. This should be sufficiently long to take account of the full range of material nature-related risks. The ISSB notes that short, medium and long term time horizons can vary between entities and depend on many factors, including industry-specific characteristics, such as cash flow, investment and business cycles, the planning horizons typically used in an entity’s industry for strategic decision-making and capital allocation plans, and the time horizons over which users of general purpose financial reports conduct their assessments of entities in that industry.22",
+      "ja": "選択する対象期間は自然関連課題を特定し、評価する期間に関連するものである。この場合の期間は、マテリアルな自然関連リスクの全範囲を十分に考慮できる長さであるべきだ。ISSBは、短期、中期、長期という対象期間は組織体の間で異なる可能性があり、例えばキャッシュフローや投資、事業サイクルといった業界固有の特性、戦略的意思決定や資本配分計画に対して業界全体が一般的に使用している計画上の対象期間、一般的な目的のための財務報告書の使用者がその業界における組織体を評価する対象期間等、数多くの要因によって左右されると述べている22。"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Organisations may also want to refer to the timeframes agreed in the Kunming-Montreal Global Biodiversity Framework (GBF): 2030 for ‘halting and reversing nature loss’ and 2050 for ‘living in harmony with nature’. The TNFD guidance on scenario analysis provides further information on time horizons for risk assessment.",
+      "ja": "組織はまた、昆明モントリオール生物多様性枠組（GBF）において合意されているスケジュール、すなわち、2030年までに「自然の損失を食い止め、逆転させ」、2050年までに「自然と調和した共生を実現する」という期間枠を参照してもよい。TNFDのシナリオ分析に関するガイダンスには、リスク評価の対象期間についてさらに詳しい情報が提示されている。"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "Organisations should also identify a baseline year for the assessment. The choice of baseline will depend on the business context. For example, for screening risks, the baseline will often be the situation at the time of the first risk screening. As risk screening can be periodically repeated, the baseline will offer a good basis for assessing how risks have evolved. For measuring impacts, baselines can consider the time business activities begin, but there is often a need to account for historic impacts, particularly for land use change that may occur prior to – but be driven by – business activities. The selection of a baseline needs to be justified (be transparent and supported with sufficient evidence). Often multiple baselines may be required to capture changes in relation to different time scales.23",
+      "ja": "組織はまた、評価における基準年を特定することが望まれる。基準点の選択は事業の背景状況に応じて異なる。例えばリスクのスクリーニングでは、基準点は最初のリスクスクリーニングが行われた時点の状況になることが多い。リスクのスクリーニングは定期的に繰り返し実施されるため、基準点はリスクがどのように進展したかを評価するための適正な基礎になる。インパクトの測定では、基準点は事業活動が始まった時点と考えることができるが、特に事業活動の前ではあっても事業活動が誘因となって発生した可能性のある土地利用の変化等をはじめ、インパクトの履歴を考慮しなければならない場合も多い。基準点の選定には正当な（透明で十分なエビデンスによって裏付けられた）理由を提示しなければならない。多くのケースでは、異なる時間的尺度に関連する変化をとらえるため、複数の基準点が必要になる可能性がある23。"
+    },
+    {
+      "page": 35,
+      "type": "h4",
+      "en": "Knowledge, capacity, data and financial cost considerations",
+      "ja": "知識、能力、データ、財務的コストに関する考察事項"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "The interest and willingness to conduct a LEAP assessment will inevitably be constrained by knowledge gaps, internal capacity limits, data gaps and the costs associated with assessment.",
+      "ja": "LEAP評価の実施に対する関心や意欲は、知識の不足、内部における能力の限界、データの不備、評価に付随する経費によって必然的に制約される。"
+    },
+    {
+      "page": 35,
+      "type": "p",
+      "en": "The TNFD, like ISSB’s IFRS-S1 General Requirements for Disclosure of Sustainability-related Financial Information, acknowledges that these considerations should be key components of any well scoped LEAP assessment. Limits on internal knowledge, capacity constraints and data gaps can be mitigated by engaging external subject matter experts and third-party data providers, but this of course increases costs.",
+      "ja": "TNFDは、ISSBのサステナビリティ関連財務情報開示に関する「IFRS S1全般的要求事項」と同様に、これらの考察が適正にスコープ設定されたLEAP評価の主要な構成要素であるべきと認識している。内部の知識に関する限界や能力の制約、データの不備は、対象分野の外部専門家や第三者のデータ提供業者を関与させることによって緩和することができるが、この場合はもちろん経費が増加することになる。"
+    },
+    {
+      "page": 35,
+      "type": "footnote",
+      "en": "22 See International Sustainability Standards Board (2023) IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information.",
+      "ja": "22 国際サステナビリティ基準審議会（2023）『国際財務報告基準S1サステナビリティ関連財務情報の開示に関する全般的要求事項』参照"
+    },
+    {
+      "page": 35,
+      "type": "footnote",
+      "en": "23 UNEP-WCMC et al. (2022) Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature, Section 4.2.",
+      "ja": "23 UNEP-WCMC他（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation. Aligning accounting approaches for nature』Section 4.2."
+    },
+    {
+      "page": 36,
+      "type": "p",
+      "en": "How these constraints are managed, and any tradeoffs made, should be clearly articulated in the terms of reference document that is agreed between the senior management sponsor and the LEAP assessment team. This will help to support robust risk management disclosures aligned with the TNFD’s recommendations.",
+      "ja": "これらの制約事項をどのように管理し、どのように妥協点を見出すかを、経営層とLEAP評価チームの間で合意した付託事項文書に明確に表現しておくべきである。これは、TNFDの提言と整合する頑健なリスクマネジメントの開示を支える一助となる。"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "“An entity need not undertake an exhaustive search for information to identify sustainability-related risks and opportunities that could reasonably be expected to affect the entity’s prospects. The assessment of what constitutes undue cost or effort depends on the entity’s specific circumstances and requires a balanced consideration of the costs and efforts for the entity and the benefits of the resulting information for primary users. That assessment can change over time as circumstances change.”",
+      "ja": "「組織体は自らの展望に影響を及ぼすと合理的に予想される可能性のあるサステナビリティ関連のリスクと機会を特定するのに、すべてを網羅した包括的な情報の検索を実施する必要はない。何が不当な経費や取り組みに該当するかの評価は組織体の具体的な状況によって異なり、組織にとっての経費と取り組みを、得られる情報の主たる利用者にとっての便益とバランスよく考察しなければならない。この場合の評価結果は、状況の変化に伴って経時的に変化する可能性がある」"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "ISSB’s IFRS-S1, Paragraph B10.",
+      "ja": "ISSBのIFRS S1、パラグラフB10"
+    },
+    {
+      "page": 36,
+      "type": "h4",
+      "en": "Box 5: Value chain mapping and data gathering to identify risks and opportunities – Blackmores",
+      "ja": "ボックス5：リスクと機会を特定するためのバリューチェーンのマッピングとデータの収集－ブラックモアズ"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "Blackmores is a leading Australian natural health products company manufacturing vitamin, mineral and nutritional supplements for markets across the Asia Pacific region. It completed its first nature-related risk and opportunity assessment of a key herbal ingredient that covered the end-to-end value chain from farming of the raw ingredient to distribution. This was bolstered by three separate nature risk and opportunity assessments of Blackmores’ key facilities in Australia using LEAP guidance.",
+      "ja": "ブラックモアズはアジア太平洋地域全体の市場向けにビタミンやミネラル、栄養補助食品を製造しているオーストラリア屈指の自然健康製品企業である。同社は、原材料の栽培から流通まで、バリューチェーンの端から端までを対象とした主要な草本成分に対し実施した、同社初の自然関連リスクと機会の評価を完了した。これは、LEAPガイダンスを用いた、ブラックモアズのオーストラリアの主要施設に対する3つの個別の自然関連リスクと機会の評価に裏打ちされたものであった。"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "Blackmores’ supply chain covers more than 1,000 ingredients sourced from 36 countries and the company engages with 172 suppliers, many sourcing for multiple locations. The ingredient selected to pilot the whole value chain nature-related risk assessment was chosen because of its economic value to the business, Blackmores’ strong relationship with the supplier and the fact it originated from an agricultural source. It was also informed by insights from Blackmores’ climate resilience action plan and from a scientific literature review the Blackmores Institute published on the impacts of climate change on natural medicine.",
+      "ja": "ブラックモアズのサプライチェーンは36カ国から調達される1,000以上の成分を網羅しており、同社が関与している172社の供給業者は、その多くが多様な場所から調達している。バリューチェーン全体の自然関連リスク評価を試験的に実施するために選択した成分は、事業にとっての経済的価値、ブラックモアズの供給業者との強力な関係、そして農業由来とするものであることを示す事実によって選び出した。また、この評価では、ブラックモアズの気候レジリエンスに関する行動計画と、ブラックモアズ研究所が自然薬に対する気候変動の影響について発表した科学文献レビューによる知見からも情報を得た。"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "To support data gathering across the supply chain, Blackmores leveraged existing data sharing arrangements with suppliers. It already maps suppliers by locations to inform its human rights risk assessment and meet modern slavery reporting requirements and was able to utilise this data and data gathering arrangements with suppliers to support the identification of likely nature-related hotspots. The principal supplier was engaged to help identify the relevant upstream offshore locations, including the growing region and the main material processing facility neighbouring the growing region.",
+      "ja": "サプライチェーン全体でのデータ収集を後押しするため、ブラックモアズは供給業者との既存のデータ共有取り決めを活用した。同社は以前から人権上のリスク評価に関する情報を取得し、現代奴隷報告要件に適合するための供給業者の場所ごとのマッピングを実施しており、可能性の高い自然関連のホットスポット特定を支えるべく、これらのデータや供給業者とのデータ収集取り決めを活用することができた。栽培地域や栽培地域に隣接する主要な材料加工処理施設を含め、関連のある上流の海外拠点を特定しやすいよう、主要な供給業者も関与させた。"
+    },
+    {
+      "page": 36,
+      "type": "quote",
+      "en": "For each location, an assessment of ecosystem importance was conducted based on proximity to priority locations with high biodiversity or conservation significance (e.g. key biodiversity areas). A high-level evaluation of ecosystem integrity was also completed using these global mapping tools. This step helped to flag areas where value chain activities could have potentially significant dependencies and/or impacts.",
+      "ja": "個々の拠点ごとに、生物多様性や保全上の意義が高い場所（例えば生物多様性重要地域等）との近接性にもとづいて、生態系の重要性に関する評価を実施した。また、これらのグローバルなマッピングツールを用いて、生態系の十全性に対する概観レベルの評価も完了した。このステップは、バリューチェーンの活動において潜在的に重要な依存やインパクトがありそうな地域への注意喚起に役立った。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "To gather the required data for the risk assessment, the team developed two questionnaires: one for the supplier and one for its internal manufacturing/distribution team. The questions aimed to help identify the potential nature-related dependencies and impacts across the value chain.",
+      "ja": "リスク評価に必要なデータを収集するため、チームは2つの調査票を作成した。1つは供給業者向け、1つは社内の製造／流通チーム向けのものである。質問はバリューチェーンの全体における潜在的な自然関連の依存とインパクトを特定するのに役立つよう意図したものであった。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "Together, the information was used to inform a detailed analysis of the material impacts and dependencies for each of the value chain stages that may give rise to nature-related risks and opportunities, based on responses to the questionnaires, ENCORE, IBAT and desktop research.",
+      "ja": "これらを合わせ、調査票への回答、ENCORE、IBAT及び机上調査の結果にもとづいて、バリューチェーンの個々の段階を対象に、自然関連のリスクと機会を生じさせる可能性のあるマテリアルなインパクトと依存の詳細な分析のための情報として活用した。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "With the support of an external consulting firm, Pollination, the LEAP assessment team then layered data to develop an extensive register of nature-related dependencies and impacts, and their translation into commercially relevant risks and opportunities.",
+      "ja": "外部のコンサルティング企業であるポリネーションの支援を得て、その後、LEAP評価チームはデータを層化し、自然関連の依存とインパクト、ならびにこれらの商業的に関連するリスクと機会への変換を広範囲に網羅した登録簿を作成した。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "The team produced detailed value chain maps and started developing education and information tools to bring key suppliers on the journey. Nature-related risks and dependencies are not well understood and supplier engagement throughout this process – including through webinars, development of video content or one on one knowledge exchanges – was fundamentally important.",
+      "ja": "チームは詳細なバリューチェーンマップを作製し、主要な供給業者を関与させるための啓発及び情報ツールの開発に着手した。自然関連のリスクや依存は十分に理解されておらず、ウェビナーや動画コンテンツの制作、1対1での知識交換等を含め、このプロセス全体への供給業者のエンゲージメントが根本的に重要だったからである。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "Blackmores then developed a series of risk and opportunity insights by using its climate resilience Financial Sensitivity Model to determine the impact various nature risk scenarios could have on future revenues. Although the assessment was conducted on one ingredient, the insights were applicable to the broader business.",
+      "ja": "ブラックモアズは次いで、多様な自然のリスクシナリオが将来の収益に及ぼしうるインパクトを確定するために、気候レジリエンスに関する財務情報感度モデルを使用し、一連のリスクとインパクトに関する知見を作成した。評価は1つの成分に関して実施したが、知見はより広義の事業に適用が可能であった。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "The findings helped validate Blackmores’ starting hypothesis that the highest concentration of nature-related physical risks is likely to occur at the farming stage, relating to soil quality, climate regulation and flood risk, which have the potential to increase on-farm costs that may be passed onto Blackmores and disrupt raw material supply. It was also clear that both the supplier’s refining facilities and Blackmores’ own operations have impacts on nature, leading to transition risks associated with changing regulations regarding water, emissions and waste disposal.",
+      "ja": "得られた所見は、最も集中的な自然関連の物理的リスクは、土壌の質や気候調節、洪水のリスクに関連して栽培の段階で起こる可能性が高く、これらが農場での経費を上昇させることでブラックモアズにそのまま転嫁される可能性があるという、ブラックモアズの出発仮説を検証するのに役立った。また、供給業者の精製施設とブラックモアズ自身の業務の両方が自然にインパクトを及ぼしており、これらは水や排出、廃棄物の処分に関する規制変更がもたらす移行リスクにつながることも明らかになった。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "Supplier engagement was an important part of the risk assessment processes, as this helped to accurately understand the implementation of mitigation activities or practices that might increase concern. The ability to leverage existing human rights risk assessment activities and data helped to integrate workstreams and save costs. Blackmores collects data on human rights, nature and climate emissions, creating a holistic risk assessment and Supplier ESG scorecard. This process also helped Blackmores to identify opportunities as well as risks.",
+      "ja": "供給業者のエンゲージメントはリスク評価プロセスの重要な一部分であった。このような関与により、懸念を増大させるおそれのある緩和活動や慣習の実施を正確に理解する助けになったからである。既存の人権リスク評価活動やデータを活用できたことは、一連の作業の統合と経費節約に有用であった。ブラックモアズは人権や自然、気候排出量に関するデータを収集しており、包括的なリスク評価と供給業者ESGスコアカードの作成に取り組んでいる。このプロセスもまた、ブラックモアズがリスクだけでなく機会を特定するのに役立った。"
+    },
+    {
+      "page": 37,
+      "type": "quote",
+      "en": "Source: Blackmores",
+      "ja": "出典：ブラックモアズ"
+    },
+    {
+      "page": 38,
+      "type": "h2",
+      "en": "3.4. Desired outputs from scoping",
+      "ja": "3.4.スコープの設定から得られる望ましいアウトプット"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "The scoping exercise should produce a terms of reference document that includes:",
+      "ja": "スコープ設定の実施は、以下の事項を内容とする付託事項文書を作成できるものであるべきだ。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "A short statement outlining the working hypothesis about the expected sectors and activities, value chains and geographies, as well as character, of the organisation’s potentially material nature-related dependencies, impacts, risks and opportunities. It should set out where the LEAP assessment team proposes to focus more detailed evaluation and assessment through the four phases of LEAP, with the ultimate objective of the assessment (and reporting where relevant) of those nature-related issues that are material to the organisation; and",
+      "ja": "組織における潜在的にマテリアルな自然関連の依存、インパクト、リスク及び機会の性質に加え、これらが予想されるセクターと活動、バリューチェーン、地理学的場所に関する作業仮説を概説した、概略的な記述。これには、組織にとってマテリアルな自然関連課題の評価（ならびに関連があるケースでは報告）を最終的な目的とし、LEAPの4つのフェーズを通じて、LEAP評価チームがどの部分の診断と評価を重点化するかの提案を述べるべきだ。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "A set of agreed parameters for the organisation’s LEAP assessment, including:",
+      "ja": "次のような、組織のLEAP評価において合意が得られているパラメータの集合。"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "The timeline and milestones for the assessment;",
+      "ja": "評価のスケジュールと中間目標"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "The internal staff and external human resources to be assembled as the project team;",
+      "ja": "プロジェクトチームとして招集する内部のスタッフと外部の人的資源"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Other organisational officials who will be required to contribute to the assessment process;",
+      "ja": "評価プロセスへの寄与に必要になる組織のその他の役職者"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "Likely sources of knowledge and data and how any gaps will be addressed, if possible, through the assessment phases; and",
+      "ja": "存在しそうな知識とデータ源、及び可能であれば評価段階を通じてギャップにどう対処するか"
+    },
+    {
+      "page": 38,
+      "type": "li",
+      "en": "A budget to ensure full alignment on the assessment costs involved.",
+      "ja": "諸々の評価コストについて完全に合致していることを確実にする予算"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "Having secured senior management approval to proceed based on the terms of reference, the organisation will be able to move to the Locate phase of the LEAP approach.",
+      "ja": "付託事項にもとづき、経営層からの承認を確保して次の段階に進むことで、組織はLEAPアプローチの発見フェーズに移行することができる。"
+    },
+    {
+      "page": 38,
+      "type": "p",
+      "en": "At the end of the LEAP assessment, the organisation should review its scoping exercise to reflect on whether its original working hypothesis was robust and whether there are any learnings that should be incorporated into the next LEAP assessment for the following reporting cycle.",
+      "ja": "LEAP評価の終了時に、組織はスコープ設定作業について振り返り、最初の作業仮説は頑健なものであったか、後に続く報告サイクルのため、LEAP評価に組み入れるべき学びはあったかどうかについて熟考すべきである。"
+    },
+    {
+      "page": 38,
+      "type": "quote",
+      "en": "At the end of the LEAP assessment, the organisation should review its scoping exercise to reflect on whether its original working hypothesis was robust and whether there are any learnings that should be incorporated into the next LEAP assessment for the following reporting cycle.",
+      "ja": "LEAP評価の終了時に、組織はスコープ設定作業について振り返り、最初の作業仮説は頑健なものであったか、後に続く報告サイクルのため、LEAP評価に組み入れるべき学びはあったかどうかについて熟考すべきである。"
+    },
+    {
+      "page": 39,
+      "type": "h4",
+      "en": "Box 6: Identifying resources and time allocation to implement the TNFD framework – AXA Climate",
+      "ja": "ボックス6：TNFDフレームワークを実施するための資源及び時間配分の特定－アクサクライメート"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "AXA Climate is part of the AXA Group, and one of the entities piloting the TNFD framework.",
+      "ja": "アクサクライメートはアクサグループに属し、TNFDフレームワークのパイロットテストを実施した事業体の1つである。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "AXA Climate has found that streamlining the initial analysis can be achieved through automation, but it is essential to gather key information beforehand, such as the precise location of the company’s activities and existing environmental studies. By starting with available data and information, it became easier to identify areas where additional internal or external metrics may be required.",
+      "ja": "アクサクライメートは自動化によって初期の分析を合理化できるが、企業の正確な活動場所や既存の環境研究等、主要な情報を事前に収集しておくことが不可欠であることを発見した。入手できるデータや情報からスタートすることで、付加的な内部又は外部の測定指標が必要となりそうな領域が特定しやすくなった。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "To save time, AXA Climate recommends leveraging the expertise of teams involved in previous work related to climate, water, and waste management within the company. The knowledge and research accumulated in these areas proved valuable for conducting the nature and biodiversity analysis.",
+      "ja": "時間を節減するため、アクサクライメートは、社内の気候、水、廃棄物の管理に関する以前の研究に関与したチームの専門知識を活用するよう提言している。これらの領域において蓄積された知識と調査結果は、自然や生物多様性の分析を実施する上で価値の高いものであることが証明された。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "To effectively progress to the risk analysis phase and develop mitigation roadmaps, it is crucial to engage in a collaborative co-construction process. This requires close collaboration and input from both corporate responsibility and risk management teams to ensure that the metrics used align appropriately with specific activities. Allocating sufficient time and resources for this co-construction process is essential to ensure that the resulting analysis and roadmaps accurately reflect a company’s risks, impacts, and opportunities related to nature and biodiversity.",
+      "ja": "効果的にリスク分析段階に進み、緩和のロードマップを作成するためには、協働的な共同構築プロセスに従事することが極めて重要である。使用する測定指標が具体的な活動と確実に適切に整合させるには、企業の責任チームとリスクマネジメントチームの両方からの緊密な連携とインプットが求められるのだ。分析結果とロードマップが、自然及び生物多様性に関連する企業のリスク、インパクト、機会を正確に反映したものに確実になるには、この共同構築プロセスに十分な時間と資源を配分することが不可欠である。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "Overall, conducting the nature and biodiversity review should not require a significant investment of time and resources. However, building a mitigation and adaptation roadmap requires long-term commitment from the company, along with dedicated resources.",
+      "ja": "全体的に、自然及び生物多様性の点検に多くの時間や資源の投資を求めるべきではない。ただし、緩和と適応のロードマップを作成するには、専従の資源に加え、企業からの長期に及ぶコミットメントが必要になる。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "These assessments can be ranked according to the magnitude of potential impacts of these dependencies on business. The objective of this more detailed analysis is to move from a sectoral materiality analysis to a more granular and asset-centric materiality analysis.",
+      "ja": "この場合の評価は、これらの依存が事業に及ぼすインパクトの規模に従って等級づけすることができる。より詳細なこの分析の目的は、セクターごとのマテリアリティ分析から、より粒度の高い資産中心のマテリアリティ分析に移行することである。"
+    },
+    {
+      "page": 39,
+      "type": "quote",
+      "en": "Source: AXA Climate (2023) TNFD 101: An illustrated guide to the future of nature reporting.",
+      "ja": "出典：アクサクライメート（2023）『TNFD 101: An illustrated guide to the future of nature reporting』"
+    },
+    {
+      "page": 40,
+      "type": "h2",
+      "en": "3.5. Resources for scoping",
+      "ja": "3.5.スコープ設定のための資源"
+    },
+    {
+      "page": 40,
+      "type": "p",
+      "en": "Organisations may consider the following non-exhaustive list of references to support their scoping discussions and decisions.",
+      "ja": "組織は、スコープ設定のための議論や決定を支援するものとして、包括的にすべてを網羅したものではないが、以下の参照文献のリストについて検討するとよい。"
+    },
+    {
+      "page": 40,
+      "type": "h4",
+      "en": "Mapping asset and activity level data",
+      "ja": "資産及び活動レベルのデータのマッピング"
+    },
+    {
+      "page": 40,
+      "type": "p",
+      "en": "The TNFD recommends mapping asset and activity data to the SASB sector classification, the Sustainable Industry Classification System (SICS).",
+      "ja": "TNFDは、資産及び活動に関するデータをSASBのセクター分類である持続可能な産業分類システム（SICS）にマッピングするよう提言している。"
+    },
+    {
+      "page": 40,
+      "type": "h4",
+      "en": "Scanning for potentially material nature-related issues",
+      "ja": "潜在的にマテリアルな自然関連課題に関するスクリーニング"
+    },
+    {
+      "page": 40,
+      "type": "p",
+      "en": "The following references may be helpful for undertaking a quick, high-level scan of your organisation’s business model and value chain with respect to nature-related issues. The LEAP project team should also familiarise itself with tools and methods outlined in the Locate phase. Further details on these and other tools are outlined in the TNFD Tools Catalogue.",
+      "ja": "以下に挙げる参考文献は、自然関連課題に関する組織のビジネスモデルやバリューチェーンを迅速かつ概観レベルでスクリーニングするのに有用と思われる。LEAPプロジェクトチームはまた、発見フェーズで概説したツールや方法を熟知しておくべきである。これらや他のツールに関する詳細はTNFDツール目録に概要が提示されている。"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Allianz – Measuring and managing environmental exposure: A business sector analysis of natural capital risk",
+      "ja": "アリアンツ－Measuring and managing environmental exposure: A business sector analysis of natural capital risk"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "ENCORE",
+      "ja": "ENCORE"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Finance for Biodiversity – The Climate-Nature Nexus",
+      "ja": "生物多様性のためのファイナンス宣言－The Climate-Nature Nexus"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Integrated Biodiversity Assessment Tool (IBAT)",
+      "ja": "生物多様性評価ツール（IBAT）"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "The Netherlands Enterprise Agency – Biodiversity Footprint for Financial Institutions: Exploring Biodiversity Assessment in 4 cases",
+      "ja": "オランダ企業庁－Biodiversity Footprint for Financial Institutions: Exploring Biodiversity Assessment in 4 cases"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Partnership for Biodiversity Accounting Financials",
+      "ja": "金融向け生物多様性会計パートナーシップ"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Science Based Targets Network Materiality Screening Tool",
+      "ja": "科学に基づく目標ネットワークマテリアリティスクリーニングツール"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Swiss Re Institute BES Index – Biodiversity and Ecosystem Services: A Business Case for Re/insurance",
+      "ja": "スイスリー研究所BESインデックス－Biodiversity and Ecosystem Services: A business case for re/insurance"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "UNEP, UNEP FI and Global Canopy – Beyond ‘Business as Usual’: Biodiversity Targets and Finance. Managing biodiversity risks across business sectors",
+      "ja": "国連環境計画、国連環境計画金融イニシアティブ、グローバルキャノピー－Beyond ‘Business as Usual’: Biodiversity Targets and Finance. Managing biodiversity risks across business sectors"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "UN Environment Programme World Conservation Monitoring Centre & UN Environment Programme Finance Initiative – Prioritising Nature-related Disclosures",
+      "ja": "国連環境計画世界自然保全モニタリングセンター、国連環境計画金融イニシアティブ－Prioritising Nature-related Disclosures"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "World Economic Forum (WEF) – Nature Risk Rising",
+      "ja": "世界経済フォーラム（WEF）－Nature Risk Rising"
+    },
+    {
+      "page": 40,
+      "type": "h4",
+      "en": "Case studies of nature-related issues",
+      "ja": "自然関連課題の事例研究"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Capitals Coalition Case Studies database",
+      "ja": "キャピタルコアリション事例データベース"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "CISL – Integrating Nature: The Case for Action on Nature-related Financial Risks",
+      "ja": "CISL – Integrating Nature: The Case for Action on Nature-related Financial Risks"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "Monetary Authority of Singapore – Information Papers on Environmental Risk Management",
+      "ja": "シンガポール金融管理局－Information Papers on Environmental Risk Management"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "NGFS – Central Banking and Supervision in the Biosphere: An Agenda for Action on Biodiversity Loss, Financial Risk and System Stability",
+      "ja": "気候変動リスク等に係る金融当局ネットワーク－Central banking and supervision in the biosphere: An agenda for action on biodiversity loss, financial risk and system stability"
+    },
+    {
+      "page": 40,
+      "type": "li",
+      "en": "UNEP FI – Guidance on Biodiversity Target-Setting",
+      "ja": "国連環境計画金融イニシアティブ－Guidance on Biodiversity Target-Setting"
+    },
+    {
+      "page": 41,
+      "type": "h1",
+      "en": "4. Locating the organisation’s interface with nature",
+      "ja": "4.組織の自然との接点の発見"
+    },
+    {
+      "page": 41,
+      "type": "h2",
+      "en": "4.1. Why",
+      "ja": "4.1.なぜ"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "The Locate phase of LEAP encourages organisations to filter and prioritise potential nature-related issues using three filters: sector, value chain and geography.",
+      "ja": "LEAPの発見フェーズは、組織に対し、セクター、バリューチェーン、地理学的場所の3つのフィルターを用いて潜在的な自然関連課題を選り分け、優先順位をつけるよう奨励している。"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "Nature-related dependencies and impacts – the ultimate sources of risks and opportunities – are location-specific. Location therefore matters greatly for the identification, assessment and management of nature-related risks and opportunities for your organisation. Ultimately, the business model and value chain activities of every corporate and financial institution trace back to an interface with nature in a particular place.",
+      "ja": "自然関連の依存とインパクト－リスクと機会の究極の源－は、場所に固有のものである。従って、場所は、組織における自然関連リスクと機会の特定、評価、管理にとって非常に重要である。究極的には、すべての企業や金融機関のビジネスモデルとバリューチェーンの活動は、特定の場所における自然との接点まで遡る。"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "Nevertheless, tracing every business and financed activity back to a specific place is complex. Gathering and disclosing data and insights on every issue in every location is not feasible or proportionate, particularly for financial institutions. The Locate phase therefore helps organisations filter and prioritise.",
+      "ja": "にもかかわらず、すべての事業活動と融資による活動を具体的な場所に遡るのは複雑である。あらゆる場所でのあらゆる課題に関するデータと知見を収集し、開示するのは、特に金融機関の場合、実行不能であるか、もしくは割に合わない。従って、組織が選り分けや優先順位付けを行う上で、発見フェーズが助けになるのである。"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "A sub-set of your organisation’s interfaces with nature may include dependencies and impacts in ecologically sensitive geographic locations (contributing to illegal deforestation or illegal overfishing for example). These sensitive locations may expose the organisation to elevated risks (both physical and transition) and opportunities that may not yet be captured by standard risk management processes. For example, areas with rapid decline in ecosystem integrity may face elevated systemic risks and areas of high biodiversity may present elevated reputational or liability risks.",
+      "ja": "組織と自然との接点の部分集合には、生態学的に注意を要する（例えば違法な森林破壊や違法な魚類乱獲等の一因となる）地理学的場所での依存やインパクトが含まれている場合がある。これらの要注意地域では、企業は、標準的なリスクマネジメントプロセスではまだ捉えることのできない一段高い（物理的と移行両方の）リスクや機会にさらされる可能性がある。例えば生態系の十全性が急速に低下している地域がシステミックリスクの増大に直面したり、生物多様性の高い地域が評判又は賠償責任リスクの増大を生じさせたりするおそれがある。"
+    },
+    {
+      "page": 41,
+      "type": "p",
+      "en": "As a result, it is critical that organisations pay particular attention to any ecologically sensitive locations where their business model or value chain may have an impact or dependency on nature and this phase of LEAP provides a basis for making that assessment.",
+      "ja": "結果として、組織は、自身のビジネスモデルやバリューチェーンが自然に対しインパクトや依存を有しているかもしれない生態学的要注意地域に特に注意を払うことが極めて重要であり、LEAPのこのフェーズから、その評価を行うための基礎を得ることができる。"
+    },
+    {
+      "page": 41,
+      "type": "h4",
+      "en": "Objective",
+      "ja": "目的"
+    },
+    {
+      "page": 41,
+      "type": "quote",
+      "en": "To identify an organisation’s potentially material sources of nature-related dependencies, impacts, risks and opportunities. This is designed to help focus more detailed due diligence through the Evaluate and Assess phases of LEAP.",
+      "ja": "組織の潜在的にマテリアルな自然関連の依存、インパクト、リスク、機会の発生源を特定すること。これは、LEAPの診断及び評価フェーズを通じて、さらに詳細なデューディリジェンスの焦点を合わせていけるよう設計されている。"
+    },
+    {
+      "page": 41,
+      "type": "h4",
+      "en": "Key outcomes",
+      "ja": "主要な成果"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Solid understanding of moderate and high nature-related dependencies and impacts filtered by sector, value chain (upstream and downstream) and geography;",
+      "ja": "セクター、バリューチェーン（上流及び下流）、地理学によって選り分けた、中から高程度の自然関連の依存とインパクトに対する確固たる理解"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "A list and/or map of ecologically sensitive locations that the organisation operates in, and a broader set of assessment locations to take into the Evaluate phase of LEAP; and",
+      "ja": "組織が事業を運営している生態学的要注意地域のリスト及び／又は地図と、LEAPの診断フェーズで考慮すべき、より広範囲の評価対象場所セット"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Understanding of the proportion of the business model, value chains and/or capital portfolio assessed for its interface with nature.",
+      "ja": "自身の自然との接点に関して評価対象となるビジネスモデルやバリューチェーン、資本ポートフォリオの割合の理解"
+    },
+    {
+      "page": 41,
+      "type": "h4",
+      "en": "Practical tips from pilot testers",
+      "ja": "実証試験実施組織から得られた実用的なヒント"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Apply the sector, value chain and geographic location filters that are relevant to your business model, value chain and financial portfolios. It might be useful to apply all three or only one.",
+      "ja": "自分の組織のビジネスモデル、バリューチェーン、金融ポートフォリオに関連のあるセクター、バリューチェーン、地理学的場所のフィルターを使用すること。3つをすべて使用すると有用な場合もあれば、1つだけで有用な場合がある。"
+    },
+    {
+      "page": 41,
+      "type": "li",
+      "en": "Financial institutions should start by analysing their portfolios.",
+      "ja": "金融機関はそれぞれのポートフォリオの分析から開始すべきである。"
+    },
+    {
+      "page": 42,
+      "type": "h2",
+      "en": "4.2. What",
+      "ja": "4.2.何を"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "Starting with the working hypothesis from the scoping exercise, the organisation is now ready to conduct a more detailed analysis to identify with greater precision the sectors, value chains and geographic locations where it is likely to have moderate and high dependencies and impacts on nature.",
+      "ja": "スコープ設定作業によって得られた作業仮説から開始して、組織はこの時点で、中から高程度の自然に対する依存とインパクトが存在する可能性の高いセクター、バリューチェーン、地理学的場所をさらに高精度で特定する準備が整ったことになる。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "Analysis in the Locate phase involves the application of these prioritisation filters – sector, value chain and geography – to help organisations arrive at an informed, evidence-based view of the sources of potentially material nature-related dependencies, impacts, risks and opportunities in their direct operations and upstream and downstream value chains. This is followed by analysis of locations declared, or known to be, ecologically sensitive.",
+      "ja": "発見フェーズの分析では、組織がそれぞれの直接操業や上流及び下流のバリューチェーンにおける潜在的にマテリアルな自然関連の依存、インパクト、リスク及び機会の発生源について、情報と証拠に基づく視点に到達できるよう、セクター、バリューチェーン、地理学というこれらの優先化フィルターを適用する。次いで、生態学的に注意を要するものとして宣言又は理解されている場所の分析を実施する。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "Some small and medium-sized enterprises will interface with nature in a relatively small number of locations, but large multinational corporates and global financial institutions may interface with nature in thousands of locations through their value chain activities. Across such complex value chains (upstream and downstream), the precise location of the points of interface with nature may be uncertain or difficult to ascertain based on currently available data. Completing due diligence on every location in their direct, upstream and downstream activities every year and subject to third-party assurance of those findings may be impossible for many organisations.",
+      "ja": "中小規模企業の中には比較的少数の場所で自然と接するケースもあるが、大規模な多国籍企業や国際的な金融機関は、それぞれのバリューチェーンの活動を通じ、何千という場所で自然との接点を持つ可能性がある。このような複雑なバリューチェーン（上流及び下流）の全体において、現時点で得られているデータから自然との正確な接点箇所を確定するのは不正確もしくは困難な場合がある。毎年、すべての場所で上流及び下流の直接的な活動に対するデューディリジェンスを実行し、これらの所見に対して第三者の保証を得るのは、多くの組織にとって不可能な場合が多い。"
+    },
+    {
+      "page": 42,
+      "type": "quote",
+      "en": "It is critical that organisations pay particular attention to any sensitive locations where their business model or value chain may have an impact or dependency.",
+      "ja": "組織は、自身のビジネスモデルやバリューチェーンが自然に対しインパクトや依存を有しているかもしれない生態学的要注意地域に特に注意を払うことが極めて重要である。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "For corporates: The Taskforce recommends that you identify the geographic locations of your direct operations using internal asset-level data and, in parallel, start a dialogue with your upstream suppliers and downstream customers to seek data about the geographic location of their operations to support greater visibility, traceability and future analysis across upstream and downstream value chains.",
+      "ja": "企業の場合：タスクフォースは、内部の資産レベルのデータを用いて直接操業の地理学的位置を特定し、これと並行して上流の供給業者及び下流の顧客との対話を開始することにより、上流及び下流のバリューチェーン全体における視認性、追跡可能性、将来の分析の向上を支える地理学上の事業運営場所に関するデータを追求するよう提言している。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "For financial institutions. It is suggested to start by focusing on your portfolios. Heatmapping is one technique to identify qualitatively potential or actual exposure to nature-related risk, revealing whether activities materially depend on or impact nature, and potential portfolio exposure to a range of nature-related dependencies and impacts across sectors. Further guidance on heatmapping is provided in Annex 4 of this guidance.",
+      "ja": "金融機関の場合：それぞれのポートフォリオに重点を置くことからスタートするよう提案する。ヒートマッピングは、潜在的又は実質的な自然関連リスクへのエクスポージャーを定性的に特定し、活動がマテリアルな自然への依存やインパクトを生じさせているかを明らかにするとともに、セクター全体における多様な自然関連の依存やインパクトへの潜在的なポートフォリオのエクスポージャーを特定するための手法の一つである。ヒートマッピングに関する詳しい手引きは本ガイダンスの別紙4に提示する。"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The TNFD recommends a number of tools and resources that a LEAP assessment team can use to guide its analysis. These are recommendations only. Every business model and value chain is unique and the LEAP assessment teams should explore other relevant tools and resources that may be relevant to their business.",
+      "ja": "TNFDは、LEAP評価チームが分析を導くものとして使用できる多くのツールや情報源を推奨している。これらは推奨にすぎない。すべてのビジネスモデルやバリューチェーンは独自のものであり、LEAP評価チームはそれぞれの事業に該当すると思われる他の関連ツールや情報源を探求すべきである。"
+    },
+    {
+      "page": 42,
+      "type": "h2",
+      "en": "4.3. Guiding questions",
+      "ja": "4.3.ガイドとなる質問"
+    },
+    {
+      "page": 42,
+      "type": "p",
+      "en": "The following high-level questions should guide analysis in the Locate phase:",
+      "ja": "以下の概観レベルの質問が発見フェーズの分析を導くべきものである。"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "L1: Span of the business model and value chain – What are our organisation’s activities by sector, value chain and geography? Where are our direct operations?",
+      "ja": "L1：ビジネスモデル及びバリューチェーンの範囲－セクター、バリューチェーン、地理学的に見た場合の組織の活動は何か？直接の操業はどこで行われているか？"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "L2: Dependency and impact screening – Are any of these sectors, value chains and direct operations associated with potentially moderate and high dependencies and impacts on nature?",
+      "ja": "L2：依存とインパクトのスクリーニング－これらのセクター、バリューチェーン、直接操業のうち、潜在的に中から高程度の自然に対する依存やインパクトに関連しているものはあるか？"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "L3: Interface with nature – Where are the sectors, value chains and direct operations with potentially moderate and high dependencies and impacts located? Which biomes and specific ecosystems do our direct operations, and moderate and high dependency and impact value chains and sectors, interface with?",
+      "ja": "L3：自然との接点－潜在的に中から高程度の依存やインパクトを有するセクター、バリューチェーン、直接操業はどこに所在しているか？組織の直接操業、及び中から高程度の依存とインパクトを伴うバリューチェーン及びセクターはどのようなバイオームや特定の生態系と接しているか？"
+    },
+    {
+      "page": 42,
+      "type": "li",
+      "en": "L4: Interface with sensitive locations – For our organisation’s activities in moderate and high dependency and impact value chains and sectors, which of these are in ecologically sensitive locations? And which of our direct operations are in these sensitive locations?",
+      "ja": "L4：要注意地域との接点－中から高程度の依存やインパクトを有するバリューチェーンやセクターにおける組織の活動を考えた場合、これらのうち生態学的要注意地域で行われているものはどれか？この要注意地域での直接操業はどれか？"
+    },
+    {
+      "page": 43,
+      "type": "h2",
+      "en": "4.4. L1: Span of the business model and value chain",
+      "ja": "4.4. L1：ビジネスモデル及びバリューチェーンの範囲"
+    },
+    {
+      "page": 43,
+      "type": "h4",
+      "en": "L1: Span of the business model and value chain",
+      "ja": "L1：ビジネスモデル及びバリューチェーンの範囲"
+    },
+    {
+      "page": 43,
+      "type": "quote",
+      "en": "What are our organisation’s activities by sector, value chain and geography? Where are our direct operations?",
+      "ja": "セクター、バリューチェーン、地理学的に見た場合の組織の活動は何か？直接の操業はどこで行われているか？"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The first task for any LEAP assessment team is to develop an understanding of the parts of the organisation’s business model and value chain that were selected for assessment during the scoping exercise. This will enable the LEAP assessment team to filter these and to prioritise where they might locate sources of moderate and high nature-related dependencies and impacts in L2.",
+      "ja": "LEAP評価チームにとっての最初の作業は、組織のビジネスモデルとバリューチェーンのうち、スコープ設定作業で評価に選定した部分の理解を構築することである。これによってLEAP評価チームは、これらを選り分け、L2において中から高程度の自然関連の依存やインパクトの発生源を突き止められそうな場所を優先することができる。"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "Supporting questions:",
+      "ja": "補助的質問"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "Sector:",
+      "ja": "セクター："
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "For corporates: In which sectors do our business model and value chain partners operate?",
+      "ja": "企業の場合：自分たちのビジネスモデルやバリューチェーンはどのセクターで事業を運営しているか？"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "For financial institutions: In which sectors do we allocate capital or provide products and services?",
+      "ja": "金融機関の場合：資本を配分している、あるいは製品やサービスを提供しているのはどのセクターか？"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "Value chains: In which upstream and downstream value chains do we participate?",
+      "ja": "バリューチェーン：自分たちが参加しているのは上流及び下流のどのバリューチェーンか？"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "Geography: Where are the geographic locations of our direct operations?",
+      "ja": "地理学的場所：直接操業の地理学的位置はどこか？"
+    },
+    {
+      "page": 43,
+      "type": "h4",
+      "en": "Identifying sector and economic activities",
+      "ja": "セクター及び経済活動の特定"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "There are standard classifications of economic activities that enable the classification of entities according to the activity they carry out. Aligned with ISSB guidance, the TNFD recommends using the SASB sector classification (SICS).24 Your organisation, however, should consider which sector classification will be most relevant, given its jurisdiction and activities.",
+      "ja": "実施している活動に従って事業体を分類できる標準的な経済活動の分類が確立されている。TNFDは、ISSBのガイダンスに合わせ、SASBのセクター分類（SICS）を使用するよう推奨している24。ただし、組織はそれぞれ、その法域と活動を踏まえ、どのセクター分類に最も適切か考察すべきである。"
+    },
+    {
+      "page": 43,
+      "type": "h4",
+      "en": "Value chain",
+      "ja": "バリューチェーン"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "When identifying which value chains it participates in, the organisation should consider the scope and constituent elements of each value chain, both upstream and downstream. This will cover commodities used, products and processes.",
+      "ja": "どのバリューチェーンに参加しているのかを特定する場合、組織は上流と下流の両方を含め、個々のバリューチェーンのスコープと構成要素について考察すべきである。これには、使用されている産品、製品及びプロセスが含まれる。"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The organisation should also consider its goals for the assessment, including the priorities of investors and other stakeholders, as identified in the Scoping phase.",
+      "ja": "組織はまた、スコープ設定段階で特定されたように、投資家やその他のステークホルダーの優先事項を含め、評価の目標を検討すべきである。"
+    },
+    {
+      "page": 43,
+      "type": "h4",
+      "en": "Geography",
+      "ja": "地理学的場所"
+    },
+    {
+      "page": 43,
+      "type": "p",
+      "en": "The organisation should identify the geographic location of its direct operations using internal asset-level data. Organisations should be able to locate all sites in their direct operations, as this information is likely to be readily available. The organisation should aim to be as precise as possible in identifying locations, using GPS coordinates and/or polygons where possible.",
+      "ja": "組織は、内部の資産レベルのデータを用いて直接操業の地理学的位置を特定する必要がある。組織はまた、容易に情報が入手できる可能性が高い直接操業のすべての事業拠点の位置を特定できるようにしておくべきである。組織は位置を特定する際、可能であればGPS座標やポリゴンを使用し、できるだけ正確さを期すよう努めるべきである。"
+    },
+    {
+      "page": 43,
+      "type": "quote",
+      "en": "Start by identifying the geographic location of the organisation’s direct operations and assess the coverage and quality of the organisation’s value chain asset-level data from other due diligence activities.",
+      "ja": "組織の直接操業の地理学的な位置の特定からスタートし、他のデューディリジェンス活動から得られた組織のバリューチェーンにおける資産レベルデータの範囲と質を評価する。"
+    },
+    {
+      "page": 43,
+      "type": "li",
+      "en": "For financial institutions and other professional services businesses: This refers to their offices and other operational locations. These may have dependencies and impacts on nature that create operational risks and opportunities for the organisation.",
+      "ja": "金融機関およびその他の専門的サービス企業の場合：これは、それぞれの事務所やその他の事業拠点の位置を指している。これらの場所には、組織に対して操業リスクと機会を生じさせるような自然への依存とインパクトが存在する可能性がある。"
+    },
+    {
+      "page": 43,
+      "type": "footnote",
+      "en": "24 SASB. Find your industry.",
+      "ja": "24 SASB. Find your industry."
+    },
+    {
+      "page": 44,
+      "type": "h4",
+      "en": "Box 7: Locating nature-related upstream impacts for a professional services firm – Accenture",
+      "ja": "ボックス7：専門サービス企業に関する上流での自然関連インパクトの位置の特定－アクセンチュア"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "Accenture, a global professional services company, conducted a LEAP pilot to provide insights into areas including the priority locations for direct operations and upstream value chain activities, and the potential impacts and dependencies associated with its UK and Ireland (UKI) operations. The pilot was focused on direct operations and upstream (supplier) value chain operations.",
+      "ja": "世界的な専門サービス企業であるアクセンチュアはLEAPの実証試験を実施し、直接操業と上流のバリューチェーンでの活動における優先的場所や、英国及びアイルランド（UKI）での事業運営に付随する潜在的なインパクトと依存といった領域に対する知見を得た。このパイロットは直接操業と上流（供給業者）バリューチェーンでの事業運営に重点を置いたものであった。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "The pilot team first scoped-in a list of direct operation locations, prioritised based on proximity to areas of high biodiversity importance (e.g. relative proximity to protected areas, Key Biodiversity Areas, and vulnerable, endangered and critically endangered species, coupled with their relative STAR scores, from IBAT). Next, the team produced a heatmap (see below) of potential nature-related impacts and dependencies in upstream operations, drawing on data from the ENCORE tool. A scatter graph (see below) was then created to show the potential materiality of different procurement categories against financial spend.",
+      "ja": "パイロットチームはまず、スコープを直接操業場所のリストにまとめ、生物多様性の重要度が高い地域との近接性（例えば保護地域、生物多様性重要地域、及びIBATの相対的なSTARスコアと結びつけた脆弱な絶滅危惧種及び近絶滅種との、相対的近接性等）にもとづいて優先順位をつけた。チームは次に、ENCOREツールから得たデータを利用して、上流での事業運営における潜在的な自然関連のインパクト及び依存のヒートマップ（以下を参照）を作成した。次いで散布図（以下を参照）を作成し、財務上の支出に照らした様々な調達カテゴリーの潜在的なマテリアリティを図示した。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "Lack of Tier N supplier information (i.e. information on the location of Tier N suppliers or input material sourcing beyond Tier 1 suppliers) is a common client challenge. Accenture used the pilot to test an approach for a spend-based life cycle assessment analysis for the upstream value chain. They explored two tools, BioScope and OpenLCA (both based on EXIOBASE), for this phase. EXIOBASE, a multi-regional environmentally extended input-output database that can be used to estimate environmental impacts based on sector and geography, enables users to select commodities and resources purchased from 163 sectors in 44 countries, and five rest of world regions. The scoped-in spend categories were mapped using the inputs required by the tools to process the assessment, such as the amount spent on different commodities procured. This assessment provided a quantitative view of both the most impacted countries around the globe and the spend categories that contribute to this impact.",
+      "ja": "下請（ティアN）供給業者の情報（すなわち、ティアN供給業者の拠点やティア1供給業者の先から調達される投入材料に関する情報）が得られないことは、顧客に共通する課題である。アクセンチュアは実証試験を活用して、上流のバリューチェーンに関する支出ベースのライフサイクル評価分析のアプローチをテストした。この段階でビオスコープとオープンLCA（いずれもEXIOBASEに基づくもの）の2つのツールを探求したのである。セクターや地理にもとづいて環境インパクトを推定するのに利用できる多地域型の環境拡張投入産出データベースであるEXIOBASEでは、利用者は44カ国と世界の他の5地域の163セクターから購入される商材や資源を選択することができる。スコープに組み入れた支出カテゴリーを、例えば調達した様々な商材に支出した金額等、評価処理用ツールが必要とする投入項目を用いてマッピングした。この評価により、世界で最も大きなインパクトを受けている国と、このインパクトの一因になっている支出カテゴリーの両方の視覚的表示が得られた。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "Aligned with the L4 component of LEAP, the team then assessed the current integrity and importance of natural ecosystems at a country level using global datasets from the UK’s National History Museum’s Biodiversity Intactness Index and the World Resources Institute’s Aqueduct Water Risk Atlas. This helped narrow down the focus to priority countries, which have low ecosystem integrity and high water stress. Both datasets were found to be easy to interpret and process.",
+      "ja": "LEAPのL4構成要素に従って、チームはその後、英国自然史博物館の生物多様性完全度指数と世界資源研究所のアキダクト水リスクアトラスの世界規模のデータベースを用いて、国レベルの自然生態系の現時点における十全性と重要性を評価した。これは、生態系の十全性の度合いが低く、水ストレスが高い優先国に重点を絞り込むのに役立った。どちらのデータセットも解釈と処理が容易であった。"
+    },
+    {
+      "page": 44,
+      "type": "quote",
+      "en": "To identify priority sites for further evaluation, the team mapped the regions identified above to their probable or specific Tier N supplier locations. To do this, the pilot team conducted a literature review to validate prioritised locations across the supply chain. This involved reviewing sustainability and other reports, such as Securities and Exchange Commission (SEC), published by Tier 1 suppliers to assess their supply chain, followed by research into the locations of suppliers, progressing where possible to Tier N supplier locations using, for example, databases of mining locations.",
+      "ja": "さらなる詳細評価のための優先事業拠点を特定するため、チームは上記で特定した地域を可能性のあるもしくは具体的な、組織のティアN供給業者の拠点にマッピングした。この目的のため、チームは文献のレビューを実施し、サプライチェーン全体における優先的場所の妥当性を検証した。この作業では、米国証券取引委員会（SEC）等、ティア1供給業者がそれぞれのサプライチェーンを評価するために発行するサステナビリティ報告やその他報告書を点検し、その後に供給業者の拠点を調査して、例えば採鉱拠点のデータベース等を活用し、可能であればティアN供給業者の拠点に調査を進めた。"
+    },
+    {
+      "page": 45,
+      "type": "caption",
+      "en": "Illustrative heatmap of exposure to nature-related impacts and dependencies (sample – not real data)",
+      "ja": "自然関連のインパクトと依存に対するエクスポージャーのヒートマップ説明図（例－実際のデータではない）"
+    },
+    {
+      "page": 45,
+      "type": "figure",
+      "en": "Drivers of nature change (IPBES): Land, freshwater and ocean use change (Freshwater ecosystem use; Terrestrial ecosystem use; Marine ecosystem use); Climate change (GHG emissions); Pollution / pollution removal (Disturbances; Non-GHG air pollutants; Soil pollutants; Solid waste; Water pollutants); Resource use / replenishment (Water use; Other resource use). Sectors (ENCORE Classification): Airlines; Wireless telecommunication; Railroads; Research & Consulting Services; Hotels, Resorts & Cruise Lines; Home furnishings; HR & Employment services; Environmental & Facilities services; Integrated telecommunication; Paper products; Technology hardware, storage & peripherals",
+      "ja": "Drivers of nature change (IPBES): Land, freshwater and ocean use change (Freshwater ecosystem use; Terrestrial ecosystem use; Marine ecosystem use); Climate change (GHG emissions); Pollution / pollution removal (Disturbances; Non-GHG air pollutants; Soil pollutants; Solid waste; Water pollutants); Resource use / replenishment (Water use; Other resource use). Sectors (ENCORE Classification): Airlines; Wireless telecommunication; Railroads; Research & Consulting Services; Hotels, Resorts & Cruise Lines; Home furnishings; HR & Employment services; Environmental & Facilities services; Integrated telecommunication; Paper products; Technology hardware, storage & peripherals"
+    },
+    {
+      "page": 45,
+      "type": "caption",
+      "en": "Illustrative TNFD-guided materiality analysis (sample – not real data)",
+      "ja": "TNFD主導によるマテリアリティ分析の説明図（例－実際のデータではない）"
+    },
+    {
+      "page": 45,
+      "type": "figure",
+      "en": "% spend on expense item; Low / Medium / High; Spend category 1–11",
+      "ja": "% spend on expense item; Low / Medium / High; Spend category 1–11",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 45,
+      "type": "p",
+      "en": "Source: Accenture (2023)",
+      "ja": "出典：アクセンチュア（2023）"
+    },
+    {
+      "page": 46,
+      "type": "h2",
+      "en": "4.5. L2: Dependency and impact screening",
+      "ja": "4.5. L2：依存とインパクトのスクリーニング"
+    },
+    {
+      "page": 46,
+      "type": "h4",
+      "en": "L2: Dependency and impact screening",
+      "ja": "L2：依存とインパクトのスクリーニング"
+    },
+    {
+      "page": 46,
+      "type": "quote",
+      "en": "Which of these sectors, value chains and direct operations are associated with potentially moderate and high dependencies and impacts on nature?",
+      "ja": "これらのセクターのうち、バリューチェーンや直接操業が潜在的に中から高程度の自然に対する依存やインパクトと関連しているものはどれか？"
+    },
+    {
+      "page": 46,
+      "type": "p",
+      "en": "In L2, the organisation should consider which sectors, direct operations, value chains and elements of its value chains present moderate or high dependencies and impacts on nature. To identify potentially moderate and high dependencies or impacts for sectors, value chains and direct operations, the organisation can compare the sectors and value chains identified in L1 with those identified in credible reference sources as having moderate and high dependencies and/or impacts on nature.",
+      "ja": "L2では、組織は自らのバリューチェーンのどのセクター、直接操業、バリューチェーンが中から高程度の自然に対する依存及びインパクトを生じさせているのかについて考察すべきである。セクター、バリューチェーン、直接操業における潜在的に中から高程度の依存やインパクトの特定として、組織はL1で特定したセクター及びバリューチェーンと、信頼できる参考情報源により自然に対する中から高程度の依存やインパクトがあると特定されたセクター及びバリューチェーンを比較することも考えられる。"
+    },
+    {
+      "page": 46,
+      "type": "p",
+      "en": "A range of data and tools exist to support this analysis and have been successfully used by pilot testing organisations. These include:",
+      "ja": "この分析を裏付けるための多様なデータやツールが存在しており、実証試験を実施した組織はこれらを利用して成果を収めている。これらには次のような例がある。"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "ENCORE; and",
+      "ja": "ENCORE"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "SBTN’s High Impact Commodity List and Materiality Screening Tool.",
+      "ja": "科学に基づく目標ネットワークの「高インパクト一次産品リスト」及び「マテリアリティスクリーニングツール」"
+    },
+    {
+      "page": 46,
+      "type": "p",
+      "en": "The organisation can compare the activities and commodities identified in L1 with the lists provided by ENCORE and SBTN and identify those that appear to be most likely to be associated with moderate and high nature-related dependencies and impacts. This can be supplemented and guided by other information held by the organisation and consider its wider organisational, investor and other stakeholder priorities. Organisations that wish to go deeper to get a fuller picture of potential value chain issues may also consider tools such as:",
+      "ja": "組織はL1で特定された活動や産品をENCOREやSBTNが提供しているリストと比較し、中から高程度の自然関連の依存やインパクトと関連している可能性が最も高いと考えられるものを特定することができる。これを組織が保持しているその他の情報で補足あるいは手引きとし、より広い組織の優先事項や投資家及びその他ステークホルダーの優先事項を考察することも可能だ。さらに深く探求して潜在的なバリューチェーンにおける課題のより完全な全体像を得たいと考える企業は、以下のようなツールを検討してもよい。"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "The CDP Water Impact Index;",
+      "ja": "CDPウォーターインパクト指標"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "The Integrated Biodiversity Assessment Tool (IBAT);",
+      "ja": "生物多様性評価ツール（IBAT）"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "Trase;",
+      "ja": "Trase"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "The WWF Biodiversity Risk Filter; and",
+      "ja": "WWF生物多様性リスクフィルター"
+    },
+    {
+      "page": 46,
+      "type": "li",
+      "en": "Heatmaps, which are a popular approach used by both corporates and financial institutions to capture this analysis. Figure 18 shows an illustrative output from a heatmapping exercise. Further guidance on heatmapping is provided in Annex 4 on risk assessment methods.",
+      "ja": "ヒートマップ。これは、この分析結果をとらえるのに企業と金融機関の両方が利用している人気の高いアプローチである。図18にヒートマップ作成作業から得られるアウトプットの説明図を提示する。ヒートマップ作成に関する詳しいガイダンスはリスク評価法に関する別紙4に提示した。"
+    },
+    {
+      "page": 46,
+      "type": "quote",
+      "en": "Look beyond the sources recommended by the TNFD, particularly sector or biome specific sources and data sets of particular relevance to the organisation’s business model and value chain.",
+      "ja": "セクター又はバイオームに固有の情報源や、組織のビジネスモデルやバリューチェーンに特に関連性のあるデータセットを中心に、TNFDが推奨する情報源以外のものも模索してみること。"
+    },
+    {
+      "page": 47,
+      "type": "caption",
+      "en": "Figure 18: A heatmap can help identify sectors where there is exposure to nature-related issues",
+      "ja": "図18：ヒートマップは自然関連課題にさらされているセクターを特定するのに有用である"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "Dependencies / Impacts / Land use / Soil quality / Water quality / Water use / Air pollution / Pollution: Solid waste pollution, Soil pollution, Water pollution / Low – Moderate – High / AUM (% of total)",
+      "ja": "依存/インパクト/土地利用/土壌の質/水質/水利用/大気汚染/汚染：固形廃棄物汚染、土壌汚染、水の汚染/低－中－高/ AUM（全体における割合［%］）",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "SASB Sectors: 1 Agricultural products and tobacco; 2 Consumer goods; 3 Extractives and minerals processing; 4 Financials; 5 Food and beverage (ex. agriculture and tobacco); 6 Health care; 7 Infrastructure (ex. utilities and generators); 8 Renewable resources and alternative energy; 9 Resource transformation; 10 Services; 11 Technology and communications; 12 Transportation; 13 Utilities and electricity generators",
+      "ja": "SASBによるセクター：1農産物およびタバコ；2消費財；3採掘および鉱物加工処理；4金融；5食品および飲料（農産物およびタバコを除く）；6ヘルスケア；7インフラストラクチャー（ユーティリティおよび発電事業を除く）；8再生可能資源および代替エネルギー；9資源転換；10サービス；11技術および通信；12運輸；13ユーティリティおよび発電事業者"
+    },
+    {
+      "page": 47,
+      "type": "figure",
+      "en": "AUM: Assets under management",
+      "ja": "AUM：運用資産残高"
+    },
+    {
+      "page": 48,
+      "type": "h4",
+      "en": "Box 8: Sector-based Locate analysis for asset managers – Robeco",
+      "ja": "ボックス8：アセットマネージャーにおけるセクターベースの「発見」分析－ロベコ"
+    },
+    {
+      "page": 48,
+      "type": "quote",
+      "en": "Robeco, the Netherlands-based international asset manager managing over €176bn of ESG-integrated assets, conducted a heatmap assessment using ENCORE data to understand the exposure of its investments to sectors with a high or very high impact on nature and dependency on ecosystem services. It focused its LEAP assessment on two asset classes – fixed income and equities. This analysis allowed Robeco to identify sub-industries with the highest exposure to dependencies on ecosystem services and impacts on key drivers of biodiversity loss. The results were compared to the findings from research by the Dutch and French central banks and other peers in the industry and found to be broadly in line. The insights from the team’s ENCORE analysis are highlighted below.",
+      "ja": "ESG統合資産で1760億ユーロ以上を管理するオランダ拠点の国際的な資産運用企業のロベコは、自然に対するインパクトや生態系サービスへの依存度が高い、もしくは非常に高いセクターに自社の投資がどの程度さらされているかを把握するため、ENCOREのデータを用いてヒートマップ評価を実施した。このLEAP評価は、債券とエクイティという2つのアセットクラスに重点を置いて行われた。この分析により、ロベコは生態系サービスへの依存や生物多様性損失の主要な要因に対するインパクトへの曝露が最も高い産業下位区分を特定することができた。結果をオランダとフランスの中央銀行や業界の同業他社が実施した調査の所見と比較したところ、おおむね一致していることが確認された。チームのENCORE分析から得られた知見を以下に強調的に提示する。"
+    },
+    {
+      "page": 48,
+      "type": "figure",
+      "en": "Impacts: 1/3 AUM in sectors with high/very high impacts on key drivers of biodiversity loss: Airlines and airport services; Marine ports; Agricultural products; Oil and gas",
+      "ja": "Impacts: 1/3 AUM in sectors with high/very high impacts on key drivers of biodiversity loss: Airlines and airport services; Marine ports; Agricultural products; Oil and gas"
+    },
+    {
+      "page": 48,
+      "type": "figure",
+      "en": "Dependencies: 1/4 AUM in sectors with high/very high dependency on at least one ecosystem service: Agricultural products; Forest products; Electric utilities; Water utilities; Packed foods and meat; Apparel",
+      "ja": "Dependencies: 1/4 AUM in sectors with high/very high dependency on at least one ecosystem service: Agricultural products; Forest products; Electric utilities; Water utilities; Packed foods and meat; Apparel"
+    },
+    {
+      "page": 48,
+      "type": "quote",
+      "en": "Source: Robeco (2022) Five things you need to know about biodiversity investing” with “Five things you need to know about biodiversity investing, 14.",
+      "ja": "出典：ロベコ（2022）『Five things you need to know about biodiversity investing』14頁．"
+    },
+    {
+      "page": 49,
+      "type": "figure",
+      "en": "Robeco’s investment exposure to sectors that impact key drivers of biodiversity loss (Billion EUR; High impact / Very high impact): Land, freshwater and ocean use change; Climate change; Pollution",
+      "ja": "Robeco’s investment exposure to sectors that impact key drivers of biodiversity loss (Billion EUR; High impact / Very high impact): Land, freshwater and ocean use change; Climate change; Pollution"
+    },
+    {
+      "page": 49,
+      "type": "figure",
+      "en": "Robeco's investment exposure to sectors that depend on ecosystem services (Billion EUR; High impact / Very high impact): Climate regulation; Ground water; Surface water; Water flow maintenance; Flood and storm protection",
+      "ja": "Robeco's investment exposure to sectors that depend on ecosystem services (Billion EUR; High impact / Very high impact): Climate regulation; Ground water; Surface water; Water flow maintenance; Flood and storm protection"
+    },
+    {
+      "page": 49,
+      "type": "quote",
+      "en": "Source: Robeco (2022) Robeco’s approach to biodiversity, 11.",
+      "ja": "引用元：ロベコ（2022）『Robeco’s approach to biodiversity』11頁．"
+    },
+    {
+      "page": 49,
+      "type": "quote",
+      "en": "While ENCORE was a useful first step in mapping its exposure to biodiversity risks, Robeco found two key limitations: sovereign issuers are not covered and ENCORE data cannot be used to understand how individual companies impact and depend on nature.",
+      "ja": "ENCOREは生物多様性リスクへの曝露をマッピングする際の有益な最初のステップではあるが、ロベコは2つの制約があることに気づいた。この制約とは、ソブリン債発行者が対象になっていないことと、ENCOREのデータは個々の企業が自然にどのようなインパクトを及ぼし、自然にどのように依存しているかを理解するのには利用できないという点である。"
+    },
+    {
+      "page": 49,
+      "type": "quote",
+      "en": "In response, Robeco has been monitoring the developments of ESG datasets to gather information on company-level exposure to impacts and dependencies within value chains. However, this data still lacks insights into companies’ responses to existing nature-related risks, such as taking mitigating and remedial action. Therefore, Robeco created its own biodiversity investment framework to assess companies’ nature-related impacts. The framework contains indicators based on the drivers of nature loss identified by Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) (excluding invasive species) and is consistent with the TNFD approach.",
+      "ja": "これに対応して、ロベコは、バリューチェーン上内のインパクトと依存に対する企業レベルのエクスポージャーに関する情報を収集するため、ESGデータセットの進展を監視してきた。しかしながら、このデータからはまだ、例えば緩和や改善のための措置等、既存の自然関連リスクへの企業の対応に関する知見は得られていない。このため、ロベコは企業の自然関連インパクトを評価するための独自の生物多様性投資枠組みを作成した。この枠組みは生物多様性及び生態系サービスに関する政府間科学政策プラットフォーム（IPBES）が特定した自然損失の要因（侵略種を除く）をベースにした指標を盛り込んでおり、TNFDのアプローチと整合している。"
+    },
+    {
+      "page": 49,
+      "type": "quote",
+      "en": "Companies are scored based on how they are contributing to or relieving pressure on the drivers through their products, direct operations and value chains. The assessment also evaluates how well the company manages biodiversity on the land under its responsibility, namely whether the company has appropriate biodiversity management plans in place for its sensitive locations. This helps to better reflect the de facto pressure on land use that is exerted by the company in question. Company scores enabled Robeco to differentiate between leaders and laggards with regards to their contribution and efforts to relieve pressures on drivers of biodiversity loss.",
+      "ja": "企業は、それぞれの製品、直接操業、バリューチェーンを通じて、どれだけ要因に対する圧力の一因になっているか、あるいはこれらの圧力を緩和しているかにもとづいてスコアが判定される。この評価ではまた、企業がそれぞれの責任のもとでどれだけ適正に陸上の生物多様性を管理しているか、すなわち、企業が要注意地域に対して適切な生物多様性管理計画を整備しているかどうかが判断されることになる。これは、当該企業によって加えられる土地利用への事実上の圧力をより的確に反映するのにも有用である。企業のスコアによって、ロベコは、生物多様性損失の要因に対する圧力緩和のための貢献と取り組みという点での主導的企業と後進的企業を識別することができた。"
+    },
+    {
+      "page": 49,
+      "type": "quote",
+      "en": "Source: Robeco (2022) Robeco’s approach to biodiversity.",
+      "ja": "出典：ロベコ（2022）『Robeco’s approach to biodiversity』"
+    },
+    {
+      "page": 50,
+      "type": "h2",
+      "en": "4.6. L3: Interface with nature",
+      "ja": "4.6. L3：自然との接点"
+    },
+    {
+      "page": 50,
+      "type": "h4",
+      "en": "L3: Interface with nature",
+      "ja": "L3：自然との接点"
+    },
+    {
+      "page": 50,
+      "type": "quote",
+      "en": "Where are the sectors, value chains and direct operations with potentially moderate and high dependencies and impacts located? Which biomes and specific ecosystems do our direct operations, and moderate and high dependency and impact value chains and sectors, interface with?",
+      "ja": "潜在的に中から高程度の依存とインパクトを伴うセクター、バリューチェーン、直接操業はどこで行われているか？組織の直接操業、及び中から高程度の依存とインパクトを伴うバリューチェーン及びセクターはどのようなバイオームや特定の生態系と接しているか？"
+    },
+    {
+      "page": 50,
+      "type": "h3",
+      "en": "4.6.1. Identifying locations",
+      "ja": "4.6.1.場所の特定"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "Having undertaken the screening and/or heatmapping in L2, the organisation should identify the geographic locations of the screened activities, where not already done.",
+      "ja": "L2でスクリーニングやヒートマップ作成を実施した後、まだ実施されていなければ、組織はスクリーニングした活動の地理学的場所を特定する必要がある。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "The TNFD recognises that data dependencies across value chains for both corporates and financial institutions may be significant and this may take some time to address over several reporting cycles (Box 12).",
+      "ja": "TNFDは企業と金融機関のどちらにおいてもバリューチェーン全体にわたりデータ依存が重大で、対象は複数の報告周期にわたる時間がかかるものになることがあることを認識している（ボックス12）。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "For financial institutions: The TNFD recognises that you may only be able to identify the geographic locations of your clients or financed activities for the areas flagged as potentially important by the heatmapping exercise at a relatively high level, such as by country.",
+      "ja": "金融機関の場合：TNFDは、例えば国別といった、比較的高レベルのヒートマッピング作成作業により潜在的に重要とフラグが立った地域に関して、顧客や金融活動の行われている地理学的位置の特定しかできない可能性があることを認識している。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "Analytical precision will need to be balanced against the cost of gathering information required to be able to undertake the subsequent analysis in LEAP. Some data may already exist as a result of other internal due diligence or compliance reporting, such as compliance with modern slavery legislation or Know Your Customer checks. Organisations should take a proportionate approach and consider the information that is actually required to be able to undertake analysis that is sufficiently robust for the identified goals and expected outcomes of the assessment, and report users’ needs. It is also important to consider whether this information can be independently assured.",
+      "ja": "分析の精度は、この後に続くLEAP分析の実施に必要な情報の収集費用とのバランスを考慮して決定しなければならない。例えば現代奴隷法や本人確認手続きの遵守等、他の内部でのデューディリジェンスやコンプライアンス報告の結果として、すでにデータが得られている場合もある。組織は釣り合いの取れたアプローチを適用し、評価の特定された目標や期待される成果、報告使用者のニーズに合った十分に頑健な分析の実施に実際必要となる情報を検討すべきである。また、これらの情報が独立機関によって保証できるものかどうかを考慮することも重要である。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "For example, in some cases, it may be sufficient to trace a commodity to the landscape where it is produced, rather than to the individual farm, as nature-related issues will be common for that commodity across the landscape. In other cases, the organisation may need to be more precise. For downstream issues, organisations may only be able to identify the market in which the product has been placed. This may also be sufficient to be able to understand the risks and opportunities the organisation faces in that market.",
+      "ja": "例えば、ケースによっては、自然関連課題がその地域全体で当該産品に共通してみられるものであることから、個々の農家ではなくその産品の生産地域までたどるだけで十分な場合がある。一方で、組織がもっと精度の高い考察を行わなければならないケースもある。下流の課題では、製品が置かれた市場しか組織は特定できないこともある。この場合も、その市場において組織が直面しているリスクと機会が把握できれば十分かもしれない。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "Organisations are encouraged over time to deepen their understanding of the geographic location of their activities in direct operations and upstream and downstream value chains as the basis for a more comprehensive assessment of potentially material dependencies, impacts, risks (both physical and transition) and opportunities.",
+      "ja": "組織は、潜在的にマテリアルな依存、インパクト、リスク（物理的リスクと移行リスクの両方）、機会のさらに包括的な評価の根拠として、時間の経過とともに、直接操業や上流及び下流のバリューチェーンにおける活動の地理学的場所に対する理解を深めるべきである。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "For corporates: This includes offices, sites and product life cycles.",
+      "ja": "企業の場合：これには事務所や事業拠点、製品のライフサイクル等が含まれる。"
+    },
+    {
+      "page": 50,
+      "type": "li",
+      "en": "For financial institutions: This includes financing and insurance provided to individual entities in portfolios.",
+      "ja": "金融機関の場合：これには、ポートフォリオの個々の事業体に提供される融資や保険等が含まれる。"
+    },
+    {
+      "page": 50,
+      "type": "p",
+      "en": "The TNFD recommends that organisations – primarily corporates, but also financial institutions involved in project finance, for example – seek to understand their areas of influence25 around the locations where they have activities (Box 9). Organisations should revisit this after having completed the Evaluate phase.",
+      "ja": "TNFDは、主には企業だが、例えばプロジェクトファイナンスに関与する金融機関も合わせ25、活動を行っている場所の周辺における自身の影響範囲の把握に努めるよう提言している（ボックス9）組織は、診断フェーズを完了した後で、再度この点について検討すべきである。"
+    },
+    {
+      "page": 50,
+      "type": "footnote",
+      "en": "25 SBTN (2020) Initial Guidance for Business.",
+      "ja": "25 科学に基づく目標ネットワーク（2020）『企業のための初期ガイダンス』"
+    },
+    {
+      "page": 51,
+      "type": "h4",
+      "en": "Box 9: Areas of influence",
+      "ja": "ボックス9：影響範囲"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "Nature-related impacts can arise beyond the immediate site boundary of an activity. Corporates (and financial institutions involved in project finance) should seek to understand areas of influence, noting that the size of the area may vary, depending on the nature of its activities and/or assets, and on the biome, and is often larger than the footprint of the site itself. It includes areas in which nature is subject to direct and indirect impacts that may be positive or negative, depending on the site activity. When an organisation’s area of influence overlaps with those of other organisations, cumulative impacts should also be considered. A comprehensive approach to outlining a project’s area of influence is included in several good practice guidelines, such as IFC Performance Standard 6 and the Good Practices for the Collection of Biodiversity Baseline Data.26",
+      "ja": "自然に関連するインパクトは、活動の直接的な現場の境界を超えて発生する可能性がある。企業（及びプロジェクトファイナンスに関わる金融機関）は、影響範囲を理解するよう努めるべきである。その際、範囲の規模は、その活動や資産の性質とバイオームにより異なるであろうこと、また多くの場合、現場自体の面積よりも大きいことに留意する。現場の活動により、自然がプラス又はマイナスの直接的及び間接的なインパクトを受ける地域がここに含まれる。組織の影響範囲が他の組織の影響範囲と重複している場合には、累積的なインパクトについても考慮する必要がある。例えばIFCのパフォーマンススタンダード6や生物多様性ベースラインデータ収集のためのグッドプラクティス等、いくつかのグッドプラクティスガイドラインにプロジェクトの影響範囲を概説する包括的なアプローチが記載されている26。"
+    },
+    {
+      "page": 51,
+      "type": "h3",
+      "en": "4.6.2. Identifying biomes and ecosystems",
+      "ja": "4.6.2.バイオーム及び生態系の特定"
+    },
+    {
+      "page": 51,
+      "type": "p",
+      "en": "The identification of relevant biomes and ecosystems is critical for the Evaluate phase of LEAP but the approach to identifying relevant biomes and ecosystems will vary for corporates and financial institutions:",
+      "ja": "LEAPの診断フェーズでは関連のあるバイオームや生態系の特定が極めて重要であるが、企業と金融機関では関連のあるバイオームや生態系を特定するためのアプローチが異なることになる。"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "For corporates: Having identified the geographic locations of its direct operations (L1) and moderate and high dependency and impact value chains and sectors, corporates can identify the relevant biomes and ecosystems they are interfacing with in these – or other – locations.",
+      "ja": "企業の場合：直接操業の地理学的位置（L1）と中から高程度の依存やインパクトを伴うバリューチェーン及びセクターを特定したら、企業はこれらの場所あるいはその他の場所でそれぞれが接する関連のバイオーム及び生態系を特定することができる。"
+    },
+    {
+      "page": 51,
+      "type": "li",
+      "en": "For financial institutions: Having undertaken an initial scan of potentially material nature-related issues in its portfolios through heatmapping in L2, financial institutions can start to consider which geographies are relevant to the medium and high impact sectors identified, and which biomes or ecosystems (e.g. peatlands in Indonesia) are relevant to the activities of interest in those geographies. Box 11 provides an example of Locate analysis by an asset manager, based on a pilot by Storebrand focused on analysis of the agriculture sector and deforestation in Indonesia.",
+      "ja": "金融機関の場合：L2のヒートマップ作成を通じ、ポートフォリオにおける潜在的にマテリアルな自然関連課題の最初のスクリーニングを実施したら、金融機関はどの地理学的場所が特定した中から高程度のインパクトを伴うセクターに関連しているか、また、どのバイオーム又は生態系（例えばインドネシアの泥炭地等）がこれらの地理学的場所での関心対象活動に関連しているかの検討を始めることができる。ボックス11に、インドネシアの農業セクター及び森林破壊の分析に重点を置いたストアブランドによる実証試験の結果にもとづき、ある運用機関による「発見」分析の一例を提示する。"
+    },
+    {
+      "page": 51,
+      "type": "h4",
+      "en": "Box 10: Recap – Key definitions",
+      "ja": "ボックス10：再掲－主要な定義"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "Ecosystem: A dynamic complex of plant, animal and microorganism communities and the non-living environment, interacting as a functional unit.",
+      "ja": "生態系：機能的な単位として相互作用する植物、動物、微生物の群集と非生物環境の動的な複合体。"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "Biome: Global-scale zones, generally defined by the type of plant life that they support in response to average rainfall and temperature patterns. Examples are tundra, coral reefs or savannas.27 In the Global Ecosystem Typology, a biome is a component of a realm united by one or a few common major ecological drivers that regulate major ecological functions. Biomes are derived from the top-down by subdivision of realms (Level 1) – refer to the Global Ecosystem Typology for more detail if needed.",
+      "ja": "バイオーム：地球規模の帯域であり、一般的には平均的な降雨量と気温のパターンに応じて維持される植物体の種類によって定義される。ツンドラやサンゴ礁、サバンナはその一例である27。グローバル生態系タイポロジーでは、バイオームは主要な生態学的機能を調節する1つ又は少数の共通の重要な生態学的要因によって統一された領域の1つの構成要素である。バイオームは領域の下位区分ごとのトップダウンから導出される（レベル1）－必要に応じて、詳細はグローバル生態系タイポロジーを参照のこと。"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "Environmental assets: The naturally occurring living and non-living components of the Earth, together constituting the biophysical environment, which may provide benefits to humanity.",
+      "ja": "環境資産：自然に存在する生物及び非生物の地球の構成要素であり、総体として人類に便益を供給する可能性のある生物物理学的環境を構成する。"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "For more information see Section 2.",
+      "ja": "詳細は第2節を参照のこと。"
+    },
+    {
+      "page": 51,
+      "type": "quote",
+      "en": "Sources: Convention on Biological Diversity (1992) Convention on Biological Diversity, Article 2. Use of Terms; Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Global assessment report on biodiversity and ecosystem services; United Nations (2021) System of environmental-economic accounting – Ecosystem accounting.",
+      "ja": "出典：生物多様性条約（1992）『生物多様性条約第二条用語』，生物多様性及び生態系サービスに関する政府間科学政策プラットフォーム（2019）『生物多様性と生態系サービスに関する地球規模評価報告書』，国際連合他（2021）『環境経済勘定－生態系勘定』"
+    },
+    {
+      "page": 51,
+      "type": "footnote",
+      "en": "26 Gullison, R. E. et al. (2015) Good Practices for the Collection of Biodiversity Baseline Data; International Finance Corporation (2012) Performance Standard 6 Biodiversity Conservation and Sustainable Management of Living Natural Resources.",
+      "ja": "26 Gullison, T. et al.（2015）『Good Practices for the Collection of Biodiversity Baseline Data』，国際金融公社（2012）『パフォーマンススタンダード6：Biodiversity Conservation and Sustainable Management of Living Natural Resources』"
+    },
+    {
+      "page": 51,
+      "type": "footnote",
+      "en": "27 Keith, D. A. et al. (eds.) (2020) IUCN Global Ecosystem Typology 2.0: descriptive profiles for biomes and ecosystem functional groups.",
+      "ja": "27 Keith, D.A. et al.（eds.）（2020）『IUCN Global Ecosystem Typology (GET) 2.0: descriptive profiles for biomes and ecosystem functional groups』"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "As outlined in Section 2, the TNFD has adopted the IUCN Global Ecosystem Typology as the reference set of biomes, in line with the UN SEEA. These are summarised in the lefthand side of Figure 19 and mapped to the four realms of nature, with reference lists of environmental assets and ecosystem services. LEAP assessment teams can use this as a reference look-up guide to the biomes, environmental assets and ecosystem services most likely to be relevant to their business model and value chain.",
+      "ja": "第2節に概説したとおり、TNFDは、国連環境経済勘定に従い、バイオームの参照集合としてIUCNグローバル生態系タイポロジーを採択している。これらを図19の左側に要約し、環境資産及び生態系サービスの参照リストとともに自然の4つの領域にマッピングした。LEAP評価チームは、それぞれのビジネスモデルやバリューチェーンに関連している可能性が最も高いバイオーム、環境資産、生態系サービスの参照検索ガイドとしてこれを使用することができる。"
+    },
+    {
+      "page": 52,
+      "type": "caption",
+      "en": "Figure 19: Fundamental concepts for understanding nature",
+      "ja": "図19：自然を理解するための基本概念"
+    },
+    {
+      "page": 52,
+      "type": "figure",
+      "en": "Realms: Land; Freshwater; Ocean; Atmosphere. Biomes: Tropical and sub-tropical forests (T1); Temperate boreal forests and woodlands (T2); Shrublands and shrubby woodlands (T3); Savannas and grasslands (T4); Deserts and semi deserts (T5); Polar/alpine (T6); Intensive land use systems (T7); Subterranean cave and rock systems (S1); Artificial subterranean spaces (S2); Rivers and streams (F1); Lakes (F2); Artificial wetlands (F3); Vegetated wetlands (TF1); Subterranean freshwaters (SF1); Artificial subterranean freshwaters (SF2); Coastal inlets and lagoons (FM1); Marine shelf (M1); Open ocean waters (M2); Deep sea floors (M3); Artificial marine systems (M4); Subterranean tidal (SM1); Shoreline systems (MT1); Maritime vegetation (MT2); Artificial shorelines (MT3); Brackish tidal systems (MFT1)",
+      "ja": "領域：陸地；淡水；海洋；大気。バイオーム：熱帯亜熱帯林（T1）；温帯北方林と森林地帯（T2）；灌木地と低木林（T3）；サバンナと草原（T4）；砂漠と半砂漠（T5）；極地／高山帯（T6）；集約的土地利用システム（T7）；地下洞窟と岩石システム（S1）；人工地下空間（S2）；河川（F1）；湖（F2）；人工湿地（F3）；植生湿地（TF1）；地下淡水（SF1）；人工地中淡水（SF2）；沿岸の入り江と湾（FM1）；海洋大陸棚（M1）；外洋（M2）；深海底（M3）；人工海洋システム（M4）；地中潮汐（SM1）；海岸線システム（MT1）；海上植生（MT2）；人工海岸（MT3）；汽水潮汐システム（MFT1）"
+    },
+    {
+      "page": 52,
+      "type": "figure",
+      "en": "Environmental assets: Atmospheric systems; Renewable energy resources; Underwater mineral and energy resources; Land; Marine (ocean) ecosystems; Terrestrial (land based) ecosystems; Cultivated biological resources; Mineral and energy resources; Water resources; Subterranean marine ecosystems; Subterranean terrestrial ecosystems; Subterranean freshwater ecosystems; Freshwater ecosystems",
+      "ja": "環境資産：大気系；再生可能エネルギー資源；海底鉱物エネルギー資源；陸地；海洋（外洋）生態系；陸域生態系；栽培生物資源；鉱物エネルギー資源；水資源；地下海洋生態系；地下陸域生態系；地下淡水生態系；淡水生態系"
+    },
+    {
+      "page": 52,
+      "type": "figure",
+      "en": "Ecosystem services – Provisioning services: Water supply; Genetic material; Biomass provisioning; Other provisioning services. Regulating & maintenance services: Pollination; Biological control; Flood mitigation; Local (micro and meso) climate regulation; Solid waste remediation; Water purification; Water flow regulation; Global climate regulation; Soil quality regulation; Air filtration; Soil and sediment retention; Rainfall pattern regulation; Nursery population and habitat maintenance; Storm mitigation; Noise attenuation; Other regulating and maintenance services. Cultural services: Recreation-related services; Visual amenity services; Education, scientific and research services; Spiritual, artistic and symbolic services; Other cultural services",
+      "ja": "生態系サービス－供給サービス：水供給；遺伝物質；バイオマスの供給；その他の供給サービス。調整維持サービ：花粉媒介；生物的防除；洪水緩和；地域の（微中）気候の調整；固体廃棄物浄化；水質浄化；水流調整；世界的な気候の調整；土質調節；大気浄化；土壌と土砂の保持；降雨パターンの調整；生息地の個体数と生息環境の維持；暴風雨の緩和；騒音減衰；その他の調整維持サービス。文化的サービス：レクリエーション関連サービス；視覚的アメニティーサービス；教育、科学、研究サービス；精神的、芸術的、象徴的サービス；その他の文化的サービス"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "Sources: International Union for Conservation of Nature (2023) IUCN Global Ecosystem Typology and United Nations et al. (2021) System of environmental-economic accounting – Ecosystem accounting; Keith, D. A. et al. (eds.) (2020) IUCN Global Ecosystem Typology 2.0: descriptive profiles for biomes and ecosystem functional groups.",
+      "ja": "出典：国際自然保護連合（2023）『IUCNグローバル生態系タイポロジー』，国際連合他（2021）『環境経済勘定－生態系勘定』，Keith, D.A. et al.（eds.）（2020）『IUCN Global Ecosystem Typology (GET) 2.0: descriptive profiles for biomes and ecosystem functional groups』"
+    },
+    {
+      "page": 52,
+      "type": "p",
+      "en": "Note: The numbers in brackets for each biome refer to the correct alphanumerical code from the GET. In some cases, the terms used here for biomes have been simplified from GET to aid understanding. The GET is the basis for the UN SEEA.",
+      "ja": "注：各バイオームに対する括弧内の数字は、GETによる正確な英数字コードを指している。ケースによっては、理解しやすいよう、本書で使用するバイオームの用語をGETから簡略化している場合がある。GETは国連環境経済勘定の根拠である。"
+    },
+    {
+      "page": 53,
+      "type": "p",
+      "en": "Other relevant tools are available in the TNFD Tools Catalogue. A non-comprehensive list of other tools that may be useful for identifying which biomes and ecosystems your organisation’s activities and assets interface with includes:",
+      "ja": "他の関連ツールはTNFDツール目録から入手が可能である。すべてを網羅した包括的なものではないが、組織の活動や資産がどのバイオームや生態系と接しているかを特定するのに有用であると考えられるリストには、例えば次のようなものがある。"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Global Map of Ecoregions;",
+      "ja": "生態系グローバルマップ"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Integrated Biodiversity Assessment Tool (IBAT);",
+      "ja": "生物多様性評価ツール（IBAT）"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Critical Habitat Screening Layer (UNEP-WCMC);",
+      "ja": "Critical Habitat Screening Layer (UNEP-WCMC)"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Ocean+;",
+      "ja": "オーシャン+"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Global Forest Watch;",
+      "ja": "グローバルフォレストウォッチ"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Trends.Earth;",
+      "ja": "Trends.Earth"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "HabitatMapper; and",
+      "ja": "HabitatMapper"
+    },
+    {
+      "page": 53,
+      "type": "li",
+      "en": "Resource Watch.",
+      "ja": "Resource Watch"
+    },
+    {
+      "page": 53,
+      "type": "p",
+      "en": "To support more detailed Locate analysis, the TNFD provides additional Biome Guidance.",
+      "ja": "より詳細な「発見」分析を支援するため、TNFDでは補足的なバイオームガイダンスを提供している。"
+    },
+    {
+      "page": 53,
+      "type": "h4",
+      "en": "Box 11: An asset manager’s Locate analysis for deforestation risk – Storebrand",
+      "ja": "ボックス11：森林破壊リスクに対する運用機関の「発見」分析－ストアブランド"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "Storebrand is one of the largest private asset managers in the Nordic region, with over NOK 1,000 billion invested in more than 5,000 companies around the world.",
+      "ja": "ストアブランドは北欧地域最大の民間運用機関の1つで、1兆ノルウェークローネ以上を世界中の5000を超える企業に投資している。"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "Deforestation has been an early area of focus for Storebrand’s nature-related activities, with a zero-deforestation policy implemented in 2019 and a target of zero deforestation in the investment portfolios by 2025. As part of this commitment, Storebrand will not knowingly finance operations that are illegal, fail to protect high conservation value land, or violate the rights of workers and local people. By conducting an analysis that makes supply chains with high deforestation exposure (e.g. agricultural commodities) more transparent, Storebrand is able to directly engage companies with potential high conversion impacts or inadequate safeguards, and over time, divest from those that fail to comply with the organisation’s policy.",
+      "ja": "森林破壊はストアブランドの自然関連活動における初期の重点領域であり、2019年には森林破壊ゼロ方針が実施されるとともに、2025年までの投資ポートフォリオにおける森林破壊ゼロを目標にしている。このコミットメントの一環として、ストアブランドは、違法であったり、保全価値の高い土地を保護しない、あるいは労働者や地域の人々の権利を侵害する事業には、把握している限りにおいて資金を出さないことにしている。森林破壊にさらされることの多い供給網（農業産物等）の透明性を高められる分析を実施することで、ストアブランドは大きな土地転換インパクトを伴う、又は保護が不十分な企業に対し直接エンゲージメントを行い、時間をかけて、組織の方針を遵守しない企業から投資を撤退させることが可能だ。"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "Storebrand made the decision to begin with deforestation risk within its portfolios because, despite the complexity of supply chains of high deforestation risk commodities, there is a more mature landscape of tools and partnerships when compared with other nature-related impacts.",
+      "ja": "ストアブランドは、自社のポートフォリオの範囲内において森林破壊のリスクに取り組むことを決定した。森林破壊によるリスクの高い商品の供給網は複雑であるが、他の自然関連のインパクトに比べ、ツールやパートナーシップが全体的に成熟しているからである。"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "“To fulfil our commitment to eliminate commodity-driven deforestation from our portfolio by 2025, we need quality data on companies’ exposure to and management of deforestation. We have found that using a combination of data from Forest 500 and Trase allows us to identify companies at risk in our portfolio and to develop company-specific engagement strategies.”",
+      "ja": "「2025年までに産品主導型の森林破壊を当社のポートフォリオから排除するコミットメントを果たすため、企業の森林破壊への曝露とその管理に関する質の高いデータが必要であった。我々はForest 500とTraseのデータを複合的に使用することで、当社のポートフォリオのうち、リスクを抱えている企業を特定し、企業別のエンゲージメント戦略を構築できることを発見した」"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "Vemund Olsen – Senior Sustainability Analyst, Storebrand Asset Management",
+      "ja": "Vemund Olsen－ストアブランドアセットマネジメント、サステナビリティシニアアナリスト"
+    },
+    {
+      "page": 53,
+      "type": "quote",
+      "en": "Financial data providers do not offer comprehensive data on deforestation or conversion, meaning alternative approaches are needed to understand exposure to deforestation. The first step for Storebrand was to identify a list of companies that may be exposed to deforestation through production, trade, use or financing of forest-risk commodities. For this purpose, Storebrand screened its portfolios against the Forest 500, which includes 350 companies and 150 financial institutions with high exposure to, or influence on, forest-risk commodity supply chains. This portfolio screening showed that Storebrand was mostly exposed to deforestation through companies with indirect links to deforestation through their supply chains or financing, but also some major commodity traders that might potentially have a more direct link to deforestation.",
+      "ja": "金融データの提供者からは森林の破壊や転換に関する包括的なデータは提供されない。これはすなわち、代替的なアプローチによって森林破壊への曝露を理解しなければならないことを意味している。ストアブランドにとっての第一歩は、森林リスクのある産品の生産、取り引き、使用又は資金調達を通じ、森林破壊にさらされる可能性のある企業のリストを特定することであった。この目的のため、ストアブランドは、森林リスク産品の供給網に大きく曝露される、あるいはこれらに影響を及ぼす350の企業と150の金融機関が記載されているForest 500に照らし、自社のポートフォリオのスクリーニングを実施した。このポートフォリオのスクリーニングの結果、ストアブランドがさらされている森林破壊の大部分は、供給網や資金提供を通じて森林破壊に間接的に関連している企業だけでなく、より直接的に森林破壊に関連している可能性のあるいくつかの大手産品取引業者を介して発生していることがわかった。"
+    },
+    {
+      "page": 54,
+      "type": "quote",
+      "en": "The next step was to unpack complex agricultural supply chains to locate sourcing regions of investee companies within Storebrand’s portfolios, and to understand where these sourcing regions intersect with areas at high risk of deforestation. Storebrand uses the Trase tool to trace deforestation exposure in commodity supply chains and to estimate deforestation impact associated with soft commodity producers and traders in their portfolios.",
+      "ja": "次のステップは複雑な農業サプライチェーンを解明してストアブランドのポートフォリオにおける投資先企業の調達地域を特定し、これらの調達地域がどこで森林破壊リスクの高い地域と交差しているかを把握することであった。ストアブランドは産品供給網における森林破壊への曝露をたどり、ポートフォリオ中のソフトコモディティの生産者と取引業者に付随する森林破壊へのインパクトを推定するのにTraseツールを活用している。"
+    },
+    {
+      "page": 54,
+      "type": "figure",
+      "en": "Screen: Portfolio – Forest 500 / Trase → Output: Deforestation risk ranking → Engagement: Prioritise and engage companies for engagement → Monitor: Review target companies for performance improvement – Forest 500 / Trase → Divest: Divest from companies failing to make progress",
+      "ja": "Screen: Portfolio – Forest 500 / Trase → Output: Deforestation risk ranking → Engagement: Prioritise and engage companies for engagement → Monitor: Review target companies for performance improvement – Forest 500 / Trase → Divest: Divest from companies failing to make progress"
+    },
+    {
+      "page": 54,
+      "type": "quote",
+      "en": "Source: Trase Insights (2021) Storebrand Asset Management Deforestation Risk Assessment",
+      "ja": "出典：Trase Insights（2021）『Storebrand Asset Management deforestation risk assessment』"
+    },
+    {
+      "page": 54,
+      "type": "quote",
+      "en": "To select companies for direct engagement, Storebrand subsequently used results from the Forest 500 (F500) assessment to categorise companies into three groups: green, yellow and red:",
+      "ja": "直接エンゲージする企業を選定するため、ストアブランドは次いで、Forest 500（F500）評価から得られた結果を用いて企業を緑、黄色、赤の3つのグループに分類した。"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "Green: companies that score over 80 points in the F500 ranking or have demonstrated compliance with Storebrand’s deforestation policy;",
+      "ja": "緑：F500のランキングにおけるスコアが80ポイントを超えているか、ストアブランドの森林破壊方針の遵守を実証している企業"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "Yellow: companies that score 80-40 points in F500; and",
+      "ja": "黄色：F500におけるスコアが80～40ポイントの企業"
+    },
+    {
+      "page": 54,
+      "type": "li",
+      "en": "Red: companies that score below 40 points in F500, or have been unwilling to make necessary improvements through active engagement.",
+      "ja": "赤：F500におけるスコアが40ポイント未満であるか、積極的なエンゲージメントを通じて必要な改善を図ろうとする意欲が示されていない企業"
+    },
+    {
+      "page": 54,
+      "type": "quote",
+      "en": "This Locate analysis highlighted that data challenges remain, especially around data on the deforestation impact of companies. Neither Trase nor Forest 500 provide data on deforestation impact throughout the entire value chain. Trase is limited to producers, exporters and first importers of commodities, and does not estimate deforestation footprints of downstream companies like retailers. This means bottom-up company by company analysis is still often required to get the granularity of information investors need. Storebrand found that CDP Forest has more granular, self-reported data from companies, which is very useful for company and portfolio analysis.",
+      "ja": "この発見分析は、特に企業の森林破壊へのインパクトに関するデータをはじめ、データ収集の課題がいまだに存在していることを浮き彫りにするものであった。TraseもForest 500も、バリューチェーンの全体を通じた森林破壊へのインパクトについてのデータは提示していない。Traseは産品の生産者、輸出業者及び最初の輸入業者に限定され、小売業者のような下流の企業の森林破壊におけるフットプリントは推定していないのである。これは、投資家が必要とする詳細度の情報を得るためには、やはり企業毎のボトムアップ分析が必要な場合が多いことを意味している。ストアブランドは、企業からより詳細な自己報告データが提供されているCDPフォレストが、企業やポートフォリオの分析に非常に有用であることを発見した。"
+    },
+    {
+      "page": 54,
+      "type": "quote",
+      "en": "Trase Insights (2021) Storebrand Asset Management deforestation risk assessment",
+      "ja": "Trase Insights（2021）『Storebrand Asset Management deforestation risk assessment』"
+    },
+    {
+      "page": 55,
+      "type": "h4",
+      "en": "Box 12: A company’s Locate analysis for deforestation risk – Nestlé",
+      "ja": "ボックス12：森林破壊リスクに対する企業の「発見」分析－ネスレ"
+    },
+    {
+      "page": 55,
+      "type": "quote",
+      "en": "Nestlé, the largest publicly held food company in the world measured by revenue with over 2,000 brands sold in over 180 countries, has set out to create deforestation-free supply chains and contribute to the restoration of the natural ecosystems on which it depends across its business by 2025.",
+      "ja": "2,000を超えるブランドを180カ国以上に販売し、その収益によって世界最大の株式公開食品企業であると評価されているネスレは、2025年までに森林破壊なしの供給網を創出し、自らの事業全般において依存している自然生態系の復元に貢献すると述べてきた。"
+    },
+    {
+      "page": 55,
+      "type": "quote",
+      "en": "As of 2021, Nestlé has already traced 97% of its palm oil to the mill level and 68% to the plantation. Supplier mills have been identified through communication with suppliers and paper-based verification methods, with data on palm oil sourcing locations showing particular prevalence of Indonesian and Malaysian palm oil. While mapping to the mill level is an important first step in understanding supply chain deforestation impacts, identifying upstream locations at the farm and plantation level enables a more accurate analysis of risk. To do so, Nestlé has overlaid spatial data on the provinces from which palm oil was sourced with spatial data on global deforestation fronts and forest degradation areas related to intact forest landscapes. The map below shows high priority areas, mapped to the regional and provincial level.",
+      "ja": "2021年の時点で、ネスレはすでにパーム油の97%を製油所レベルまで、また68%を農園まで遡及して分析している。供給業者の製油所は、特にインドネシア及びマレーシア産パーム油の普及状況を示すパーム油調達場所データを基に、供給業者とのコミュニケーションや紙ベースの検証方法を通じて特定した。製油所レベルへのマッピングは供給網の森林破壊へのインパクトを理解する上で重要な第一段階ではあるが、農場や農園レベルの上流拠点を特定することで、より正確なリスクの分析が可能になる。そのため、ネスレは、パーム油を調達している州に関する空間データを、グローバルな森林破壊の最前線や手つかずの森林景観に関連のある森林劣化地域の空間データと重ね合わせた。以下のマップは優先度の高い地域を地方州レベルでマッピングしたものである。"
+    },
+    {
+      "page": 55,
+      "type": "quote",
+      "en": "The Aceh Province in Indonesia was identified as one priority region. Nestlé used a supply shed approach to locate farms and plantations that are linked to supplier mills. This involved communicating with the mill to first determine whether or not sourcing boundary data was available and then gathering information to predict the radius of sourcing boundaries. From this analysis, Nestlé identified:",
+      "ja": "インドネシアのアチェ州が優先度の高い地方の一つとして特定された。ネスレは供給庫アプローチを用いて、供給業者の製油所につながっている農場や農園の位置を特定した。この際、製油所と連絡して、まずは調達の境界データが得られているかどうかを確認し、次いで調達境界の半径を予測するための情報を収集した。この分析により、ネスレは次の点を特定した。"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "Available sourcing boundaries with confirmed links to mills across its supply chains;",
+      "ja": "供給網全体における製油所とのつながりが確認されている調達境界"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "Available sourcing boundaries without confirmed links to mills in its supply chains, but that could enter its supply chain in the future; and",
+      "ja": "供給網内に存在する製油所とのつながりは確認されていないが、将来的に同社の供給網に参入してくる可能性がある調達境界"
+    },
+    {
+      "page": 55,
+      "type": "li",
+      "en": "A 5km, 20km and 50km radius around mills in its supply chain, for which there were no identified sourcing boundaries.",
+      "ja": "調達境界が特定されていない供給網内の製油所の周辺5 km、20 km、50 kmについての情報"
+    },
+    {
+      "page": 56,
+      "type": "quote",
+      "en": "This information allowed Nestlé to map predicted and confirmed sourcing boundaries associated with all supplier mills in the Aceh Province, as shown in the map below:",
+      "ja": "これらの情報により、ネスレは、以下の地図に示すように、アチェ州におけるすべての製油供給業者に関連する予測上及び確認済みの調達境界をマッピングすることができた。"
+    },
+    {
+      "page": 56,
+      "type": "quote",
+      "en": "Source: Nestlé (2020) Palm Oil Forest Footprint Aceh Province Analysis, page 3",
+      "ja": "出典：ネスレ（2020）『Palm Oil Forest Footprint Aceh Province Analysis』3頁．"
+    },
+    {
+      "page": 56,
+      "type": "quote",
+      "en": "Nestlé overlaid sourcing boundaries with available data on forested areas (Starling Satellite), peatlands (Indonesian Ministry of Environment and Forestry) and customary lands (Ancestral Domain Registration Agency, BRWA). This enabled a better understanding of where sourcing areas overlap with areas of high deforestation risk, conversion risk, or associated human rights impacts.",
+      "ja": "ネスレは、調達の境界を、森林地域（Starling衛星）、泥炭地（インドネシア環境林業省）、慣習地（慣習地登録組織団体、BRWA）に関して得られているデータと重ね合わせた。これにより、調達区域が森林破壊リスク、転換リスク、あるいはこれらに伴う人権へのインパクトが大きい地域と重なる場所をより的確に把握することができた。"
+    },
+    {
+      "page": 56,
+      "type": "quote",
+      "en": "This analysis revealed three interesting insights relevant to forest ecosystems, peat ecosystems and customary lands, with implications for both conversion risk and human rights. Although not all areas at risk were directly associated with Nestlé’s palm supply chains, this exercise highlighted areas of forest, peat and customary lands that could enter Nestlé’s supply chains in the future.",
+      "ja": "この分析の結果、森林生態系、泥炭生態系、慣習地に関して、転換リスクと人権の両方に影響を及ぼす3つの興味深い知見が明らかになった。リスクのあるすべての地域がネスレのパーム供給網に直接関連しているわけではなかったが、この作業により、将来的にネスレの供給網に入ってくる可能性のある森林、泥炭、慣習地の地域を強調的に把握することができた。"
+    },
+    {
+      "page": 56,
+      "type": "quote",
+      "en": "Source: Nestlé Our palm oil transparency dashboard",
+      "ja": "出典：ネスレ『Our palm oil transparency dashboard』"
+    }
+  ]
+}

@@ -1,0 +1,2009 @@
+{
+  "doc": "leap",
+  "pages": [
+    253,
+    277
+  ],
+  "segments": [
+    {
+      "page": 253,
+      "type": "table",
+      "en": "| Organisation | Description |\n|---|---|\n| ING | Heatmap: Considers both physical and transition risks over a five-year time horizon, assessed qualitatively at the sector level in the form of a heatmap. An image of the heatmap itself is not published. |\n| LFDE | Asset tagging: Assesses biodiversity footprint in MSA in part per billion. Uses sectoral data and ratios to produce company-level footprints. Compares fund-level footprints to an index to show better/worse performance. |\n| Moody’s | Heatmap: Creates a heatmap that includes five categories of risk and one overall risk score, assessed qualitatively at the sector level. Risk levels are influenced by sector-wide mitigating factors, but opportunities are not included. Does not mention the TNFD. |\n| MSCI | Asset tagging: Uses MSA to determine locations sensitive to adverse impacts and finds share of index constituents with at least one physical asset in these biodiversity-sensitive areas. Also creates an industry-average biodiversity and land use risk management score, including environmental controversies. |\n| MSCI | Asset tagging: Assesses potential contribution to forest loss based on location of physical assets in WWF Deforestation Fronts. Also considers deforestation-linked commodities in the supply chain. Also looks at company-specific policies related to deforestation. |\n| Netherlands Enterprise Agency | Asset tagging: Produces four biodiversity footprint case studies using pressure-impact model ReCiPe combined with Life Cycle Impact Assessment to determine how environmental pressures contribute to biodiversity impact. Uses EXIOBASE data when it is not possible to collect company-specific environmental data. |\n| Race to Zero | Scenario-based risk assessment method: Applies publicly available integrated climate and nature scenario along with a baseline scenario to estimate change in value of 40 food and agriculture companies to 2030 due to transition risks. Also considers opportunities in the form of market, operational and commercial responses. |\n| Robeco | Heatmap: Does not explicitly produce a heatmap, but uses ENCORE data to assess dependencies and impacts, which are then summarised in a chart that shows financial exposure to sectors that have high dependencies and impacts for specific ecosystem services, demonstrating a heatmap-type approach. |",
+      "ja": "| 組織 | 説明 |\n|---|---|\n| ING | ヒートマップ：5年間の物理的リスクと移行リスクの両方を考慮し、ヒートマップの形でセクターレベルで定性的に評価。ヒートマップ自体の画像は公表されていない。 |\n| LFDE | 資産タグ付け：10億あたりのMSAの生物多様性のフットプリントを部分的に評価。セクター別のデータと比率を用いて企業レベルのフットプリントを作成。ファンドレベルのフットプリントをインデックスと比較し、パフォーマンスの良し悪しを示す。 |\n| ムーディーズ | ヒートマップ：セクターレベルで定性的に評価された5つのリスクカテゴリーと1つの総合リスクスコアを含むヒートマップを作成。リスクレベルはセクター全体の緩和要因の影響を受けるが、機会は含まれない。TNFDについては言及していない。 |\n| MSCI | 資産タグ付け：MSAを使用して負のインパクトを受けやすい場所を判定し、これらの生物多様性要注意場所に少なくとも1つの物理的資産を持つ指数構成銘柄の割合を求める。また、環境面の物議を含む生物多様性と土地利用のリスク管理の業界平均スコアを作成。 |\n| MSCI | 資産タグ付け：WWF森林破壊前線に位置する物理的資産の場所に基づき、森林破壊への潜在的寄与を評価。サプライチェーンにおける森林破壊と繋がった産品も考慮。また、森林破壊に関する企業固有の方針を調査。 |\n| オランダ企業庁 | 資産タグ付け：圧力影響モデルReCiPeとライフサイクル影響評価を組み合わせた4つの生物多様性フットプリント事例研究を作成し、環境圧力が生物多様性へのインパクトにどのように寄与しているかを判断。企業固有の環境データを収集できない場合は、EXIOBASEのデータを使用。 |\n| レーストゥゼロ | シナリオベースのリスク評価方法：一般に公開されている気候と自然統合シナリオをベースラインシナリオとともに適用し、移行リスクによる食品農業企業40社の2030年までの価値の変化を推計。また、市場対応、事業対応、商業的対応という形での機会についても検討。 |\n| ロベコ | ヒートマップ：ヒートマップは明示的に作成しないが、ENCOREのデータを用いて依存とインパクトを評価し、それを特定の生態系サービスに対して高い依存度とインパクトを持つセクターへの財務的エクスポージャーを示すチャートにまとめ、ヒートマップ型のアプローチを示している。 |"
+    },
+    {
+      "page": 254,
+      "type": "table",
+      "en": "| Organisation | Description |\n|---|---|\n| Swiss Re | Heatmap: Assesses the state of ecosystem services by geography (per square km of land and at the country level) to create a heatmap. Combines 10 ecosystem services into a single qualitative risk score, underpinned by various quantitative metrics. |\n| WEF (with PwC) | Heatmap: Does not explicitly produce a heatmap but maps direct and supply chain GVA at the industry level to high/medium/low nature dependency scores in a heatmap-type approach. Also qualitatively assesses nature dependency at the regional level. |\n| Waldron et al. (2020) | Scenario-based risk assessment method: Develops multiple scenarios to explore the costs and benefits of implementing a 30×30 target. Estimates financial implications, including changes in sector-specific revenues. |\n| World Bank | Scenario-based risk assessment method: Develops multiple scenarios, also accounting for nature-related tipping points for three ecosystem services and uses them to estimate potential GDP loss to 2030. Also uses scenarios to estimate positive GDP effects of coordinated policies that could benefit biodiversity and development, incorporating climate-related considerations. |\n| World Bank (Brazil) | Multiple approaches: Uses a heatmap-type assessment to identify share of total credit with none to very high dependency on 21 ecosystem services, based on ENCORE data. Determines share of financial assets potentially operating in protected or priority areas. No use of scenarios but recognises that priority areas could become protected areas in the future. Also assesses exposure to companies with environmental controversies. Uses publicly available BAU (where no ecological tipping points are reached) and ecosystem collapse scenarios (that estimate effect on GDP) combined with a GDP to non-performing loan (NPL) ratio to extrapolate potential increase in corporate NPLs. |\n| World Bank (Malaysia) | Multiple approaches: Uses a heatmap-type assessment and ENCORE data to assess both individual dependencies and impacts at the NACE sector level. Also produces a composite sector-level score. Determines proportion of commercial lending to sectors with high or very high dependencies or impacts. Maps location of commercial residential and non-residential purchase lending in relation to protected areas and non-protected Key Biodiversity Areas. Creates 21 physical and seven transition risk scenarios linked to dependencies and impacts identified in a heatmap-type assessment. Determines proportion of total commercial loans outstanding that would be exposed under each scenario (via identified dependencies/impacts). |",
+      "ja": "| 組織 | 説明 |\n|---|---|\n| スイスリー | ヒートマップ：地理別（土地1平方キロメートルごと、国レベル）に生態系サービスの状態を評価し、ヒートマップを作成。10の生態系サービスを、様々な定量的指標に基づいて1つの定性的なリスクスコアに統合。 |\n| WEF（PwCと） | ヒートマップ：ヒートマップは明示的に作成しないが、ヒートマップ型のアプローチで、産業レベルの直接及びサプライチェーンのGVAを高／中／低の自然依存度スコアにマッピング。また、地域レベルでの自然依存度も定性的に評価。 |\n| ウォルドロン他（2020） | シナリオベースのリスク評価方法：30×30のターゲットを実施した場合のコストと便益を探るため、複数のシナリオを作成。セクター別収益の変化等、財政的意味合いを試算。 |\n| 世界銀行 | シナリオベースのリスク評価方法：3つの生態系サービスに関する自然関連の転換点も説明する複数のシナリオを作成し、それを用いて2030年までの潜在的なGDP損失を推計。また、シナリオを用いて、気候変動に関連する考慮事項を盛り込み、生物多様性と開発に利益をもたらす可能性のある協調的な政策によるプラスのGDP効果を推計。 |\n| 世界銀行（ブラジル） | 複数のアプローチ：ENCOREのデータに基づき、21の生態系サービスへの依存度が皆無から非常に高いとなる貸し付け総額の割合を、ヒートマップ型の評価で特定。保護地域又は優先地域で操業している可能性のある金融資産の割合を決定。シナリオは使用しないが、優先地域が将来的に保護地域になる可能性があることを認識。また、環境問題を抱える企業へのエクスポージャーも評価。公開されているBAU（生態学的転換点に達しない）と生態系崩壊シナリオ（GDPへの影響を推定）を、GDP対不良債権（NPL）比率と組み合わせて使用し、企業のNPLの潜在的な増加を推定。 |\n| 世界銀行（マレーシア） | 複数のアプローチ：ヒートマップ型評価とENCOREデータを使用して、NACEセクターレベルでの個々の依存とインパクトの両方を評価。また、セクターレベルの複合スコアも生成。依存又はインパクトが高い、又は非常に高いセクターへの商業貸付の割合を決定。保護地域及び保護下にない生物多様性重点地域に関連する、商業用住宅及び非住宅の購入貸付の場所をマップ化。ヒートマップ型評価で特定された依存やインパクトに関連する21の物理的リスクシナリオと7つの移行リスクシナリオを作成。各シナリオの下で（特定された依存／インパクトを介して）エクスポージャーとなる商業用ローン残高全体の割合を決定。 |"
+    },
+    {
+      "page": 255,
+      "type": "h1",
+      "en": "Annex 5: Links between Kunming-Montreal Global Biodiversity Framework (GBF) targets and areas for targets under TNFD",
+      "ja": "別紙5：昆明モントリオール生物多様性枠組（GBF）のターゲットとTNFDでのターゲットの領域との関連性"
+    },
+    {
+      "page": 255,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| Reducing threats to biodiversity |  |  |\n| 1 Ensure that all areas are under participatory integrated biodiversity inclusive spatial planning and/or effective management processes, addressing land and sea use change, to bring the loss of areas of high biodiversity importance, including ecosystems of high ecological integrity, close to zero by 2030, while respecting the rights of Indigenous Peoples and Local Communities. | Impact driver: Land and sea use change<br>State of nature: Ecosystem extent | Increase share of area interacted with covered by biodiversity-inclusive spatial plans to 100% by 2030.<br>Area of land used for cultivation held at 2020 levels by 2030. |\n| 2 Ensure that by 2030 at least 30% of areas of degraded terrestrial, inland water and coastal and marine ecosystems are under effective restoration, in order to enhance biodiversity and ecosystem functions and services, ecological integrity and connectivity. | State of nature: Habitat quality, ecosystem condition | Increase share of degraded ecosystems interacted with that are under effective restoration to 100% by 2030. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 生物多様性への脅威を減らす |  |  |\n| 1 生態学的健全性の高い生態系を含む生物多様性上の重要性の高い地域の損失を2030年までにゼロに近づけるために、先住民及び地域社会の権利を尊重しつつ、すべての地域が土地と海の利用の変化に対処する参加型で統合的な生物多様性に配慮した空間計画及び／又は効果的な管理プロセスの下にあることを確保する。 | インパクト要因：土地と海の利用の変化<br>自然の状態：生態系の範囲 | 2030年までに、生物多様性を包含する空間計画によってカバーされる相互作用地域の割合を100%にする。<br>2030年までに耕作用地面積を2020年の水準に維持。 |\n| 2 生物多様性と生態系の機能及びサービス、生態学的健全性及び連結性を向上させるために、2030年までに、劣化した陸域、内陸水域、海域及び沿岸域の生態系の少なくとも30%の地域で効果的な回復下にあることを確保する。 | 自然の状態：生息地の質、生態系の状態 | 2030年までに、効果的に修復されている劣化した生態系の割合を100%まで増加。 |"
+    },
+    {
+      "page": 256,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 3 Ensure and enable that by 2030 at least 30% of terrestrial, inland water and coastal and marine areas, especially areas of particular importance for biodiversity and ecosystem functions and services, are effectively conserved and managed through ecologically representative, well-connected and equitably governed systems of protected areas and other effective area-based conservation measures. Recognising Indigenous and traditional territories, where applicable, and integrated into wider landscapes, seascapes and the ocean, while ensuring that any sustainable use, where appropriate in such areas, is fully consistent with conservation outcomes, recognising and respecting the rights of Indigenous Peoples and Local Communities, including over their traditional territories. | Governance | n/a |\n| 4 Ensure urgent management actions to halt human induced extinction of known threatened species and for the recovery and conservation of species, in particular threatened species, to significantly reduce extinction risk, as well as to maintain and restore the genetic diversity within and between populations of native, wild and domesticated species to maintain their adaptive potential, including through in situ and ex situ conservation and sustainable management practices, and effectively manage human-wildlife interactions to minimise human-wildlife conflict for coexistence. | Impact drivers: All<br>State of nature: Species abundance, species extinction risk | 100% of land areas interacted with in the direct operations and value chain assessed for the presence of threatened species by 2025, and 100% of those areas that are known to host threatened species are under effective management by 2030 to reduce threats, improve species health and increase species population. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 3 2030年までに、陸域及び内陸水域、並びに海域及び沿岸域の少なくとも30%、とりわけ生物多様性と生態系の機能及びサービスにとって特に重要な地域が、該当する場合には先住民の及び伝統的な領域を認識しつつ、生態学的に代表的で、良く連結され、さらに衡平に統治された保護地域及び、保護地域以外で生物多様性保全に資する地域からなるシステムを通じて、効果的に保全及び管理されるとともに、より広域のランドスケープ、シースケープ及び海洋に統合されることを確保及び可能にする。その際、このような地域において適切な場合に行われる持続可能な利用は、保全の結果と完全に整合することを確保し、また、伝統的領域に関するものを含む先住民及び地域社会の権利を認識及び尊重する。 | ガバナンス | 該当なし |\n| 4 人間によって引き起こされる既知の絶滅危惧種の絶滅を阻止し、また絶滅リスクを大幅に減らすための種、特に絶滅危惧種を回復及び保全し、並びに適応能力の維持のために在来種、野生種及び家畜栽培種の個体群内及び個体群間の遺伝的多様性を維持及び回復するために、生息域内及び生息域外保全や持続可能な管理の実践等を通じて緊急の管理行動を確保するとともに、共存に向けて人間と野生生物との軋轢を最小化するため人間と野生生物の相互作用を効果的に管理する。 | インパクト要因：すべて<br>自然の状態：種の豊富さ、種の絶滅リスク | 2025年までに直接操業とバリューチェーンで相互作用がある土地の100%で絶滅危惧種の存在評価がなされ、脅威を軽減し、種の健全性を改善し、種の個体数を増加させるために、絶滅危惧種の生息地域として知られる地域の100%が、2030年までに効果的管理下に置かれる。 |"
+    },
+    {
+      "page": 257,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 5 Ensure that the use, harvesting and trade of wild species is sustainable, safe and legal, preventing overexploitation, minimising impacts on non-target species and ecosystems, and reducing the risk of pathogen spill-over, applying the ecosystem approach, while respecting and protecting customary sustainable use by Indigenous Peoples and Local Communities. | Impact driver: Resource use | All fish stocks used or within ecosystems interacted with are managed within biologically sustainable levels by 2030.<br>All fish catch certified under an internationally recognised sustainable fisheries scheme by 2030. |\n| 6 Eliminate, minimise, reduce and or mitigate the impacts of invasive alien species on biodiversity and ecosystem services by identifying and managing pathways of the introduction of alien species, preventing the introduction and establishment of priority invasive alien species, reducing the rates of introduction and establishment of other known or potential invasive alien species by at least 50%, by 2030, eradicating or controlling invasive alien species especially in priority sites, such as islands. | Impact driver: Invasive species | X% reduction by 2030 relative to 2020 levels in the population of invasive species at site Y, and within the area of influence of that site. |\n| 7 Reduce pollution risks and the negative impact of pollution from all sources, by 2030, to levels that are not harmful to biodiversity and ecosystem functions and services, considering cumulative effects, including: reducing excess nutrients lost to the environment by at least half including through more efficient nutrient cycling and use; reducing the overall risk from pesticides and highly hazardous chemicals by at least half including through integrated pest management, based on science, taking into account food security and livelihoods; and also preventing, reducing and working towards eliminating plastic pollution. | Impact driver: Pollution<br>State of nature: Ecosystem condition | Reduce by X% pesticide use per area of cropland in areas interacted with by 2030, relative to 2020 levels. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 5 先住民及び地域社会による慣習的な持続可能な利用を尊重及び保護しながら、エコシステムアプローチを適用して、野生種の利用、採取及び取引が、持続可能で、安全かつ合法的であることを確保することにより、乱獲を防止し、非対象種と生態系への影響を最小化し、病原体の異種間伝播のリスクを低減する。 | インパクト要因：資源の利用 | 2030年までに、利用される、又は相互作用する生態系内のすべての魚類資源が生物学的に持続可能なレベル内で管理される。<br>2030年までに、すべての漁獲物が国際的に認められた持続可能な漁業制度に基づいて認証される。 |\n| 6 外来種の導入経路を特定及び管理し、対策優先度の高い侵略的外来種の導入及び定着を防止し、他の既知又は潜在的な侵略的外来種の導入率及び定着率を2030年までに50%以上削減するとともに、特に島嶼等の重要度の高い場所における侵略的外来種の根絶又は管理によって、侵略的外来種による生物多様性と生態系サービスへの影響を除去、最小化、低減及び、又は緩和する。 | インパクト要因：侵略種 | 2030年までに、Y地点及びその影響範囲内の侵略種の個体数を、2020年比でX%削減する。 |\n| 7 より効率的な栄養素の循環・利用等により環境中に流出する過剰な栄養素を少なくとも半減すること、科学に基づき、食料安全保障や生活を考慮しつつ、病害虫・雑草の総合防除などにより農薬及び有害性の高い化学物質による全体的なリスクを少なくとも半減すること、プラスチック汚染を防ぎ、削減し、廃絶に向けて作業すること等により、あらゆる汚染源からの汚染のリスクと悪影響を2030年までに、累積的効果を考慮しつつ、生物多様性と生態系の機能及びサービスに有害でない水準まで削減する。 | インパクト要因：汚染<br>自然の状態：生態系の状態 | 2030年までに、関与する地域の耕作地面積あたりの農薬使用量を2020年の水準と比較してX%削減。 |"
+    },
+    {
+      "page": 258,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 8 Minimise the impact of climate change and ocean acidification on biodiversity and increase its resilience through mitigation, adaptation and disaster risk reduction actions, including through nature-based solution and/or ecosystem-based approaches, while minimising negative and fostering positive impacts of climate action on biodiversity. | Impact driver: Climate change<br>State of nature: Ecosystem quality | X% reduction in greenhouse gas emissions across all scopes by 2030 relative to 2020. |\n| Meeting people’s needs through sustainable use and benefit sharing |  |  |\n| 9 Ensure that the management and use of wild species are sustainable, thereby providing social, economic and environmental benefits for people, especially those in vulnerable situations and those most dependent on biodiversity, including through sustainable biodiversity-based activities, products and services that enhance biodiversity, and protecting and encouraging customary sustainable use by Indigenous Peoples and Local Communities. | Impact driver: Resource use<br>Ecosystem service: Provisioning services<br>State of nature: Species abundance | All natural forest areas in direct operations and value chain managed according to internationally recognised, highly credible sustainable forestry certification standards by 2030, including effective sharing of benefits with Indigenous Peoples and Local Communities. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 8 気候変動対策による生物多様性への負の影響を最小化し、正の影響を向上させつつ、自然を活用した解決策及び／又は生態系を活用したアプローチ等によるものを含む緩和、適応及び防災減災の行動を通じて、気候変動及び海洋酸性化による生物多様性への影響を最小化するとともに、その強じん性（レジリエンス）を増強させる。 | インパクト要因：気候変動<br>自然の状態：生態系の質 | 2030年までに、すべての範囲で2020年と比較して温室効果ガス排出量をX%削減。 |\n| 持続可能な利用及び利益配分による人々のニーズを満たす |  |  |\n| 9 生物多様性を向上させる持続可能な生物多様性に基づく活動、製品及びサービスと、先住民及び地域社会による慣習的な持続可能な利用の保護と奨励等を通じて、野生種の管理及び利用が持続可能であることを確保することによって、人々、特に脆弱な状況にある人々及び生物多様性に最も依存している人々に社会的、経済的及び環境的な恩恵をもたらす。 | インパクト要因：資源の利用<br>生態系サービス：供給サービス<br>自然の状態：種の豊富さ | 2030年までに、直接操業及びバリューチェーン上内のすべての天然林地域を、先住民族及び地域社会との利益の効果的な分配を含め、国際的に認知され、信頼性の高い持続可能な森林認証基準に従って管理。 |"
+    },
+    {
+      "page": 259,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 10 Ensure that areas under agriculture, aquaculture, fisheries and forestry are managed sustainably, in particular through the sustainable use of biodiversity, including through a substantial increase of the application of biodiversity friendly practices, such as sustainable intensification, agroecological and other innovative approaches contributing to the resilience and long-term efficiency and productivity of these production systems and to food security, conserving and restoring biodiversity and maintaining nature’s contributions to people, including ecosystem functions and services. | Impact driver: Resource use, pollution<br>Ecosystem service: Provisioning services<br>State of nature: Ecosystem condition | All agricultural, aquaculture, fisheries and forestry areas interacted with are managed in line with internationally recognised certification standards by 2030. |\n| 11 Restore, maintain and enhance nature’s contributions to people, including ecosystem functions and services, such as regulation of air, water and climate, soil health, pollination and reduction of disease risk, as well as protection from natural hazards and disasters, through nature-based solutions and/or ecosystem-based approaches for the benefit of all people and nature. | Impact driver: All<br>Ecosystem service: Regulating services<br>State of nature: Ecosystem extent and condition | All bodies of water interacted with that have environmentally healthy ambient water quality and ecologically sound flow conditions by 2030. |\n| 12 Significantly increase the area and quality and connectivity of, access to, and benefits from green and blue spaces in urban and densely populated areas sustainably, by mainstreaming the conservation and sustainable use of biodiversity, and ensure biodiversity-inclusive urban planning, enhancing native biodiversity, ecological connectivity and integrity, and improving human health and well-being and connection to nature and contributing to inclusive and sustainable urbanisation and the provision of ecosystem functions and services. | Ecosystem service: Cultural services<br>State of nature: Ecosystem extent and condition | Share of land area of new urban developments by the organisation that are public green/blue space increased to X% by 2030 compared to Y% in 2020. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 10 農業、養殖業、漁業及び林業が営まれている地域が、持続可能な集約化やアグロエコロジー及びその他革新的なアプローチ等の生物多様性に配慮した活動の適用の大幅な増加等を含め、特に生物多様性の持続可能な利用を通じて、持続可能に管理されることを確保し、これらの生産システムの強じん性（レジリエンス）と長期的な効率性と生産性、また食料安全保障に貢献し、生物多様性を保全回復し、生態系の機能及びサービスを含む自然の寄与を維持する。 | インパクト要因：資源利用、汚染<br>生態系サービス：供給サービス<br>自然の状態：生態系の状態 | 2030年までに、関与するすべての農業、養殖業、漁業、林業地域は、国際的に認められた認証基準に沿って管理。 |\n| 11 すべての人々と自然の恩恵のために、自然を活用した解決策及び／又は生態系を活用したアプローチを通じて、大気、水及び気候の調節、土壌の健全性、花粉媒介、疾患リスクの低減並びに自然災害からの保護等の生態系の機能及びサービスを含む自然の寄与を回復、維持及び強化する。 | インパクト要因：すべて<br>生態系サービス：調節サービス<br>自然の状態：生態系の広がりと状況 | 2030年までに、相互作用するすべての水域で、環境的に健全な周囲水の質と生態学的に健全な流動状況を実現。 |\n| 12 生物多様性の保全と持続可能な利用を主流化することにより、都市部と人口密集地域の緑地空間及び親水空間の面積と質、連結性、アクセス及び恩恵を持続可能な形で大幅に増加させるとともに、生物多様性に配慮した都市計画を確保することで、在来の生物多様性、生態学的連結性及び健全性を向上させ、人間の健康と福利及び自然とのつながりを改善し、包摂的かつ持続可能な都市化と生態系の機能及びサービスの提供に貢献する。 | 生態系サービス：文化的サービス<br>自然の状態：生態系の広がりと状況 | 2030年までに、組織による新しい都市開発における公共の緑地／水空間の面積の割合を、2020年のY%からX%に増加。 |"
+    },
+    {
+      "page": 260,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 13 Take effective legal, policy, administrative and capacity-building measures at all levels, as appropriate, to ensure the fair and equitable sharing of benefits that arise from the utilisation of genetic resources and from digital sequence information on genetic resources, as well as traditional knowledge associated with genetic resources, and facilitating appropriate access to genetic resources, and by 2030 facilitating a significant increase of the benefits shared, in accordance with applicable international access and benefit-sharing instruments. | Ecosystem services: Provisioning services | Commit USD X million of benefits stemming from the use of genetic resources and or digital sequence information towards conservation in relevant countries by 2030, working with Indigenous Peoples and Local Communities in accordance with access and benefit sharing instruments |\n| Tools and solutions for implementation and mainstreaming |  |  |\n| 14 Ensure the full integration of biodiversity and its multiple values into policies, regulations, planning and development processes, poverty eradication strategies, strategic environmental assessments, environmental impact assessments and, as appropriate, national accounting, within and across all levels of government and across all sectors, in particular those with significant impacts on biodiversity, progressively aligning all relevant public and private activities, fiscal and financial flows with the goals and targets of this framework. | n/a | X% of investment portfolio is in activities that support the conservation and restoration of nature by 2030, based on a recognised taxonomy.<br>Reduction of X% in investments in activities that harm nature by 2030. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 13 遺伝資源、遺伝資源に関するデジタル配列情報及び遺伝資源に関連する伝統的知識の利用から生ずる利益の公正かつ衡平な配分を確保するために、必要に応じて、あらゆるレベルにおいて、効果的な法律上、政策上、行政上の措置及び能力構築の措置をとり、遺伝資源の適切な取得を促進し、2030年までに適用可能な国際的な取得の機会と利益配分に関する文書に従って配分される利益の大幅な増加を促進する。 | 生態系サービス：供給サービス | 2030年までに、アクセスと利益分配の手段に従って先住民族や地域社会と協力しながら、遺伝資源やデジタル配列情報の利用から生じる利益を、関連する国々の保全にX百万米ドル貢献することを約束。 |\n| 実施と主流化のためのツールと解決策 |  |  |\n| 14 すべての関連する公的な活動及び民間の活動、財政及び資金フローをこの枠組のゴール及びターゲットに徐々に整合させつつ、生物多様性とその多様な価値が、政府内及び政府間のあらゆるレベルにおいて、並びに、特に生物多様性に顕著な影響を与えるセクターを含むすべてのセクターにまたがって、政策方針、規制、計画及び開発プロセス、貧困撲滅戦略、戦略的環境アセスメント、環境インパクトアセスメント並びに必要に応じて国民勘定に統合されることを確保する。 | 該当なし | 2030年までに、投資ポートフォリオのX%が、認められたタクソノミーに基づいて、自然の保護と回復を支援する活動に充てられる。<br>2030年までに、自然に害を及ぼす活動への投資をX%削減。 |"
+    },
+    {
+      "page": 261,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 15 Take legal, administrative or policy measures to encourage and enable business, and in particular to ensure that large and transnational corporates and financial institutions: (a) Regularly monitor, assess, and transparently disclose their risks, dependencies and impacts on biodiversity, including with requirements for all large as well as transnational corporates and financial institutions along their operations, supply and value chains and portfolios; (b) Provide information needed to consumers to promote sustainable consumption patterns; (c) Report on compliance with access and benefit-sharing regulations and measures, as applicable; in order to progressively reduce negative impacts on biodiversity, increase positive impacts, reduce biodiversity-related risks to business and financial institutions, and promote actions to ensure sustainable patterns of production. | n/a | Increase number of disclosures following the TNFD’s recommendations from X to full disclosure by 2030. |\n| 16 Ensure that people are encouraged and enabled to make sustainable consumption choices including by establishing supportive policy, legislative or regulatory frameworks, improving education and access to relevant and accurate information and alternatives, and by 2030, reduce the global footprint of consumption in an equitable manner, including through halving global food waste, significantly reducing overconsumption and substantially reducing waste generation, in order for all people to live well in harmony with Mother Earth. | Impact drivers: All | Halve food waste in the value chain from 2020 levels by 2030. |\n| 17 Establish, strengthen capacity for, and implement in all countries in biosafety measures as set out in Article 8(g) of the Convention on Biological Diversity and measures for the handling of biotechnology and distribution of its benefits as set out in Article 19 of the Convention. | n/a | No target, but wider commitment to full compliance with biosafety rules. |\n| 18 Identify by 2025, and eliminate, phase out or reform incentives, including subsidies, harmful for biodiversity, in a proportionate, just, fair, effective and equitable way, while substantially and progressively reducing them by at least US$500 billion per year by 2030, starting with the most harmful incentives, and scale up positive incentives for the conservation and sustainable use of biodiversity. | n/a | 100% of direct suppliers moved to new contracts that align incentives with nature protection by 2030. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 15 生物多様性への負の影響を徐々に低減し、正の影響を増やし、事業者（ビジネス）及び金融機関への生物多様性関連リスクを減らすとともに、持続可能な生産パターンを確保するための行動を推進するために、事業者（ビジネス）に対し以下の事項を奨励して実施できるようにし、特に大企業や多国籍企業、金融機関については確実に行わせるために、法律上、行政上又は政策上の措置を講じる。（a）生物多様性に係るリスク、生物多様性への依存及び影響を定期的にモニタリングし、評価し、透明性をもって開示すること、これをすべての大企業及び多国籍企業、金融機関については要求などを通じ、事業活動、サプライチェーン、バリューチェーン及びポートフォリオにわたって実施する。（b）持続可能な消費パターンを推進するために消費者に必要な情報を提供する。（c）該当する場合は、アクセスと利益配分の規則や措置の遵守状況について報告する。 | 該当なし | 2030年までに、TNFDの提言に従った開示件数をX件から全面開示に増やす。 |\n| 16 すべての人々が母なる地球とうまく共生するために、支援政策及び立法的又は規制的な枠組みの確立、教育及び正確な関連情報や代替手段へのアクセスの改善によって、人々が持続可能な消費の選択を奨励され、行うことができるようにするとともに、2030年までに、世界の食料廃棄の半減、過剰消費の大幅削減、廃棄物の発生の大幅削減等を通じて、消費のグローバルフットプリントを衡平な形で削減する。 | インパクト要因：すべて | 2030年までに、バリューチェーンにおける食品廃棄物を2020年のレベルから半減させる。 |\n| 17 すべての国において、生物多様性条約の第8条（g）項で定められているバイオセーフティ措置及び同条約第19条に定められているバイオテクノロジーの取扱い及びその利益の配分のための措置を確立し、そのための能力を強化し、実施する。 | 該当なし | ターゲットはないが、バイオセーフティ規則の完全遵守をより広範に約束する。 |\n| 18 補助金を含む生物多様性に有害なインセンティブを2025年までに特定し、公正、公平、効果的及び衡平な方法により、廃止、段階的廃止又は改革を行う。最も有害なインセンティブから開始し、2030年までに少なくとも年間5,000億ドルを大幅にかつ漸進的に削減し、生物多様性の保全と持続可能な利用のために有益なインセンティブを拡大する。 | 該当なし | 2030年までに、直接取引供給業者の100%が、インセンティブが自然保護に一致した新契約に移行する。 |"
+    },
+    {
+      "page": 262,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 19 Substantially and progressively increase the level of financial resources from all sources, in an effective, timely and easily accessible manner, including domestic, international, public and private resources, in accordance with Article 20 of the Convention, to implement national biodiversity strategies and action plans, by 2030 mobilising at least US$200 billion per year, including by:<br>(a) Increasing total biodiversity related international financial resources from developed countries, including official development assistance, and from countries that voluntarily assume obligations of developed country Parties, to developing countries, in particular the least developed countries and small island developing States, as well as countries with economies in transition, to at least US$20 billion per year by 2025, and to at least US$30 billion per year by 2030;<br>(b) Significantly increasing domestic resource mobilisation, facilitated by the preparation and implementation of national biodiversity finance plans or similar instruments according to national needs priorities and circumstances;<br>(c) Leveraging private finance, promoting blended finance, implementing strategies for raising new and additional resources, and encouraging the private sector to invest in biodiversity, including through impact funds and other instruments;<br>(d) Stimulating innovative schemes such as payment for ecosystem services, green bonds, biodiversity offsets and credits, benefit-sharing mechanisms, with environmental and social safeguards;<br>(e) Optimising co-benefits and synergies of finance targeting the biodiversity and climate crises;<br>(f) Enhancing the role of collective actions, including by Indigenous Peoples and Local Communities, Mother Earth-centric actions and non-market-based approaches including community based natural resource management and civil society cooperation and solidarity aimed at the conservation of biodiversity; and<br>(g) Enhancing the effectiveness, efficiency and transparency of resource provision and use. | n/a | X% additional finance leverage effect of nature-targeted investment by 2030. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 19 生物多様性国家戦略及び行動計画を実施するために、条約第20条に則り、効果的、適時かつ容易にアクセスできる方法で、国内、国際、公共及び民間の資源を含む、あらゆる資金源からの資金の水準を実質的かつ段階的に引き上げ、2030年までに以下を含む措置を通じて少なくとも年間2,000億ドルを動員する。<br>（a）政府開発援助を含む、先進国からの、及び先進国締約国の義務を自発的に引き受ける国からの、途上国、特に後発開発途上国及び小島嶼開発途上国並びに経済移行国へのすべての生物多様性関連の国際的な資金を、2025年までに少なくとも年間200億ドル、2030年までに少なくとも年間300億ドルまで増加させること。<br>（b）各国のニーズ、優先事項及び状況にしたがい、自国の生物多様性資金計画又は類似の文書の作成と実施によって促進される、国内資源の動員を大幅に増加させること。<br>（c）民間資金を活用すること、ブレンディッドファイナンスを推進すること、新規かつ追加的な資源の調達のための戦略を実施すること、そして民間セクターに対して、インパクトファンド及びその他手段等を通じて、生物多様性に投資するよう奨励すること。<br>（d）生態系サービスへの支払い、グリーンボンド、生物多様性オフセット及びクレジット、利益配分メカニズム等の環境及び社会的セーフガードをもつ革新的なスキームを刺激すること。<br>（e）生物多様性及び気候危機を対象とする金融の共通便益（コベネフィット）及び相乗効果を最適化すること。<br>（f）先住民及び地域社会等による協力した行動、母なる地球を中心とした行動、及び生物多様性の保全を目的とした地域社会主体の自然資源管理や市民社会の協力と連帯といった市場に基づかないアプローチの役割を強化すること。<br>（g）資源の提供と利用における有効性、効率性及び透明性を高めること。 | 該当なし | 2030年までに、自然をターゲットとした投資による資金レバレッジ効果をX%追加する。 |"
+    },
+    {
+      "page": 263,
+      "type": "table",
+      "en": "| GBF target | Target area | Illustrative target for organisations |\n|---|---|---|\n| 20 Strengthen capacity-building and development, access to and transfer of technology, and promote development of and access to innovation and technical and scientific cooperation, including through South-South, North-South and triangular cooperation, to meet the needs for effective implementation, particularly in developing countries, fostering joint technology development and joint scientific research programmes for the conservation and sustainable use of biodiversity and strengthening scientific research and monitoring capacities, commensurate with the ambition of the goals and targets of the framework. | n/a | No target, but commitment to support for and participation in initiative. |\n| 21 Ensure that the best available data, information and knowledge, are accessible to decision makers, practitioners and the public to guide effective and equitable governance, integrated and participatory management of biodiversity, and to strengthen communication, awareness-raising, education, monitoring, research and knowledge management and, also in this context, traditional knowledge, innovations, practices and technologies of Indigenous Peoples and Local Communities should only be accessed with their Free, Prior and Informed Consent, in accordance with national legislation. | n/a | No target, but commitment to make available biodiversity data accessible. |\n| 22 Ensure the full, equitable, inclusive, effective and gender-responsive representation and participation in decision-making, and access to justice and information related to biodiversity by Indigenous Peoples and Local Communities, respecting their cultures and their rights over lands, territories, resources and traditional knowledge, as well as by women and girls, children and youth and persons with disabilities and ensure the full protection of environmental human rights defenders. | n/a | 100% of stakeholders participating in engagement activities respond that they feel the process was fairly conducted at the end/or close of each project by 2030. |\n| 23 Ensure gender equality in the implementation of the framework through a gender-responsive approach where all women and girls have equal opportunity and capacity to contribute to the three objectives of the Convention, including by recognising their equal rights and access to land and natural resources and their full, equitable, meaningful and informed participation and leadership at all levels of action, engagement, policy and decision-making related to biodiversity. | n/a | No target, but commitment to gender equality in implementation of wider strategy. |",
+      "ja": "| GBFターゲット | ターゲット領域 | 組織向けの例示的なターゲット |\n|---|---|---|\n| 20 この枠組のゴールとターゲットの野心度に見合った効果的な実施に向けたニーズを、特に途上国において満たすべく、南南協力、南北協力、三角協力等を通じて、能力の構築及び開発、技術へのアクセス及び技術移転を強化するとともに、イノベーションの創出とアクセス及び科学技術協力を促進することで、生物多様性の保全と持続可能な利用のための共同技術開発と共同科学研究プログラムを促進し、科学研究とモニタリング能力を強化する。 | 該当なし | ターゲットはないが、イニシアティブへの支援と参加のコミットメント。 |\n| 21 生物多様性の効果的かつ衡平なガバナンス、参加型の統合的管理を行うため、そして広報、普及啓発、教育、モニタリング、研究及び知識管理を強化するために、最良の利用可能なデータ、情報及び知識を、意思決定者、実務家及び一般の人々が利用できるようにする。この文脈においても、先住民及び地域社会の伝統的知識、イノベーション、慣行及び技術は、国内法に従って、自由意思による、情報に基づく事前の同意を得た場合にのみ利用できるようにする。 | 該当なし | ターゲットはないが、利用可能な生物多様性データにアクセスできるようにすることのコミットメント。 |\n| 22 女性及び女児、こども及び若者、並びに障害者と同様に、先住民及び地域社会の文化並びに土地、領域、資源及び伝統的知識に対する権利を尊重した上で先住民及び地域社会による、生物多様性に関連する意思決定への完全で、衡平で、包摂的で、効果的かつジェンダーに対応した代表性及び参画、並びに司法及び生物関連情報へのアクセスを確保するとともに、環境人権擁護者の十分な保護を確保する。 | 該当なし | 2030年までに、エンゲージメント活動に参加したステークホルダーの100%が、各プロジェクトの終了時又は締め切り時に、そのプロセスが公正に実施されたと感じると回答する。 |\n| 23 女性及び女児の土地及び自然資源に対する平等な権利及びアクセスと、あらゆるレベルでの生物多様性に関連する行動、参画、政策及び意思決定における女性及び女児による完全で、衡平で、有意義で、十分な情報提供の下での参画とリーダーシップを認めること等を通じて、すべての女性及び女児が条約の3つの目的に貢献するための平等な機会と能力をもてるようなジェンダーに対応したアプローチを通じてこの枠組の実施におけるジェンダー平等を確保する。 | 該当なし | ターゲットはないが、より広範な戦略の実施における男女平等へのコミットメント。 |"
+    },
+    {
+      "page": 264,
+      "type": "h1",
+      "en": "Annex 6: Abbreviations",
+      "ja": "別紙6：略語"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "AR3T – SBTN’s action framework for the mitigation hierarchy (Avoid, Reduce, Regenerate, Restore and Transform)",
+      "ja": "AR3T － ミティゲーションヒエラルキーに関するSBTNのアクションフレームワーク（Avoid回避、Reduce軽減、Regenerate再生、Restore復元、Transform変革）"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "AZE – Alliance for Zero Extinction. AZE sites are those Key Biodiversity Areas that are in most urgent need of conservation to prevent imminent global extinction.",
+      "ja": "AZE － 絶滅ゼロ同盟。AZEサイトとは、差し迫った地球規模の絶滅を防ぐために最も緊急に保護が必要な重要な生物多様性地域を指す。"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "BAU – Business As Usual",
+      "ja": "BAU － 現状維持"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "BBOP – Business and Biodiversity Offsets Programme",
+      "ja": "BBOP － ビジネスと生物多様性オフセットプログラム"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "BCBS – Basil Convention on Banking Supervision",
+      "ja": "BCBS － バーゼル銀行監督委員会"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "BII – Biodiversity Intactness Index",
+      "ja": "BII － 生物多様性保全指数"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "CBD – UN Convention on Biological Diversity",
+      "ja": "CBD － 国連生物多様性条約"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "CDP – Carbon Disclosure Project",
+      "ja": "CDP － カーボンディスクロージャープロジェクト"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "CDSB – Climate Disclosure Standards Board",
+      "ja": "CDSB － 気候情報開示基準委員会"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "CITES – Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+      "ja": "CITES － 絶滅のおそれのある野生動植物の種の国際取引に関する条約"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "COSO – Committee of Sponsoring Organizations of the Treadway Commission",
+      "ja": "COSO － トレッドウェイ委員会支援組織委員会"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "EBSAs – Ecologically or Biologically Significant Marine Areas",
+      "ja": "EBSAs － 生態学的、生物学的に重要な海域"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "EAI – Ecosystem Area Index",
+      "ja": "EAI － 生態系地域インデックス"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "ECB – European Central Bank",
+      "ja": "ECB － 欧州中央銀行"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "EHI – Ecosystem Health Index",
+      "ja": "EHI － 生態系健全性指数"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "EII – Ecosystem Integrity Index",
+      "ja": "EII － 生態系保全指数"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "ENCORE – Exploring Natural Capital Opportunities, Risks, and Exposure",
+      "ja": "ENCORE － 自然資本の機会、リスク、露出の探究"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "ErII – Ecoregion Intactness Index",
+      "ja": "ErII － 生態地域保全指数"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "ESRS – European Sustainability Reporting Standards",
+      "ja": "ESRS － 欧州サステナビリティ報告基準"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "EU B@B – European Union Biodiversity & Business Platform",
+      "ja": "EU B@B － 欧州連合生物多様性とビジネスプラットフォーム"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "F4B – Finance for Biodiversity Initiative",
+      "ja": "F4B － 生物多様性のためのファイナンスイニシアティブ"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "FSB – Financial Stability Board",
+      "ja": "FSB － 金融安定理事会"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GBF – Kunming-Montreal Global Biodiversity Framework",
+      "ja": "GBF － 昆明モントリオール生物多様性枠組"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GBIF – Global Biodiversity Information Facility",
+      "ja": "GBIF － 地球規模生物多様性情報機構"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GET – Global Ecosystem Typology",
+      "ja": "GET － 世界生態系分類"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GHG – Greenhouse gas",
+      "ja": "GHG － 温室効果ガス"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GICS – Global Industry Classification Standard",
+      "ja": "GICS － 世界産業分類基準"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GIUM – Global Initiative on Ungulate Migrations",
+      "ja": "GIUM － 有蹄類の移動に関する世界的イニシアティブ"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "GMAP – Global Map of Environmental and Social Risks in Agro-Commodity Production",
+      "ja": "GMAP － 農産物生産における環境社会リスクの世界地図"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "HICL – High Impact Commodity List",
+      "ja": "HICL － 高インパクト一次産品リスト"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IAIS – International Association of Insurance Supervisors",
+      "ja": "IAIS － 保険監督者国際機構"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IBA – Important Bird and Biodiversity Area",
+      "ja": "IBA － 重要野鳥及び生物多様性生息地"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IBAT – Integrated Biodiversity Assessment Tool",
+      "ja": "IBAT － 統合生物多様性評価ツール"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "ICCA – Indigenous Peoples’ and Local Community Conserved Areas and Territories",
+      "ja": "ICCA － 先住民族や地域社会が管理する保全地域"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IFC – International Finance Corporation",
+      "ja": "IFC － 国際金融公社"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IFRS – International Financial Reporting Standards",
+      "ja": "IFRS － 国際財務報告基準財団"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "INVEST – Integrated Valuation of Ecosystem Services and Tradeoffs",
+      "ja": "INVEST － 生態系サービスとトレードオフの統合評価"
+    },
+    {
+      "page": 264,
+      "type": "li",
+      "en": "IPA – Indigenous Protected Area",
+      "ja": "IPA － 先住民族保護地域"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "IPBES – Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+      "ja": "IPBES － 生物多様性及び生態系サービスに関する政府間科学政策プラットフォーム"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "IRGC – International Risk Governance Council",
+      "ja": "IRGC － 国際リスクガバナンス協議会"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "ISIC – International Standard Industrial Classification of All Economic Activities",
+      "ja": "ISIC － 国際標準産業分類"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "ISO – International Organization for Standardization",
+      "ja": "ISO － 国際標準化機構"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "ISSB – International Sustainability Standards Board",
+      "ja": "ISSB － 国際サステナビリティ基準審議会"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "IUCN – International Union for Conservation of Nature",
+      "ja": "IUCN － 国際自然保護連合"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "KBA – Key Biodiversity Area",
+      "ja": "KBA － 生物多様性重要地域"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "KYC – Know Your Customer",
+      "ja": "KYC － 顧客確認"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "LCA – Life Cycle Analysis",
+      "ja": "LCA － ライフサイクル分析"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "LEAP – Locate, Evaluate, Assess, Prepare",
+      "ja": "LEAP － 発見、診断、評価、準備"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "MSA – Mean Species Abundance",
+      "ja": "MSA － 平均生物種豊富度"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "NCFA – Natural Capital Finance Alliance",
+      "ja": "NCFA － 自然資本金融同盟"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "NGFS – Network for Greening the Financial System",
+      "ja": "NGFS － 気候変動リスク等に係る金融当局ネットワーク"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "NPL – Non-Performing Loan",
+      "ja": "NPL － 不良債権"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "OECD – Organisation for Economic Co-operation and Development",
+      "ja": "OECD － 経済協力開発機構"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "OECMs – Other effective area-based conservation measures",
+      "ja": "OECMs － 保護地域以外で生物多様性保全に資する地域"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "PA – Protected Area",
+      "ja": "PA － 保護地域"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "PESTLE – Political, Economic, Social, Technological, Legal and Environmental",
+      "ja": "PESTLE － 政治、経済、社会、技術、法律、環境"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "SASB – Sustainability Accounting Standards Board",
+      "ja": "SASB － サステナビリティ会計基準審議会"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "SBTi – Science Based Targets initiative",
+      "ja": "SBTi － 科学に基づく目標イニシアティブ"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "SBTN – Science Based Targets Network",
+      "ja": "SBTN － 科学に基づく目標ネットワーク"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "SDG – Sustainable Development Goal",
+      "ja": "SDG － 持続可能な開発目標"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "STAR – Species Threat Abatement and Restoration metric",
+      "ja": "STAR － 種の脅威の軽減と回復の指標"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "STEEP – Social, Technological, Economical, Environmental and Political",
+      "ja": "STEEP － 社会的、技術的、経済的、環境的、政治的"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "TCFD – Task Force on Climate-related Financial Disclosures",
+      "ja": "TCFD － 気候関連財務情報開示タスクフォース"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "TEEB – The Economics of Ecosystems and Biodiversity",
+      "ja": "TEEB － 生態系と生物多様性の経済学"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "UN – United Nations",
+      "ja": "UN － 国際連合"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "UNEP – United Nations Environment Programme",
+      "ja": "UNEP － 国連環境計画"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "UNEP WCMC – United Nations Environment Programme World Conservation Monitoring Centre",
+      "ja": "UNEP WCMC － 国連環境計画世界自然保全モニタリングセンター"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "UN SEEA EA – United Nations System of Environmental-Economic Accounting Ecosystem Accounting",
+      "ja": "UN SEEA EA － 国連環境経済統合勘定－生態系勘定"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "WBCSD – World Business Council for Sustainable Development",
+      "ja": "WBCSD － 持続可能な開発のための世界経済人会議"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "WDPA – World Database on Protected Areas",
+      "ja": "WDPA － 世界保護地域データベース"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "WEF – World Economic Forum",
+      "ja": "WEF － 世界経済フォーラム"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "WISE – Water Information for Europe",
+      "ja": "WISE － ヨーロッパ水情報システム"
+    },
+    {
+      "page": 265,
+      "type": "li",
+      "en": "WRI – World Resource Institute",
+      "ja": "WRI － 世界資源研究所"
+    },
+    {
+      "page": 266,
+      "type": "h1",
+      "en": "Annex 7: References",
+      "ja": "別紙7：参考文献"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Accounting for Nature (2022) Accounting for Nature Certification Standard Version 3.1.",
+      "ja": "Accounting for Nature（2022）『Accounting for Nature Certification Standard Version 3.1』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Accounting for Nature. Method catalogue.",
+      "ja": "Accounting for Nature. Method catalogue."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Accounting for Sustainability (2015) Natural and social capital accounting: An introduction for finance teams.",
+      "ja": "Accounting for Sustainability（2015）『Natural and social capital accounting: An introduction for finance teams』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Alcocer, I. et al. (2022) Acoustic indices as proxies for biodiversity: a meta-analysis. Biological Reviews 97, 2209–2236.",
+      "ja": "Alcocer, I. et al.（2022）「Acoustic indices as proxies for biodiversity: a meta-analysis」『Biological Reviews』97, 2209–2236."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Align Project (2023) Measuring ecosystem condition – a primer for business.",
+      "ja": "Alignプロジェクト（2023）『生態系状況計測－ビジネス向け入門書』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Allianz Global Corporate and Specialty (2018) Measuring and managing environmental exposure: A business sector analysis of natural capital risk.",
+      "ja": "Allianz Global Corporate and Specialty（2018）『Measuring and managing environmental exposure: A business sector analysis of natural capital risk』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Andersen et al. (2020) Defining ‘science-based targets’. National Science Review 8(7), nwaa186.",
+      "ja": "Andersen et al.（2020）「Defining ‘science-based targets’」『National Science Review』8(7), nwaa186."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Bachman, S. P. et al. (2019) Progress, challenges and opportunities for Red Listing. Biological Conservation 234, 45–55.",
+      "ja": "Bachman, S.P. et al.（2019）「Progress, challenges and opportunities for Red Listing」『Biological Conservation』234, 45–55."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Banque de France (2021) A “Silent Spring” for the financial system? Exploring biodiversity-related financial risks in France.",
+      "ja": "フランス中央銀行（2021）『A “Silent Spring” for the financial system? Exploring biodiversity-related financial risks in France』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Barnosky, A. D. et al. (2011) Has the Earth’s sixth mass extinction already arrived? Nature 471, 7336.",
+      "ja": "Barnosky, A.D. et al.（2011）「Has the Earth’s sixth mass extinction already arrived?」『Nature』471, 7336."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Basel Committee on Banking Supervision (2022) Principles for the effective management and supervision of climate-related financial risks.",
+      "ja": "バーゼル銀行監督委員会（2022）『気候関連金融リスクの実効的な管理と監督のための諸原則』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "BBOP (2012) Standard on Biodiversity Offsets. Washington, D.C. Business and Biodiversity Offsets Programme.",
+      "ja": "BBOP（2012）Standard on Biodiversity Offsets. Washington, D.C. ビジネスと生物多様性オフセットプログラム．"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Beng, K. C. and Corlett, R. T. (2020) Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects. Biodiversity and Conservation 29, 2089–2121.",
+      "ja": "Beng, K.C. and Corlett, R.T（. 2020）「Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects」『Biodiversity and Conservation』29, 2089–2121."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Berger-Tal, O. and Lahoz-Monfort, J. J. (2018) Conservation technology: the next generation. Conservation Letters 11, e12458.",
+      "ja": "Berger-Tal, O. and Lahoz-Monfort, J.J.（2018）「Conservation technology: the next generation」『Conservation Letters』11, e12458."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Beyer, H. et al. (2019) Substantial losses in ecoregion intactness highlight urgency of globally coordinated action. Conservation Letters 13(2).",
+      "ja": "Beyer, H. et al.（2019）「Substantial losses in ecoregion intactness highlight urgency of globally coordinated action」『Conservation Letters』13(2)."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "BirdLife International (2023) The World Database of Key Biodiversity Areas. Developed by the KBA Partnership: BirdLife International, International Union for the Conservation of Nature, Amphibian Survival Alliance, Conservation International, Critical Ecosystem Partnership Fund, Global Environment Facility, Re:wild, NatureServe, Rainforest Trust, Royal Society for the Protection of Birds, Wildlife Conservation Society and World Wildlife Fund.",
+      "ja": "バードライフ・インターナショナル（2023）The World Database of Key Biodiversity Areas. 以下のKBAパートナーシップにより開発：バードライフ・インターナショナル、国際自然保護連合、両生類生存同盟、コンサベーション・インターナショナル、重要生態系パートナーシップ基金、地球環境ファシリティ、Re:wild、NatureServe、レインフォレスト・トラスト、英国王立鳥類保護協会、野生生物保護協会、世界自然保護基金．"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "BMO Global Asset Management (2021) Responsible Global Equity Strategy ESG Profile and Impact Report 2021.",
+      "ja": "BMOグローバルアセットマネジメント（2021）『Responsible Global Equity Strategy ESG Profile and Impact Report 2021』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Bracy Knight, K. et al. (2020) A framework for evaluating biodiversity mitigation metrics. Ambio 49, 1232–1240.",
+      "ja": "Bracy Knight, K. et al.（2020）「A framework for evaluating biodiversity mitigation metrics」『Ambio』49, 1232–1240."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "British Standards Institution (2021) Natural Capital Accounting for Organizations.",
+      "ja": "英国規格協会（2021）『Natural Capital Accounting for Organizations』"
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Burivalova, Z. et al. (2022) Loss of temporal structure of tropical soundscapes with intensifying land use in Borneo. Science of The Total Environment 852, 158268.",
+      "ja": "Burivalova, Z. et al.（2022）「Loss of temporal structure of tropical soundscapes with intensifying land use in Borneo」『Science of The Total Environment』852, 158268."
+    },
+    {
+      "page": 266,
+      "type": "li",
+      "en": "Butchart, S. H. M. et al. (2005) Using Red List Indices to measure progress towards the 2010 target and beyond. Philosophical Transactions of the Royal Society B 360(1454), 255–268.",
+      "ja": "Butchart, S.H.M. et al.（2005）「Using Red List Indices to measure progress towards the 2010 target and beyond」『Philosophical Transactions of the Royal Society』B 360(1454), 255–268."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Butchart, S. H. M. et al. (2007) Improvements to the Red List Index. PLoS ONE 2(1).",
+      "ja": "Butchart, S.H.M. et al.（2007）「Improvements to the Red List Index」『PLoS ONE』2(1)."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Capitals Coalition (2022) Aligning Accounting Approached for Nature: Recommendations for a standard on corporate biodiversity measurement and valuation.",
+      "ja": "キャピタルコアリション（2022）『Aligning Accounting Approached for Nature: Recommendations for a standard on corporate biodiversity measurement and valuation』"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Capitals Coalition (2023) Case Studies database.",
+      "ja": "キャピタルコアリション（2023）事例データベース．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Capitals Coalition and Cambridge Conservation Initiative (2020) Integrating biodiversity into natural capital assessments.",
+      "ja": "キャピタルコアリション及びケンブリッジコンサベーションイニシアティブ（2020）『Integrating biodiversity into natural capital assessments』"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Capitals Coalition. Guides and supplements.",
+      "ja": "キャピタルコアリション．Guides and supplements."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Carter, S. K. et al. (2019) Quantifying ecological integrity of terrestrial systems to inform management of multiple-use public lands in the United States. Environmental Management 64, 1–19.",
+      "ja": "Carter, S.K. et al.（2019）「Quantifying ecological integrity of terrestrial systems to inform management of multiple-use public lands in the United States」『Environmental Management』64, 1–19."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CBD (1992) Convention on Biological Diversity, Article 2. Use of Terms. Convention on Biological Diversity.",
+      "ja": "CBD（1992）生物多様性条約第2条用語．生物多様性条約．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CBD (1992) Convention on Biological Diversity. Convention on Biological Diversity.",
+      "ja": "CBD（1992）生物多様性条約．生物多様性条約．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CBD (2022) Kunming-Montreal Global Biodiversity Framework. Convention on Biological Diversity.",
+      "ja": "CBD（2022）昆明モントリオール生物多様性枠組．生物多様性条約．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CBD (2022) Monitoring framework for the Kunming–Montreal Global Biodiversity Framework. Convention on Biological Diversity.",
+      "ja": "CBD（2022）昆明モントリオール生物多様性枠組モニタリングフレームワーク．生物多様性条約．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CBD (2023) Ecologically or Biologically Significant Marine Areas (EBSAs). Convention on Biological Diversity.",
+      "ja": "CBD（2023）生態学的又は生物学的に重要な海域（EBSAs）．生物多様性条約．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CDP (2023) The CDP Water Impact Index. Carbon Disclosure Project.",
+      "ja": "CDP（2023）CDPウォーターインパクト指標．カーボンディスクロージャープロジェクト．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CDP and Planet Tracker (2022) High and dry: How water issues are stranding assets. Carbon Disclosure Project and Planet Tracker.",
+      "ja": "CDP及びプラネットトラッカー（2022）『High and dry: How water issues are stranding assets』カーボンディスクロージャープロジェクトおよびプラネットトラッカー．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CDSB (2021) Application guidance for biodiversity-related disclosures. Climate Disclosure Standards Board.",
+      "ja": "気候情報開示基準委員会（2021）『Application guidance for biodiversity-related disclosures』気候情報開示基準委員会．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Chaplin-Kramer, R. et al. (2023) Mapping the planet’s critical natural assets. Nature Ecology and Evolution 7, 51–61.",
+      "ja": "Chaplin-Kramer, R. et al.（2023）「Mapping the planet’s critical natural assets」『Nature Ecology and Evolution』7, 51–61."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CISL (2022) Integrating Nature: The case for action on nature-related financial risks. Cambridge, UK. University of Cambridge Institute for Sustainability Leadership.",
+      "ja": "CISL（2022）「Integrating Nature: The case for action on nature-related financial risks」英国ケンブリッジ．ケンブリッジ大学サステナビリティリーダーシップ研究所．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "CMS (2020) The Global Initiative on Ungulate Migration. Convention on the Conservation of Migratory Species of Wild Animals.",
+      "ja": "CMS（2020）「The Global Initiative on Ungulate Migration」ケンブリッジ大学サステナビリティ・リーダーシップ研究所．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Conservation International (2022) Trends.Earth.",
+      "ja": "コンサベーション・インターナショナル（2022）Trends.Earth."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "COP14 to the Ramsar Convention on Wetlands (2022) Resolution XIV.13: The Status of Sites in the List of Wetlands of International Importance. 14th Meeting of the Conference of the Contracting Parties (COP14) to the Ramsar Convention on Wetlands.",
+      "ja": "ラムサール条約COP14（2022）決議XIV.13：The Status of Sites in the List of Wetlands of International Importance. ラムサール条約第14回締約国会議（COP14）．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "COSO (2020) Creating and protecting value: Understanding and implementing Enterprise Risk Management. Committee of Sponsoring Organizations.",
+      "ja": "COSO（2020）『Creating and protecting value: Understanding and implementing Enterprise Risk Management』支援組織委員会．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "COSO and WBCSD (2018) Enterprise risk management – Applying Enterprise Risk Management to Environmental, Social and Governance-Related Risks. Committee of Sponsoring Organizations and World Business Council for Sustainable Development.",
+      "ja": "COSO及びWBCSD（2018）『全社的リスクマネジメントー全社的リスクマネジメントの環境・社会・ガバナス関連リスクへの適用』支援組織委員会および持続可能な開発のための世界経済人会議．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Curnick, D. J. et al. (2022) SmallSats: a new technological frontier in ecology and conservation? Remote Sensing in Ecology and Conservation 8, 139–150.",
+      "ja": "Curnick, D.J. et al.（2022）「SmallSats: a new technological frontier in ecology and conservation?」『Remote Sensing in Ecology and Conservation』8, 139–150."
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "Dasgupta, P. (2021) The economics of biodiversity: The Dasgupta Review. London: HM Treasury.",
+      "ja": "Dasgupta, P.（2021）『生物多様性の経済学：ダスグプタ・レビュー』ロンドン．英国財務省．"
+    },
+    {
+      "page": 267,
+      "type": "li",
+      "en": "De Lauriere, C. F. et al. (2023) Assessing the multidimensional complexity of biodiversity using a globally standardized approach. EcoEvoRxiv. Preprint.",
+      "ja": "De Lauriere, C.F. et al.（2023）「Assessing the multidimensional complexity of biodiversity using a globally standardized approach」『EcoEvoRxiv』Preprint."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "De Palma, A. et al. (2021) Annual changes in the Biodiversity Intactness Index in tropical and subtropical forest biomes, 2001–2012. Scientific Reports 11, 20249.",
+      "ja": "De Palma, A. et al.（2021）「Annual changes in the Biodiversity Intactness Index in tropical and subtropical forest biomes, 2001–2012」『Scientific Reports』11, 20249."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "DEFRA (2022) UK Pollutant Release and Transfer Register. Threshold List. Department of Environment Food and Rural Affairs.",
+      "ja": "DEFRA（2022）『英国汚染物質排出移動登録　閾値一覧』英国環境食料農村地域省．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Díaz, S. and Malhi, Y. (2022) Biodiversity: Concepts, Patterns, Trends and Perspectives. Annual Review of Environment and Resources 47(1), 31–63.",
+      "ja": "Díaz, S. and Malhi, Y.（2022）「Biodiversity: Concepts, Patterns, Trends and Perspectives」『Annual Review of Environment and Resources』47(1), 31–63."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Díaz, S. et al. (2015) The IPBES conceptual framework – Connecting nature and people. Current Opinion in Environment and Sustainability 14, 1–16.",
+      "ja": "Díaz, S. et al.（2015）「The IPBES conceptual framework – Connecting nature and people」『Current Opinion in Environment and Sustainability』14, 1–16."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Díaz, S. et al. (2019) Pervasive human-driven decline of life on Earth points to the need for transformative change. Science 366(6471).",
+      "ja": "Díaz, S. et al.（2019）「Pervasive human-driven decline of life on Earth points to the need for transformative change」『Science』366(6471)"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "DNB (2020) Indebted to nature – Exploring biodiversity risks for the Dutch financial sector. De Nederlandsche Bank.",
+      "ja": "オランダ銀行（2020）『Indebted to nature – Exploring biodiversity risks for the Dutch financial sector』オランダ銀行．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "DNB. Biodiversity Working Group. De Nederlandsche Bank.",
+      "ja": "DNB. 生物多様性作業部会．オランダ銀行．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Drakopulos, L. et al. (2023) Making global oceans governance in/visible with Smart Earth: The case of Global Fishing Watch. Environment and Planning E: Nature and Space 6(2), 1098–1113.",
+      "ja": "Drakopulos, L. et al.（2023）「Making global oceans governance in/visible with Smart Earth: The case of Global Fishing Watch」『Environment and Planning E: Nature and Space』6(2), 1098–1113."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Dudgeon, D. (2019) Multiple threats imperil freshwater biodiversity in the Anthropocene. Current Biology 29(19), R960–R967.",
+      "ja": "Dudgeon, D.（2019）「Multiple threats imperil freshwater biodiversity in the Anthropocene」『Current Biology』29(19), R960–R967."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Durán, A. P. et al. (2020) A practical approach to measuring the biodiversity impacts of land conversion. Methods in Ecology and Evolution 11(8), 910–921.",
+      "ja": "Durán, A.P. et al.（2020）「A practical approach to measuring the biodiversity impacts of land conversion」『Methods in Ecology and Evolution』11(8), 910–921."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "ECB (2007) Model risk: An overview of the issues. European Central Bank.",
+      "ja": "ECB（2007）『Model risk: An Overview of the Issues』欧州中央銀行．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Ecoregions (2017) Global map of ecoregions.",
+      "ja": "エコリージョンズ（2017）エコリージョン世界地図．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "EEA (2021) Natura 2000 viewer. European Environment Agency.",
+      "ja": "EEA（2021）Natura 2000 viewer. 欧州環境庁．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "EFRAG PTF-ESRS (2023) Draft European Sustainability Reporting Standards. European Financial Reporting Advisory Group Project Task Force on European Sustainability Reporting Standards.",
+      "ja": "EFRAG PTF-ESRS（2023）『欧州サステナビリティ報告基準草案』欧州財務報告諮問グループ欧州サステナビリティ報告基準プロジェクト・タスクフォース．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Eftec (2010) Valuing environmental impacts: Practical guidelines for the use of value transfer in policy and project appraisal.",
+      "ja": "eftec（2010）『Valuing environmental impacts: Practical guidelines for the use of value transfer in policy and project appraisal』"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "ENCORE Partners (2023) ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK: the ENCORE Partners (Global Canopy, UNEP FI, and UNEP-WCMC).",
+      "ja": "ENCOREパートナーズ（2023）『ENCORE: 自然資本の機会、リスク、露出の探究』英国ケンブリッジ．ENCOREパートナーズ（グローバルキャノピー、UNEP FI、UNEP-WCMC）．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Endangered Wildlife Trust (2020) The Biological Diversity Protocol. Biodiversity Disclosure Project, Endangered Wildlife Trust.",
+      "ja": "絶滅危惧野生生物トラスト（2020）生物多様性プロトコル．生物多様性開示プロジェクト、絶滅危惧野生生物トラスト．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "EU Business and Biodiversity Platform (2022) Biodiversity measurement approaches for businesses and financial institutions. Thematic report: biodiversity data.",
+      "ja": "欧州ビジネス生物多様性プラットフォーム（2022）「Biodiversity measurement approaches for businesses and financial institutions. Thematic report: Biodiversity data」"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "Euring (2022) Eurasian African Bird Migration Atlas project.",
+      "ja": "Euring（2022）Eurasian African Bird Migration Atlas project."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "European Commission (2021) Environmental footprint methods.",
+      "ja": "欧州委員会（2021）環境フットプリント手法．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "European Commission (2023) Delegated Regulation supplementing Directive 2013/34/EU of the European Parliament and of the Council as regards sustainability reporting standards (2023).",
+      "ja": "欧州委員会（2023）サステナビリティ報告基準に関する欧州議会および理事会の指令2013/34/EU補完委任規則．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "European Commission (2023) Draft delegated regulation - Ares(2023)4009405.",
+      "ja": "欧州委員会（2023）Draft delegated regulation Ares(2023)4009405."
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "European Commission (2023) European Platform on Life Cycle Assessment (EPLCA).",
+      "ja": "欧州委員会（2023）ライフサイクルアセスメントに関する欧州プラットフォーム（EPLCA）．"
+    },
+    {
+      "page": 268,
+      "type": "li",
+      "en": "European Parliament and Council of the European Union (2000) Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy.",
+      "ja": "欧州議会および欧州連合理事会（2000）2000年10月23日の欧州議会および理事会の指令2000/60/ECは、水政策の分野における共同体の行動の枠組みを確立。"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "European Parliament and Council of the European Union (2023) Regulation (EU) 2023/1115 of the European Parliament and of the Council of 31 May 2023 on the making available on the Union market and the export from the Union of certain commodities and products associated with deforestation and forest degradation and repealing Regulation (EU) No 995/2010.",
+      "ja": "欧州議会および欧州連合理事会（2023）森林破壊および森林劣化に関連する特定の商品および製品のEU市場への提供およびEUからの輸出に関する2023年5月31日の欧州議会および理事会の規則 (EU) 2023/1115、ならびに規則 (EU) No 995/2010の廃止。"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Exiobase Consortium (2015) EXIOBASE3 dataset.",
+      "ja": "Exiobaseコンソーシアム（2015）EXIOBASE3 dataset."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Folke, C. et al. (2016) Social-ecological resilience and biosphere-based sustainability science. Ecology and Society 21(3), 41.",
+      "ja": "Folke, C. et al.（2016）「Social-ecological resilience and biosphere-based sustainability science」『Ecology and Society』21(3), 41."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "FSB (2020) The implications of climate change for financial stability. Financial Stability Board.",
+      "ja": "金融安定理事会（2020）「気候変動の金融安定に対するインプリケーション」金融安定理事会．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "FSB (2022) FSB Supervisory and regulatory approaches to climate-related risks. Final report. Financial Stability Board.",
+      "ja": "FSB（2022）『FSB Supervisory and regulatory approaches to climate-related risks. Final report』金融安定理事会．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Garnett, S. T. et al. (2018) A spatial overview of the global importance of Indigenous lands for conservation. Nature Sustainability 1(7), 369–374.",
+      "ja": "Garnett, S.T. et al.（2018）「A spatial overview of the global importance of Indigenous lands for conservation」『Nature Sustainability』1(7), 369–374."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Global Canopy (2023) Forest 500 – 2023: A watershed year for action on deforestation. Annual Report 2023.",
+      "ja": "グローバルキャノピー（2023）『Forest 500 – 2023: A watershed year for action on deforestation. Annual Report 2023』"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Global Fishing Watch (n.d.) Global Fishing Watch Interactive Map.",
+      "ja": "グローバルフィッシングウォッチ（n.d.）Global Fishing Watch Interactive Map."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Global Forest Watch (2014) Global forest monitoring dashboard.",
+      "ja": "グローバルフォレストウォッチ（2014）Global forest monitoring dashboard."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Goldin, I. and Mariathasan, M. (2014) The Butterfly Defect: How globalisation creates systemic risks and what to do about it.",
+      "ja": "Goldin, I. and Mariathasan, M.（2014）『The Butterfly Defect: How globalization creates systemic risks, and what to do about it』"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Grantham, H. S. et al. (2020) Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity. Nature Communications 11, 5978.",
+      "ja": "Grantham, H.S. et al.（2020）「Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity」『Nature Communications』11, 5978."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "GreenDelta (2005) Open Source Life Cycle Assessment software (openLCA).",
+      "ja": "グリーンデルタ（2005）Open Source Life Cycle Assessment software (openLCA)."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "GRI (2021) Material Topics 2021.",
+      "ja": "GRI（2021）「GRI 3：マテリアルな項目2021」"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "GRI (2022) GRI Standards and Glossary.",
+      "ja": "GRI（2022）「GRIスタンダード用語集」"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "GRI (2022) Sector Program.",
+      "ja": "GRI（2022）セクタープログラム．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Guerrero-Pineda, C. et al (2022) An investment strategy to address biodiversity loss from agricultural expansion. Nature Sustainability 5(7), 610–618.",
+      "ja": "Guerrero-Pineda, C. et al.（2022）「An investment strategy to address biodiversity loss from agricultural expansion」『Nature Sustainability』5(7), 610–618."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Gullison, R. E. et al. (2015) Good practices for the collection of biodiversity baseline data.",
+      "ja": "Gullison, T. et al.（2015）『Good practices for the collection of biodiversity baseline data』"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Halpern, B. S. et al. (2019) Recent pace of change in human impact on the world’s ocean. Scientific Reports 9, 11609.",
+      "ja": "Halpern, B.S. et al.（2019）「Recent pace of change in human impact on the world’s ocean」『Scientific Reports』9, 11609."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Harris, N. L. et al. (2021) Global maps of twenty-first century forest carbon fluxes. Nature Climate Change 11, 234–240.",
+      "ja": "Harris, N.L. et al.（2021）「Global maps of twenty-first century forest carbon fluxes」『Nature Climate Change』11, 234–240."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Henriques, S. et al. (2020) Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices. Conservation Letters, 13(3).",
+      "ja": "Henriques, S. et al.（2020）「Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices」『Conservation Letters』13(3)."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "Hill, S. L. L. et al. (2022) The Ecosystem Integrity Index: A novel measure of terrestrial ecosystem integrity with global coverage. bioRxiv 2022.08.21.504707.",
+      "ja": "Hill, S.L.L. et al.（2022）「The Ecosystem Integrity Index: A novel measure of terrestrial ecosystem integrity with global coverage」『bioRxiv』2022.08.21.504707."
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "IAIS (2021) Application paper on the supervision of climate-related risks in the insurance sector. International Association of Insurance Supervisors.",
+      "ja": "IAIS（2021）「Application paper on the supervision of climate-related risks in the insurance sector」保険監督者国際機構．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "IBAT alliance (2021) Species Threat Abatement and Restoration (STAR) data layer. Business User Guidance. Integrated Biodiversity Assessment Tool alliance",
+      "ja": "IBATアライアンス（2021）Species Threat Abatement and Restoration (STAR) data layer. Business User Guidance. 統合生物多様性評価ツールアライアンス．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "IBAT alliance (2023) Integrated Biodiversity Assessment Tool. BirdLife International, Conservation International, IUCN and UNEP-WCMC.",
+      "ja": "IBATアライアンス（2023）統合生物多様性評価ツール．バードライフインターナショナル、コンサベーションインターナショナル、IUCN、UNEP-WCMC．"
+    },
+    {
+      "page": 269,
+      "type": "li",
+      "en": "ICCA Consortium (2023) Indigenous Peoples’ and community-conserved territories and areas. Indigenous Peoples’ and Community Conserved Territories and Areas Consortium.",
+      "ja": "ICCAコンソーシアム（2023）Indigenous Peoples’ and community-conserved territories and areas. 先住民族およびコミュニティが保護する領土および地域コンソーシアム．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IFC (2012) Performance Standard 6 Biodiversity Conservation and Sustainable Management of Living Natural Resources. International Finance Corporation.",
+      "ja": "IFC（2012）パフォーマンススタンダード6：Biodiversity Conservation and Sustainable Management of Living Natural Resources. 国際金融公社．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IFC (2023) Biodiversity Finance Reference Guide. International Finance Corporation.",
+      "ja": "IFC（2023）Biodiversity Finance Reference Guide. 国際金融公社．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Indigenous Navigator (2023) Indigenous data.",
+      "ja": "Indigenous Navigator（2023）Indigenous data."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IPBES (2019a) Summary for policymakers of the global assessment report on biodiversity and ecosystem services. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.",
+      "ja": "IPBES（2019a）『生物多様性と生態系サービスに関する地球規模評価報告書　政策決定者向け要約』生物多様性と生態系サービスに関する政府間科学政策プラットフォーム．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IPBES (2019b) Global assessment report on biodiversity and ecosystem services. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.",
+      "ja": "IPBES（2019b）『生物多様性と生態系サービスに関する地球規模評価報告書』生物多様性と生態系サービスに関する政府間科学政策プラットフォーム．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IPBES (2020) IPBES workshop on biodiversity and pandemics: Workshop report. Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services.",
+      "ja": "IPBES（2020）「IPBES workshop on biodiversity and pandemics: Workshop report」生物多様性と生態系サービスに関する政府間科学政策プラットフォーム．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IRGC (2018) IRGC Guidelines for the Governance of Systemic Risks. International Risk Governance Council.",
+      "ja": "IRGC（2018）IRGC Guidelines for the Governance of Systemic Risks. 国際リスクガバナンス協議会．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Irwin, A. et al. (2022) Quantifying and categorising national extinction-risk footprints. Scientific Reports 12(1), 5861.",
+      "ja": "Irwin, A. et al.（2022）「Quantifying and categorising national extinction-risk footprints」『Scientific Reports』12(1), 5861."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "ISO (2018) ISO 31000, Risk Management – Guidelines. International Organization for Standardization.",
+      "ja": "ISO（2018）ISO 31000，リスクマネジメント－指針．国際標準化機構．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "ISSB (2023) IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information. International Sustainability Standards Board.",
+      "ja": "ISSB（2023）IFRS S1サステナビリティ関連財務情報開示に関する全般的要求事項．国際サステナビリティ基準審議会．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "ISSB (2023) IFRS S2 Climate-related Disclosures. International Sustainability Standards Board.",
+      "ja": "ISSB（2023）IFRS S2気候関連開示．国際サステナビリティ基準審議会．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IUCN (2023) IUCN Global Ecosystem Typology. International Union for Conservation of Nature.",
+      "ja": "IUCN（2023）IUCNグローバル生態系タイポロジー．国際自然保護連合．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IUCN (2023) Species Threat Abatement and Restoration (STAR) metric. International Union for Conservation of Nature.",
+      "ja": "IUCN（2023）Species Threat Abatement and Restoration (STAR) metric. 国際自然保護連合．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IUCN (2023) The IUCN Red List of Ecosystems. International Union for Conservation of Nature.",
+      "ja": "IUCN（2023）IUCN生態系レッドリスト．国際自然保護連合．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "IUCN (2023) The IUCN Red List of Threatened Species. International Union for Conservation of Nature.",
+      "ja": "IUCN（2023）IUCN絶滅危惧種レッドリスト．国際自然保護連合．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Jaureguiberry, P. et al. (2022) The direct drivers of recent global anthropogenic biodiversity loss. Science Advances 8(45), eabm9982.",
+      "ja": "Jaureguiberry, P. et al.（2022）「The direct drivers of recent global anthropogenic biodiversity loss」『Science Advances』8(45), eabm9982."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Kaufmann, G. and Scott, K. (2003) What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It? The Independent Review VII(3), 371–391.",
+      "ja": "Kaufmann, G. and Scott, K.（2003）「What Is Systemic Risk, and Do Bank Regulators Retard or Contribute to It?」『The Independent Review』VII(3), 371–391."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Keith, D. A. et al. (2013) Scientific foundations for an IUCN Red List of Ecosystems. PLOS one 8(5), e62111.",
+      "ja": "Keith, D.A. et al.（2013）「Scientific foundations for an IUCN Red List of Ecosystems」『PLOS one』8(5), e62111."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Keith, D. A. et al. (eds.) (2020) IUCN Global Ecosystem Typology 2.0: descriptive profiles for biomes and ecosystem functional groups. International Union for Conservation of Nature.",
+      "ja": "Keith, D.A. et al.（eds.）（2020）『IUCN Global Ecosystem Typology (GET) 2.0: descriptive profiles for biomes and ecosystem functional groups』国際自然保護連合．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Kempel, A. et al. (2020) Nationwide revisitation reveals thousands of local extinctions across the ranges of 713 threatened and rare plant species. Conservation Letters 13(6), e12749.",
+      "ja": "Kempel, A. et al.（2020）「Nationwide revisitation reveals thousands of local extinctions across the ranges of 713 threatened and rare plant species」『Conservation Letters』13(6), e12749."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Kuipers, K. J. J. et al. (2019) Potential Consequences of Regional Species Loss for Global Species Richness: A Quantitative Approach for Estimating Global Extinction Probabilities. Environmental Science & Technology 53(9), 4728–4738.",
+      "ja": "Kuipers, K.J.J. et al.（2019）「Potential Consequences of Regional Species Loss for Global Species Richness: A Quantitative Approach for Estimating Global Extinction Probabilities」『Environmental Science & Technology』53(9), 4728–4738."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Lammerant, J. (2021) Business and Natural Capital Accounting Case Study: Ambuja Cement, India. United Nations Statistics Division, Department of Economic and Social Affairs, New York.",
+      "ja": "Lammerant, J.（2021）「Business and Natural Capital Accounting Case Study: Ambuja Cement, India」国連経済社会局統計部．ニューヨーク．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "Lammerant, J. (2021) Business and Natural Capital Accounting Case Study: Quarry restoration by Holcim, Spain. United Nations Statistics Division, Department of Economic and Social Affairs, New York.",
+      "ja": "Lammerant, J.（2021）「Business and Natural Capital Accounting Case Study: Quarry restoration by Holcim, Spain」国連経済社会局統計部．ニューヨーク．"
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "LANDex (2023) Global land governance index.",
+      "ja": "LANDex（2023）Global land governance index."
+    },
+    {
+      "page": 270,
+      "type": "li",
+      "en": "LandMark (2023) Global Platform of Indigenous and Community Lands database.",
+      "ja": "LandMark（2023）Global Platform of Indigenous and Community Lands database."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "LaRue, M. et al. (2022) High-resolution satellite imagery meets the challenge of monitoring remote marine protected areas in the Antarctic and beyond. Conservation Letters 15, e12884.",
+      "ja": "LaRue, M. et al.（2022）「High-resolution satellite imagery meets the challenge of monitoring remote marine protected areas in the Antarctic and beyond」『Conservation Letters』15: e12884."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Ledger, S. E. H. et al. (2023) Past, present and future of the Living Planet Index. Npj Biodiversity 2(1), 12.",
+      "ja": "Ledger, S.E.H. et al.（2023）「Past, present and future of the Living Planet Index」『Npj Biodiversity』2(1), 12."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Leung, B. et al. (2020) Clustered versus catastrophic global vertebrate declines. Nature 588, 7837.",
+      "ja": "Leung, B. et al.（2020）「Clustered versus catastrophic global vertebrate declines」『Nature』588, 7837."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Liu, S. et al. (2012) Environmental Benefit Transfers of Ecosystem Service Valuation. Ecological Economics of Estuaries and Coasts 12, 55–77.",
+      "ja": "Liu, S. et al.（2012）「Environmental Benefit Transfers of Ecosystem Service Valuation」『Ecological Economics of Estuaries and Coasts』12, 55–77."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Loss, S. R. et al. (2015) Direct Mortality of Birds from Anthropogenic Causes. Annual Review of Ecology, Evolution and Systematics 46(1), 99–120.",
+      "ja": "Loss, S.R. et al.（2015）「Direct Mortality of Birds from Anthropogenic Causes」『Annual Review of Ecology, Evolution and Systematics』46(1), 99–120."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Lumbierres, M. et al. (2022) Area of Habitat maps for the world’s terrestrial birds and mammals. Scientific Data 9, 1.",
+      "ja": "Lumbierres, M. et al.（2022）「Area of Habitat maps for the world’s terrestrial birds and mammals」『Scientific Data』9, 1."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Maes, J. et al. (2016) An indicator framework for assessing ecosystem services in support of the EU Biodiversity Strategy to 2020. Ecosystem Services 17, 14–23.",
+      "ja": "Maes, J. et al.（2016）「An indicator framework for assessing ecosystem services in support of the EU Biodiversity Strategy to 2020」『Ecosystem Services』17, 14–23."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Maes, J. et al. (2023) Accounting for forest condition in Europe based on an international statistical standard. Nature Communications 14, 3723.",
+      "ja": "Maes, J. et al.（2023）「Accounting for forest condition in Europe based on an international statistical standard」『Nature Communications』14, 3723."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Mair, L. et al. (2021) A metric for spatially explicit contributions to science-based species targets. Nature Ecology & Evolution 5, 836–844.",
+      "ja": "Mair, L. et al.（2021）「A metric for spatially explicit contributions to science-based species targets」『Nature Ecology & Evolution』5, 836–844."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Mair, L. et al. (2023) Quantifying and mapping species threat abatement opportunities to support national target setting. Conservation Biology 37(1), e14046.",
+      "ja": "Mair, L. et al.（2023）「Quantifying and mapping species threat abatement opportunities to support national target setting」『Conservation Biology』37(1), e14046."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Marine Mammal Protected Areas Task force (2023) IMMA e-Atlas.",
+      "ja": "海洋哺乳類保護地域タスクフォース（2023）IMMA e-Atlas."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "MAS (2022) Information Papers on Environmental Risk Management. Monetary Authority of Singapore.",
+      "ja": "MAS（2022）「Information Papers on Environmental Risk Management」シンガポール金融管理局．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Mayr, E. (1949) The Species Concept: Semantics Versus Semantics. Evolution 3(4), 371–372.",
+      "ja": "Mayr, E.（1949）「The Species Concept: Semantics Versus Semantics」『Evolution』3(4), 371–372."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Moody’s (2020) Moody’s Investor Service: Heat map: Sectors with $3.4 trillion in debt face heightened environmental credit risk.",
+      "ja": "Moody’s（2020）Moody’s Investor Service: 「Heat map: Sectors with $3.4 trillion in debt face heightened environmental credit risk」"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Natural Capital Project (2023) InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs).",
+      "ja": "ナチュラルキャピタルプロジェクト（2023）InVEST (Integrated Valuation of Ecosystem Services and Tradeoffs)."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Natural England (2023) Biodiversity metric: calculate the biodiversity net gain of a project or development.",
+      "ja": "ナチュラルイングランド（2023）『生物多様性メトリック：プロジェクト又は開発の生物多様性ネットゲイン計算』"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Natural History Museum (2023) The Science of PREDICTS.",
+      "ja": "自然史博物館（2023）The Science of PREDICTS."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Netherlands Enterprise Agency (2021) Biodiversity Footprint Financial Institutions: Exploring Biodiversity Assessment.",
+      "ja": "オランダ企業庁（2021）Biodiversity Footprint Financial Institutions: Exploring Biodiversity Assessment."
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "NGFS (2019) A call for action: Climate change as a source of financial risk. Network for Greening the Financial System.",
+      "ja": "NGFS（2019）『A call for action: Climate change as a source of financial risk』気候変動リスク等に係る金融当局ネットワーク．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "NGFS (2020) NGFS Climate Scenarios for central banks and supervisors. Network for Greening the Financial System.",
+      "ja": "NGFS（2020）「中央銀行および監督当局向けNGFS気候シナリオ」気候変動リスク等に係る金融当局ネットワーク．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "NGFS (2021) Climate-related litigation: Raising awareness about a growing source of risk. Network for Greening the Financial System.",
+      "ja": "NGFS（2021）「Climate-related litigation: Raising awareness about a growing source of risk」気候変動リスク等に係る金融当局ネットワーク．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "NGFS (2023) Nature-related Financial Risks: A conceptual framework to guide action by Central Banks and Supervisors. Network for Greening the Financial System.",
+      "ja": "気候変動リスク等に係る金融当局ネットワーク（2023）『自然関連金融リスク：中央銀行及び監督当局による行動を導く概念枠組み』気候変動リスク等に係る金融当局ネットワーク．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "NGFS and INSPIRE (2022) Central banking and supervision in the biosphere: An agenda for action on biodiversity loss, financial risk and system stability. Final Report of the NGFS-INSPIRE Study Group on Biodiversity and Financial Stability. Network for Greening the Financial System, International Network for Sustainable Financial Policy Insights, Research, and Exchange.",
+      "ja": "NGFS及びINSPIRE（2022）「Central banking and supervision in the biosphere: An agenda for action on biodiversity loss, financial risk and system stability」生物多様性と金融安定性に関するNGFS-INSPIRE研究グループの最終報告書．気候変動リスク等に係る金融当局ネットワーク、持続可能な金融政策に関する洞察・研究・情報交換のための国際ネットワーク．"
+    },
+    {
+      "page": 271,
+      "type": "li",
+      "en": "Nicholson, E. et al. (2021) Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework. Nature Ecology & Evolution 5, 1338–1349.",
+      "ja": "Nicholson, E. et al.（2021）「Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework」『Nature Ecology & Evolution』5, 1338–1349."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Noss, R. F. (1990) Indicators for Monitoring Biodiversity: A Hierarchical Approach. Conservation Biology 4(4), 355–364.",
+      "ja": "Noss, R.F.（1990）「Indicators for Monitoring Biodiversity: A Hierarchical Approach」『Conservation Biology』4(4), 355–364."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "OECD (2018) Due Diligence Guidance for Responsible Business Conduct. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD（2018）「責任ある企業行動のためのOECDデュー・ディリジェンス・ガイダンス」経済協力開発機構．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "OECD (2020) Biodiversity and the economic response to COVID-19: Ensuring a green and resilient recovery. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD（2020）「Biodiversity and the economic response to COVID-19: Ensuring a green and resilient recovery」経済協力開発機構．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "OECD (2023) Assessing biodiversity-related financial risks: Navigating the landscape of existing approaches. OECD Environment Policy Papers 36. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD（2023）「Assessing biodiversity-related financial risks: Navigating the landscape of existing approaches」『OECD Environment Policy Papers』36. 経済協力開発機構．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "OECD (2023, forthcoming) A prudential framework for assessing nature-related financial risks: identifying and navigating biodiversity risks. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD（2023）「自然関連財務リスク評価の規制枠組み：生物多様性リスクの特定と舵取り」経済協力開発機構．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "PBAF (2023) A biodiversity accounting standard for the financial industry. Partnership for Biodiversity Accounting Financials.",
+      "ja": "PBAF（2023）A biodiversity accounting standard for the financial industry. 金融向け生物多様性会計パートナーシップ．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Peh, K. S.-H. et al. (2013) TESSA: A toolkit for rapid assessment of ecosystem services at sites of biodiversity conservation importance.",
+      "ja": "Peh, K.S.-H. et al.（2013）TESSA: A toolkit for rapid assessment of ecosystem services at sites of biodiversity conservation importance."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Phalan, B. et al. (2011) Minimising the harm to biodiversity of producing more food globally. Food Policy 36(1), S62–S71.",
+      "ja": "Phalan, B. et al.（2011）「Minimising the harm to biodiversity of producing more food globally」『Food Policy』36(1), S62–S71."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Power, S. et al. (2022) An overview of nature-related risks and potential policy actions for Ministries of Finance: Bending the curve of nature loss. Coalition of Finance Ministers for Climate Action.",
+      "ja": "Power, S. et al.（2022）「An overview of nature-related risks and potential policy actions for Ministries of Finance: Bending the curve of nature loss」気候変動対策に取り組む財務大臣連合．"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "PRé Sustainability et al. (2022) Biodiversity input-output for supply chain and operations evaluation (Bioscope). PRé Sustainability, Arcadis, CODE.",
+      "ja": "PRé Sustainability et al.（2022）Biodiversity input-output for supply chain and operations evaluation (Bioscope). PRé Sustainability, Arcadis, CODE."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Purvis, A. et al. (2019) Chapter 2.2 Status and Trends – Nature. Global Assessment Report on Biodiversity and Ecosystem Services.",
+      "ja": "Purvis, A. et al.（2019）「第2章第2節現状と傾向―自然」『生物多様性と生態系サービスに関する地球規模評価報告書』"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Puurtinen, M. et al. (2022) The Living Planet Index does not measure abundance. Nature 601(7894), E14–E15.",
+      "ja": "Puurtinen, M. et al.（2022）「The Living Planet Index does not measure abundance」『Nature』601(7894), E14–E15."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "PwC (2015) Valuing corporate environmental impacts: PwC methodology document.",
+      "ja": "PwC（2015）『Valuing corporate environmental impacts: PwC methodology document』"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Resilience Alliance and Santa Fe Institute (2004) Thresholds and alternate states in ecological and social-ecological systems. Resilience Alliance.",
+      "ja": "レジリエンスアライアンス、サンタフェ研究所（2004）『Thresholds and alternate states in ecological and social-ecological systems』Resilience Alliance."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Ritchie, H. and Roser, M. (2020) CO2 and GHG Emissions – Emissions by Sector.",
+      "ja": "Ritchie, H. and Roser, M.（2020）「CO2 and GHG Emissions – Emissions by Sector」"
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rockström, J. et al. (2023) Safe and just Earth system boundaries. Nature 619, 102–111.",
+      "ja": "Rockström, J. et al.（2023）「安全で公正な地球システムの限界」『Nature』619, 102–111."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rockström, J. et al. (2023) Shaping a resilient future in response to COVID-19. Nature Sustainability 6, 897–907.",
+      "ja": "Rockström, J. et al.（2023）「Shaping a resilient future in response to COVID-19」『Nature Sustainability』6, 897–907."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rodríguez, J. P. et al. (2015) A practical guide to the application of the IUCN Red List of Ecosystems criteria. Philosophical Transactions of the Royal Society B: Biological Sciences, 370(1662), 20140003.",
+      "ja": "Rodríguez, J.P. et al.（2015）「A practical guide to the application of the IUCN Red List of Ecosystems criteria」『Philosophical Transactions of the Royal Society B: Biological Sciences』370(1662), 20140003."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rossberg, A. G. (2022) Quantifying Biodiversity Impact—Relations amongst local and global metrics, why they matter and how to offset impacts. Tech. rep., Queen Mary University of London, 16.",
+      "ja": "Rossberg, A.G.（2022）Relations amongst local and global metrics, why they matter, and how to offset impacts. Tech. rep., Queen Mary University of London, 16."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rossberg, A. G. et al. (2023) A metric for tradable biodiversity credits linked to the Living Planet Index and global species conservation. arXiv:2111.03867 [q-bio.PE].",
+      "ja": "Rossberg, A.G. et al.（2023）「A metric for tradable biodiversity credits linked to the Living Planet Index and global species conservation」arXiv:2111.03867 [q-bio.PE]."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rosselló-Mora, R. and Amann, R. (2001) The species concept for prokaryotes. FEMS Microbiology Reviews 25(1), 39–67.",
+      "ja": "Rosselló-Mora, R. and Amann, R.（2001）「The species concept for prokaryotes」『FEMS Microbiology Reviews』25(1), 39–67."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Roswell, M. et al. (2021) A conceptual guide to measuring species diversity. Oikos 130(3), 321–338.",
+      "ja": "Roswell, M. et al.（2021）「A conceptual guide to measuring species diversity」『Oikos』130(3), 321–338."
+    },
+    {
+      "page": 272,
+      "type": "li",
+      "en": "Rowland, J. et al. (2019) Ecosystem indices to support global biodiversity conservation. Conservation Letters 13(1).",
+      "ja": "Rowland, J.A. et al.（2019）「Ecosystem indices to support global biodiversity conservation」『Conservation Letters』13(1)."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Ruggiero, M. A. et al. (2015a) A Higher Level Classification of All Living Organisms. PLOS ONE 10(4), e0119248.",
+      "ja": "Ruggiero, M.A. et al.（2015a）「A Higher Level Classification of All Living Organisms」『PLOS ONE』10(4), e0119248."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Ruggiero, M. A. et al. (2015b) Correction: A Higher Level Classification of All Living Organisms. PLOS ONE 10(6), e0130114.",
+      "ja": "Ruggiero, M.A. et al.（2015b）「Correction: A Higher Level Classification of All Living Organisms」『PLOS ONE』10(6), e0130114."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SASB. Find your industry. Sustainability Accounting Standards Board.",
+      "ja": "SASB. Find your industry. サステナビリティ会計基準審議会．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SASB. Materiality Finder. Sustainability Accounting Standards Board.",
+      "ja": "SASB. Materiality Finder. サステナビリティ会計基準審議会．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTi (2022) Forest, Land and Agriculture Science Based Target-Setting Guidance. Science Based Targets initiative.",
+      "ja": "科学に基づく目標（2022）「森林土地農業に関する科学に基づく目標設定ガイダンス」科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2020) Initial Guidance for Business. Science Based Targets Network.",
+      "ja": "SBTN（2020）『企業のための初期ガイダンス』科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2023) High Impact Commodity List. Science Based Targets Network.",
+      "ja": "SBTN（2023）高インパクト一次産品リスト．科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2023) Materiality Screening Tool. Science Based Targets Network.",
+      "ja": "SBTN（2023）マテリアリティ・スクリーニング・ツール．科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2023) Response options. Science Based Targets Network.",
+      "ja": "SBTN（2023）Response options. 科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2023) SBTN Glossary of Terms. Science Based Targets Network.",
+      "ja": "SBTN（2023）SBTN用語集 . 科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SBTN (2023) SBTN Technical Guidance Step 1 and 2. Science Based Targets Network.",
+      "ja": "SBTN（2023）「SBTNテクニカルガイダンスステップ1 & 2」科学に基づく目標ネットワーク．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Schipper, A. M. et al. (2020) Projecting terrestrial biodiversity intactness with GLOBIO 4. Global Change Biology 26(2), 760–771.",
+      "ja": "Schipper, A.M. et al.（2020）「Projecting terrestrial biodiversity intactness with GLOBIO 4」『Global Change Biology』26(2), 760–771."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Schneck, J. et al. (2023) Species Threat Abatement and Recovery in Cameroon and Kenya. International Union for the Conservation of Nature.",
+      "ja": "Schneck, J. et al.（2023）『Species Threat Abatement and Recovery in Cameroon and Kenya』国際自然保護連合．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Scholes, R. J. and Biggs, R. (2005) A biodiversity intactness index. Nature 434(7029), 45–49.",
+      "ja": "Scholes, R.J. and Biggs, R（. 2005）「A biodiversity intactness index」『Nature』434(7029), 45–49."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SDG 12 Hub. Target 12.3. Sustainable Development Goal 12 Hub.",
+      "ja": "SDG 12ハブ．ターゲット12.3．持続可能な開発目標12ハブ．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "SEI and Global Canopy (2015) Trase Database. Stockholm Environment Institute, Global Canopy",
+      "ja": "SEI and Global Canopy（2015）Trase Database. ストックホルム環境研究所、グローバルキャノピー．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Simpson, G. G. (1951) The Species Concept. Evolution 5(4), 285–298.",
+      "ja": "Simpson, G.G.（1951）「The Species Concept」『Evolution』5(4), 285–298."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Space Intelligence (2023) HabitatMapper.",
+      "ja": "Space Intelligence（2023）HabitatMapper."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Spatz, D. R. et al. (2017) Globally threatened vertebrates on islands with invasive species. Science Advances 3(10), e1603080.",
+      "ja": "Spatz, D.R. et al.（2017）「Globally threatened vertebrates on islands with invasive species」『Science Advances』3(10), e1603080."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Speaker, T. et al. (2022) A global community‐sourced assessment of the state of conservation technology. Conservation Biology 36.",
+      "ja": "Speaker, T. et al.（2022）「A global community‐sourced assessment of the state of conservation technology」『Conservation Biology』36."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Steffen, W. et al. (2015) Planetary boundaries: Guiding human development on a changing planet. Science 347(6223).",
+      "ja": "Steffen, W. et al.（2015）「Planetary boundaries: Guiding human development on a changing planet」『Science』347(6223)."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Stockholm Resilience Centre. Regime Shifts DataBase.",
+      "ja": "ストックホルムレジリエンスセンター．Regime Shifts DataBase."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Stork, N. E. (2018) How Many Species of Insects and Other Terrestrial Arthropods Are There on Earth? Annual Review of Entomology 63(1), 31–45.",
+      "ja": "Stork, N.E.（2018）「How Many Species of Insects and Other Terrestrial Arthropods Are There on Earth?」『Annual Review of Entomology』63(1), 31–45."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Stowell, D. et al. (2019) Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge. Methods in Ecology and Evolution 10, 368–380.",
+      "ja": "Stowell, D. et al.（2019）「Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge」『Methods in Ecology and Evolution』10, 368–380."
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Swiss Re Institute (2020) Biodiversity and ecosystem services – A business case for re/insurance.",
+      "ja": "スイスリー研究所（2020）「Biodiversity and Ecosystem Services: A business case for re/insurance」"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "Taskforce on Nature Markets (2023) Making nature markets work: Shaping a global nature economy in the 21st century. NatureFinance.",
+      "ja": "自然市場タスクフォース（2023）「Making nature markets work: Shaping a global nature economy in the 21st century」『NatureFinance』"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "TCFD (2017) Recommendations of the Task Force on Climate-related Financial Disclosures. Task Force on Climate-related Financial Disclosures.",
+      "ja": "TCFD（2017）『気候関連財務情報開示タスクフォースによる提言』気候関連財務情報開示タスクフォース．"
+    },
+    {
+      "page": 273,
+      "type": "li",
+      "en": "TCFD (2020) Guidance on Risk Management Integration and Disclosure. Task Force on Climate-related Financial Disclosures.",
+      "ja": "TCFD（2020）「Guidance on Risk Management Integration and Disclosure」気候関連財務情報開示タスクフォース．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "TCFD (2021) Implementing the Recommendations of the Task Force on Climate-related Financial Disclosures. Task Force on Climate-related Financial Disclosures.",
+      "ja": "TCFD（2021）『気候関連財務情報開示タスクフォースの提言の実施』気候関連財務情報開示タスクフォース．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "TEEB (2010) The Economics of Ecosystems and Biodiversity: Ecological Economics Foundations. Edited by P. Kumar. Earthscan, London and Washington, DC. The Economics of Ecosystems and Biodiversity.",
+      "ja": "TEEB（2010）『生態系と生物多様性の経済学：生態学と経済学の基礎』Edited by P. Kumar. Earthscan, London and Washington, DC. 生態系と生物多様性の経済学．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "TEEB (2011) The Economics of Ecosystems and Biodiversity in National and International Policy Making. Edited by P. ten Brink. Earthscan, London and Washington, DC. The Economics of Ecosystems and Biodiversity.",
+      "ja": "TEEB（2011）『生態系と生物多様性の経済学：国及び国際レベルの政策決定者向け』Edited by P. ten Brink. Earthscan, London and Washington, DC. 生態系と生物多様性の経済学．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "TEEB (2012) TEEB in business and enterprise. The Economics of Ecosystems and Biodiversity.",
+      "ja": "TEEB（2012）『TEEBビジネス向け』生態系と生物多様性の経済学．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "The Nature Conservancy (2016) Mapping Ocean Wealth Explorer.",
+      "ja": "ネイチャーコンサーバンシー（2016）Mapping Ocean Wealth Explorer."
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "TNFD (2021) Nature in scope. Taskforce on Nature-related Financial Disclosures.",
+      "ja": "TNFD（2021）『Nature in scope』自然関連財務情報開示タスクフォース．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "Transparent Project (2023) Natural capital accounting methodology.",
+      "ja": "Transparent Project（2023）Natural capital accounting methodology."
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN (2015a) Paris Agreement. United Nations.",
+      "ja": "国連（2015a）『パリ協定』国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN (2015b) Transforming our world: The 2030 Agenda for Sustainable Development. United Nations.",
+      "ja": "国連（2015b）『我々の世界を変革する：持続可能な開発のための2030アジェンダ』国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN (2023) Agreement under the United Nations Convention on the Law of the Sea on the conservation and sustainable use of marine biological diversity of areas beyond national jurisdiction. United Nations.",
+      "ja": "国連（2023）海洋法に関する国際連合条約に基づくいずれの国の管轄にも属さない区域における海洋の生物の多様性の保全及び持続可能な利用に関する協定．国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN Climate Change Conference UK (2021) Glasgow leaders’ declaration on forests and land use. United Nations.",
+      "ja": "国連気候変動会議英国（2021）森林と土地利用に関するグラスゴーリーダーズ宣言．国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN Climate Change High-Level Champions (2022) Assessing the financial impact of the land-use transition on the food and agriculture sector. United Nations.",
+      "ja": "国連気候変動ハイレベルチャンピオン（2022）Assessing the financial impact of the land-use transition on the food and agriculture sector. 国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN et al. (2021a) System of Environmental-Economic Accounting—Ecosystem Accounting. White cover publication, pre-edited text subject to official editing. United Nations.",
+      "ja": "国際連合他（2021a）『環境経済勘定－生態系勘定』White cover publication, pre-edited text subject to official editing. 国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UN et al. (2021b) System of Environmental-Economic Accounting—Ecosystem Accounting (SEEA EA), Online supplement: Ecosystem Services Reference List Crosswalk to Selected Ecosystem Services Classifications and Typologies. United Nations.",
+      "ja": "国際連合他（2021b）「環境経済勘定－生態系勘定（SEEA EA）：Online supplement: Ecosystem Services Reference List Crosswalk to Selected Ecosystem Services Classifications and Typologies」国際連合．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP et al. (2020) Beyond ‘Business as Usual’: Biodiversity targets and finance. Managing biodiversity risks across business sectors. United Nations Environment Programme, United Nations Environment Programme Finance Initiative, Global Canopy.",
+      "ja": "UNEP他（2020）Beyond ‘Business as Usual’: Biodiversity Targets and Finance. Managing biodiversity risks across business sectors. 国連環境計画、国連環境計画金融イニシアティブ、グローバルキャノピー．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP FI (2022) State of finance for nature. Time to act: Doubling investment by 2025 and eliminating nature-negative finance flows. United Nations Environment Programme Finance Initiative.",
+      "ja": "UNEP FI（2022）『State of finance for nature. Time to act: Doubling investment by 2025 and eliminating nature-negative finance flows』国連環境計画金融イニシアティブ．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP FI and UNEP-WCMC (2021) Biodiversity Target-setting: Guidance for banks (Version 1: June 2021), Principles for Responsible Banking. United Nations Environment Programme Finance Initiative, United Nations Environment Programme-World Conservation Monitoring Centre.",
+      "ja": "UNEP FI and UNEP-WCMC（2021）Biodiversity Target-setting: Guidance for banks (Version 1: June 2021), Principles for Responsible Banking. 国連環境計画金融イニシアティブ、国連環境計画世界自然保全モニタリングセンター．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP-WCMC (2023) Ocean+ Habitats database. United Nations Environment Programme-World Conservation Monitoring Centre.",
+      "ja": "UNEP-WCMC（2023）Ocean+ Habitats database. 国連環境計画世界自然保全モニタリングセンター．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP-WCMC (2023) Ocean+ Ocean data viewer. United Nations Environment Programme-World Conservation Monitoring Centre.",
+      "ja": "UNEP-WCMC（2023）Ocean+ Ocean data viewer. 国連環境計画世界自然保全モニタリングセンター．"
+    },
+    {
+      "page": 274,
+      "type": "li",
+      "en": "UNEP-WCMC and Finance for Biodiversity Initiative (2022) The Climate Nature Nexus. An investor guide to expanding from climate to nature data. United Nations Environment Programme-World Conservation Monitoring Centre, Finance for Biodiversity Initiative.",
+      "ja": "UNEP-WCMC及び生物多様性のためのファイナンスイニシアティブ（2022）『The Climate Nature Nexus. An investor guide to expanding from climate to nature data』国連環境計画世界自然保全モニタリングセンター、生物多様性のためのファイナンスイニシアティブ．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "UNEP-WCMC and IUCN (2023) The World Database on Protected Areas (WDPA). United Nations Environment Programme-World Conservation Monitoring Centre, International Union for Conservation of Nature.",
+      "ja": "UNEP-WCMC及びIUCN（2023）The World Database on Protected Areas (WDPA). 国連環境計画世界自然保全モニタリングセンター、国際自然保護連合．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "UNEP-WCMC et al. (2022) Recommendations for a standard on biodiversity measurement and valuation. Aligning accounting approaches for nature. United Nations Environment Programme-World Conservation Monitoring Centre, Capitals Coalition, Arcadis, ICF, World Conservation Monitoring Centre Europe.",
+      "ja": "UNEP-WCMC他（2022）「Recommendations for a standard on corporate biodiversity measurement and valuation, Aligning accounting approaches for nature. Aligning accounting approaches for nature」国連環境計画世界自然保全モニタリングセンター、キャピタルコアリション、アルカディス、ICF、世界自然保護モニタリングセンター欧州．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "UNESCO World Heritage Convention (2023) World Heritage Interactive Map. United Nations Educational, Scientific and Cultural Organization.",
+      "ja": "UNESCO世界遺産条約（2023）World Heritage Interactive Map. 国際連合教育科学文化機関．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "United Nations Environment Programme Finance Initiative (2022) Prioritising nature-related disclosures. Considerations for high-risk sectors.",
+      "ja": "国連環境計画金融イニシアティブ（2022）『Prioritising nature-related disclosures. Considerations for high-risk sectors』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "University of Cambridge Institute for Sustainability Leadership (2022) Integrating climate and nature: the rationale for financial institutions. Cambridge, UK. University of Cambridge Institute for Sustainability Leadership.",
+      "ja": "ケンブリッジ大学サステナビリティリーダーシップ研究所（2022）『Integrating climate and nature: the rationale for financial institutions』英国ケンブリッジ．ケンブリッジ大学サステナビリティリーダーシップ研究所．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "Value Balancing Alliance et al. (2023) Standardized Natural Capital Management Accounting: A methodology promoting the integration of nature in business decision making. Value Balancing Alliance, Capitals Coalition, World Business Council for Sustainable Development, LIFE.",
+      "ja": "バリューバランシングアライアンス他（2023）『Standardized Natural Capital Management Accounting: A methodology promoting the integration of nature in business decision making』バリューバランシングアライアンス、キャピタルコアリション、持続可能な開発のための世界経済人会議、LIFE．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "Venter, O. et al. (2016) Sixteen years of change in the global terrestrial human footprint and implications for biodiversity conservation. Nature Communications 7, 12558.",
+      "ja": "Venter, O. et al.（2016）「Sixteen years of change in the global terrestrial human footprint and implications for biodiversity conservation」『Nature Communications』7, 12558."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "Verones, F. et al. (2022) Global extinction probabilities of terrestrial, freshwater and marine species groups for use in Life Cycle Assessment. Ecological Indicators 142, 109204.",
+      "ja": "Verones, F. et al.（2022）「Global extinction probabilities of terrestrial, freshwater and marine species groups for use in Life Cycle Assessment」『Ecological Indicators』142, 109204."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "Waldren, A. et al. (2020) Protecting 30% of the planet for nature: Costs, benefits and economic implications.",
+      "ja": "Waldren, A. et al.（2020）『Protecting 30% of the planet for nature: Costs, benefits and economic implications』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "Wang, J. et al. (2016) Prediction and estimation of effective population size. Heredity 117, 193–206.",
+      "ja": "Wang, J. et al.（2016）「Prediction and estimation of effective population size」『Heredity』117, 193–206."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "WBCSD (2013) Business Guide to Water Valuation: An introduction to concepts and techniques. World Business Council for Sustainable Development.",
+      "ja": "WBCSD（2013）Business Guide to Water Valuation: An introduction to concepts and techniques. 持続可能な開発のための世界経済人会議．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "WBCSD et al. (2011) Guide to Corporate Ecosystem Valuation. World Business Council for Sustainable Development, ERM, International Union for Conservation of Nature, PwC.",
+      "ja": "WBCSD et al.（2011）Guide to Corporate Ecosystem Valuation. 持続可能な開発のための世界経済人会議、ERM、国際自然保護連合、PwC．"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "White, T. B. et al. (2021) Using technology to improve the management of development impacts on biodiversity. Business Strategy and the Environment 30(8), 3502–3516.",
+      "ja": "White, T.B. et al.（2021）「Using technology to improve the management of development impacts on biodiversity」『Business Strategy and the Environment』30(8), 3502–3516."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "WISE Freshwater. Surface water chemical status.",
+      "ja": "WISE Freshwater. Surface water chemical status."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Bank (2021) The Economic Case for Nature: A global earth-economy model to assess development policy pathways.",
+      "ja": "世界銀行（2021）『The Economic Case for Nature: A global earth-economy model to assess development policy pathways』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Bank (2023) Biodiversity and finance: A preliminary assessment of physical risks for the banking sector in emerging markets.",
+      "ja": "世界銀行（2023）『Biodiversity and finance: A preliminary assessment of physical risks for the banking sector in emerging markets』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Benchmarking Alliance (2022) The methodology for the 2022 nature benchmark methodology.",
+      "ja": "ワールドベンチマーキングアライアンス（2022）The methodology for the 2022 nature benchmark methodology."
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Economic Forum (2020) Nature Risk Rising: Why the crisis engulfing nature matters for business and the economy.",
+      "ja": "世界経済フォーラム（WEF）（2020）『Nature Risk Rising: Why the crisis engulfing nature matters for business and the economy』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Economic Forum (2022) Location matters: Using spatial intelligence for business action on nature and climate.",
+      "ja": "世界経済フォーラム（2022）「Location matters: Using spatial intelligence for business action on nature and climate」"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "World Economic Forum Global Future Council on Nature-based Solutions (2022) Scaling investments in nature: The next critical frontier for private sector leadership.",
+      "ja": "世界経済フォーラム自然ベースのソリューションに関する世界未来評議会（2022）『Scaling investments in nature: The next critical frontier for private sector leadership』"
+    },
+    {
+      "page": 275,
+      "type": "li",
+      "en": "WRI and WBCSD (2022) Greenhouse Gas Protocol Land Sector and Removals Guidance (Draft for Pilot Testing and Review, September 2022). World Resources Institute, World Business Council for Sustainable Development.",
+      "ja": "WRI及びWBCSD（2022）「Greenhouse Gas Protocol Land Sector and Removals Guidance (Draft for Pilot Testing and Review, September 2022)」世界資源研究所、持続可能な開発のための世界経済人会議．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WRI Aqueduct (2023) Water Risk Atlas and Tools. World Resources Institute.",
+      "ja": "WRIアキダクト（2023）水リスクアトラスとツール．世界資源研究所．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WRI Resource Watch (2023) Resource data dashboards. World Resources Institute.",
+      "ja": "WRIリソース・ウオッチ（2023）Resource data dashboards. 世界資源研究所．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WWF (2022) A Biodiversity Guide for Business. World Wide Fund for Nature.",
+      "ja": "WWF（2022）「ビジネスに対する生物多様性ガイド」世界自然保護基金．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WWF et al. (2020) Geospatial ESG. The emerging application of geospatial data for gaining environmental insights on the asset, corporate and sovereign level. World Wide Fund for Nature, World Bank Group, Global Canopy.",
+      "ja": "WWF他（2020）『Geospatial ESG. The emerging application of geospatial data for gaining environmental insights on the asset, corporate and sovereign level』世界自然保護基金、世界銀行グループ、グローバルキャノピー．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WWF et al. (2021) The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland. World Wide Fund for Nature, United Nations Environment Programme-World Conservation Monitoring Centre, GEF Small Grants Programme, ICCA-Global Support Initiative, LandMark Global Platform of Indigenous and Community Lands, The Nature Conservancy, Conservation International, Wildlife Conservation Society, UNDP Equator Prize, Conservation Matters LLC, International Union for Conservation of Nature.",
+      "ja": "",
+      "flag": "no-ja-match"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "World Wide Fund for Nature (WWF), UN Environment Programme-World Conservation Monitoring Centre (UNEP-WCMC), et al. (2021). The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions. Gland, Switzerland. WITH",
+      "ja": "世界自然保護基金（WWF）、国連環境計画世界自然保全モニタリングセンター（UNEP-WCMC）他（2021）『The State of Indigenous Peoples’ and Local Communities’ Lands and Territories: A technical review of the state of Indigenous Peoples’ and Local Communities’ lands, their contributions to global biodiversity conservation and ecosystem services, the pressures they face, and recommendations for actions』スイス、グラン．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WWF. Biodiversity Risk Filter. World Wide Fund for Nature.",
+      "ja": "WWF. 生物多様性リスクフィルター．世界自然保護基金．"
+    },
+    {
+      "page": 276,
+      "type": "li",
+      "en": "WWF. Water Risk Filter. World Wide Fund for Nature.",
+      "ja": "WWF. 水リスクフィルター．世界自然保護基金．"
+    },
+    {
+      "page": 276,
+      "type": "h2",
+      "en": "Version update log",
+      "ja": "バージョン更新記録"
+    },
+    {
+      "page": 276,
+      "type": "table",
+      "en": "| Version 1.0 | September 2023 |  |\n|---|---|---|\n| Version 1.1 | October 2023 | Minor copy-editing corrections only |",
+      "ja": "| 第1.0版 | 2023年9月 |  |\n|---|---|---|\n| 第1.1版 | 2023年10月 |  |",
+      "flag": "ja-missing-note"
+    }
+  ]
+}

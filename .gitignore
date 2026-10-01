@@ -1,0 +1,8 @@
+# ビルド成果物（GitHub Actions で node scripts/build.mjs により生成）
+site/data/
+site/pdf/
+# 抽出テキスト（node scripts/extract.mjs で再生成できる）
+work/pages/
+node_modules/
+.DS_Store
+Thumbs.db

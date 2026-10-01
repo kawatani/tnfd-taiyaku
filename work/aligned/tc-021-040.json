@@ -1,0 +1,749 @@
+{
+  "doc": "tc",
+  "pages": [
+    21,
+    40
+  ],
+  "segments": [
+    {
+      "page": 21,
+      "type": "li",
+      "en": "Water use: Semiconductor manufacturing is highly water intensive and an average single chip fabrication plant can use around 38 million litres of ultrapure water (UPW) per day. Though water use can vary significantly, a typical datacentre that relies on water for cooling and energy production can use 25 million to 770 million litres of water per year (depending on size),19 while hyperscale facilities may exceed 2 billion litres annually.20 Datacentre water consumption also includes indirect consumption through the electricity generated and the water and wastewater services used by the facility. This can represent up to 75% of total water consumption, depending on the electricity generation mix.21 The rapid growth of AI is expected to result in an estimated 731 to 1,125 million cubic metres of water consumption annually by 2030 – equivalent to the yearly household water use of 6 to 10 million Americans.22",
+      "ja": "水利用：半導体製造は水集約度が非常に高く、平均的なチップ製造工場1か所で1日あたり約3,800万リットルの超純水（UPW）を使用することがある。水利用は大きく異なり得るが、冷却とエネルギー生産を水に依存する典型的なデータセンターは、（規模に応じて）年間2,500万～7億7,000万リットルの水を使用することがあり19、ハイパースケール施設では年間20億リットルを超えることもある20。データセンターの水消費量には、施設が使用する電力の発電や上下水道サービスを通じた間接的な消費も含まれる。これは、電源構成によっては総水消費量の最大75%を占めることがある21。AIの急速な成長により、2030年までに年間推定7億3,100万～11億2,500万立方メートルの水消費が生じると予想されており、これは600万～1,000万人の米国人の年間家庭用水使用量に相当する22。"
+    },
+    {
+      "page": 21,
+      "type": "p",
+      "en": "Overexploitation of water basins can affect freshwater ecosystem health. This in turn can affect Indigenous Peoples and local communities, farmers and other stakeholders that rely on healthy water basins for drinking water, irrigation of crops and other uses. This can also affect the technology and communications sector itself, given its own dependency on water, including UPW for semiconductor manufacturing and cooling for datacentres.",
+      "ja": "流域の過剰利用は、淡水生態系の健全性に影響を及ぼし得る。これはひいては、飲料水、作物の灌漑その他の用途のために健全な流域に依存している先住民族と地域社会、農業者その他のステークホルダーに影響を及ぼし得る。また、半導体製造のためのUPWやデータセンターの冷却を含め、技術・通信セクター自体も水に依存していることから、このセクター自体にも影響を及ぼし得る。"
+    },
+    {
+      "page": 21,
+      "type": "li",
+      "en": "Metals and critical minerals use: Semiconductor and electronics manufacturing uses a wide range of metals and critical minerals as inputs. This links downstream industries to upstream mining-related land use, pollution and biodiversity loss, and the dependencies on nature of the metals and mining sector, such as water supply and natural hazard regulation.23",
+      "ja": "金属および重要鉱物の利用：半導体およびエレクトロニクスの製造では、多種多様な金属および重要鉱物が投入物として使用される。これにより、下流の産業は、上流の採掘に関連する土地利用、汚染および生物多様性の損失、ならびに淡水供給や自然災害の調整など、金属・鉱業セクターの自然への依存と結び付いている23。"
+    },
+    {
+      "page": 21,
+      "type": "li",
+      "en": "Other materials use: Technology and communications infrastructure also relies on nonmetallic materials, including polymers derived from crude oil and natural gas for cable coatings and electronic components, and sand and other construction materials. Their extraction and production can contribute to land use change, water use, pollution and other impacts on nature.",
+      "ja": "その他の材料の利用：技術・通信インフラは、ケーブル被覆や電子部品に用いられる原油・天然ガス由来のポリマー、砂その他の建設資材など、非金属材料にも依存している。これらの採取と生産は、土地利用変化、水利用、汚染その他の自然に対するインパクトの一因となり得る。"
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "17 Aczel, M. et al. (2026) Environmental Cost of AI’s Energy Use: Carbon, Water and Land Footprints. United Nations University Institute for Water, Environment and Health.",
+      "ja": "17 Aczel, M. et al.（2026）Environmental Cost of AI’s Energy Use: Carbon, Water and Land Footprints. 国連大学水・環境・保健研究所（UNU-INWEH）"
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "18 WEF (2025) Nature Positive: Role of the Technology Sector.",
+      "ja": "18 世界経済フォーラム（WEF）（2025）Nature Positive: Role of the Technology Sector."
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "19 Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers.",
+      "ja": "19 Ceres（2025）Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres（2026）Water Behind the Watts: The Hidden Risk of Powering Data Centers."
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "20 WEF (2025) Nature Positive: Role of the Technology Sector.",
+      "ja": "20 WEF（2025）Nature Positive: Role of the Technology Sector."
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "21 NatureFinance (2025) Navigating AI’s Thirst in a Water-Scarce World: A Governance Agenda for AI and the Environment.",
+      "ja": "21 NatureFinance（2025）Navigating AI’s Thirst in a Water-Scarce World: A Governance Agenda for AI and the Environment."
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "22 Nutt, D. (2025) ’Roadmap’ shows the environmental impact of AI data center boom.",
+      "ja": "22 Nutt, D.（2025）’Roadmap’ shows the environmental impact of AI data center boom."
+    },
+    {
+      "page": 21,
+      "type": "footnote",
+      "en": "23 TNFD (2024) Additional sector guidance – Metals and mining.",
+      "ja": "23 TNFD（2024）追加セクターガイダンス－金属・鉱業（Additional sector guidance – Metals and mining）"
+    },
+    {
+      "page": 22,
+      "type": "li",
+      "en": "Waste: Hardware and electronics manufacturing generates substantial waste streams, including hazardous waste. By 2030, global e-waste is expected to reach 82 billion kilogrammes, an estimated increase of 30% compared with 2024.24 Limited recycling rates and waste management practices can result in pollution of air, soils and water. Only 20% to 22% of e-waste is documented as properly collected and recycled.24",
+      "ja": "廃棄物：ハードウェアおよびエレクトロニクスの製造は、有害廃棄物を含む大量の廃棄物の流れを生み出す。2030年までに、世界の電子廃棄物（E-waste）は820億キログラムに達すると予想されており、これは2024年と比べて推定30%の増加である24。リサイクル率の低さや限定的な廃棄物管理慣行は、大気、土壌および水の汚染をもたらし得る。適切に回収・リサイクルされたことが記録されている電子廃棄物は、わずか20%～22%にすぎない24。"
+    },
+    {
+      "page": 22,
+      "type": "h4",
+      "en": "Materiality tables",
+      "ja": "マテリアリティ表"
+    },
+    {
+      "page": 22,
+      "type": "p",
+      "en": "Table 3 lists ecosystem services that different sub-sectors within technology and communications typically depend on. Table 4 lists the typical impact drivers. An organisation can use these tables as a first filter to screen sectors and activities across direct operations and value chains for potentially moderate and high dependencies and impacts on nature.",
+      "ja": "表3は、技術・通信の各サブセクターが一般的に依存している生態系サービスを示している。表4は、典型的なインパクト要因を示している。組織は、これらの表を最初のフィルターとして用い、直接操業とバリューチェーン全体にわたるセクターと活動について、潜在的に中～高程度の自然への依存とインパクトがあるかをスクリーニングすることができる。"
+    },
+    {
+      "page": 22,
+      "type": "p",
+      "en": "The materiality ratings in Tables 3 and 4 use ENCORE as a foundational framework. In ENCORE, activities are mapped to the International Standard Industrial Classification (ISIC). Information on which ISIC groups were included under each SASB category is provided in Annex 2. Where activities within the scope of this guidance did not directly map back to any ISIC group, adjustments were made to better reflect the nature-related dependencies and impacts associated with activities in the sectors and industries within scope. These adjustments were informed by academic literature and relevant technical reports.",
+      "ja": "表3と表4のマテリアリティ評価は、ENCOREを基礎的な枠組みとして用いている。ENCOREでは、活動は国際標準産業分類（ISIC）に対応付けられている。各SASBカテゴリーにどのISICグループが含まれるかについての情報は、別紙2に記載している。本ガイダンスの対象範囲内の活動がいずれのISICグループにも直接対応しない場合には、対象となるセクターと産業の活動に関連する自然関連の依存とインパクトをより適切に反映するよう調整を行った。これらの調整は、学術文献と関連する技術報告書に基づいている。"
+    },
+    {
+      "page": 22,
+      "type": "p",
+      "en": "Each column has industry-average ratings for the direct operations of the industry at the top of that column. Following the steps in L1 and informing later stages of LEAP, every organisation should consider ratings in the column for its own industry and relevant upstream and downstream activities. For instance, an organisation that provides video streaming services (part of Internet & Media) would look upstream in its value chain, and consider the dependencies and impacts of datacentre operations, the dependencies and impacts of the hardware in the server racks, and the semiconductors within them.",
+      "ja": "各列には、その列の最上部に記載された産業の直接操業についての産業平均の評価が示されている。L1のステップに従い、またLEAPの後続の段階に情報を提供するため、すべての組織は、自らの産業の列と、関連する上流と下流の活動の列の評価を考慮すべきである。例えば、動画配信サービス（インターネット・メディアの一部）を提供する組織は、バリューチェーンの上流に目を向け、データセンター運営の依存とインパクト、サーバーラック内のハードウェアの依存とインパクト、およびそれらに含まれる半導体を考慮することになる。"
+    },
+    {
+      "page": 22,
+      "type": "p",
+      "en": "Technology and communications organisations should refer to other TNFD sector guidance documents and the ENCORE materiality tables included when screening activities in related value chain sectors (e.g. metals and mining).",
+      "ja": "技術・通信の組織は、関連するバリューチェーンのセクター（例えば、金属・鉱業）の活動をスクリーニングする際には、他のTNFDセクターガイダンス文書とそこに含まれるENCOREのマテリアリティ表を参照すべきである。"
+    },
+    {
+      "page": 22,
+      "type": "p",
+      "en": "While the materiality ratings set out in Tables 3 and 4 can support an initial assessment, they are based on industry averages, are non-exhaustive and may not fully capture all industry- and context-specific considerations. Organisations are encouraged to use the tables as a starting point when screening for material dependencies and impacts, while adapting and refining their assessment in subsequent components of the LEAP approach. Organisations can also consider the WWF Risk Filter and the SBTN High Impact Commodities List and Materiality Screening Tool.",
+      "ja": "表3と表4に示すマテリアリティ評価は初期評価を支援し得るが、産業平均に基づくものであり、網羅的ではなく、産業や状況に固有の考慮事項のすべてを十分に捉えていない可能性がある。組織は、マテリアルな依存とインパクトをスクリーニングする際の出発点としてこれらの表を用い、LEAPアプローチの後続の構成要素において評価を適合させ、精緻化することが推奨される。組織はまた、WWFリスクフィルターや、SBTNの高インパクト一次産品リストおよびマテリアリティ・スクリーニング・ツールも検討することができる。"
+    },
+    {
+      "page": 22,
+      "type": "footnote",
+      "en": "24 Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network; Cordelis, P. et al. (2024) The Global E-waste Monitor 2024.",
+      "ja": "24 Geneva Environment Network（2025）The Growing Environmental Risks of E-Waste – Geneva Environment Network; Cordelis, P. et al.（2024）The Global E-waste Monitor 2024."
+    },
+    {
+      "page": 23,
+      "type": "caption",
+      "en": "Table 3: Materiality ratings of ecosystem services the technology and communications sector typically depends on",
+      "ja": "表3：技術・通信セクターが一般的に依存している生態系サービスのマテリアリティ評価"
+    },
+    {
+      "page": 23,
+      "type": "table",
+      "en": "| Ecosystem services | Ecosystem service | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Provisioning services | Water supply | VH | M | L | VH/H* | VL | VL | VL/L | VL/L |\n| Provisioning services | Genetic material services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Provisioning services | Biomass provisioning services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Provisioning services | Other provisioning services – Animal-based energy | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Solid waste remediation | L | M | M | M | N/A | N/A | L | L |\n| Regulating and maintenance services | Soil and sediment retention services | L | L | L | L | M | L | VL | VL |\n| Regulating and maintenance services | Water purification services | VH | M | M | VH/H | N/A | N/A | N/A | N/A |",
+      "ja": "| 生態系サービス | 生態系サービス | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 供給サービス | 淡水供給 | VH | M | L | VH/H* | VL | VL | VL/L | VL/L |\n| 供給サービス | 遺伝物質サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 供給サービス | バイオマスの供給サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 供給サービス | その他の供給サービス－動物由来のエネルギー | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | 固体廃棄物浄化 | L | M | M | M | N/A | N/A | L | L |\n| 調整・維持サービス | 土壌と土砂の保持サービス | L | L | L | L | M | L | VL | VL |\n| 調整・維持サービス | 水質浄化サービス | VH | M | M | VH/H | N/A | N/A | N/A | N/A |"
+    },
+    {
+      "page": 24,
+      "type": "table",
+      "en": "| Ecosystem services | Ecosystem service | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Regulating and maintenance services | Soil quality regulation services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Other regulating and maintenance service – Dilution by atmosphere and ecosystems | L | L | L | H | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Biological control services | N/A | N/A | VL | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Air filtration services | VL | VL | VL | M | N/A | N/A | L | L |\n| Regulating and maintenance services | Flood mitigation services | M | M | M | H | H | L | VL/L | VL |\n| Regulating and maintenance services | Global climate regulation services | VL/L | VL | VL | VL | M | VL | VL | VL |\n| Regulating and maintenance services | Nursery population and habitat maintenance services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |",
+      "ja": "| 生態系サービス | 生態系サービス | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 調整・維持サービス | 土質調節サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | その他の調整・維持サービス－大気と生態系による希釈 | L | L | L | H | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | 生物的防除サービス | N/A | N/A | VL | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | 大気浄化サービス | VL | VL | VL | M | N/A | N/A | L | L |\n| 調整・維持サービス | 洪水緩和サービス | M | M | M | H | H | L | VL/L | VL |\n| 調整・維持サービス | 世界的な気候の調整サービス | VL/L | VL | VL | VL | M | VL | VL | VL |\n| 調整・維持サービス | 生育個体群と生息地の維持サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |",
+      "flag": "term-uncertain: Nursery population and habitat maintenance"
+    },
+    {
+      "page": 25,
+      "type": "table",
+      "en": "| Ecosystem services | Ecosystem service | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Regulating and maintenance services | Noise attenuation services | VL | VL | N/A | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Other regulating and maintenance service – Mediation of sensory impacts (other than noise) | VL | VL | N/A | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Local (micro and meso) climate regulation services | L | L | L | H | L | L | L | L |\n| Regulating and maintenance services | Pollination services | N/A | N/A | NA | N/A | N/A | N/A | N/A | N/A |\n| Regulating and maintenance services | Storm mitigation services | M | M | M | VL | H | L | VL/L | VL |\n| Regulating and maintenance services | Water flow regulation services | M/H | M | M | M | M | L | VL/L | VL/L |\n| Regulating and maintenance services | Rainfall pattern regulation services (at sub-continental scale) | VL/L | M | VL | VL | VL | VL | VL | VL |",
+      "ja": "| 生態系サービス | 生態系サービス | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 調整・維持サービス | 騒音減衰サービス | VL | VL | N/A | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | その他の調整・維持サービス－感覚的インパクトの緩和（騒音以外） | VL | VL | N/A | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | 地域の（微・中）気候の調整サービス | L | L | L | H | L | L | L | L |\n| 調整・維持サービス | 花粉媒介サービス | N/A | N/A | NA | N/A | N/A | N/A | N/A | N/A |\n| 調整・維持サービス | 暴風雨の緩和サービス | M | M | M | VL | H | L | VL/L | VL |\n| 調整・維持サービス | 水流調整サービス | M/H | M | M | M | M | L | VL/L | VL/L |\n| 調整・維持サービス | 降雨パターンの調整サービス（亜大陸規模） | VL/L | M | VL | VL | VL | VL | VL | VL |",
+      "flag": "layout-uncertain: row assignment of p.25 ratings reconstructed from extracted order"
+    },
+    {
+      "page": 26,
+      "type": "table",
+      "en": "| Ecosystem services | Ecosystem service | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Cultural services | Recreation-related services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Cultural services | Visual amenity service | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Cultural services | Education, scientific and research services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Cultural services | Spiritual, artistic and symbolic services | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |",
+      "ja": "| 生態系サービス | 生態系サービス | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 文化的サービス | レクリエーション関連サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 文化的サービス | 景観アメニティサービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 文化的サービス | 教育・科学・研究サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 文化的サービス | 精神的・芸術的・象徴的サービス | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "*Dependency on water supply may vary across direct and upstream operations, influenced by cooling technology, facility design, climatic conditions and electricity sources.",
+      "ja": "*淡水供給への依存は、冷却技術、施設設計、気候条件および電源の影響を受け、直接操業と上流の操業とで異なる場合がある。"
+    },
+    {
+      "page": 26,
+      "type": "p",
+      "en": "Source: ENCORE Partners (Global Canopy, UNEP FI and UNEP-WCMC) (2024). ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK: the ENCORE Partners. DOI: https://doi.org/10.34892/dz3x-y059. The ENCORE data displayed here is made available to readers under a CC BY-SA 4.0 licence (https://creativecommons.org/licenses/by-sa/4.0/deed.en); World Economic Forum (2025) Nature Positive: Role of the Technology Sector and additional research by TNFD.",
+      "ja": "出典：ENCORE Partners（Global Canopy、国連環境計画金融イニシアティブおよび国連環境計画世界自然保全モニタリングセンター）（2024）. ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK: the ENCORE Partners. DOI: https://doi.org/10.34892/dz3x-y059. ここに掲載したENCOREのデータは、CC BY-SA 4.0ライセンス（https://creativecommons.org/licenses/by-sa/4.0/deed.en）の下で読者に提供されている。世界経済フォーラム（2025）Nature Positive: Role of the Technology Sector、およびTNFDによる追加調査。"
+    },
+    {
+      "page": 27,
+      "type": "caption",
+      "en": "Table 4: Materiality ratings for impact drivers typically relevant for the technology and communications sector",
+      "ja": "表4：技術・通信セクターに一般的に関連するインパクト要因のマテリアリティ評価"
+    },
+    {
+      "page": 27,
+      "type": "table",
+      "en": "| Drivers of nature change | Impact drivers25 | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Land/Freshwater/Ocean Use Change | Area of land use | L | L | L | H/VH | M/H | VL | L | L |\n| Land/Freshwater/Ocean Use Change | Area of freshwater use | N/A | N/A | N/A | N/A | L | L | N/A | N/A |\n| Land/Freshwater/Ocean Use Change | Area of seabed use | N/A | N/A | N/A | N/A | M | N/A | N/A | N/A |\n| Climate Change | Emission of GHG | H | M/H | M/H | H/VH | H/VH | L | L/M | L |\n| Pollution/Pollution Removal | Emissions of non-GHG air pollutants | H | L/M | L/M | M/H | VL | VL | VL/L | L |\n| Pollution/Pollution Removal | Emissions of toxic pollutants to water and soil | H | H | H | H | H | L | L | L |\n| Pollution/Pollution Removal | Emissions of nutrient pollutants to water and soil | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |",
+      "ja": "| 自然の変化の要因 | インパクト要因25 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 陸／淡水／海洋利用の変化 | 土地利用の面積 | L | L | L | H/VH | M/H | VL | L | L |\n| 陸／淡水／海洋利用の変化 | 淡水利用の面積 | N/A | N/A | N/A | N/A | L | L | N/A | N/A |\n| 陸／淡水／海洋利用の変化 | 海底利用の面積 | N/A | N/A | N/A | N/A | M | N/A | N/A | N/A |\n| 気候変動 | GHGの排出 | H | M/H | M/H | H/VH | H/VH | L | L/M | L |\n| 汚染／汚染除去 | GHG以外の大気汚染物質の排出 | H | L/M | L/M | M/H | VL | VL | VL/L | L |\n| 汚染／汚染除去 | 水と土壌への有害汚染物質の排出 | H | H | H | H | H | L | L | L |\n| 汚染／汚染除去 | 水と土壌への栄養塩類汚染物質の排出 | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |",
+      "flag": "layout-uncertain: land/freshwater use row values reconstructed from extracted order"
+    },
+    {
+      "page": 27,
+      "type": "footnote",
+      "en": "25 Impact drivers are referred to as ‘pressures’ in ENCORE.",
+      "ja": "25 インパクト要因は、ENCOREでは「プレッシャー（pressures）」と呼ばれている。"
+    },
+    {
+      "page": 28,
+      "type": "table",
+      "en": "| Drivers of nature change | Impact drivers25 | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Semiconductors | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>EMS & ODM | Manufacturing, design and sales of electronic equipment (see other columns for upstream/downstream):<br>Hardware (including consumer electronics) | Physical infrastructure (see other columns for upstream/downstream):<br>Datacentre infrastructure | Physical infrastructure (see other columns for upstream/downstream):<br>Telecom infrastructure | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Telecom Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Software & IT Services | Digital products & services (see other columns for upstream/downstream; for infrastructure see other columns):<br>Internet Media & Services |\n|---|---|---|---|---|---|---|---|---|---|\n| Pollution/Pollution Removal | Generation and release of solid waste | M/H | M/H | H | M/H | M | VL | VL | VL/L |\n| Pollution/Pollution Removal | Disturbances | L/M | M | M | M/H | H | L/M | L | VL/L |\n| Resource Use/Replenishment | Other biotic resource extraction only | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| Resource Use/Replenishment | Other abiotic resource extraction | H/VH | VH | VH | H/VH | M/H | N/A | N/A | N/A |\n| Resource Use/Replenishment | Volume of water use | H/VH | H | H | H/VH* | VL | VL | L | L/M |\n| Invasive Alien Species Introduction/Removal | Introduction of invasive species | N/A | N/A | ND | N/A | N/A | N/A | N/A | N/A |",
+      "ja": "| 自然の変化の要因 | インパクト要因25 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>半導体 | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>EMS & ODM | 電子機器の製造、設計、販売（上流／下流については他の列を参照）：<br>ハードウェア（民生用電子機器を含む） | 物理的インフラ（上流／下流については他の列を参照）：<br>データセンターインフラ | 物理的インフラ（上流／下流については他の列を参照）：<br>電気通信インフラ | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>電気通信サービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>ソフトウェアおよびITサービス | デジタル製品・サービス（上流／下流については他の列を参照。インフラについては他の列を参照）：<br>インターネット・メディアおよびサービス |\n|---|---|---|---|---|---|---|---|---|---|\n| 汚染／汚染除去 | 固形廃棄物の発生と放出 | M/H | M/H | H | M/H | M | VL | VL | VL/L |\n| 汚染／汚染除去 | 攪乱 | L/M | M | M | M/H | H | L/M | L | VL/L |\n| 資源使用／資源補充 | その他の生物資源の採取のみ | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |\n| 資源使用／資源補充 | その他の非生物資源の採取 | H/VH | VH | VH | H/VH | M/H | N/A | N/A | N/A |\n| 資源使用／資源補充 | 水使用量 | H/VH | H | H | H/VH* | VL | VL | L | L/M |\n| 侵略的外来種の導入・除去 | 侵略的外来種の導入 | N/A | N/A | ND | N/A | N/A | N/A | N/A | N/A |",
+      "flag": "layout-uncertain: solid waste/disturbances row values reconstructed from extracted order"
+    },
+    {
+      "page": 28,
+      "type": "p",
+      "en": "*Volume of water use may vary depending on cooling technology, facility design and climatic conditions. Significant water use impacts may occur upstream, particularly those associated with electricity generation and physical infrastructure.",
+      "ja": "*水使用量は、冷却技術、施設設計および気候条件によって異なる場合がある。水利用に関する重大なインパクトは、上流、特に発電と物理的インフラに関連して生じる可能性がある。"
+    },
+    {
+      "page": 28,
+      "type": "p",
+      "en": "Source: ENCORE Partners (Global Canopy, UNEP FI and UNEP-WCMC) (2024). ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK: the ENCORE Partners. DOI: https://doi.org/10.34892/dz3x-y059. The ENCORE data displayed here is made available to readers under a CC BY-SA 4.0 licence (https://creativecommons.org/licenses/by-sa/4.0/deed.en); World Economic Forum (2025) Nature Positive: Role of the Technology Sector and additional research by TNFD.",
+      "ja": "出典：ENCORE Partners（Global Canopy、国連環境計画金融イニシアティブおよび国連環境計画世界自然保全モニタリングセンター）（2024）. ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK: the ENCORE Partners. DOI: https://doi.org/10.34892/dz3x-y059. ここに掲載したENCOREのデータは、CC BY-SA 4.0ライセンス（https://creativecommons.org/licenses/by-sa/4.0/deed.en）の下で読者に提供されている。世界経済フォーラム（2025）Nature Positive: Role of the Technology Sector、およびTNFDによる追加調査。"
+    },
+    {
+      "page": 29,
+      "type": "h4",
+      "en": "Using data centre archetypes to improve initial screening",
+      "ja": "初期スクリーニングを改善するためのデータセンター・アーキタイプの活用"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "Actual dependencies and impacts will vary across organisational and geographical contexts. Organisations can use other more targeted or localised datasets to support screening where available or refer to locally defined or international standards that set out nature-related dependencies and impacts of the technology and communications sector.",
+      "ja": "実際の依存とインパクトは、組織や地理的な状況によって異なる。組織は、利用可能な場合には、より対象を絞った、あるいは地域に特化した他のデータセットをスクリーニングの支援に用いることができ、また、技術・通信セクターの自然関連の依存とインパクトを定めた、地域で定義された基準や国際基準を参照することもできる。"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "As an example, for those that own, operate or depend strongly on datacentres in their business model, the WEF’s datacentre archetypes summary (Figure 5) may be useful both in L2 and the Evaluate phase.",
+      "ja": "例えば、データセンターを所有もしくは運営している組織、またはビジネスモデルにおいてデータセンターに強く依存している組織にとっては、WEFのデータセンター・アーキタイプの概要（図5）が、L2と診断フェーズの両方で有用となり得る。",
+      "flag": "term-uncertain: archetype"
+    },
+    {
+      "page": 29,
+      "type": "caption",
+      "en": "Figure 5: A summary of datacentre (DC) archetypes and implications",
+      "ja": "図5：データセンター（DC）のアーキタイプとその示唆の概要"
+    },
+    {
+      "page": 29,
+      "type": "table",
+      "en": "| Archetype | Description | Implication |\n|---|---|---|\n| High cooling need, versatile cooling options | Regions with material cooling needs that have access to renewable power and low water stress | DCs can optimise efficiency through a variety of energy sources and cooling methods |\n| High cooling need, prioritise renewable power | Regions with material cooling needs that have access to renewable power but are water stressed | DCs may look to renewable power to maximise efficiency and reduce water use |\n| High cooling need, incorporate water cooling | Regions with material cooling needs that have limited access to renewable power but low water stress | DCs focus on energy efficiency focusing less on water usage in the near term |\n| High cooling need, constrained on cooling options | Regions with material cooling needs that have limited access to renewable power and high water stress | DCs may require innovative solutions (e.g. on site water recycling, SMRs for power)** to optimise |\n| Low cooling need, optionality in cooling | Regions with low cooling needs that have access to renewable power or have low water stress or both | DCs optimise operations based on the available resources with limited impact |\n| Low cooling need, constrained on cooling options | Regions with low cooling needs that have limited access to renewable power and high water stress | DCs may look to low-impact cooling methods (e.g. free air cooling) when possible |",
+      "ja": "| アーキタイプ | 説明 | 示唆 |\n|---|---|---|\n| 冷却需要が高く、多様な冷却オプションがある | 大きな冷却需要があり、再生可能電力を利用でき、水ストレスが低い地域 | DCは、多様なエネルギー源と冷却方法を通じて効率を最適化できる |\n| 冷却需要が高く、再生可能電力を優先する | 大きな冷却需要があり、再生可能電力を利用できるが、水ストレスがある地域 | DCは、効率を最大化し水使用を削減するために再生可能電力に目を向ける可能性がある |\n| 冷却需要が高く、水冷を取り入れる | 大きな冷却需要があり、再生可能電力の利用は限られているが、水ストレスが低い地域 | DCは、短期的には水使用にはあまり重点を置かず、エネルギー効率に注力する |\n| 冷却需要が高く、冷却オプションが制約されている | 大きな冷却需要があり、再生可能電力の利用が限られ、水ストレスが高い地域 | DCは、最適化のために革新的な解決策（例えば、オンサイトでの水のリサイクル、電力用のSMR）**を必要とする可能性がある |\n| 冷却需要が低く、冷却に選択の余地がある | 冷却需要が低く、再生可能電力を利用できるか、水ストレスが低いか、またはその両方である地域 | DCは、利用可能な資源に基づいて操業を最適化し、インパクトは限定的である |\n| 冷却需要が低く、冷却オプションが制約されている | 冷却需要が低く、再生可能電力の利用が限られ、水ストレスが高い地域 | DCは、可能な場合には低インパクトの冷却方法（例えば、外気冷却）に目を向ける可能性がある |"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "Archetype indicators: Cooling degree days*; Water stress level; Renewable energy share. Scale: Low/medium; High/very high.",
+      "ja": "アーキタイプの指標：冷房度日*；水ストレスレベル；再生可能エネルギー比率。目盛り：低い／中程度；高い／非常に高い。"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "SAMPLE IMPLICATION – Dallas: Dallas has significant cooling needs, but optionality given moderate water stress and high renewable energy share.",
+      "ja": "示唆の例－ダラス：ダラスは冷却需要が大きいが、水ストレスが中程度で再生可能エネルギー比率が高いことから、選択の余地がある。"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "SAMPLE IMPLICATION – United Arab Emirates: DCs in the United Arab Emirates may seek innovative solutions (e.g. water recycling) to manage cooling requirements.",
+      "ja": "示唆の例－アラブ首長国連邦：アラブ首長国連邦のDCは、冷却要件に対処するために革新的な解決策（例えば、水のリサイクル）を求める可能性がある。"
+    },
+    {
+      "page": 29,
+      "type": "figure",
+      "en": "Map legend: High cooling need, but versatile; High cooling need, renewable power; High cooling need, water cooling; High cooling need, constrained; Low cooling need, optionality; Low cooling need, constrained; Very high/high solar potential; Very high/high wind potential; Very high/high geothermal potential.",
+      "ja": "地図の凡例：冷却需要が高いが多様；冷却需要が高い、再生可能電力；冷却需要が高い、水冷；冷却需要が高い、制約あり；冷却需要が低い、選択の余地あり；冷却需要が低い、制約あり；太陽光ポテンシャルが非常に高い／高い；風力ポテンシャルが非常に高い／高い；地熱ポテンシャルが非常に高い／高い。"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "Notes: *Cooling degree days are used to indicate cooling requirements. The metric shows how far above 15.5ºC the daily average temperature is over the course of two years. See additional methodology in Appendix B of WEF (2025). **SMR = small modular reactor.",
+      "ja": "注：*冷房度日は、冷却要件を示すために用いられる。この測定指標は、2年間にわたり日平均気温が15.5ºCをどれだけ上回っているかを示す。追加の方法論については、WEF（2025）の付録Bを参照。**SMR＝小型モジュール炉。"
+    },
+    {
+      "page": 29,
+      "type": "p",
+      "en": "Source: World Economic Forum (2025) Nature Positive: Role of the Technology Sector",
+      "ja": "出典：世界経済フォーラム（2025）Nature Positive: Role of the Technology Sector"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "These archetypes can support initial screening by helping organisations identify which dependencies and impacts may be most relevant across different datacentre operating contexts. Organisations can compare characteristics such as cooling demand, water stress and renewable energy share to determine which archetype best reflects a particular site or group of sites and use this to inform where further assessment may be needed. For example, an organisation that operates datacentres across several regions could use the archetypes to distinguish sites with high cooling needs and high water stress from those with lower cooling needs or greater flexibility in cooling options. This can help indicate where water-related dependencies and impacts may require greater attention, while also highlighting trade-offs between water use, cooling technology and energy sources.",
+      "ja": "これらのアーキタイプは、さまざまなデータセンターの運営状況においてどの依存とインパクトが最も関連性が高いかを組織が特定するのを助けることで、初期スクリーニングを支援することができる。組織は、冷却需要、水ストレス、再生可能エネルギー比率などの特性を比較して、特定の事業拠点または事業拠点群を最もよく反映するアーキタイプを判断し、それを用いて、さらなる評価が必要となり得る箇所を把握することができる。例えば、複数の地域でデータセンターを運営する組織は、アーキタイプを用いて、冷却需要が高くかつ水ストレスが高い事業拠点を、冷却需要がより低い事業拠点や冷却オプションの柔軟性がより高い事業拠点と区別することができる。これは、水関連の依存とインパクトにより大きな注意を要する可能性がある箇所を示すとともに、水利用、冷却技術およびエネルギー源の間のトレードオフを浮き彫りにするのに役立つ。"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "The archetypes are intended as an initial screening tool, rather than a substitute for site-level assessment. Subsequent phases of LEAP add more granularity to dependency and impact assessment by considering local conditions, operational practices, and the tradeoffs between cooling, water use and energy sources (water-based cooling being only one of several cooling techniques). These factors and their implications should be assessed at the site level.",
+      "ja": "アーキタイプは、事業拠点レベルの評価に代わるものではなく、初期スクリーニングのツールとして意図されている。LEAPの後続のフェーズでは、地域の条件、操業慣行、および冷却、水利用とエネルギー源の間のトレードオフ（水を用いた冷却は複数ある冷却技術の一つにすぎない）を考慮することにより、依存とインパクトの評価をより詳細なものにする。これらの要因とその示唆は、事業拠点レベルで評価すべきである。"
+    },
+    {
+      "page": 30,
+      "type": "h3",
+      "en": "L3: Interface with nature",
+      "ja": "L3：自然との接点"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "Guiding questions: Where are the sectors, value chains and direct operations with potentially moderate and high dependencies and impacts located? Which biomes and specific ecosystems do our direct operations and moderate and high dependency and impact value chains and sectors interface with?",
+      "ja": "指針となる問い：潜在的に中～高程度の依存とインパクトがあるセクター、バリューチェーン、直接操業はどこに位置しているか。当社の直接操業と、中～高程度の依存とインパクトがあるバリューチェーンとセクターは、どのバイオームおよび特定の生態系と接点を持っているか。"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "Based on the value chain assessment in L1 and the materiality screening in L2, an organisation can determine which biomes and ecosystems these assets and activities interface with. Organisations in the technology and communications sector typically interface with the following biomes:",
+      "ja": "L1におけるバリューチェーンの評価とL2におけるマテリアリティのスクリーニングに基づき、組織は、これらの資産と活動がどのバイオームと生態系と接点を持っているかを判断することができる。技術・通信セクターの組織は、一般的に以下のバイオームと接点を持つ。"
+    },
+    {
+      "page": 30,
+      "type": "p",
+      "en": "Land – for any fabs, manufacturing and processing sites, datacentre or telecom infrastructure.",
+      "ja": "陸－あらゆるファブ（半導体製造工場）、製造・加工拠点、データセンターまたは電気通信インフラについて。"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Temperate boreal forests and woodlands (T2);",
+      "ja": "温帯・北方の森林と林地（T2）",
+      "flag": "term-uncertain: IUCN GET biome names"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Shrublands and shrubby woodlands (T3);",
+      "ja": "低木地と低木林（T3）"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Savannas and grasslands (T4); and",
+      "ja": "サバンナと草原（T4）"
+    },
+    {
+      "page": 30,
+      "type": "li",
+      "en": "Deserts and semi-deserts (T5).",
+      "ja": "砂漠と半砂漠（T5）"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Freshwater – especially relevant for infrastructure requiring ample access to freshwater.",
+      "ja": "淡水－淡水への十分なアクセスを必要とするインフラに特に関連する。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Rivers and streams (F1);",
+      "ja": "河川と小川（F1）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Lakes (F2);",
+      "ja": "湖沼（F2）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Artificial wetlands (F3);",
+      "ja": "人工湿地（F3）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Vegetated wetlands (TF1); and",
+      "ja": "植生のある湿地（TF1）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Subterranean freshwaters (SF1).",
+      "ja": "地下淡水（SF1）"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Ocean – especially relevant for the underwater cables part of telecommunications infrastructure.",
+      "ja": "海洋－電気通信インフラの一部である海中ケーブルに特に関連する。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Marine shelf (M1);",
+      "ja": "大陸棚（M1）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Deep sea floors (M3);",
+      "ja": "深海底（M3）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Shoreline systems (MT1);",
+      "ja": "海岸線システム（MT1）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Maritime vegetation (MT2);",
+      "ja": "海岸植生（MT2）",
+      "flag": "term-uncertain: Maritime vegetation"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Coastal inlets and lagoons (FM1); and",
+      "ja": "沿岸の入江とラグーン（FM1）"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Brackish tidal systems (MFT1).",
+      "ja": "汽水の潮汐システム（MFT1）",
+      "flag": "term-uncertain: Brackish tidal systems"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "This list can be considered as a reference. However, organisations should review all applicable biomes connected to their specific interfaces across the value chains and associated activities where significant dependencies and impacts on those biomes exist.",
+      "ja": "このリストは参考として考慮することができる。ただし組織は、バリューチェーンと関連する活動全体にわたる自らの具体的な接点に結び付いた、該当するすべてのバイオームのうち、それらのバイオームに対する重大な依存とインパクトが存在するものを検討すべきである。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "The following are illustrative examples of technology and communications sector organisations’ interfaces with biomes and ecosystems:",
+      "ja": "以下は、技術・通信セクターの組織とバイオームおよび生態系との接点の例示である。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Semiconductor fabs may be located in or near water basins, in biomes such as rivers and streams (F1), lakes (F2) and subterranean freshwaters (SF1);",
+      "ja": "半導体ファブは、河川と小川（F1）、湖沼（F2）、地下淡水（SF1）などのバイオームにおいて、流域内またはその近くに立地している場合がある。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Datacentres that depend on water for energy production and/or cooling may be located in land-based biomes but can also be in or near freshwater biomes such as rivers and streams (F1), lakes (F2) and vegetated wetlands (TF1);",
+      "ja": "エネルギー生産および／または冷却を水に依存するデータセンターは、陸域のバイオームに立地している場合があるが、河川と小川（F1）、湖沼（F2）、植生のある湿地（TF1）などの淡水バイオームの中またはその近くに立地している場合もある。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "Telecommunication towers may be located in a wide range of land-based biomes, such as temperate boreal forests and woodlands (T2), shrublands and shrubby woodlands (T3), savannas and grasslands (T4), and deserts and semi-deserts (T5); and",
+      "ja": "通信鉄塔は、温帯・北方の森林と林地（T2）、低木地と低木林（T3）、サバンナと草原（T4）、砂漠と半砂漠（T5）など、幅広い陸域のバイオームに立地している場合がある。"
+    },
+    {
+      "page": 31,
+      "type": "li",
+      "en": "For telecommunications organisations, cables under seabeds may be located in ocean biomes, such as the marine shelf (M1) and deep-sea floors (M3).",
+      "ja": "電気通信の組織の場合、海底下のケーブルは、大陸棚（M1）や深海底（M3）などの海洋バイオームに位置している場合がある。"
+    },
+    {
+      "page": 31,
+      "type": "p",
+      "en": "Organisations should also consider how the type and spatial pattern of assets may affect the interface with ecosystems. Concentrated assets, such as datacentres, manufacturing facilities and telecommunications network hubs may have localised but potentially intensive dependencies and impacts linked to land use, water, energy and waste. Distributed assets, such as towers, cables and other network infrastructure, may have smaller individual footprints but can create cumulative impacts across landscapes, basins or seascapes, including through construction, maintenance, habitat disturbance and the potential spread of invasive alien species.",
+      "ja": "組織はまた、資産の種類と空間的なパターンが生態系との接点にどのような影響を及ぼし得るかも考慮すべきである。データセンター、製造施設、電気通信ネットワークのハブなどの集中型の資産は、土地利用、水、エネルギーおよび廃棄物に関連して、局所的ではあるが潜在的に強度の高い依存とインパクトを持つ場合がある。鉄塔、ケーブルその他のネットワークインフラなどの分散型の資産は、個々のフットプリントはより小さい場合があるが、建設、保守、生息地の攪乱、侵略的外来種の拡散の可能性などを通じて、ランドスケープ、流域またはシースケープ全体にわたる累積的インパクトを生み出し得る。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "An organisation can identify the ecosystems in which raw materials are mined by referring to datasets such as Tang et al.26 to better understand the origin of metals and minerals procured and identify the biomes and ecosystems they are located in.",
+      "ja": "組織は、Tang et al.26などのデータセットを参照することで、原材料が採掘される生態系を特定し、調達する金属と鉱物の原産地をよりよく理解し、それらが位置するバイオームと生態系を特定することができる。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Organisations may refer to L3 in the LEAP guidance and to the TNFD biome guidance for more definitions and further guidance when analysing their interfaces with biomes and ecosystems.",
+      "ja": "組織は、バイオームと生態系との接点を分析する際に、さらなる定義と追加のガイダンスとして、LEAPガイダンスのL3およびTNFDのバイオームガイダンスを参照することができる。"
+    },
+    {
+      "page": 32,
+      "type": "h3",
+      "en": "L4: Interface with sensitive locations",
+      "ja": "L4：要注意地域との接点"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Guiding questions: For our organisation’s activities in moderate and high dependency and impact value chains and sectors, which of these are in ecologically sensitive locations? And which of our direct operations are in sensitive locations?",
+      "ja": "指針となる問い：中～高程度の依存とインパクトがあるバリューチェーンとセクターにおける当社の組織の活動のうち、生態学的に要注意な地域にあるものはどれか。また、当社の直接操業のうち、要注意地域にあるものはどれか。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Building on the assessment in L1 to L3, organisations assess whether identified activities and assets (direct operations and in value chain) are geographically located in ecologically sensitive locations. Sensitive locations are defined by TNFD as:",
+      "ja": "L1からL3までの評価に基づき、組織は、特定された活動と資産（直接操業およびバリューチェーン内）が地理的に生態学的に要注意な地域に位置しているかどうかを評価する。TNFDは、要注意地域を次のように定義している。"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Areas important for biodiversity, including species; and/or",
+      "ja": "種を含む、生物多様性にとり重要な地域、および／または"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Areas of high ecosystem integrity; and/or",
+      "ja": "生態系の十全性が高い地域、および／または"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Areas of rapid decline in ecosystem integrity; and/or",
+      "ja": "生態系の十全性が急速に低下している地域、および／または"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Areas of high physical water risks; and/or",
+      "ja": "物理的な水リスクが高い地域、および／または"
+    },
+    {
+      "page": 32,
+      "type": "li",
+      "en": "Areas of importance for ecosystem service provision, including benefits to Indigenous Peoples, Local Communities and stakeholders.",
+      "ja": "先住民族、地域社会とステークホルダーへの便益を含む、生態系サービスの供給にとり重要な地域"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Organisations can refer to the criteria for sensitive locations in Table 4 of the TNFD LEAP approach.",
+      "ja": "組織は、TNFDのLEAPアプローチの表4にある要注意地域の基準を参照することができる。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Sensitive locations may extend well beyond the footprint of an individual asset. Semiconductor fabs and some EMS & ODM facilities can depend heavily on local water resources and may affect the very water basins they depend on through abstraction, wastewater discharge and chemical use. Datacentres may create similar location-specific pressures where water is used for cooling or where electricity supply has a water footprint. Organisations should therefore consider not only the sensitivity of the site itself, but also the wider basin and the needs of other users (including Indigenous Peoples, local communities, farmers and other stakeholders) that depend on the same ecosystem services.",
+      "ja": "要注意地域は、個々の資産のフットプリントをはるかに超えて広がる場合がある。半導体ファブや一部のEMS & ODM施設は、地域の水資源に大きく依存している場合があり、取水、廃水排出および化学物質の使用を通じて、自らが依存しているまさにその流域に影響を及ぼす可能性がある。データセンターも、冷却に水が使用される場合や電力供給に水のフットプリントがある場合には、同様の場所固有のプレッシャーを生み出す可能性がある。したがって組織は、事業拠点自体の要注意性だけでなく、より広い流域と、同じ生態系サービスに依存する他の利用者（先住民族、地域社会、農業者その他のステークホルダーを含む）のニーズも考慮すべきである。"
+    },
+    {
+      "page": 32,
+      "type": "p",
+      "en": "Telecommunications infrastructure has a different spatial pattern of interaction with sensitive locations. Towers, terrestrial cable routes and subsea cables can cross or connect multiple ecosystems, including wildlife corridors and other areas important for habitat connectivity. Relevant interfaces may occur along cable routes and at landing or connection points and not just at individual sites. The area of assessment should therefore reflect how each activity interacts with the surrounding landscape, basin or seascape, including ecological connections and pathways through which impacts may occur.",
+      "ja": "電気通信インフラは、要注意地域との相互作用において異なる空間的パターンを持つ。鉄塔、陸上ケーブルのルートおよび海底ケーブルは、野生生物の回廊や生息地の連結性にとって重要なその他の地域を含む、複数の生態系を横断し、または結び付ける場合がある。関連する接点は、個々の事業拠点だけでなく、ケーブルのルート沿いや陸揚げ地点または接続地点でも生じ得る。したがって評価の範囲は、生態学的なつながりやインパクトが生じ得る経路を含め、各活動が周囲のランドスケープ、流域またはシースケープとどのように相互作用するかを反映すべきである。"
+    },
+    {
+      "page": 32,
+      "type": "footnote",
+      "en": "26 Tang, L. and Werner, T.T. (2023) Global mining footprint mapped from high-resolution satellite imagery.",
+      "ja": "26 Tang, L. and Werner, T.T.（2023）Global mining footprint mapped from high-resolution satellite imagery."
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Organisations can use asset-level spatial data, such as site polygons, cable routes, tower locations, water abstraction points and discharge points, and overlay these with spatial data on sensitive locations. For example, a fab or datacentre can be assessed in relation to basin-level water stress and related freshwater ecosystems, while a subsea cable route can be checked against marine habitats along the route and at landing points. This can help identify where activities or assets interface with sensitive locations and where more detailed assessment is needed.",
+      "ja": "組織は、事業拠点のポリゴン、ケーブルのルート、鉄塔の位置、取水地点、排水地点などの資産レベルの空間データを用い、これらを要注意地域に関する空間データと重ね合わせることができる。例えば、ファブやデータセンターは流域レベルの水ストレスや関連する淡水生態系との関係で評価することができ、海底ケーブルのルートはルート沿いや陸揚げ地点の海洋生息地と照合することができる。これは、活動や資産が要注意地域とどこで接点を持っているか、どこでより詳細な評価が必要かを特定するのに役立つ。"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Sources of further information, datasets and tools include:",
+      "ja": "追加の情報、データセットおよびツールの情報源には、以下が含まれる。"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "WWF Risk Filter (containing both the Biodiversity Risk Filter and the Water Risk Filter);",
+      "ja": "WWFリスクフィルター（生物多様性リスクフィルターと水リスクフィルターの両方を含む）"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "WRI Aqueduct;",
+      "ja": "WRI Aqueduct"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "EMODNet (dataset on subsea telecommunication cables in European waters);",
+      "ja": "EMODNet（欧州海域の海底通信ケーブルに関するデータセット）"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Global Lakes and Wetlands Database;",
+      "ja": "Global Lakes and Wetlands Database"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Global Nature Watch (formerly the Global Forest Watch, since widened in scope);",
+      "ja": "Global Nature Watch（旧Global Forest Watch。その後対象範囲を拡大）"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "Integrated Biodiversity Assessment Tool (IBAT); and",
+      "ja": "国際生物多様性評価ツール（IBAT）"
+    },
+    {
+      "page": 33,
+      "type": "li",
+      "en": "UN Biodiversity Lab.",
+      "ja": "UN Biodiversity Lab"
+    },
+    {
+      "page": 33,
+      "type": "p",
+      "en": "Further tools and guidance are provided in the TNFD guidance on the LEAP approach, the TNFD Tools Catalogue, the UNEP-WCMC Nature Tools Compass and SBTN’s Step 1 Toolbox.",
+      "ja": "その他のツールとガイダンスは、LEAPアプローチに関するTNFDガイダンス、TNFDツールカタログ、国連環境計画世界自然保全モニタリングセンターのNature Tools Compass、およびSBTNのStep 1 Toolboxに記載されている。"
+    },
+    {
+      "page": 34,
+      "type": "h2",
+      "en": "2.3. Evaluate dependencies and impacts on nature",
+      "ja": "2.3. 自然への依存と自然に対するインパクトの診断"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "This section provides additional guidance to help technology and communications organisations with the Evaluate phase of the LEAP approach.",
+      "ja": "本節では、技術・通信の組織によるLEAPアプローチの診断フェーズを支援するための追加ガイダンスを示す。"
+    },
+    {
+      "page": 34,
+      "type": "h3",
+      "en": "E1: Identification of environmental assets, ecosystem services and impact drivers",
+      "ja": "E1：環境資産、生態系サービス、インパクト要因の特定"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Guiding questions: What are the sub-sectors, business processes or activities to be analysed? What environmental assets, ecosystem services and impact drivers are associated with these sub-sectors, business processes, activities and assessment locations?",
+      "ja": "指針となる問い：分析すべきサブセクター、ビジネスプロセスまたは活動は何か。これらのサブセクター、ビジネスプロセス、活動および評価地域には、どのような環境資産、生態系サービスおよびインパクト要因が関連しているか。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Guidance for components E1 and E2 is provided together under E2.",
+      "ja": "構成要素E1とE2のガイダンスは、E2の下でまとめて示す。"
+    },
+    {
+      "page": 34,
+      "type": "h3",
+      "en": "E2: Identification of dependencies and impacts",
+      "ja": "E2：依存とインパクトの特定"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Guiding question: What are our dependencies and impacts on nature?",
+      "ja": "指針となる問い：当社の自然への依存と自然に対するインパクトは何か。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "In the Evaluate phase, organisations move beyond the global averages used for screening in L2 to consider dependencies and impacts in the context of the organisation’s actual operations and specific locations. Dependencies and impacts on nature arise across technology and communications organisations’ direct operations and upstream and downstream value chains.",
+      "ja": "診断フェーズでは、組織は、L2のスクリーニングで用いた世界平均を超えて、組織の実際の操業と特定の地域の文脈において依存とインパクトを検討する。自然への依存と自然に対するインパクトは、技術・通信の組織の直接操業と、上流と下流のバリューチェーン全体にわたって生じる。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Impacts may extend beyond the site, such as pollutants carried downstream through river systems to the ocean. This may include water withdrawal or discharge points (where they link to wider water basins), site-specific energy generation or backup power infrastructure, cooling and wastewater systems, access routes and cable corridors.",
+      "ja": "インパクトは、河川系を通じて下流から海洋へと運ばれる汚染物質のように、事業拠点を越えて及ぶ場合がある。これには、取水地点または排水地点（より広い流域とつながっている場合）、事業拠点固有のエネルギー生産またはバックアップ電源のインフラ、冷却・廃水システム、アクセス路およびケーブルの敷設経路が含まれ得る。"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Tables 5 and 6 provide illustrative dependency and impact pathways for the technology and communications sector. Organisations should refer to TNFD additional sector guidance for dependencies and impacts upstream and downstream where relevant (e.g. metals and mining, engineering, construction and real estate, construction materials, and electric utilities and power generators).",
+      "ja": "表5と表6は、技術・通信セクターにおける依存経路とインパクト経路の例を示している。組織は、関連する場合には、上流と下流の依存とインパクトについてTNFDの追加セクターガイダンス（例えば、金属・鉱業、エンジニアリング・建設・不動産、建設資材、電力会社および発電事業者）を参照すべきである。"
+    },
+    {
+      "page": 34,
+      "type": "h4",
+      "en": "Dependencies on nature",
+      "ja": "自然への依存"
+    },
+    {
+      "page": 34,
+      "type": "p",
+      "en": "Table 5 provides examples of dependency pathways relevant to technology and communications. It is not intended to be comprehensive and an organisation will need to consider if these or other examples apply to its particular context.",
+      "ja": "表5は、技術・通信に関連する依存経路の例を示している。これは網羅的なものを意図しておらず、組織は、これらの例またはその他の例が自らの特定の状況に当てはまるかどうかを検討する必要がある。"
+    },
+    {
+      "page": 35,
+      "type": "caption",
+      "en": "Table 5: Examples of dependency pathways in the technology and communications sector, by business activity",
+      "ja": "表5：技術・通信セクターにおける事業活動別の依存経路の例"
+    },
+    {
+      "page": 35,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| Semiconductors | Raw materials procurement | Environmental assets<br>• Underwater mineral and energy resources<br>• Marine ecosystems<br>• Land<br>• Terrestrial and subterranean terrestrial ecosystems<br>• Mineral and energy resources<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Soil and sediment retention<br>• Flood mitigation<br>• Water flow regulation<br>• Rainfall pattern regulation<br>• Local and global climate regulation<br>• Storm mitigation | The semiconductors industry depends on a wide range of components: minerals (including but not limited to silica sand, silicon and indium),27 rare earth elements (REEs) and critical and precious metals (gold, silver, copper, aluminium, platinum, palladium). As such, they depend on natural processes that create these resources.<br>The semiconductors industry also relies on regulating and maintenance ecosystem services for the operation of mining activities to supply the sector’s components (e.g. chips). Ecosystem services that support mining infrastructure and its operations include effective flood mitigation, rainfall pattern regulation, storm mitigation to reduce risks such as excessive rainfall and flooding and local climate regulation.<br>More information on dependencies is provided in TNFD’s Metals and Mining sector guidance. |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| 半導体 | 原材料の調達 | 環境資産<br>• 海中の鉱物・エネルギー資源<br>• 海洋生態系<br>• 陸<br>• 陸域生態系と地下の陸域生態系<br>• 鉱物・エネルギー資源<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 土壌と土砂の保持<br>• 洪水緩和<br>• 水流調整<br>• 降雨パターンの調整<br>• 地域的および世界的な気候の調整<br>• 暴風雨の緩和 | 半導体産業は、鉱物（ケイ砂、シリコン、インジウムを含むが、これらに限らない）27、レアアース（希土類元素、REE）、ならびに重要金属および貴金属（金、銀、銅、アルミニウム、白金、パラジウム）といった多種多様な構成要素に依存している。そのため、これらの資源を生み出す自然のプロセスに依存している。<br>半導体産業はまた、セクターの構成要素（例えば、チップ）を供給する採掘活動の操業のために、調整・維持の生態系サービスにも依存している。採掘インフラとその操業を支える生態系サービスには、過剰な降雨や洪水などのリスクを低減するための効果的な洪水緩和、降雨パターンの調整、暴風雨の緩和、および地域の気候の調整が含まれる。<br>依存に関する詳細は、TNFDの金属・鉱業セクターガイダンスに記載されている。 |"
+    },
+    {
+      "page": 35,
+      "type": "footnote",
+      "en": "27 Goswami, O. (2023) Chipping in: Critical minerals for semiconductor manufacturing in the US.",
+      "ja": "27 Goswami, O.（2023）Chipping in: Critical minerals for semiconductor manufacturing in the US."
+    },
+    {
+      "page": 36,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| Semiconductors | Semiconductor wafer fabrication, assembly, packaging and testing | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation<br>• Water purification<br>• Rainfall pattern regulation | Water is critical for semiconductor manufacturing and for operating facilities. It is notably used for air purification, temperature control, water purification and cooling systems in very high volumes. As a direct physical input, organisations are dependent on sufficient freshwater from both surface water and groundwater for their manufacturing processes. The availability of water, in turn, depends on reliable rainfall and the wider hydrological cycle to recharge water bodies. For example, in East Asia, the absence of rainfall has reduced capacity to capture and store water, contributing to drought conditions that have forced manufacturers to rely on hundreds of water trucks to maintain their operations.28 |\n| EMS & ODM and Hardware | Raw materials and semiconductors procurement | Refer to the semiconductors section for environmental assets and ecosystem services. | In addition to raw materials for semiconductor production, EMS & ODM and hardware depend on battery materials, including lithium, cobalt and graphite. |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| 半導体 | 半導体のウェーハ製造、組立、パッケージングおよびテスト | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整<br>• 水質浄化<br>• 降雨パターンの調整 | 水は、半導体製造と施設の運営にとって不可欠である。特に、空気浄化、温度管理、水の浄化および冷却システムに非常に大量に使用される。直接的な物理的投入物として、組織は製造プロセスのために、地表水と地下水の両方から得られる十分な淡水に依存している。水の利用可能性は、ひいては、水域を涵養する安定した降雨とより広い水循環に依存している。例えば東アジアでは、降雨がなかったことで水を確保・貯留する能力が低下し、干ばつ状態の一因となったため、製造業者は操業を維持するために数百台の給水車に頼らざるを得なかった28。 |\n| EMS & ODMおよびハードウェア | 原材料と半導体の調達 | 環境資産と生態系サービスについては、半導体の項を参照。 | 半導体生産のための原材料に加え、EMS & ODMとハードウェアは、リチウム、コバルト、黒鉛などの電池材料に依存している。 |"
+    },
+    {
+      "page": 36,
+      "type": "footnote",
+      "en": "28 Roussilhe, G. et al. (2024) From silicon shield to carbon lock‐in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020).",
+      "ja": "28 Roussilhe, G. et al.（2024）From silicon shield to carbon lock‐in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020)."
+    },
+    {
+      "page": 37,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| EMS & ODM and Hardware | EMS & ODM assembly, testing, packaging | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water purification<br>• Water flow regulation | EMS & ODM and hardware manufacturing, assembly and testing depend on reliable supplies of water of suitable quality for process cleaning and rinsing, cooling, humidity control and facility operations. This, in turn, depends on freshwater resources and ecosystem services that support water supply, natural purification and flow regulation. The level of dependence varies by product and production process, with component manufacturing generally more water intensive than final assembly and testing. |\n| EMS & ODM and Hardware | Hardware product design and development | Environmental assets<br>• Land<br>• Terrestrial ecosystems<br>• Freshwater ecosystems<br>• Marine and coastal ecosystems (e.g. mangroves protecting coastline)<br>Ecosystem services<br>• Flood mitigation<br>• Rainfall pattern regulation<br>• Storm mitigation | An example that illustrates the industry’s dependence on services like flood mitigation, rainfall pattern regulation and storm mitigation is the flooding in Thailand that severely disrupted electronics manufacturing and caused global shortages, leading to significant price spikes for electronic components.29 |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| EMS & ODMおよびハードウェア | EMS & ODMの組立、テスト、パッケージング | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水質浄化<br>• 水流調整 | EMS & ODMおよびハードウェアの製造、組立とテストは、工程での洗浄・すすぎ、冷却、湿度管理および施設の運営のための、適切な水質の水の安定供給に依存している。これは、ひいては、淡水資源と、水供給、自然の浄化作用および流量調整を支える生態系サービスに依存している。依存の程度は製品と生産工程によって異なり、一般に部品製造は最終組立やテストよりも水集約度が高い。 |\n| EMS & ODMおよびハードウェア | ハードウェア製品の設計と開発 | 環境資産<br>• 陸<br>• 陸域生態系<br>• 淡水生態系<br>• 海洋・沿岸生態系（例えば、海岸線を守るマングローブ）<br>生態系サービス<br>• 洪水緩和<br>• 降雨パターンの調整<br>• 暴風雨の緩和 | 洪水緩和、降雨パターンの調整、暴風雨の緩和などのサービスへのこの産業の依存を示す例として、タイの洪水が挙げられる。この洪水はエレクトロニクス製造を深刻に混乱させて世界的な不足を引き起こし、電子部品の価格の大幅な高騰につながった29。 |"
+    },
+    {
+      "page": 37,
+      "type": "footnote",
+      "en": "29 Ploy Ten, K. and Kim, C.R. (2011) Thai floods batter global electronics, auto supply chains.",
+      "ja": "29 Ploy Ten, K. and Kim, C.R.（2011）Thai floods batter global electronics, auto supply chains."
+    },
+    {
+      "page": 38,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| Datacentres (infrastructure) | Construction of datacentre facilities and supporting infrastructure | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>• Subterranean terrestrial ecosystems<br>Ecosystem services<br>• Rainfall pattern regulation<br>• Flood mitigation<br>• Soil and sediment retention<br>• Storm mitigation | The construction of datacentres requires land and various ecosystem services to operate. Ecosystems surrounding datacentres provide regulating and maintenance services that protect operations from natural hazards such as floods and storms and help to stabilise the surrounding soil, supporting operations and reducing the risk of landslides. |\n| Datacentres (infrastructure) | Hardware procurement | Refer to semiconductors, EMS & ODM and hardware sections for more information. | |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| データセンター（インフラ） | データセンター施設と支援インフラの建設 | 環境資産<br>• 陸<br>• 陸域（陸上の）生態系<br>• 地下の陸域生態系<br>生態系サービス<br>• 降雨パターンの調整<br>• 洪水緩和<br>• 土壌と土砂の保持<br>• 暴風雨の緩和 | データセンターの建設には、土地と、運営のためのさまざまな生態系サービスが必要である。データセンターを取り巻く生態系は、洪水や暴風雨などの自然災害から操業を守り、周囲の土壌の安定化に寄与する調整・維持サービスを提供し、操業を支えるとともに地すべりのリスクを低減する。 |\n| データセンター（インフラ） | ハードウェアの調達 | 詳細については、半導体、EMS & ODMおよびハードウェアの項を参照。 | |"
+    },
+    {
+      "page": 39,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| Datacentres (infrastructure) | Water sourcing and use for electricity generation | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation<br>• Water purification | Datacentres may depend indirectly on water resources to produce electricity that allows them to run continuously. Reliance on water is generally when the source of electricity is fossil fuels instead of renewable sources like solar or wind. Datacentres rely on the hydrological cycle to recharge groundwater sources, regulate river flows and maintain surface water flows, notably groundwater and lake water tables.30 |\n| Datacentres (infrastructure) | Water sourcing and use for cooling systems | Environmental assets<br>• Water resources<br>• Freshwater ecosystems<br>Ecosystem services<br>• Water supply<br>• Water flow regulation<br>• Water purification | Datacentres using water-based cooling systems require water for cooling and/or humidification. They depend on water supply and healthy water basins, which support groundwater recharge and help regulate river and lake levels and flows. |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| データセンター（インフラ） | 発電のための水の調達と利用 | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整<br>• 水質浄化 | データセンターは、継続的な稼働を可能にする電力の生産のために、間接的に水資源に依存している場合がある。水への依存は一般に、電源が太陽光や風力などの再生可能な電源ではなく化石燃料である場合に生じる。データセンターは、地下水源の涵養、河川流量の調節、および地表水の流れ、特に地下水位と湖の水位の維持を水循環に依存している30。 |\n| データセンター（インフラ） | 冷却システムのための水の調達と利用 | 環境資産<br>• 水資源<br>• 淡水生態系<br>生態系サービス<br>• 淡水供給<br>• 水流調整<br>• 水質浄化 | 水を用いた冷却システムを使用するデータセンターは、冷却および／または加湿のために水を必要とする。それらは、水供給と、地下水の涵養を支え、河川と湖の水位と流れの調節に寄与する健全な流域に依存している。 |"
+    },
+    {
+      "page": 39,
+      "type": "footnote",
+      "en": "30 Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers.",
+      "ja": "30 Ceres（2025）Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres（2026）Water Behind the Watts: The Hidden Risk of Powering Data Centers."
+    },
+    {
+      "page": 40,
+      "type": "table",
+      "en": "| Sub-sector | Business activity | Environmental assets and ecosystem services depended on | Description of dependencies |\n|---|---|---|---|\n| Telecommunications (infrastructure) | Construction of telecommunications infrastructure (towers, cables, switches, antennas, network equipment) | Environmental assets<br>• Land<br>• Terrestrial (land-based) ecosystems<br>• Subterranean terrestrial ecosystems<br>• Marine (ocean) ecosystems<br>• Subterranean marine and coastal ecosystems<br>Ecosystem services<br>• Rain pattern regulation<br>• Flood mitigation<br>• Soil and sediment retention<br>• Storm mitigation | Building telecommunication infrastructure requires land for facilities, including the installation of towers, cables for transmission lines and ground stations associated with broadcasting satellites. Ecosystems surrounding telecommunications infrastructure provide regulating and maintenance services that protect infrastructure from natural hazards such as floods and storms and help to stabilise the surrounding soil, reducing the risk of landslides.<br>Submarine cable systems depend on the stability of the seafloor along their entire route, where sediment regimes, seabed stability, ocean conditions and climatic patterns are all contributing factors.31<br>To ensure cable protection and long-term stability, their placement must intentionally avoid sensitive habitats based on accurate environmental information, including the distribution of benthic habitats, the nature of seafloor substrates and sediment dynamics.32 |",
+      "ja": "| サブセクター | 事業活動 | 依存している環境資産と生態系サービス | 依存の説明 |\n|---|---|---|---|\n| 電気通信（インフラ） | 電気通信インフラ（鉄塔、ケーブル、交換機、アンテナ、ネットワーク機器）の建設 | 環境資産<br>• 陸<br>• 陸域（陸上の）生態系<br>• 地下の陸域生態系<br>• 海洋（外洋）生態系<br>• 地下の海洋・沿岸生態系<br>生態系サービス<br>• 降雨パターンの調整<br>• 洪水緩和<br>• 土壌と土砂の保持<br>• 暴風雨の緩和 | 電気通信インフラの構築には、鉄塔、送電線用ケーブル、放送衛星に関連する地上局の設置を含め、施設のための土地が必要である。電気通信インフラを取り巻く生態系は、洪水や暴風雨などの自然災害からインフラを守り、周囲の土壌の安定化に寄与する調整・維持サービスを提供し、地すべりのリスクを低減する。<br>海底ケーブルシステムは、ルート全体にわたる海底の安定性に依存しており、そこでは堆積物の動態、海底の安定性、海洋の状態および気候パターンのすべてが寄与要因となる31。<br>ケーブルの保護と長期的な安定性を確保するため、ケーブルの敷設にあたっては、底生生息地の分布、海底基質の性質、堆積物の動態などの正確な環境情報に基づき、要注意な生息地を意図的に回避しなければならない32。 |"
+    },
+    {
+      "page": 40,
+      "type": "footnote",
+      "en": "31 Bricheno, L. et al. (2024) The diversity, frequency and severity of natural hazard impacts on subsea telecommunications networks.",
+      "ja": "31 Bricheno, L. et al.（2024）The diversity, frequency and severity of natural hazard impacts on subsea telecommunications networks."
+    },
+    {
+      "page": 40,
+      "type": "footnote",
+      "en": "32 UNEP-WCMC (2025) Submarine cables and marine biodiversity.",
+      "ja": "32 国連環境計画世界自然保全モニタリングセンター（UNEP-WCMC）（2025）Submarine cables and marine biodiversity."
+    }
+  ]
+}

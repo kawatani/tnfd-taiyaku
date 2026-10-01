@@ -1,0 +1,882 @@
+{
+  "doc": "tc",
+  "pages": [
+    1,
+    20
+  ],
+  "segments": [
+    {
+      "page": 1,
+      "type": "h1",
+      "en": "Additional sector guidance – Technology and communications",
+      "ja": "追加セクターガイダンス – 技術・通信"
+    },
+    {
+      "page": 2,
+      "type": "h1",
+      "en": "Contents",
+      "ja": "目次"
+    },
+    {
+      "page": 3,
+      "type": "h1",
+      "en": "1. Introduction",
+      "ja": "1. はじめに"
+    },
+    {
+      "page": 3,
+      "type": "h2",
+      "en": "1.1. The purpose of this guidance",
+      "ja": "1.1. 本ガイダンスの目的"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "In September 2023, the TNFD published its recommendations for disclosure of nature-related issues and supporting implementation guidance. This document provides additional guidance for the technology and communications sector, covering:",
+      "ja": "2023年9月、TNFDは自然関連課題の開示に関する提言と、その実施を支援するガイダンスを公表した。本文書は技術・通信セクター向けの追加ガイダンスを提供するものであり、次の内容を扱う。"
+    },
+    {
+      "page": 3,
+      "type": "li",
+      "en": "The assessment of nature-related issues (dependencies, impacts, risks and opportunities) using the TNFD’s LEAP approach (Section 2); and",
+      "ja": "TNFDのLEAPアプローチを用いた自然関連課題（依存、インパクト、リスクと機会）の評価（2節）"
+    },
+    {
+      "page": 3,
+      "type": "li",
+      "en": "The disclosure of sector-specific metrics in line with the TNFD’s recommended approach to metrics (Section 3).",
+      "ja": "測定指標に関するTNFDの推奨アプローチに沿った、セクター別の測定指標の開示（3節）"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "The TNFD’s Guidance on the identification and assessment of nature-related issues: The LEAP approach is designed as an iterative process – across business locations and business lines – in line with established risk management processes and corporate reporting cycles. Organisations may choose to start with a narrow scope for a LEAP assessment and gradually expand the scope of the assessment as they gain experience and insight.",
+      "ja": "TNFDの「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」は、確立されたリスク管理プロセスと企業の報告サイクルに沿って、事業拠点と事業部門を横断して行う反復的なプロセスとして設計されている。組織は、狭いスコープからLEAP評価を開始し、経験と知見を得るにつれて評価のスコープを徐々に拡大することを選択してもよい。"
+    },
+    {
+      "page": 4,
+      "type": "caption",
+      "en": "Figure 1: The TNFD approach for identification and assessment of nature-related issues – LEAP",
+      "ja": "図1：自然関連課題の特定と評価のためのTNFDアプローチ – LEAP"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Scoping: A quick, high-level preliminary scan of internal and external data and reference sources to generate a hypothesis about the organisation’s potential nature-related dependencies, impacts, risks and opportunities to define the parameters for a LEAP assessment and to ensure managers and the assessment team are aligned on goals and timelines.",
+      "ja": "スコープの設定：組織の潜在的な自然関連の依存、インパクト、リスクと機会に関する仮説を立て、LEAP評価のパラメータを定義し、マネジャーと評価チームの間で目標とスケジュールの整合性が取れていることを確認するために、内部・外部のデータと参考情報源を素早くハイレベルで事前調査すること。"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Generate a working hypothesis: What are the organisation’s activities where there are likely to be material nature-related dependencies, impacts, risks and opportunities? / Align goals and resourcing: Given the current level of capacity, skills and data within the organisation and given organisational goals, what are the resource (financial, human and data) considerations and time allocations required and agreed for undertaking an assessment?",
+      "ja": "作業仮説を立てる：マテリアルな自然関連の依存、インパクト、リスクと機会がありそうな組織の活動は何か？／目標と資源の整合性をとっていく：組織内の能力、スキル、データの現在のレベル、および組織の目標を考慮した上で、評価を実施するために、どのような資源（財務、人材、データ）の検討と時間配分が必要とされ、同意されているか？"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Locate – The interface with nature: L1 Span of the business model and value chain – What are our organisation’s activities by sector and value chain? Where are our direct operations? / L2 Dependency and impact screening – Which of these sectors, value chains and direct operations are associated with potentially moderate and high dependencies and impacts on nature? / L3 Interface with nature – Where are the sectors, value chains and direct operations with potentially moderate and high dependencies and impacts located? Which biomes and specific ecosystems do our direct operations, and moderate and high dependency and impact value chains and sectors, interface with? / L4 Interface with sensitive locations – Which of our organisation’s activities in moderate and high dependency and impact value chains and sectors are located in ecologically sensitive locations? And which of our direct operations are in these sensitive locations?",
+      "ja": "自然との接点の発見：L1ビジネスモデルとバリューチェーンの範囲 – セクター別、バリューチェーン別の組織の活動は何か？直接操業はどこにあるか？／L2依存とインパクトのスクリーニング – これらのセクター、バリューチェーン、直接操業のうち、自然に対する潜在的に中～高程度の依存とインパクトを伴うものはどれか？／L3自然との接点 – 潜在的に中～高程度の依存とインパクトを伴うセクター、バリューチェーン、直接操業はどこにあるか？直接操業および依存とインパクトが中～高程度のバリューチェーンとセクターは、どのようなバイオームや特定の生態系と接点を持っているか？／L4要注意地域との接点 – 依存とインパクトが中～高程度のバリューチェーンとセクターにおける組織の活動のうち、生態学的な要注意地域にあるものはどれか？また、直接操業のうち、どれがこのような要注意地域にあるか？"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Evaluate – Dependencies & impacts: E1 Identification of environmental assets, ecosystem services and impact drivers – What are the sectors, business processes or activities to be analysed? What environmental assets, ecosystem services and impact drivers are associated with these sectors, business processes, activities and assessment locations? / E2 Identification of dependencies and impacts – What are our dependencies and impacts on nature? / E3 Dependency and impact measurement – What is the scale and scope of our dependencies on nature? What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature? / E4 Impact materiality assessment – Which of our impacts are material?",
+      "ja": "依存とインパクトの診断：E1環境資産、生態系サービス、インパクト要因の特定 – 分析対象となるセクター、ビジネスプロセス、活動は何か？どのような環境資産、生態系サービス、インパクト要因が、これらのセクター、ビジネスプロセス、活動、評価地域に関連しているか？／E2依存とインパクトの特定 – 自然に対する依存とインパクトは何か？／E3依存とインパクトの測定 – 自然に対する依存の規模とスコープは？私たちが自然に与えるマイナスのインパクトの深刻さはどの程度か？私たちが自然に与えるプラスのインパクトの規模とスコープは？／E4インパクトのマテリアリティの評価 – どのインパクトがマテリアルか？"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Assess – Risks & opportunities: A1 Risk and opportunity identification – What are the corresponding risks and opportunities for our organisation? / A2 Adjustment of existing risk mitigation and risk and opportunity management – What existing risk mitigation and risk and opportunity management processes and elements are we already applying? How can risk and opportunity management processes and associated elements (e.g. risk taxonomy, risk inventory, risk tolerance criteria) be adapted? / A3 Risk and opportunity measurement and prioritisation – Which risks and opportunities should be prioritised? / A4 Risk and opportunity materiality assessment – Which risks and opportunities are material and therefore should be disclosed in line with the TNFD recommended disclosures?",
+      "ja": "リスクと機会の評価：A1リスクと機会の特定 – 組織にとってのリスクと機会は何か？／A2既存のリスク緩和およびリスクと機会の管理の調整 – 既存のリスク緩和およびリスクと機会の管理プロセスで、すでに適用されているものは何か？リスクと機会の管理プロセスと関連要素（リスク分類法、リスク目録、リスク選好度など）をどのように適合させるか？／A3リスクと機会の測定と優先順位付け – どのリスクと機会を優先するべきか？／A4リスクと機会のマテリアリティの評価 – どのリスクや機会がマテリアルで、したがってTNFDの開示提言に沿って開示する必要があるか？"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Prepare – To respond & report: P1 Strategy and resource allocation plans – What risk management, strategy and resource allocation decisions should be made as a result of this analysis? / P2 Target setting and performance management – How will we set targets and define and measure progress? / P3 Reporting – What will we disclose in line with the TNFD recommended disclosures? / P4 Presentation – Where and how do we present our nature-related disclosures?",
+      "ja": "対応し報告するための準備：P1戦略と資源配分計画 – この分析の結果、どのようなリスク管理、戦略と資源配分の決定を下すべきか？／P2ターゲット設定とパフォーマンス管理 – どのようにターゲットを設定し、進捗を定義し、測定するか？／P3報告 – TNFD開示提言に沿って、何を情報開示するか？／P4表示 – 自然関連の開示をどこに、どのように表示するか？"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Review and repeat / Engagement with Indigenous Peoples, Local Communities and affected stakeholders / Scenario analysis",
+      "ja": "見直しと反復／先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント／シナリオ分析"
+    },
+    {
+      "page": 4,
+      "type": "figure",
+      "en": "Supports preparation of the following TNFD recommended disclosures: Locate – Strategy D / Evaluate – Strategy A, Strategy D, Risk and Impact Management A (i and ii), Risk and Impact Management B, Metrics and Targets B / Assess – Strategy A, Strategy C, Strategy D, Risk and Impact Management A (i and ii), Risk and Impact Management B, Risk and Impact Management C, Metrics and Target A, Metrics and Targets B / Prepare – Governance A, Governance B, Governance C, Strategy B, Strategy C, Metrics and Targets C",
+      "ja": "下記のTNFD開示提言の準備を支援：発見 – 戦略D／診断 – 戦略A、戦略D、リスクとインパクトの管理A（iおよびii）、リスクとインパクトの管理B、測定指標とターゲットB／評価 – 戦略A、戦略C、戦略D、リスクとインパクトの管理A（iおよびii）、リスクとインパクトの管理B、リスクとインパクトの管理C、測定指標とターゲットA、測定指標とターゲットB／準備 – ガバナンスA、ガバナンスB、ガバナンスC、戦略B、戦略C、測定指標とターゲットC"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "The TNFD recognises that there can be significant differences across sectors for organisations applying the LEAP approach. It has published this additional guidance with input from knowledge partners and market participants to help organisations in the technology and communications sector apply the LEAP approach to their context.",
+      "ja": "TNFDは、LEAPアプローチを適用する組織にとって、セクター間で大きな違いがあり得ることを認識している。TNFDは、技術・通信セクターの組織が自らの状況にLEAPアプローチを適用できるよう支援するため、ナレッジパートナーと市場参加者からの意見を踏まえて本追加ガイダンスを公表した。"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "The structure of the LEAP approach is set out in Figure 1. The guidance in Section 2 follows that structure.",
+      "ja": "LEAPアプローチの構成は図1に示すとおりである。2節のガイダンスはこの構成に従っている。"
+    },
+    {
+      "page": 5,
+      "type": "p",
+      "en": "The Taskforce recognises that investors and other stakeholders require quantitative information to compare performance and nature-related issues within sectors. To facilitate that analysis, Section 3 covers:",
+      "ja": "タスクフォースは、投資家およびその他のステークホルダーが、セクター内でパフォーマンスと自然関連課題を比較するために定量的な情報を必要としていることを認識している。そうした分析を容易にするため、3節では次の内容を扱う。"
+    },
+    {
+      "page": 5,
+      "type": "li",
+      "en": "Guidance on the application of the core global disclosure indicators and metrics to the technology and communications sector (Section 3.1); and",
+      "ja": "技術・通信セクターへのグローバル中核開示指標および測定指標の適用に関するガイダンス（3.1節）"
+    },
+    {
+      "page": 5,
+      "type": "li",
+      "en": "Core and additional sector disclosure indicators and metrics (Sections 3.2 and 3.3).",
+      "ja": "セクター中核開示指標・測定指標およびセクター追加開示指標・測定指標（3.2節および3.3節）"
+    },
+    {
+      "page": 5,
+      "type": "p",
+      "en": "Figure 2 provides an overview of the TNFD disclosure measurement architecture and where indicators and metrics are listed in the TNFD recommendations and in the sector guidance.",
+      "ja": "図2は、TNFDの開示測定アーキテクチャーの概要と、指標および測定指標がTNFDの提言とセクター別ガイダンスのどこに記載されているかを示している。"
+    },
+    {
+      "page": 5,
+      "type": "caption",
+      "en": "Figure 2: TNFD disclosure metrics architecture signposted to metrics list",
+      "ja": "図2：TNFD開示指標のアーキテクチャーと測定指標リストの掲載箇所"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "1 Core global metrics – Comply or explain – TNFD Recommendations Annex 1 / Sector guidance – Section 3.1",
+      "ja": "1 グローバル中核開示指標 – コンプライ・オア・エクスプレイン – TNFDの提言 別紙1／セクター別ガイダンス – 3.1節"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "2 Core sector metrics – Strongly recommended; Comply or explain – Sector guidance – Section 3.2",
+      "ja": "2 セクター中核開示指標 – 強く推奨；コンプライ・オア・エクスプレイン – セクター別ガイダンス – 3.2節"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "3 Additional metrics – Recommended for disclosure, where relevant, to best represent an organisation’s material nature-related issues, based on their specific circumstances – TNFD Recommendations Annex 2 / Sector guidance – Section 3.3",
+      "ja": "3 追加開示指標 – 組織の固有の状況に基づき、マテリアルな自然関連課題を最もよく表すために、関連する場合に開示が推奨される – TNFDの提言 別紙2／セクター別ガイダンス – 3.3節"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "Dependencies and impacts / Risks and opportunities",
+      "ja": "依存とインパクト／リスクと機会"
+    },
+    {
+      "page": 5,
+      "type": "p",
+      "en": "The guidance in Section 3 expands on the disclosure indicators and metrics outlined in Annexes 1 and 2 of the TNFD recommendations and adds sector-specific information where relevant. The TNFD has incorporated and sought to build on existing industry standards and disclosure metrics wherever possible to leverage current data collection and reporting practices and minimise assessment and reporting costs.",
+      "ja": "3節のガイダンスは、TNFDの提言の別紙1および別紙2に概説されている開示指標および測定指標を拡充し、関連する場合にはセクター固有の情報を追加するものである。TNFDは、現行のデータ収集と報告の実務を活用し、評価と報告のコストを最小限に抑えるため、可能な限り既存の業界基準と開示指標を取り入れ、それらを基礎として発展させることに努めてきた。"
+    },
+    {
+      "page": 6,
+      "type": "h2",
+      "en": "1.2. Audience for this guidance",
+      "ja": "1.2. 本ガイダンスの対象者"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "This guidance covers organisations with business models or value chains in the Sustainable Industry Classification System (SICS®) Technology & Communications sector. It is relevant to all six industries in this sector: Electronic Manufacturing Services & Original Design Manufacturing (EMS & ODM); Hardware; Internet Media & Services; Semiconductors; Software & IT Services; and Telecommunication Services, as outlined in Annex 1.",
+      "ja": "本ガイダンスは、持続可能な産業分類システム（SICS®）の技術・通信セクターにビジネスモデルまたはバリューチェーンを有する組織を対象とする。本ガイダンスは、別紙1に概説するとおり、このセクターの6つの産業すべて、すなわち電子機器受託製造サービスおよび相手先ブランド設計製造（EMS & ODM）、ハードウェア、インターネット・メディアおよびサービス、半導体、ソフトウェアおよびITサービス、ならびに電気通信サービスに関連する。"
+    },
+    {
+      "page": 6,
+      "type": "caption",
+      "en": "Figure 3: Technology and communications value chain",
+      "ja": "図3：技術・通信のバリューチェーン"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Nature realms: Land (for facilities and infrastructure; minerals and metals mining1) / Freshwater (for cooling and manufacturing) / Ocean (for subsea infrastructure) / Atmosphere (air for cooling)",
+      "ja": "自然の領域：陸（施設とインフラ用；鉱物および金属の採掘1）／淡水（冷却と製造用）／海洋（海底インフラ用）／大気（冷却用の空気）"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Upstream – Raw materials and energy supply: Mineral processing, smelting, and refining1 / Energy supply2",
+      "ja": "上流 – 原材料とエネルギーの供給：鉱物の加工、製錬および精製1／エネルギー供給2"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Manufacturing and processing: Semiconductor – Wafer fabrication, assembly, packaging and testing / EMS & ODM – Assembly, testing and packaging / Hardware – Product design and development (e.g. computers, consumer electronics, communications equipment, storage devices, components and peripherals)",
+      "ja": "製造と加工：半導体 – ウェーハ製造、組立、パッケージングおよびテスト／EMS & ODM – 組立、テストおよびパッケージング／ハードウェア – 製品の設計と開発（例：コンピューター、民生用電子機器、通信機器、記憶装置、部品および周辺機器）"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Products and services: Software & IT services – Software development, deployment, and operation and data processing, hosting and managed IT services (including AI) / Datacentre infrastructure (e.g. servers, cooling systems, power supply and energy buildings) / Internet, media & services – Digital content and services (e.g. streaming, social media, search engines, video/music platforms etc) / Telecommunication infrastructure (e.g. cables, towers, satellites, etc) / Telecommunication services – Cable, wired and wireless services, and other services",
+      "ja": "製品とサービス：ソフトウェアおよびITサービス – ソフトウェアの開発、展開および運用、ならびにデータ処理、ホスティングおよびマネージドITサービス（AIを含む）／データセンターインフラ（例：サーバー、冷却システム、電源供給およびエネルギー関連建屋）／インターネット・メディアおよびサービス – デジタルコンテンツとサービス（例：ストリーミング、ソーシャルメディア、検索エンジン、動画／音楽プラットフォームなど）／電気通信インフラ（例：ケーブル、鉄塔、衛星など）／電気通信サービス – ケーブル、有線および無線のサービス、ならびにその他のサービス",
+      "flag": "term-uncertain: energy buildings"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Downstream: End users – Public and private sectors and individual users / Waste and resource management – Collection, treatment, recycling, disposal and resource recovery (e.g. e-waste and end-of-life)3",
+      "ja": "下流：エンドユーザー – 公共部門・民間部門および個人の利用者／廃棄物と資源の管理 – 回収、処理、リサイクル、処分および資源回収（例：電子廃棄物（E-waste）と使用済み製品）3"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "Value chain flows / Circularity pathways / Coloured boxes indicate subsectors within the scope of the TNFD Technology and Communications sector guidance",
+      "ja": "バリューチェーンの流れ／循環の経路／色付きのボックスは、TNFD技術・通信セクターガイダンスのスコープ内のサブセクターを示す"
+    },
+    {
+      "page": 6,
+      "type": "figure",
+      "en": "1 Refer to TNFD Metals and mining sector guidance / 2 Refer to TNFD Electric utilities and power generators sector guidance / 3 Refer to TNFD Glossary for definition of electronic waste (e-waste)",
+      "ja": "1 TNFDの金属・鉱業セクターガイダンスを参照／2 TNFDの電力会社および発電事業者セクターガイダンスを参照／3 電子廃棄物（e-waste）の定義についてはTNFD用語集を参照"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "Figure 3 illustrates the value chain that organisations should consider as part of their value chain mapping from a nature perspective, highlighting where nature-related dependencies and impacts may arise. From left to right, the value chain shows raw materials and energy supply, manufacture and processing, products and services, users from public and private sectors and individual consumers, and finally resource and waste management.",
+      "ja": "図3は、組織が自然の観点からバリューチェーンのマッピングを行う際に考慮すべきバリューチェーンを示し、自然関連の依存とインパクトが生じ得る箇所を強調している。このバリューチェーンは、左から右へ、原材料とエネルギーの供給、製造と加工、製品とサービス、公共部門・民間部門の利用者と個人消費者、そして最後に資源と廃棄物の管理を示している。"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "In products and services, this value chain makes explicit the physical infrastructure of datacentres (formally within Software and IT services in SICS®) and telecommunications infrastructure (part of Telecommunication Services in SICS®). Artificial Intelligence (AI) models, systems and applications fall within Software & IT services in SICS® (see Box 1 for more on AI in the value chain).",
+      "ja": "製品とサービスの段階において、このバリューチェーンは、データセンターの物理的インフラ（SICS®では正式にはソフトウェアおよびITサービスに含まれる）と電気通信インフラ（SICS®では電気通信サービスの一部）を明示している。人工知能（AI）のモデル、システムおよびアプリケーションは、SICS®ではソフトウェアおよびITサービスに含まれる（バリューチェーンにおけるAIの詳細についてはボックス1を参照）。"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "The value chain in Figure 3 above reflects the predominant land-based configuration of datacentre infrastructure. Emerging deployment models include subsea datacentres and proposed space-based datacentres. Where relevant, organisations should reflect such deployment models and associated enabling infrastructure in their value chain mapping and nature-related assessments.",
+      "ja": "上記の図3のバリューチェーンは、データセンターインフラの主流である陸上型の構成を反映している。新たな展開モデルとしては、海底データセンターや、構想段階にある宇宙空間でのデータセンターがある。該当する場合、組織は、こうした展開モデルとそれを可能にする関連インフラを、バリューチェーンのマッピングと自然関連の評価に反映させるべきである。"
+    },
+    {
+      "page": 7,
+      "type": "caption",
+      "en": "Box 1: Artificial Intelligence (AI) in the value chain: connecting software to physical infrastructure",
+      "ja": "ボックス1：バリューチェーンにおける人工知能（AI）：ソフトウェアと物理的インフラの結び付き"
+    },
+    {
+      "page": 7,
+      "type": "quote",
+      "en": "Under SICS®, companies whose core business is developing and providing Artificial Intelligence (AI) models would generally be classified within Software & IT Services. The industry description includes cloud computing, big data analysis and machine learning, which together capture key elements of the software layer of AI. From a nature perspective, this guidance considers what enables AI: a physical value chain that depends on and impacts nature. Developing and using AI requires substantial computing capacity, especially for training and running large language models at scale. This capacity is provided by datacentres, telecommunications infrastructure, semiconductors and other hardware. Across their construction, operation and end-of-life, these systems require land, energy, water, minerals and metals, as well as ecosystem services such as water purification and soil and sediment retention. These systems can generate impacts through drivers such as land use change, water use, pollution and waste. Rapid adoption of AI (in the technology and communications sector, and in other sectors) is accelerating demand for this infrastructure. Figure 4 illustrates this growth in datacentre demand, with AI accounting for a growing share (see Section 1.3 for further context on the scale and growth of AI). This growth amplifies dependencies and impacts on nature across the value chain, which may give rise to nature-related risks for any organisation that develops or uses AI, regardless of sector. AI may also provide nature-related opportunities, including through improved monitoring, resource efficiency and decision making. For a nature-related assessment, organisations developing or using AI should look beyond AI as software and consider the full physical value chain that enables it, including their dependencies and impacts on nature resulting from developing and using AI.",
+      "ja": "SICS®の下では、人工知能（AI）モデルの開発と提供を中核事業とする企業は、一般にソフトウェアおよびITサービスに分類される。この産業の説明にはクラウドコンピューティング、ビッグデータ分析および機械学習が含まれており、これらは合わせてAIのソフトウェア層の主要な要素を捉えている。自然の観点から、本ガイダンスはAIを可能にしているもの、すなわち自然に依存し、自然にインパクトを与える物理的なバリューチェーンを考察する。AIの開発と利用には、特に大規模言語モデルを大規模に訓練・実行するために、膨大な計算能力が必要となる。この計算能力は、データセンター、電気通信インフラ、半導体およびその他のハードウェアによって提供される。これらのシステムは、建設、運用、使用済みの各段階を通じて、土地、エネルギー、水、鉱物および金属に加え、水質浄化や土壌と土砂の保持といった生態系サービスを必要とする。これらのシステムは、土地利用変化、水使用、汚染、廃棄物といった要因を通じてインパクトを生じさせ得る。（技術・通信セクターおよびその他のセクターにおける）AIの急速な普及は、こうしたインフラに対する需要を加速させている。図4は、AIが占める割合が拡大する中でのデータセンター需要の増大を示している（AIの規模と成長に関するさらなる背景については1.3節を参照）。この成長は、バリューチェーン全体にわたって自然への依存と自然に対するインパクトを増幅させ、セクターを問わず、AIを開発または利用するあらゆる組織に自然関連リスクを生じさせる可能性がある。AIはまた、モニタリングの改善、資源効率、意思決定などを通じて、自然関連の機会をもたらす可能性もある。自然関連の評価を行うにあたり、AIを開発または利用する組織は、AIを単なるソフトウェアとして捉えるのではなく、AIの開発と利用に起因する自然への依存と自然に対するインパクトを含め、AIを可能にしている物理的なバリューチェーン全体を考慮すべきである。"
+    },
+    {
+      "page": 7,
+      "type": "quote",
+      "en": "Sources: OECD (2026) AI use by individuals surges across the OECD as adoption by firms continues to expand, IEA (2026) Key Questions on Energy and AI and WEF (2026) Data Centre Sustainability and Resilience: A Decision Playbook for AI Infrastructure.",
+      "ja": "出典：OECD (2026) AI use by individuals surges across the OECD as adoption by firms continues to expand、IEA (2026) Key Questions on Energy and AI、およびWEF (2026) Data Centre Sustainability and Resilience: A Decision Playbook for AI Infrastructure"
+    },
+    {
+      "page": 8,
+      "type": "caption",
+      "en": "Figure 4: Growth in global data centre electricity demand (total and for AI)",
+      "ja": "図4：世界のデータセンターの電力需要の増加（全体およびAI向け）"
+    },
+    {
+      "page": 8,
+      "type": "figure",
+      "en": "Non-AI demand (TWh) / AI demand (TWh) / 2023–2030",
+      "ja": "AI以外の需要（TWh）／AI需要（TWh）／2023～2030年"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "Note: This World Economic Forum scenario extrapolates the IEA’s 2023–2026 forecast to 2030, using 2021–2023 historical growth, the projected 2023–2026 growth rate and other sources.",
+      "ja": "注：この世界経済フォーラムのシナリオは、2021～2023年の過去の成長、2023～2026年の予測成長率およびその他の情報源を用いて、IEAによる2023～2026年の予測を2030年まで外挿したものである。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "Source: WEF (2025), Artificial Intelligence’s Energy Paradox: Balancing Challenges and Opportunities, based on multiple sources including the International Energy Agency (IEA), Goldman Sachs and Accenture.",
+      "ja": "出典：WEF (2025), Artificial Intelligence’s Energy Paradox: Balancing Challenges and Opportunities。国際エネルギー機関（IEA）、ゴールドマン・サックス、アクセンチュアを含む複数の情報源に基づく。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "This guidance is a supplement to the TNFD’s Guidance on the identification and assessment of nature-related issues: The LEAP approach and should be read in conjunction with that guidance. Organisations in the technology and communications sector may also find it helpful to refer to the TNFD biome guidance and Guidance on engagement with Indigenous Peoples, Local Communities and affected stakeholders to support their assessment. They should also consider interactions with other sectors and can refer to TNFD sector guidance on metals and mining, engineering, construction and real estate, construction materials and electric utilities and power generators, among others.",
+      "ja": "本ガイダンスは、TNFDの「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を補足するものであり、同ガイダンスと併せて読むべきである。技術・通信セクターの組織は、評価を支援するものとして、TNFDのバイオーム別ガイダンスおよび「先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメントに関するガイダンス」を参照することも有用であろう。また、他のセクターとの相互作用も考慮すべきであり、金属・鉱業、エンジニアリング・建設・不動産、建設資材、電力会社および発電事業者などに関するTNFDのセクター別ガイダンスを参照することができる。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "The examples in this guidance are intended to be illustrative. They are not exhaustive, universally applicable or recommended for all organisations within the sector. Each organisation’s context, location and interactions with nature are unique. The TNFD encourages all organisations to consult additional sources, including scientific references, industry standards or best practice guides to conduct thorough assessments specific to their operations and value chains. This guidance aims to support, not replace, a tailored assessment, which will be necessary for each organisation.",
+      "ja": "本ガイダンスに示す例は、例示を目的としたものである。これらは網羅的なものではなく、普遍的に適用できるものでも、セクター内のすべての組織に推奨されるものでもない。各組織の状況、所在地、自然との相互作用はそれぞれ固有である。TNFDは、すべての組織に対し、自らの操業とバリューチェーンに特有の徹底した評価を実施するために、科学的な参考文献、業界基準、ベストプラクティス・ガイドなどの追加的な情報源を参照することを奨励する。本ガイダンスは、各組織に必要となる個別の評価に代わるものではなく、それを支援することを目的としている。"
+    },
+    {
+      "page": 9,
+      "type": "caption",
+      "en": "Table 1: Areas of LEAP with additional guidance for the technology and communications sector in this guidance document",
+      "ja": "表1：本ガイダンス文書において技術・通信セクター向けの追加ガイダンスがあるLEAPの領域"
+    },
+    {
+      "page": 9,
+      "type": "table",
+      "en": "| Scoping ✓ | | | |\n|---|---|---|---|\n| L1 ✓ | E1 ✓ | A1 ✓ | P1 ✓ |\n| L2 ✓ | E2 ✓ | A2 | P2 ✓ |\n| L3 ✓ | E3 ✓ | A3 | P3 ✓ |\n| L4 ✓ | E4 | A4 | P4 |",
+      "ja": "| スコープの設定 ✓ | | | |\n|---|---|---|---|\n| L1 ✓ | E1 ✓ | A1 ✓ | P1 ✓ |\n| L2 ✓ | E2 ✓ | A2 | P2 ✓ |\n| L3 ✓ | E3 ✓ | A3 | P3 ✓ |\n| L4 ✓ | E4 | A4 | P4 |",
+      "flag": "layout-uncertain: checkmark positions inferred from text extraction"
+    },
+    {
+      "page": 9,
+      "type": "h2",
+      "en": "1.3. Sector background",
+      "ja": "1.3. セクターの背景"
+    },
+    {
+      "page": 9,
+      "type": "h3",
+      "en": "Technology’s growing role in the global economy",
+      "ja": "世界経済において拡大する技術の役割"
+    },
+    {
+      "page": 9,
+      "type": "p",
+      "en": "Technology and communications underpin almost every aspect of modern economic activity and daily life. Demand for digital infrastructure, electronic devices, data processing and connectivity has grown rapidly and is expected to continue to grow, driven by digitalisation, electrification and cloud computing. Artificial Intelligence (AI) further accelerates this growth (see Box 1 and Figure 4).1",
+      "ja": "技術・通信は、現代の経済活動と日常生活のほぼあらゆる側面を支えている。デジタルインフラ、電子機器、データ処理および接続性に対する需要は急速に拡大しており、デジタル化、電化、クラウドコンピューティングを原動力として、今後も拡大を続けると見込まれている。人工知能（AI）はこの成長をさらに加速させている（ボックス1および図4を参照）1。"
+    },
+    {
+      "page": 9,
+      "type": "p",
+      "en": "Across technology industries, the scale and growth of economic activity are substantial:",
+      "ja": "技術関連の産業全体で、経済活動の規模と成長は相当なものである。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "The global AI market is projected to surge from USD 189 billion in 2023 to USD 4.8 trillion by 2033, a 25-fold increase in just a decade;2",
+      "ja": "世界のAI市場は、2023年の1,890億米ドルから2033年までに4.8兆米ドルへと急拡大し、わずか10年で25倍になると予測されている2。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "More than 11,000 datacentres are operating worldwide, with demand for datacentre capacity expected to grow by approximately 20% per year to 2030,3 and global datacentre build-out forecast to require around USD 3 trillion by 2030;4",
+      "ja": "世界では11,000以上のデータセンターが稼働しており、データセンター容量に対する需要は2030年まで年率約20%で拡大すると見込まれ3、世界のデータセンター整備には2030年までに約3兆米ドルが必要になると予測されている4。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "Around one trillion semiconductors are sold annually,5 with recent production concentrated in a limited number of geographies,6 and global semiconductor chip fabrication plant spending forecast to exceed USD 1.5 trillion from 2024 to 2030;7 and",
+      "ja": "年間約1兆個の半導体が販売されており5、近年の生産は限られた数の地域に集中している6。また、世界の半導体チップ製造工場への支出は、2024年から2030年までに1.5兆米ドルを超えると予測されている7。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "The size of the electronic manufacturing services market stood at approximately USD 650 billion in 2025 and is forecast to expand to over USD 860 billion by 2030 at a nearly 6% compound annual growth rate.8",
+      "ja": "電子機器受託製造サービスの市場規模は2025年に約6,500億米ドルであり、6%近い年平均成長率で2030年までに8,600億米ドル超に拡大すると予測されている8。"
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "1 OECD (n.d.) Digital transformation. Policy Issue.",
+      "ja": "1 OECD (n.d.) Digital transformation. Policy Issue."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "2 UNCTAD (2025) AI market projected to hit $4.8 trillion by 2033, emerging as dominant frontier technology.",
+      "ja": "2 UNCTAD (2025) AI market projected to hit $4.8 trillion by 2033, emerging as dominant frontier technology."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "3 Barclays Investment Bank (2025) AI revolution: Meeting massive AI infrastructure demands.",
+      "ja": "3 Barclays Investment Bank (2025) AI revolution: Meeting massive AI infrastructure demands."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "4 JLL (2026) 2026 Global Data Center Outlook.",
+      "ja": "4 JLL (2026) 2026 Global Data Center Outlook."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "5 SIA (2019) Global Semiconductor Sales Increase 13.7 Percent to $468.8 Billion in 2018.",
+      "ja": "5 SIA (2019) Global Semiconductor Sales Increase 13.7 Percent to $468.8 Billion in 2018."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "6 OECD (2025) The chip landscape geographical distribution of wafer fabrication capacity.",
+      "ja": "6 OECD (2025) The chip landscape geographical distribution of wafer fabrication capacity."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "7 PwC (2026) Semiconductor and beyond 2026.",
+      "ja": "7 PwC (2026) Semiconductor and beyond 2026."
+    },
+    {
+      "page": 9,
+      "type": "footnote",
+      "en": "8 Mordor Intelligence (2026) Electronics Manufacturing Services Market Size & Share Analysis – Growth Trends and Forecast (2026 – 2031).",
+      "ja": "8 Mordor Intelligence (2026) Electronics Manufacturing Services Market Size & Share Analysis – Growth Trends and Forecast (2026 – 2031)."
+    },
+    {
+      "page": 10,
+      "type": "h3",
+      "en": "The sector’s value chain and nature",
+      "ja": "セクターのバリューチェーンと自然"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "Nature-related dependencies and impacts may arise across the technology and communications value chain (see Figure 3), from raw material extraction and semiconductor manufacturing to hardware manufacture, datacentres, telecommunications infrastructure, software and IT services, internet media services and resource and waste management.",
+      "ja": "自然関連の依存とインパクトは、原材料の採掘や半導体製造から、ハードウェア製造、データセンター、電気通信インフラ、ソフトウェアおよびITサービス、インターネット・メディアサービス、資源と廃棄物の管理に至るまで、技術・通信のバリューチェーン全体（図3を参照）にわたって生じ得る。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "Dependencies and impacts on nature can occur outside an organisation’s direct operational control, while remaining within its assessment scope and sphere of influence through sourcing decisions, contractual and other value chain relationships. Software and IT, internet media and telecommunications services depend on datacentres, which in turn rely on semiconductors and other electronic components, each with their own dependencies and impacts on nature.",
+      "ja": "自然への依存と自然に対するインパクトは、組織の直接的な運営管理の外で生じることがあるが、調達の決定、契約上の関係およびその他のバリューチェーン上の関係を通じて、組織の評価のスコープと影響範囲の内にとどまる。ソフトウェアおよびIT、インターネット・メディア、電気通信の各サービスはデータセンターに依存しており、データセンターは今度は半導体およびその他の電子部品に依存している。これらはそれぞれ、固有の自然への依存と自然に対するインパクトを有している。"
+    },
+    {
+      "page": 10,
+      "type": "h3",
+      "en": "Dependencies and impacts on nature",
+      "ja": "自然への依存と自然に対するインパクト"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "The technology and communications sector depends on nature across its value chain, including land, freshwater, the ocean, minerals and metals, and ecosystem services that support a clean, reliable water supply, climate regulation and resilience to natural hazards. These dependencies are particularly relevant for semiconductor fabrication plants (fabs), electronic hardware manufacturing facilities and datacentre operations.",
+      "ja": "技術・通信セクターは、バリューチェーン全体にわたって自然に依存している。これには、土地、淡水、海洋、鉱物および金属、ならびに清浄で安定した水供給、気候の調整、自然災害に対するレジリエンスを支える生態系サービスが含まれる。こうした依存は、半導体製造工場（ファブ）、電子ハードウェア製造施設およびデータセンターの運用に特に関連する。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "In turn, impacts on nature from the sector arise through land, ocean and freshwater use, minerals and metals extraction, pollution and waste generation associated with semiconductor and other hardware production, datacentre construction and operations. Telecommunications infrastructure can also affect ecosystems through land and ocean use change and possible habitat disturbance when installing cables and towers.",
+      "ja": "一方、このセクターによる自然に対するインパクトは、半導体およびその他のハードウェアの生産、データセンターの建設と運用に関連する陸・海洋・淡水の利用、鉱物および金属の採掘、汚染、廃棄物の発生を通じて生じる。電気通信インフラもまた、陸と海洋の利用変化や、ケーブルや鉄塔の設置時に起こり得る生息地の攪乱を通じて、生態系に影響を及ぼす可能性がある。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "The location, scale and significance of these dependencies and impacts vary across industries, activities and operating contexts. Section 2.2 provides further details of such dependencies and impacts, while all of Section 2 provides guidance on how to apply the LEAP framework to identify and assess dependencies and impacts across the sector.",
+      "ja": "こうした依存とインパクトの所在、規模および重大性は、産業、活動、操業の状況によって異なる。2.2節ではこうした依存とインパクトについてさらに詳しく説明し、2節全体では、セクター全体にわたる依存とインパクトを特定し評価するためにLEAPフレームワークを適用する方法についてのガイダンスを提供する。"
+    },
+    {
+      "page": 10,
+      "type": "h3",
+      "en": "Nature-related risks and opportunities",
+      "ja": "自然関連のリスクと機会"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "These dependencies and impacts on nature can lead to financially material risks for organisations in this sector. For example:",
+      "ja": "こうした自然への依存と自然に対するインパクトは、このセクターの組織にとって財務的にマテリアルなリスクにつながる可能性がある。例えば、次のようなものである。"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "From May 2024 to March 2025, USD 64 billion of planned US datacentre projects had been blocked or delayed, largely due to local concerns, including concerns about the demand on natural resources and power;9 and",
+      "ja": "2024年5月から2025年3月にかけて、米国で計画されていた640億米ドル相当のデータセンター・プロジェクトが、主に自然資源や電力の需要に関する懸念をはじめとする地元の懸念を理由として、阻止または延期された9。"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "The sector’s use of water and land is closely linked to energy demand, creating potential financial risks and underscoring the importance of considering climate-nature connections in decision making, investments, strategy and transition planning in this sector.",
+      "ja": "このセクターによる水と土地の利用はエネルギー需要と密接に関連しており、潜在的な財務リスクを生み出すとともに、このセクターにおける意思決定、投資、戦略、移行計画の策定において気候と自然のつながりを考慮することの重要性を浮き彫りにしている。"
+    },
+    {
+      "page": 10,
+      "type": "footnote",
+      "en": "9 Data Centre Watch (2025) $ 64 billion of data centre projects have been blocked or delayed amid local opposition.",
+      "ja": "9 Data Centre Watch (2025) $ 64 billion of data centre projects have been blocked or delayed amid local opposition."
+    },
+    {
+      "page": 11,
+      "type": "p",
+      "en": "Organisations in the technology and communications sector can also take advantage of nature-related opportunities that benefit both organisations and nature through activities that contribute to positive impacts or mitigate negative impacts on nature. For example:",
+      "ja": "技術・通信セクターの組織は、自然に対するプラスのインパクトに貢献する活動、またはマイナスのインパクトを緩和する活動を通じて、組織と自然の双方に便益をもたらす自然関連の機会を活用することもできる。例えば、次のようなものである。"
+    },
+    {
+      "page": 11,
+      "type": "li",
+      "en": "Digital technologies, data analytics, sensors, connectivity and software are critical for mapping, monitoring and managing nature-related dependencies and impacts, both within the sector itself and across the wider economy;",
+      "ja": "デジタル技術、データ分析、センサー、接続性およびソフトウェアは、セクター内部とより広い経済全体の双方において、自然関連の依存とインパクトのマッピング、モニタリングおよび管理に不可欠である。"
+    },
+    {
+      "page": 11,
+      "type": "li",
+      "en": "Greater circularity throughout the value chain can decrease costs as well as impacts related to both upstream resource extraction and downstream disposal systems;",
+      "ja": "バリューチェーン全体で循環性を高めることにより、コストを削減できるとともに、上流の資源採掘と下流の処分システムの双方に関連するインパクトを低減できる。"
+    },
+    {
+      "page": 11,
+      "type": "li",
+      "en": "Technology can enable more efficient use of land, water, energy and materials, improve transparency and traceability across value chains, support environmental monitoring and early-warning systems, and facilitate better decision-making by businesses, financial institutions, governments, Indigenous Peoples and Local Communities and other stakeholders;10 and",
+      "ja": "技術は、土地、水、エネルギーおよび材料のより効率的な利用を可能にし、バリューチェーン全体の透明性とトレーサビリティ（追跡可能性）を向上させ、環境モニタリングと早期警報システムを支援し、企業、金融機関、政府、先住民族と地域社会およびその他のステークホルダーによるより良い意思決定を促進することができる10。"
+    },
+    {
+      "page": 11,
+      "type": "li",
+      "en": "Nature-based solutions such as investments in the conservation and restoration of watersheds, wetlands, floodplains, native forests and coastal ecosystems can increase the resilience of technology and communications infrastructure to increasing risks from drought, flooding and other extreme weather events.",
+      "ja": "流域、湿地、氾濫原、在来林および沿岸生態系の保全と復元への投資といった自然に根ざした解決策は、干ばつ、洪水およびその他の異常気象による高まるリスクに対する技術・通信インフラのレジリエンスを高めることができる。"
+    },
+    {
+      "page": 11,
+      "type": "p",
+      "en": "Trade-offs remain as the deployment of emerging technologies to support nature-positive outcomes can also generate negative impacts, including through increased demand for energy, infrastructure and natural resources, as highlighted above. The significant scale and growth of the technology and communications sector means that companies, insurers, capital providers and other stakeholders are increasingly exposed to these nature-related risks, but also have the potential to capitalise on significant opportunities.11",
+      "ja": "ネイチャーポジティブな成果を支える新興技術の展開は、上述のとおり、エネルギー、インフラおよび自然資源に対する需要の増加などを通じてマイナスのインパクトを生じさせることもあるため、トレードオフは依然として存在する。技術・通信セクターの規模と成長が著しいことは、企業、保険会社、資本提供者およびその他のステークホルダーがこうした自然関連リスクにますますさらされている一方で、大きな機会を活用できる可能性も有していることを意味する11。"
+    },
+    {
+      "page": 11,
+      "type": "h3",
+      "en": "The role of this guidance",
+      "ja": "本ガイダンスの役割"
+    },
+    {
+      "page": 11,
+      "type": "p",
+      "en": "This guidance is designed to help organisations in the technology and communications sector to identify and assess the nature-related dependencies, impacts, risks and opportunities across their value chain(s) to inform management and disclosure.12",
+      "ja": "本ガイダンスは、技術・通信セクターの組織が、管理と開示に役立てるため、自らのバリューチェーン全体にわたる自然関連の依存、インパクト、リスクと機会を特定し評価することを支援するよう設計されている12。"
+    },
+    {
+      "page": 11,
+      "type": "footnote",
+      "en": "10 Audu, A.J. et al. (2024) The role of digital tools in enhancing environmental monitoring and business efficiency.",
+      "ja": "10 Audu, A.J. et al. (2024) The role of digital tools in enhancing environmental monitoring and business efficiency."
+    },
+    {
+      "page": 11,
+      "type": "footnote",
+      "en": "11 Kilpalnäinen, K. (2025) Unlocking economic growth through digital infrastructure.",
+      "ja": "11 Kilpalnäinen, K. (2025) Unlocking economic growth through digital infrastructure."
+    },
+    {
+      "page": 11,
+      "type": "footnote",
+      "en": "12 See WEF (2025) Nature Positive: Role of the Technology Sector, for a complementary general overview of nature-related risks and opportunities in the technology and communications sector.",
+      "ja": "12 技術・通信セクターにおける自然関連のリスクと機会に関する補完的な全般的概要については、WEF (2025) Nature Positive: Role of the Technology Sectorを参照。"
+    },
+    {
+      "page": 12,
+      "type": "h1",
+      "en": "2. Sector-specific LEAP assessment guidance",
+      "ja": "2. セクター別のLEAP評価ガイダンス"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "This guidance is a supplement to the TNFD’s Guidance on the identification and assessment of nature-related issues: The LEAP approach and should be read in conjunction with that guidance. Organisations should undertake a robust assessment of nature-related issues to inform their disclosures. The TNFD recommends applying the LEAP approach for this purpose. Section 2 provides additional sector-specific guidance on applying LEAP for technology and communications organisations seeking support in structuring or strengthening their assessment. Organisations with established processes and strong experience in assessing nature-related issues (including those that want a fast-forward to the metrics) may choose to proceed directly to Section 3 on the sector-specific metrics to disclose.",
+      "ja": "本ガイダンスは、TNFDの「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を補足するものであり、同ガイダンスと併せて読むべきである。組織は、開示の裏付けとするため、自然関連課題について確固とした評価を実施すべきである。TNFDは、この目的のためにLEAPアプローチを適用することを推奨している。2節では、評価の構築または強化に支援を求める技術・通信セクターの組織に向けて、LEAPの適用に関するセクター別の追加ガイダンスを提供する。自然関連課題の評価について確立したプロセスと豊富な経験を有する組織（測定指標へ早く進みたい組織を含む）は、開示すべきセクター別の測定指標を扱う3節に直接進むことを選択してもよい。"
+    },
+    {
+      "page": 12,
+      "type": "h2",
+      "en": "2.1. Scoping a LEAP assessment",
+      "ja": "2.1. LEAP評価のスコープの設定"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "This section provides additional guidance to help technology and communications organisations when scoping a LEAP assessment.",
+      "ja": "本節では、技術・通信セクターの組織がLEAP評価のスコープを設定する際に役立つ追加ガイダンスを提供する。"
+    },
+    {
+      "page": 12,
+      "type": "h3",
+      "en": "Working hypothesis generation",
+      "ja": "作業仮説の生成"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "What are the organisation’s activities where there are likely to be material nature-related dependencies, impacts, risks and opportunities?",
+      "ja": "マテリアルな自然関連の依存、インパクト、リスクと機会がありそうな組織の活動は何か？"
+    },
+    {
+      "page": 12,
+      "type": "h3",
+      "en": "Value chain considerations when scoping",
+      "ja": "スコープ設定時のバリューチェーンに関する考慮事項"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "A technology and communications organisation’s dependence and impact on nature may occur in different parts of the value chain (see Figure 3). Material nature-related risks and opportunities may arise from activities under direct operational control, or from activities upstream or downstream. For example, for an EMS & ODM facility, semiconductors are crucial, even though the production is controlled by their suppliers. Similarly, for software and video streaming companies, datacentres are fundamental to their business model even when they lease them or do not directly control their operations. When defining the initial assessment boundary, organisations should consider:",
+      "ja": "技術・通信セクターの組織による自然への依存と自然に対するインパクトは、バリューチェーンのさまざまな部分で生じ得る（図3を参照）。マテリアルな自然関連のリスクと機会は、直接的な運営管理下にある活動から生じることもあれば、上流または下流の活動から生じることもある。例えば、EMS & ODMの施設にとって、半導体の生産はサプライヤーが管理しているものの、半導体は極めて重要である。同様に、ソフトウェア企業や動画ストリーミング企業にとって、データセンターは、賃借している場合や運用を直接管理していない場合であっても、ビジネスモデルの根幹をなす。初期の評価範囲を定める際、組織は次の事項を考慮すべきである。"
+    },
+    {
+      "page": 12,
+      "type": "li",
+      "en": "Which activities, services, platforms, products and value chain elements are relevant to their business model;",
+      "ja": "どの活動、サービス、プラットフォーム、製品およびバリューチェーンの要素が自らのビジネスモデルに関連するか"
+    },
+    {
+      "page": 12,
+      "type": "li",
+      "en": "Where nature-related dependencies, impacts, risks and opportunities are likely to arise; and",
+      "ja": "自然関連の依存、インパクト、リスクと機会がどこで生じる可能性が高いか"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "The operational control, influence, data availability and contractual relationships that can inform the assessment approach, including the level of granularity, data-gathering needs, stakeholder engagement and sequencing of further analysis.",
+      "ja": "評価のアプローチ（粒度のレベル、データ収集の必要性、ステークホルダーとのエンゲージメント、さらなる分析の順序付けを含む）の判断材料となり得る運営管理、影響力、データの入手可能性および契約関係"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Some large technology and communications organisations may already be required by regulators or investors to assess and disclose material information across global operations and value chains. All organisations may choose to start with a narrower scope to create a manageable starting point for assessment. This could be a small number of high-priority geographic sites or parts of the value chain (product line, platform, service) where material nature-related dependencies, impacts, risks and opportunities are most likely to arise.",
+      "ja": "一部の大規模な技術・通信セクターの組織は、規制当局や投資家から、グローバルな操業とバリューチェーン全体にわたるマテリアルな情報の評価と開示をすでに求められている場合がある。すべての組織は、評価の管理可能な出発点とするために、より狭いスコープから開始することを選択してもよい。これは、マテリアルな自然関連の依存、インパクト、リスクと機会が最も生じやすい、少数の優先度の高い地理的拠点や、バリューチェーンの一部（製品ライン、プラットフォーム、サービス）とすることが考えられる。"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "The LEAP approach is designed as an iterative process, enabling organisations to begin with the most decision-useful areas. Organisations should progressively expand both the breadth (value chain coverage) and depth (granularity of analysis) of their assessment over time, to include additional value chain activities that are shown to be material to the business and where nature-related dependencies, impacts, risks and opportunities are relevant, in line with increasing data availability, capability and organisational maturity.",
+      "ja": "LEAPアプローチは反復的なプロセスとして設計されており、組織は意思決定に最も有用な領域から開始することができる。組織は、データの入手可能性、能力および組織の成熟度の向上に合わせて、事業にとってマテリアルであることが示され、かつ自然関連の依存、インパクト、リスクと機会が関連するバリューチェーン上の追加的な活動を含めるよう、評価の幅（バリューチェーンのカバー範囲）と深さ（分析の粒度）の双方を時間をかけて段階的に拡大すべきである。"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Further guidance on assessing upstream and downstream value chains is available in the TNFD guidance on value chains.",
+      "ja": "上流と下流のバリューチェーンの評価に関するさらなるガイダンスは、バリューチェーンに関するTNFDのガイダンスに示されている。"
+    },
+    {
+      "page": 13,
+      "type": "h3",
+      "en": "Goals and resource alignment",
+      "ja": "目標と資源の整合"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Given the current level of capacity, skills and data within the organisation and given organisational goals, what are the resource (financial, human and data) considerations and time allocations required and agreed for undertaking an assessment?",
+      "ja": "組織内の能力、スキル、データの現在のレベル、および組織の目標を考慮した上で、評価を実施するために、どのような資源（財務、人材、データ）の検討と時間配分が必要とされ、同意されているか？"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Organisations should consider what existing nature, water, biodiversity or climate strategies they have in place, and what data are already collected as part of policies and compliance. This may include data collected from suppliers, regulatory processes and other sustainability and supply chain engagements that may provide information relevant to an assessment using the LEAP approach.",
+      "ja": "組織は、自然、水、生物多様性または気候に関してどのような既存の戦略を有しているか、また方針やコンプライアンスの一環としてどのようなデータをすでに収集しているかを検討すべきである。これには、サプライヤー、規制上の手続き、その他のサステナビリティおよびサプライチェーンに関するエンゲージメントから収集したデータなど、LEAPアプローチを用いた評価に関連する情報を提供し得るものが含まれ得る。"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "For technology and communications organisations, this may include:",
+      "ja": "技術・通信セクターの組織の場合、これには次のものが含まれ得る。"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Asset and location data for semiconductor fabs, electronics and hardware manufacturing sites, datacentres (with some having on-site energy generation facilities) and telecommunication infrastructure such as towers and cables;",
+      "ja": "半導体ファブ、電子機器およびハードウェアの製造拠点、データセンター（オンサイトの発電設備を有するものもある）、ならびに鉄塔やケーブルなどの電気通信インフラに関する資産と所在地のデータ"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Energy, water, cooling and wastewater data;",
+      "ja": "エネルギー、水、冷却および廃水に関するデータ"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Reuse, recycling and other solid waste management and circularity data;",
+      "ja": "再利用、リサイクルおよびその他の固形廃棄物管理と循環性に関するデータ"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Supplier, procurement and due diligence information;",
+      "ja": "サプライヤー、調達およびデューディリジェンスに関する情報"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Data from regulatory processes such as permits and Environmental Impact Assessments; and",
+      "ja": "許認可や環境影響評価などの規制上の手続きから得られるデータ"
+    },
+    {
+      "page": 13,
+      "type": "li",
+      "en": "Information from other sustainability, procurement and supply chain engagements.",
+      "ja": "その他のサステナビリティ、調達およびサプライチェーンに関するエンゲージメントから得られる情報"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Key internal stakeholders will also need to be engaged, including but not limited to sustainability, risk, operations, design and engineering, procurement, supply chain and due diligence teams.",
+      "ja": "主要な社内ステークホルダーとのエンゲージメントも必要となる。これには、サステナビリティ、リスク、オペレーション、設計・エンジニアリング、調達、サプライチェーンおよびデューディリジェンスの各チームが含まれるが、これらに限定されない。"
+    },
+    {
+      "page": 14,
+      "type": "h2",
+      "en": "2.2. Locate the organisation’s interface with nature",
+      "ja": "2.2. 組織と自然との接点の発見"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "This section provides additional guidance to help technology and communications organisations with the Locate phase of the LEAP approach.",
+      "ja": "本節では、技術・通信セクターの組織がLEAPアプローチの発見フェーズを実施する際に役立つ追加ガイダンスを提供する。"
+    },
+    {
+      "page": 14,
+      "type": "h3",
+      "en": "L1: Span of the business model and value chain",
+      "ja": "L1：ビジネスモデルとバリューチェーンの範囲"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "Guiding questions: What are our organisation’s activities by sector, value chain and geography? Where are our direct operations?",
+      "ja": "指針となる問い：セクター別、バリューチェーン別、地域別の組織の活動は何か？直接操業はどこにあるか？"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "An organisation in the technology and communications sector should map out its full value chain (see Figure 3).",
+      "ja": "技術・通信セクターの組織は、自らのバリューチェーン全体をマッピングすべきである（図3を参照）。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "For some software, IT, internet media, telecommunications or AI-enabled businesses, direct operations may be largely office based, while relevant interfaces with nature may sit elsewhere in the value chain. These may include mineral and metal extraction, semiconductor fabrication, electronics and hardware manufacturing, datacentre construction and operation, telecom towers and cables, as well as downstream reuse, recycling and e-waste management. Organisations should include relevant assets and activities even where they have limited operational control, for example, where they rely on contracted datacentres, shared telecommunications infrastructure or upstream manufacturing capacity.",
+      "ja": "一部のソフトウェア、IT、インターネット・メディア、電気通信またはAIを活用した事業では、直接操業は主にオフィスを拠点とするものである一方、関連する自然との接点はバリューチェーンの別の場所にある場合がある。これには、鉱物および金属の採掘、半導体製造、電子機器およびハードウェアの製造、データセンターの建設と運用、通信鉄塔とケーブル、ならびに下流における再利用、リサイクルおよび電子廃棄物の管理が含まれ得る。組織は、運営管理が限定的である場合、例えば契約先のデータセンター、共用の電気通信インフラ、上流の製造能力に依存している場合であっても、関連する資産と活動を含めるべきである。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "While datacentres are predominantly located on land, growing demand is driving interest in emerging siting models for datacentres and related infrastructure, including subsea, in polar regions and in space. Where relevant, organisations should consider these siting models and the associated infrastructure when locating activities and identifying interfaces with nature.13",
+      "ja": "データセンターは主に陸上に立地しているが、需要の拡大に伴い、海底、極地、宇宙空間など、データセンターと関連インフラの新たな立地モデルへの関心が高まっている。該当する場合、組織は、活動の所在を発見し自然との接点を特定する際に、こうした立地モデルと関連インフラを考慮すべきである13。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "The value chain may span multiple countries, biomes and governance contexts, and is often spatially disconnected from an individual organisation’s headquarters or core business functions. Activities with potentially moderate or high nature-related dependencies and impacts may therefore sit upstream or downstream from an organisation’s direct operations.",
+      "ja": "バリューチェーンは複数の国、バイオーム、ガバナンスの状況にまたがることがあり、個々の組織の本社や中核的な事業機能とは空間的に離れていることが多い。したがって、潜在的に中～高程度の自然関連の依存とインパクトを伴う活動は、組織の直接操業の上流または下流に位置している可能性がある。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "When geographically locating assets, organisations should consider GPS coordinates or polygon data within the context of the wider landscape and the organisation’s area of influence.",
+      "ja": "資産の地理的な所在を特定する際、組織は、より広いランドスケープと組織の影響が及ぶ範囲という文脈の中で、GPS座標またはポリゴンデータを検討すべきである。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "Which activities fall within direct operations (activities and sites over which an organisation has operational or financial control), and which sit upstream or downstream, will vary depending on the organisation’s position in the value chain. Table 2 helps organisations with this value chain mapping in L1 by indicating the types of assets and activities that organisations should seek to locate across their direct operations, as well as upstream and downstream (see Figure 3). Relevant assets and activities will vary depending on an organisation’s business model and position within the value chain.",
+      "ja": "どの活動が直接操業（組織が運営上または財務上の支配を有する活動と拠点）に該当し、どの活動が上流または下流に位置するかは、バリューチェーンにおける組織の位置付けによって異なる。表2は、組織が直接操業ならびに上流と下流（図3を参照）にわたって所在を発見すべき資産と活動の種類を示すことで、L1におけるこのバリューチェーンのマッピングを支援する。関連する資産と活動は、組織のビジネスモデルとバリューチェーンにおける位置付けによって異なる。"
+    },
+    {
+      "page": 14,
+      "type": "footnote",
+      "en": "13 Federal Communications Commission (2026) Public Notice – Space Bureau Accepts for Filing Spacex’s Application for Orbital Data Centers.",
+      "ja": "13 Federal Communications Commission (2026) Public Notice – Space Bureau Accepts for Filing Spacex’s Application for Orbital Data Centers."
+    },
+    {
+      "page": 16,
+      "type": "caption",
+      "en": "Table 2: Illustrative assets and activities related to nature across the technology and communications value chain",
+      "ja": "表2：技術・通信のバリューチェーン全体にわたる自然に関連する資産と活動の例"
+    },
+    {
+      "page": 16,
+      "type": "table",
+      "en": "| Industry following value chain | Upstream assets and activities | Assets and activities under direct operational control | Downstream assets and activities |\n|---|---|---|---|\n| Semiconductors | Assets:<br>• Mining sites and supporting infrastructure<br>Activities:<br>• Raw materials extraction, refining, conversion and processing<br>• Water production, treatment and supply<br>• Energy production and supply | Assets:<br>• Semiconductor fabrication plants (fabs) and supporting infrastructure<br>Activities:<br>• Semiconductor wafer fabrication, assembly, packaging and testing<br>• Water sourcing, ultrapure water (UPW) production, recycling and use<br>• Energy sourcing and use<br>• Chemicals and waste management<br>• Wastewater management, recycling and discharge | Activities:<br>• Semiconductor product use and operation<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing) |\n| EMS & ODM and hardware | Assets:<br>• Fabrication plants and supporting infrastructure<br>Activities:<br>• Semiconductor wafer fabrication, assembly, packaging and testing<br>• Battery and backup power system manufacturing<br>• Water production, treatment and supply<br>• Energy production and supply | Assets:<br>• Manufacturing facilities and supporting infrastructure<br>Activities:<br>• Semiconductor, chips and electronic component sourcing<br>• EMS & ODM assembly, testing and packaging<br>• Hardware product design and development<br>• Water and energy sourcing and use<br>• Chemicals and waste management<br>• Wastewater management and treatment | Activities:<br>• Hardware product use and operation<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing) |",
+      "ja": "| バリューチェーンに沿った産業 | 上流の資産と活動 | 直接的な運営管理下にある資産と活動 | 下流の資産と活動 |\n|---|---|---|---|\n| 半導体 | 資産：<br>• 採掘現場と付帯インフラ<br>活動：<br>• 原材料の採掘、精製、転換および加工<br>• 水の生産、処理および供給<br>• エネルギーの生産および供給 | 資産：<br>• 半導体製造工場（ファブ）と付帯インフラ<br>活動：<br>• 半導体ウェーハ製造、組立、パッケージングおよびテスト<br>• 水の調達、超純水（UPW）の製造、リサイクルおよび使用<br>• エネルギーの調達および使用<br>• 化学物質および廃棄物の管理<br>• 廃水の管理、リサイクルおよび排出 | 活動：<br>• 半導体製品の使用および運用<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュ（再整備）および再製造） |\n| EMS & ODMおよびハードウェア | 資産：<br>• 製造工場と付帯インフラ<br>活動：<br>• 半導体ウェーハ製造、組立、パッケージングおよびテスト<br>• 電池およびバックアップ電源システムの製造<br>• 水の生産、処理および供給<br>• エネルギーの生産および供給 | 資産：<br>• 製造施設と付帯インフラ<br>活動：<br>• 半導体、チップおよび電子部品の調達<br>• EMS & ODMによる組立、テストおよびパッケージング<br>• ハードウェア製品の設計および開発<br>• 水およびエネルギーの調達と使用<br>• 化学物質および廃棄物の管理<br>• 廃水の管理および処理 | 活動：<br>• ハードウェア製品の使用および運用<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュおよび再製造） |"
+    },
+    {
+      "page": 17,
+      "type": "table",
+      "en": "| Industry following value chain | Upstream assets and activities | Assets and activities under direct operational control | Downstream assets and activities |\n|---|---|---|---|\n| Datacentres (infrastructure) | Assets:<br>• Semiconductor fabs and supporting infrastructure<br>• Manufacturing facilities and supporting infrastructure<br>Activities:<br>• Semiconductor wafer fabrication, assembly, packaging and testing<br>• EMS & ODM assembly, testing and packaging<br>• Hardware product design and development<br>• Battery and backup power system manufacturing<br>• Water production, treatment and supply<br>• Energy production and supply | Assets:<br>• Datacentre facilities and supporting infrastructure<br>Activities:<br>• Hardware procurement, deployment and lifecycle management<br>• Water sourcing and use for cooling systems<br>• Energy sourcing and use<br>• On-site electricity generation and storage (where applicable) | Activities:<br>• Digital, software, IT, internet and media services enabled by datacentre infrastructure<br>• IT equipment lifecycle management (reuse, refurbishment, repair, deployment and recycling)<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing)<br>• Decommissioning of datacentre infrastructure |",
+      "ja": "| バリューチェーンに沿った産業 | 上流の資産と活動 | 直接的な運営管理下にある資産と活動 | 下流の資産と活動 |\n|---|---|---|---|\n| データセンター（インフラ） | 資産：<br>• 半導体ファブと付帯インフラ<br>• 製造施設と付帯インフラ<br>活動：<br>• 半導体ウェーハ製造、組立、パッケージングおよびテスト<br>• EMS & ODMによる組立、テストおよびパッケージング<br>• ハードウェア製品の設計および開発<br>• 電池およびバックアップ電源システムの製造<br>• 水の生産、処理および供給<br>• エネルギーの生産および供給 | 資産：<br>• データセンター施設と付帯インフラ<br>活動：<br>• ハードウェアの調達、展開およびライフサイクル管理<br>• 冷却システム用の水の調達および使用<br>• エネルギーの調達および使用<br>• オンサイトでの発電・蓄電（該当する場合） | 活動：<br>• データセンターインフラによって実現されるデジタル、ソフトウェア、IT、インターネットおよびメディアのサービス<br>• IT機器のライフサイクル管理（再利用、リファービッシュ、修理、展開およびリサイクル）<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュおよび再製造）<br>• データセンターインフラの廃止・撤去 |"
+    },
+    {
+      "page": 18,
+      "type": "table",
+      "en": "| Industry following value chain | Upstream assets and activities | Assets and activities under direct operational control | Downstream assets and activities |\n|---|---|---|---|\n| Telecommunications (infrastructure) | Assets:<br>• Manufacturing facilities and supporting infrastructure<br>Activities:<br>• EMS & ODM assembly, testing and packaging<br>• Fiber optic cable manufacturing and materials processing<br>• Energy production and supply | Assets:<br>• Telecommunications infrastructure (towers, cables, switches, antennas, network equipment)<br>Activities:<br>• Operation and maintenance of network infrastructure<br>• Energy sourcing and use<br>• On-site energy generation and backup power systems (where applicable) | Activities:<br>• Telecommunications services provision and operation (cable, wireless, satellite, broadband and other services)<br>• Customer use of telecommunications services<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing)<br>• Decommissioning of telecom infrastructure |\n| Software and IT services (for datacentre infrastructure, formally part of Software and IT SICS® category, see above) | Assets:<br>• Datacentre facilities and supporting infrastructure<br>Activities:<br>• Datacentre operations including water and energy sourcing and use for cooling systems | Assets:<br>• Software and IT operational environments (e.g. cloud regions, on-premises environments)<br>• Digital platforms, applications and services<br>Activities:<br>• Software development, deployment and operation<br>• Data processing, hosting and managed IT services<br>• Application performance and resource optimisation (e.g. software efficiency, architecture, scaling behaviour)<br>• AI model training (where applicable) | Activities:<br>• Software and IT services deployment and use<br>• Customer use of digital products and platforms<br>• IT equipment lifecycle management (reuse, refurbishment, repair, deployment and recycling)<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing) |",
+      "ja": "| バリューチェーンに沿った産業 | 上流の資産と活動 | 直接的な運営管理下にある資産と活動 | 下流の資産と活動 |\n|---|---|---|---|\n| 電気通信（インフラ） | 資産：<br>• 製造施設と付帯インフラ<br>活動：<br>• EMS & ODMによる組立、テストおよびパッケージング<br>• 光ファイバーケーブルの製造および材料加工<br>• エネルギーの生産および供給 | 資産：<br>• 電気通信インフラ（鉄塔、ケーブル、交換機、アンテナ、ネットワーク機器）<br>活動：<br>• ネットワークインフラの運用および保守<br>• エネルギーの調達および使用<br>• オンサイトでのエネルギー生成およびバックアップ電源システム（該当する場合） | 活動：<br>• 電気通信サービスの提供および運用（ケーブル、無線、衛星、ブロードバンドおよびその他のサービス）<br>• 顧客による電気通信サービスの利用<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュおよび再製造）<br>• 通信インフラの廃止・撤去 |\n| ソフトウェアおよびITサービス（SICS®では正式にはソフトウェアおよびITのカテゴリーに含まれるデータセンターインフラについては、上記を参照） | 資産：<br>• データセンター施設と付帯インフラ<br>活動：<br>• 冷却システム用の水およびエネルギーの調達と使用を含むデータセンターの運用 | 資産：<br>• ソフトウェアおよびITの運用環境（例：クラウドリージョン、オンプレミス環境）<br>• デジタルプラットフォーム、アプリケーションおよびサービス<br>活動：<br>• ソフトウェアの開発、展開および運用<br>• データ処理、ホスティングおよびマネージドITサービス<br>• アプリケーションのパフォーマンスとリソースの最適化（例：ソフトウェアの効率性、アーキテクチャー、スケーリング動作）<br>• AIモデルの訓練（該当する場合） | 活動：<br>• ソフトウェアおよびITサービスの展開と利用<br>• 顧客によるデジタル製品およびプラットフォームの利用<br>• IT機器のライフサイクル管理（再利用、リファービッシュ、修理、展開およびリサイクル）<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュおよび再製造） |"
+    },
+    {
+      "page": 19,
+      "type": "table",
+      "en": "| Industry following value chain | Upstream assets and activities | Assets and activities under direct operational control | Downstream assets and activities |\n|---|---|---|---|\n| Internet Media and Services (TC-IM) (for datacentre and telecommunications infrastructure, see above) | Assets:<br>• Datacentre facilities and supporting infrastructure<br>• Telecommunications infrastructure<br>Activities:<br>• Datacentre operations including water and energy sourcing and use for cooling systems<br>• Telecommunications network operations including energy sourcing and use | Assets:<br>• Software and IT operational environments<br>• Digital platforms, applications and services<br>Activities:<br>• Software development, deployment and operation<br>• Digital content and service delivery<br>• Data processing, hosting and managed IT services<br>• Application performance and resource optimisation<br>• AI model training (where applicable) | Activities:<br>• Internet and media services deployment and use<br>• Customer use of digital platforms and applications |\n| Telecommunications services | Assets:<br>• Telecommunications infrastructure<br>• Datacentre facilities supporting telecom services (where applicable)<br>Activities:<br>• Telecommunications network operations including energy sourcing and use<br>• Datacentre operations including water and energy sourcing and use for cooling systems (where applicable) | Assets:<br>• Operation and maintenance of network infrastructure<br>Activities:<br>• Telecommunications services provision and operation<br>• Datacentre operations’ supporting network services (where applicable) | Activities:<br>• Telecommunications services (cable, wireless, satellite and other services) deployment and use<br>• Customer use of telecommunications services<br>• E-waste collection, treatment, recycling and disposal<br>• Product circularity (e.g. repair, reuse, refurbishment and remanufacturing) |",
+      "ja": "| バリューチェーンに沿った産業 | 上流の資産と活動 | 直接的な運営管理下にある資産と活動 | 下流の資産と活動 |\n|---|---|---|---|\n| インターネット・メディアおよびサービス（TC-IM）（データセンターおよび電気通信インフラについては、上記を参照） | 資産：<br>• データセンター施設と付帯インフラ<br>• 電気通信インフラ<br>活動：<br>• 冷却システム用の水およびエネルギーの調達と使用を含むデータセンターの運用<br>• エネルギーの調達と使用を含む電気通信ネットワークの運用 | 資産：<br>• ソフトウェアおよびITの運用環境<br>• デジタルプラットフォーム、アプリケーションおよびサービス<br>活動：<br>• ソフトウェアの開発、展開および運用<br>• デジタルコンテンツおよびサービスの提供<br>• データ処理、ホスティングおよびマネージドITサービス<br>• アプリケーションのパフォーマンスとリソースの最適化<br>• AIモデルの訓練（該当する場合） | 活動：<br>• インターネットおよびメディアサービスの展開と利用<br>• 顧客によるデジタルプラットフォームおよびアプリケーションの利用 |\n| 電気通信サービス | 資産：<br>• 電気通信インフラ<br>• 通信サービスを支えるデータセンター施設（該当する場合）<br>活動：<br>• エネルギーの調達と使用を含む電気通信ネットワークの運用<br>• 冷却システム用の水およびエネルギーの調達と使用を含むデータセンターの運用（該当する場合） | 資産：<br>• ネットワークインフラの運用および保守<br>活動：<br>• 電気通信サービスの提供および運用<br>• ネットワークサービスを支えるデータセンターの運用（該当する場合） | 活動：<br>• 電気通信サービス（ケーブル、無線、衛星およびその他のサービス）の展開と利用<br>• 顧客による電気通信サービスの利用<br>• 電子廃棄物の回収、処理、リサイクルおよび処分<br>• 製品の循環性（例：修理、再利用、リファービッシュおよび再製造） |"
+    },
+    {
+      "page": 20,
+      "type": "h3",
+      "en": "L2: Dependency and impact screening",
+      "ja": "L2：依存とインパクトのスクリーニング"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "Guiding question: Which of these sectors, value chains and direct operations are associated with potentially moderate and high dependencies and impacts on nature?",
+      "ja": "指針となる問い：これらのセクター、バリューチェーン、直接操業のうち、自然に対する潜在的に中～高程度の依存とインパクトを伴うものはどれか？"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "In L2, organisations consider which of the activities and assets identified in L1 (after analysing the value chain) are associated with potentially moderate and high dependencies and impacts on nature. This is a first phase of screening, with more detailed measurement in the Evaluate phase.",
+      "ja": "L2では、組織は、（バリューチェーンを分析した上で）L1で特定した活動と資産のうち、どれが自然に対する潜在的に中～高程度の依存とインパクトを伴うかを検討する。これはスクリーニングの最初の段階であり、より詳細な測定は診断フェーズで行う。"
+    },
+    {
+      "page": 20,
+      "type": "h4",
+      "en": "Dependencies on nature",
+      "ja": "自然への依存"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "The resilience of the sector depends on nature. Land is needed for resource extraction, semiconductor fabs, manufacturing facilities, datacentre campuses and, increasingly, the energy infrastructure for energy-intensive operations such as datacentres. Healthy watersheds and groundwater sources are crucial for a consistent and clean water supply, particularly during droughts. Where operations are located in water-scarce regions, this dependency creates exposure to physical risks such as water scarcity, declining water quality and operational disruption.14",
+      "ja": "このセクターのレジリエンスは自然に依存している。土地は、資源の採掘、半導体ファブ、製造施設、データセンターキャンパス、そしてますます、データセンターなどのエネルギー集約的な操業のためのエネルギーインフラに必要とされている。健全な流域と地下水源は、特に干ばつ時において、安定した清浄な水供給に不可欠である。操業が水不足の地域に立地している場合、この依存は、水不足、水質の低下、操業の中断といった物理的リスクへのエクスポージャーを生む14。"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "Healthy ecosystems can also reduce hazard exposure and support operational resilience. Intact watersheds, wetlands, floodplains and coastal ecosystems can help buffer against droughts and floods from extreme rainfall events15 that can disrupt fab operations, datacentre cooling, datacentre and telecommunications infrastructure and wider supply chains.",
+      "ja": "健全な生態系は、ハザードへのエクスポージャーを低減し、操業のレジリエンスを支えることもできる。損なわれていない流域、湿地、氾濫原および沿岸生態系は、ファブの操業、データセンターの冷却、データセンターおよび電気通信インフラ、ならびにより広範なサプライチェーンを混乱させ得る干ばつや極端な降雨による洪水15に対する緩衝に役立つ。"
+    },
+    {
+      "page": 20,
+      "type": "h4",
+      "en": "Impacts on nature",
+      "ja": "自然に対するインパクト"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "Impacts on nature from economic activities in the sector are driven by land use change, water use, minerals and metals extraction, and pollution, including air, soil and water pollution across the value chain and significant waste generation. The impacts mentioned below appear primarily in field-based direct operations (semiconductor fabs, manufacturing facilities, and datacentre and telecommunications infrastructure). Sub-sectors upstream (and their customers), such as software and IT companies and those providing internet and media and telecommunication services, should consider such impacts as part of their upstream value chain.",
+      "ja": "このセクターの経済活動による自然に対するインパクトは、土地利用変化、水使用、鉱物および金属の採掘、ならびにバリューチェーン全体にわたる大気・土壌・水の汚染を含む汚染と大量の廃棄物の発生によって引き起こされる。以下に述べるインパクトは、主に現場を拠点とする直接操業（半導体ファブ、製造施設、ならびにデータセンターおよび電気通信インフラ）において現れる。ソフトウェア企業やIT企業、インターネット・メディアサービスや電気通信サービスを提供する企業など、上流のサブセクター（およびその顧客）は、こうしたインパクトを自らの上流のバリューチェーンの一部として考慮すべきである。"
+    },
+    {
+      "page": 20,
+      "type": "li",
+      "en": "Land, freshwater and ocean use change: An estimated 160 square kilometres of ‘powered land’ will be needed to support projected datacentre growth over the next five years.16 This represents only part of the wider land footprint: the associated land footprint of electricity infrastructure is projected to exceed 14,500 square kilometers by 2030.17 An individual datacentre may require two to three square kilometres of land for about one gigawatt of power, with the energy use also requiring significant water resources.18 Meanwhile, telecommunications towers and subsea cables require space across land and seascapes and have the potential to disturb and fragment habitats during construction.",
+      "ja": "陸、淡水、海洋利用の変化：今後5年間に予測されるデータセンターの成長を支えるには、推定160平方キロメートルの「電力供給可能な土地（powered land）」が必要になる16。これはより広範な土地フットプリントの一部にすぎず、関連する電力インフラの土地フットプリントは2030年までに14,500平方キロメートルを超えると予測されている17。個々のデータセンターは、約1ギガワットの電力に対して2～3平方キロメートルの土地を必要とする場合があり、そのエネルギー使用には相当な水資源も必要となる18。一方、通信鉄塔と海底ケーブルは陸と海のランドスケープにわたって空間を必要とし、建設中に生息地を攪乱し分断する可能性がある。",
+      "flag": "term-uncertain: powered land"
+    },
+    {
+      "page": 20,
+      "type": "footnote",
+      "en": "14 AXA (2023) Why Should Water Stewardship Go Beyond ESG Strategy?",
+      "ja": "14 AXA (2023) Why Should Water Stewardship Go Beyond ESG Strategy?"
+    },
+    {
+      "page": 20,
+      "type": "footnote",
+      "en": "15 UNDP (2025) Nature for Disaster Risk Register.",
+      "ja": "15 UNDP (2025) Nature for Disaster Risk Register."
+    },
+    {
+      "page": 20,
+      "type": "footnote",
+      "en": "16 Hines Research (2025) Power Play: The Emerging Powered Land Opportunity.",
+      "ja": "16 Hines Research (2025) Power Play: The Emerging Powered Land Opportunity."
+    }
+  ]
+}

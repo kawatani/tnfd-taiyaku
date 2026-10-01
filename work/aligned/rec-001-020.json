@@ -1,0 +1,941 @@
+{
+  "doc": "rec",
+  "pages": [
+    1,
+    20
+  ],
+  "segments": [
+    {
+      "page": 1,
+      "type": "h1",
+      "en": "Recommendations of the Taskforce on Nature-related Financial Disclosures",
+      "ja": "自然関連財務情報開示タスクフォースの提言"
+    },
+    {
+      "page": 2,
+      "type": "h1",
+      "en": "Contents",
+      "ja": "目次"
+    },
+    {
+      "page": 3,
+      "type": "h1",
+      "en": "Foreword from the TNFD Co-Chairs",
+      "ja": "序文TNFD共同議長"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "The future of all living things on our planet, and our future prosperity, depends on the resilience of nature. Declines in nature compromise the security of our societies and increase the risks to business and investors, including our ability to mitigate and adapt to climate change. Sustained improvements in the resilience of our natural world and its biodiversity are essential to secure the prosperity of current and future generations. Nevertheless, businesses today continue to see nature as an unlimited and free provider of critical inputs into their operations and value chains, from the flow of fresh water to the pollination services of bees and the flood mitigation services of mangroves.",
+      "ja": "地球上のすべての生き物の未来、そして私たちの将来の繁栄は、自然のレジリエンスにかかっている。自然の減少は私たちの社会の安全を脅かし、気候変動への緩和・適応能力を含め、ビジネスや投資家にとってのリスクを増大させる。自然界と生物多様性のレジリエンスを持続的に向上させることは、現在と将来の世代の繁栄を確実にするために不可欠である。それにもかかわらず、今日の企業は淡水の供給、ミツバチの花粉媒介サービス、マングローブの洪水緩和サービスまで、自然は事業やバリューチェーンにとって重要なインプットを無制限かつ無償で供給してくれる存在であると見なし続けている。"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "Future cashflows depend on the resilience of the future flow of these ecosystem services from nature. With six of the nine planetary boundaries already breached, it is increasingly clear that nature risk, beyond climate change, is financial risk. Business as usual is no longer a viable option and nature must no longer be seen as a corporate social responsibility issue but a strategic risk management one.",
+      "ja": "将来のキャッシュフローは、自然がもたらすこれらの生態系サービスのレジリエンスにかかっている。9つのプラネタリーバウンダリーのうち6つがすでに限界を超え、気候変動のみならず、自然リスクが財務リスクであることがますます明らかになっている。現状維持はもはや実行可能な選択肢ではなく、自然は、企業の社会的責任（CSR）の課題ではなく、戦略的リスク管理の課題として捉えられなければならない。"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "At COP15 of the Convention on Biological Diversity in December 2022, 196 countries agreed to the Kunming-Montreal Global Biodiversity Framework – a bold and ambitious set of practical commitments to halt and reverse nature loss by 2030, and to live in harmony with nature by 2050. The challenge ahead is to make that transition as orderly as possible and to unleash the full potential of all segments of society, including business and finance, to contribute to nature-positive outcomes.",
+      "ja": "2022年12月に開催された生物多様性条約第15回締約国会議で、196カ国が「昆明・モントリオール生物多様性枠組」に合意した。この枠組みは、2030年までに自然の損失を食い止め、反転させ、2050年までに自然と共生するための大胆かつ野心的で、実践的なコミットメントである。今後の課題は、この移行を可能な限り秩序だったものにし、ビジネスや金融を含む社会のあらゆる分野の潜在能力を最大限に引き出して、ネイチャーポジティブという成果に貢献することである。"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "The Taskforce on Nature-related Financial Disclosures (TNFD) is one initiative among many required across public, private and civil society. The TNFD was established to encourage and facilitate a shift in the mindset and behaviour of companies and financial institutions through enterprise and portfolio risk management and mainstream corporate reporting. Building on the market’s experience with climate-related reporting over the past decade and the work of the Task Force on Climate-related Financial Disclosures (TCFD), the TNFD recommends 14 disclosures to promote the provision of clear, comparable and consistent information by companies to investors and other providers of capital. The Taskforce provides a set of metrics for measurement and a suite of guidance to help organisations get started on nature-related assessment and disclosure.",
+      "ja": "自然関連財務情報開示タスクフォース（TNFD）は、公共部門、民間部門、市民社会にわたって必要とされる多くのイニシアティブのひとつである。TNFDは企業やポートフォリオのリスク管理、企業報告の主流化を通して、企業や金融機関の考え方や行動の転換を支援し、促進することを目的としている。TNFDは過去10年にわたる気候関連報告に関する市場の経験や、気候関連財務情報開示タスクフォース（TCFD）の作業を踏まえ、投資家やその他の資金提供者に対して、企業が明確で比較可能な一貫性のある情報を提供することを促進するため、14項目の開示を提言している。タスクフォースは、組織が自然関連評価と開示に着手する際に役立つ測定指標のセットおよび一連のガイダンスを提供している。"
+    },
+    {
+      "page": 3,
+      "type": "p",
+      "en": "By building on existing frameworks and standards, including those of the International Sustainability Standards Board (ISSB) and the GRI, and by using an open innovation approach, market participants and other stakeholders have played a critical role in the development of these recommendations. Of the organisations that are already starting to use these recommendations, many are seeing the advantages of taking an integrated approach to nature and climate assessment.",
+      "ja": "国際サステナビリティ基準審議会（ISSB）やグローバル・レポーティング・イニシアティブ（GRI）を含む既存の枠組みや基準をベースとし、オープン・イノベーションのアプローチを用いることで、市場参加者やその他のステークホルダーは、本提言の開発において重要な役割を果たした。すでに本提言の活用を始めている組織の多くは、自然と気候の評価に統合的なアプローチをとることの利点を見出している。"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "We would like to thank the dedication and commitment of the 40 Taskforce members, the TNFD Secretariat team and the TNFD Forum member organisations, including our knowledge and piloting programme partners. Collectively, we have endeavoured to strike the best possible balance between respecting the complexity of the science of nature and enabling practical, concrete and cost-effective action by business and finance, within the constraints of conventional annual corporate reporting cycles and subject to third-party assurance.",
+      "ja": "我々は、40名のタスクフォースメンバー、TNFD事務局チーム、TNFDフォーラム会員組織（ナレッジ・パートナー、パイロットプログラム・パートナーを含む）の献身とコミットメントに感謝したい。我々は一丸となって、自然科学の複雑さの尊重と、ビジネスと金融による実践的、具体的かつ費用対効果の高い行動との可能な限り最良のバランスを、第三者保証の対象とすることを前提とした従来の年次企業報告サイクルの制約の中で、実現するよう努めてきた。"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "The Taskforce now shifts its focus to encouraging market adoption, supporting knowledge and capacity building efforts across the market, and working with standard-setting partners as they look to develop nature-related disclosure standards that draw from the TNFD recommendations.",
+      "ja": "タスクフォースは現在、市場におけるTNFDの提言の採用を促進し、市場全体の知識と能力構築の取り組みを支援し、TNFDの提言を参考にした自然関連の開示基準の開発を目指す基準設定パートナーと協力することに重点を移している。"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "Nature risk is sitting in the cashflows, balance sheets and capital portfolios of organisations across sectors and geographies today. That represents clear and present physical, transition and systemic risks to companies and the providers of their financial capital. While there are many factors to consider and behavioural changes required across stakeholder groups to address the global nature crisis, barriers to taking action are progressively being removed. We believe that the publication of the TNFD recommendations is an important step forward to help market participants address nature-related risks and to redirect global financial flows towards outcomes that are better for the planet and our future prosperity.",
+      "ja": "自然リスクは今日、セクターや地域を問わず、組織のキャッシュフロー、バランスシート、資本ポートフォリオの中に存在している。それは企業および企業に対する金融資本の提供者にとって、明確で現在存在している物理的リスク、移行リスク、システミックリスクを意味する。世界的な自然危機に対処するには、考慮すべき多くの要因があり、ステークホルダー・グループ全体に行動の変化が求められるが、行動を起こすための障壁は徐々に取り除かれつつある。我々はTNFDの提言の公表が、市場参加者が自然関連リスクに対処し、世界の金融の流れを地球と我々の将来の繁栄にとってより良い成果に向けるための重要な一歩であると確信している。"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "Elizabeth Maruma Mrema, Co-Chair",
+      "ja": "エリザベス・マルマ・ムレマ共同議長"
+    },
+    {
+      "page": 4,
+      "type": "p",
+      "en": "David Craig, Co-Chair",
+      "ja": "デビッド・クレイグ共同議長"
+    },
+    {
+      "page": 5,
+      "type": "h1",
+      "en": "Acknowledgements",
+      "ja": "謝辞"
+    },
+    {
+      "page": 5,
+      "type": "p",
+      "en": "The recommendations in this report are the product of a unique two-year open innovation process. At the outset, the Taskforce recognised that the central challenge to design a set of nature-related recommended disclosures was to strike the best possible balance between the complexity of the science and the creation of practical recommendations that enable cost-effective action by business and finance within an annual corporate reporting cycle that is subject to third-party assurance. Drawing on the wisdom of scientists, conservation experts, standards experts, market participants and Indigenous leaders across professional disciplines, across cultures and across geographies has been vital. The level of engagement has been energising for the Taskforce and has helped build the confidence of many market participants to get started, notwithstanding remaining knowledge, skill and data challenges that the Taskforce is committed to work further on with partner organisations.",
+      "ja": "本報告書の提言は、2年間にわたるユニークなオープン・イノベーション・プロセスの成果である。タスクフォースは当初から、一連の自然関連の開示提言を設計するための中心的な課題は、科学の複雑さと、第三者保証の対象となる年次企業報告サイクルの中でビジネスと金融による費用対効果の高い行動を可能にする実践的な提言の作成との間で、可能な限り最良のバランスをとることであると認識していた。科学者、保全の専門家、基準設定の専門家、市場参加者、先住民族のリーダーたちの知恵を、専門分野、文化、地域を超えて活用することはきわめて重要であった。タスクフォースにとり、このような高いレベルのエンゲージメントは活力となり、タスクフォースがパートナー組織と共にさらに取り組むことを約束している知識、技術、データ面での課題が残されているにもかかわらず、多くの市場参加者が取り組みに着手するための自信を築くために役立った。"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "Extensive market consultation and testing: 40 Taskforce Members leading market development / 19 Knowledge partners / 11 consultation groups across 20 countries / 200+ pilot tests",
+      "ja": "広範な市場協議とテスト：40市場開発を主導するタスクフォースのメンバーの数 / 19ナレッジ・パートナーの数 / 11 20カ国の協議会の数 / 200+ パイロットテストの回数"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "Framework feedback & review: 750,000+ views of the framework / 8,200+ TNFD framework profiles created / 3,400+ pieces of feedback analysed / 130+ data providers in the Data Catalyst / 1,100+ TNFD Forum Member organisations",
+      "ja": "フレームワークのフィードバックとレビュー：750,000+ フレームワークの閲覧回数 / 8,200+ 作成されたTNFDフレームワーク・プロファイルの件数 / 3,400+ 分析されたフィードバックの件数 / 130+ データカタリスト中のデータプロバイダーの数 / 1,100+ TNFDフォーラム会員組織の数"
+    },
+    {
+      "page": 5,
+      "type": "figure",
+      "en": "Engagement of Indigenous leaders and civil society organisations / Consultations with regulators and market intermediaries / 23 TNFD Forum webinars and piloting clinics / 60+ formal comment letters published / 68 countries where substantive feedback was provided / 150+ industry and stakeholder briefing events",
+      "ja": "先住民族の指導者および市民団体のエンゲージメント / 規制当局および市場の仲介人との協議 / 23 TNFDフォーラムのウェビナーとパイロットテスト相談会の回数 / 60+ 公開された正式な意見書の数 / 68多数のフィードバックが提供された国の数 / 150+ 産業界およびステークホルダー向けの説明会の回数"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "The Taskforce is deeply grateful to all the organisations and individuals who have contributed to this effort. They are detailed in the acknowledgements in Annex 6. In particular:",
+      "ja": "タスクフォースは、この取り組みに貢献したすべての組織と個人に深く感謝している。その詳細は別紙6の謝辞に記載した。ここでは、特に以下の組織を挙げる。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "The TNFD Forum has crowded-in market interest, built awareness and provided a sounding board for consultation;",
+      "ja": "TNFDフォーラムは市場の関心を集め、認知度を高め、協議のために意見を聞く場を提供してきた。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "Our knowledge partners, including the world’s leading science and conservation organisations, multilateral institutions and standard-setting organisations, have provided a wealth of technical advice;",
+      "ja": "世界中の先進的な科学・保全機関、多国間機関、基準設定主体などのナレッジ・パートナーが、豊富な技術的助言を提供した。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "National and regional Consultation Groups, led by convening organisations in each market, have helped the Taskforce to engage a breadth of stakeholders from business executives and portfolio managers to Indigenous community and civil society leaders;",
+      "ja": "各市場において会議招集組織が主導した国別および地域の協議会は、企業経営者やポートフォリオ・マネージャー、先住民族のコミュニティ、市民社会のリーダーまで、幅広いステークホルダーの参加を得るためにタスクフォースを支援してきた。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "Industry business associations and consulting firms that led pilot testing programmes with companies and financial institutions across all major sectors, geographies and biomes have provided detailed and practical user experience insights that informed the development of the TNFD’s recommendations and guidance;",
+      "ja": "あらゆる主要なセクター、地域、バイオームにまたがる企業や金融機関とのパイロットテスト・プログラムを主導した業界団体やコンサルティング会社からは、TNFDの提言やガイダンスの開発に役立つ詳細かつ実践的なユーザー・エクスペリエンスに関する知見が提供された。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "Dialogues with Indigenous Peoples and civil society groups have ensured these important voices have been listened to and their expertise and experience incorporated in the TNFD’s guidance;",
+      "ja": "先住民族や市民社会グループとの対話により、彼らの重要な声に耳を傾け、彼らの専門知識や経験をTNFDのガイダンスに確実に組み込んできた。"
+    },
+    {
+      "page": 6,
+      "type": "li",
+      "en": "A number of consulting firms, business associations and scientific organisations provided considerable pro bono consulting and secondment contributions to the TNFD Secretariat.",
+      "ja": "TNFD事務局には、多くのコンサルティング会社、経済団体、科学機関から、無償でのコンサルティングや出向といった多大な貢献があった。"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "Finally, I would like to thank the Green Finance Institute (GFI) for its generous support in administratively hosting the TNFD Secretariat. I would also like to acknowledge the leadership and generous financial support of the TNFD’s founders and funders, convened as the TNFD Stewardship Council. They have been a consistent source of inspiration and insight, based on their collective knowledge, experience and relationships globally. The Stewardship Council includes the governments of Australia, France, Germany, the Netherlands, Norway, Switzerland and the United Kingdom; the Global Environment Facility (GEF), the United Nations Development Programme (UNDP), the United Nations Environment Programme Finance Initiative (UNEP-FI), the Children’s Investment Fund Foundation (CIFF) and the Macdoch Foundation.",
+      "ja": "最後に、TNFDの事務局を引き受けてくれたグリーン・ファイナンス・インスティテュート（GFI）の惜しみないサポートに感謝したい。また、TNFDスチュワードシップ・カウンシルとして招集されたTNFDの創設者と資金提供者によるリーダーシップと寛大な財政支援にも感謝したい。彼らはその知識、経験、そして世界的な関係性を結集させ、常にインスピレーションと知見を提供してきた源泉であった。スチュワードシップ・カウンシルには、オーストラリア、フランス、ドイツ、オランダ、ノルウェー、スイス、イギリスの政府、そして、地球環境ファシリティ（GEF）、国連開発計画（UNDP）、国連環境計画金融イニシアティブ（UNEP-FI）、チルドレンズ・インベストメント・ファンド財団（CIFF）、マクドック財団が加盟している。"
+    },
+    {
+      "page": 6,
+      "type": "p",
+      "en": "Tony Goldner, Executive Director, TNFD",
+      "ja": "トニー・ゴールドナーエグゼクティブ・ディレクター、TNFD"
+    },
+    {
+      "page": 7,
+      "type": "h1",
+      "en": "Executive summary",
+      "ja": "エグゼクティブサマリー"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "Our society, economies and financial systems are embedded in nature, not external to it. The prosperity and resilience of our societies and economies depend on the health and resilience of nature and its biodiversity. Healthy ecosystems are a prerequisite for the sustained flow of ecosystem services that communities need to survive and flourish, and that business and finance depend on to generate cashflows and returns.",
+      "ja": "私たちの社会、経済、金融システムは、自然の外側にあるのではなく、自然の中に組み込まれている。社会と経済の繁栄とレジリエンスは、自然とその生物多様性の健全性とレジリエンスにかかっている。健全な生態系は、コミュニティが生き残り、繁栄するために不可欠な生態系サービスの持続的な提供を保証するものであり、ビジネスや金融がキャッシュフローとリターンを生む上での基盤としても機能している。"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "The science is clear. Nature is deteriorating globally and biodiversity is declining faster than at any time in human history. The majority of the vital ecosystem services on which business and society depend, and which provide the foundation for every economy, are in decline. The global economy is already operating outside the safe zone for six of the nine planetary boundaries – processes that are critical for maintaining the Earth’s stability. Ecosystem services are not being appropriately priced by business and financial markets today.",
+      "ja": "科学は明確だ。自然は世界的に悪化しており、生物多様性は人類史上かつてない速さで減少している。ビジネスや社会が依存し、あらゆる経済の基盤となっている重要な生態系サービスの大半が減少している。世界経済は、地球の安定を維持するために重要な9つのプラネタリーバウンダリー（地球の限界）のうち6つについてすでに安全圏を超えて進行している。今日、生態系サービスには、ビジネスや金融市場で適切な価格がつけられていない。"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "There is growing evidence that this poses risks for businesses, capital providers, financial systems and economies, and that these risks are increasing in severity and frequency. Critical global supply chains, from agribusiness to semiconductors, are facing disruptions from water shortages and water stress. The degradation of forests is threatening the availability and long-term security of valuable commodities on which some sectors rely, such as cosmetics. The degradation of land and soil has been found to adversely impact the market value of companies and increase credit risk to associated lenders. The loss of pollinators is adversely impacting agricultural production, with the growing demand for pollination services becoming increasingly difficult to meet in some countries. Companies in a range of sectors, from agrochemicals to mining, that have not managed their nature-related impacts have experienced permit refusals and lawsuits, with associated deteriorations in credit ratings and market valuations.",
+      "ja": "このことが企業、資本提供者、金融システム、経済にリスクをもたらし、こうしたリスクの深刻さと頻度が増していることを示す証拠が増加している。農業から半導体まで、重要なグローバル・サプライチェーンは、水不足や水ストレスによる混乱に直面している。森林の劣化は、化粧品など一部の部門が依存する貴重な産品の入手可能性と長期的な安全性を脅かしている。土地や土壌の劣化は、企業の市場価値に悪影響を及ぼし、関連する貸し手の信用リスクを高めることがわかっている。受粉媒介者の喪失は農業生産に悪影響を及ぼし、一部の国では、受粉サービスに対する需要の高まりへの対応が困難になっている。農薬、鉱業をはじめとするさまざまな部門の企業で、自然関連のインパクトを適切に管理していないところは、許可申請の却下や訴訟を経験しており、これにより信用格付けや市場評価が悪化している。"
+    },
+    {
+      "page": 7,
+      "type": "quote",
+      "en": "The TNFD recommendations provide companies and financial institutions of all sizes with a risk management and disclosure framework to identify, assess, manage and, where appropriate, disclose nature-related issues.",
+      "ja": "TNFDの提言はあらゆる規模の企業と金融機関に対し、自然関連課題を特定し、評価し、管理し、そして適切な場合は開示するためのリスク管理と開示の枠組みを提供する。"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "Central banks and financial supervisors are increasingly recognising nature loss as a source of systemic risk to financial systems and economies. In March 2022, the Network for Greening the Financial System (NGFS), a network of over 125 central banks and financial supervisors, concluded that nature-related risks could have significant macroeconomic implications, and that failure to account for, mitigate and adapt to these implications is a source of risks for individual financial institutions as well as for financial stability. In September 2023, the NGFS encouraged all central banks and supervisors to assess and act on economic and financial risks stemming from stemming from nature loss.",
+      "ja": "中央銀行や金融監督当局は、自然の損失が金融システムや経済のシステミック・リスクの原因であるとの認識を強めている。2022年3月、125を超える中央銀行と金融監督当局のネットワークである「金融システムのグリーン化のためのネットワーク（NGFS）」は、「自然関連リスクはマクロ経済に重大な影響を及ぼす可能性があり、これらの影響を考慮し、緩和し、適応することができないことは、個々の金融機関だけでなく、金融の安定性にとってもリスクの源泉となる」と結論づけた。2023年9月、気候変動リスク等に係る金融当局ネットワーク（NGFS）はすべての中央銀行と監督当局に対し、自然の損失に起因する経済・金融リスクを評価し、対処するよう促した。"
+    },
+    {
+      "page": 7,
+      "type": "quote",
+      "en": "“As central banks and supervisors, we have every reason to be concerned because it’s an illusion to think we can preserve financial stability if this degradation continues.” Klaas Knot, Chairman of the Financial Stability Board and President, De Nederlandsche Bank.",
+      "ja": "「この劣化が続けば、金融の安定を保つことが可能という考えは幻想であり、中央銀行や監督当局としては懸念する理由が十分にある」。クラース・クノット、金融安定理事会会長兼オランダ銀行頭取"
+    },
+    {
+      "page": 7,
+      "type": "p",
+      "en": "Governments are also mobilising through policy and fiscal action. In December 2022, almost 200 governments committed to ambitious goals and targets under the Kunming-Montreal Global Biodiversity Framework (GBF) to halt and reverse nature loss by 2030. Target 15 of the GBF calls for businesses to monitor, assess and transparently disclose their risks, dependencies and impacts on biodiversity, to ensure business, society and nature exist in harmony. Governments from Australia, Brazil, China, the European Union, the United States and elsewhere are providing substantial new funding and incentives to mobilise private sector innovation and financial capital behind green transition plans, nature markets and bioeconomy investment strategies.",
+      "ja": "政府もまた、政策や財政措置で対応している。2022年12月、約200の政府が、2030年までに自然の損失を食い止め、逆転させるために、昆明・モントリオール生物多様性枠組（GBF）の下で野心的な目標とターゲットにコミットした。GBFのターゲット15は、ビジネス、社会、自然が調和して存在するために、企業が生物多様性に対するリスク、依存、インパクトを監視、評価し、透明性をもって開示することを求めている。オーストラリア、ブラジル、中国、欧州連合（EU）、米国などの政府は、グリーン・トランジション計画、自然市場、バイオエコノミー投資戦略を支える民間部門の技術革新と金融資本を動員するために、多額の新たな資金とインセンティブを提供している。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "Despite the risks and opportunities, most companies and capital providers remain unprepared. According to the World Economic Forum, climate and environmental risks are now the most significant risks identified by global executives for the next decade, but they are also the risks for which we are seen to be the least prepared. Most companies, investors and lenders today do not understand their nature-related dependencies, impacts, risks and opportunities and are inadequately accounting for nature in their strategies and capital allocation decisions. Data released by CDP suggests that nearly 70% of companies disclosing data through CDP did not assess the impact of their value chain on biodiversity in 2022.",
+      "ja": "リスクと機会があるにもかかわらず、ほとんどの企業や資本提供者は準備不足なままである。世界経済フォーラムによれば、気候・環境リスクは現在、世界の経営陣が今後10年間で最も深刻なリスクとして特定しているが、同時に私たちが最も対策を講じていないと認識されているリスクでもある。今日のほとんどの企業、投資家、金融機関は、その戦略や資本配分の決定において、自然関連の依存、インパクト、リスク、機会を理解していない。CDP発表したデータによると、CDPを通じてデータを開示している企業の70%近くが、2022年に、自社のバリューチェーンが生物多様性に与えるインパクトを評価していない。"
+    },
+    {
+      "page": 8,
+      "type": "quote",
+      "en": "“Encourage and enable business [to]... Regularly monitor, assess and transparently disclose their risks, dependencies and impacts on biodiversity, including with requirements for all large as well as transnational companies and financial institutions along their operations, supply and value chains, and portfolios.” Target 15, Kunming-Montreal Global Biodiversity Framework",
+      "ja": "「ビジネスを奨励し、以下を可能にする［中略］すべての大企業、多国籍企業、金融機関の事業、サプライチェーン、バリューチェーン、ポートフォリオのリスク、依存、生物多様性へのインパクトを定期的に監視、評価し、透明性をもって開示する」。ターゲット15、昆明・モントリオール生物多様性枠組"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "Nature is no longer a corporate social responsibility issue, but a core and strategic risk management issue alongside climate change. It needs to be brought into the strategy, risk management and capital allocation decisions of business and finance, with fully integrated climate and nature considerations. Investing in the health and resilience of nature is good business practice, as sound risk mitigation but also as a source of business opportunities. Corporate and investor stewardship of, and investment in, nature is a transformational opportunity for companies who innovate and financial institutions who finance the solutions needed at scale.",
+      "ja": "自然はもはや企業の社会的責任の問題ではなく、気候変動と並ぶ中核的かつ戦略的なリスク管理の問題である。気候と自然を全面的に統合した配慮を取り入れ、自然をビジネスや金融の戦略、リスク管理、資本配分の意思決定に取り込む必要がある。自然の健全性とレジリエンスに投資することは、健全なリスク緩和としてだけでなく、ビジネスチャンスの源泉としても、優れたビジネス慣行である。自然に対する企業や投資家のスチュワードシップと投資は、革新する企業や、大規模な解決策の資金供給を行う金融機関にとって、変革のチャンスとなる。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "The TNFD recommendations help organisations meet this challenge. The Taskforce on Nature-related Financial Disclosures (TNFD) is a global, market-led, science-based and government-supported initiative to help companies and financial institutions incorporate nature into their decision making. The Taskforce consists of 40 senior executives from companies and financial institutions globally representing over $20 trillion in assets under management with operations and value chains in over 180 countries.",
+      "ja": "TNFDの提言は、この課題への対応において組織を手助けすることになる。自然関連財務情報開示タスクフォース（TNFD）は、企業と金融機関が意思決定において自然を考慮できるようにするための、世界的な市場主導の、科学に基づく、政府が支援するイニシアティブである。タスクフォースは世界の企業および金融機関の幹部職員40名で構成され、180カ国以上で事業およびバリューチェーンを展開する20兆ドル超の運用資産を代表している。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "The TNFD recommendations provide companies and financial institutions of all sizes with a risk management and disclosure framework to identify, assess, manage and, where appropriate, disclose nature-related issues. It includes 14 recommended disclosures covering nature-related dependencies, impacts, risks and opportunities (Figure 1).",
+      "ja": "TNFDの提言はあらゆる規模の企業と金融機関に対し、自然関連課題を特定し、評価し、管理し、そして適切な場合は開示するためのリスク管理と開示の枠組みを提供する。それは自然関連の依存、インパクト、リスク、機会を対象とする14項目の開示提言を含む（図1）。"
+    },
+    {
+      "page": 8,
+      "type": "p",
+      "en": "The recommendations have been designed to:",
+      "ja": "TNFDの提言は以下のように設計されている。"
+    },
+    {
+      "page": 8,
+      "type": "li",
+      "en": "Be consistent with the language, structure and approach of both the Task Force on Climate-related Financial Disclosures (TCFD) and the International Sustainability Standards Board (ISSB) to enable integrated climate- and nature-related reporting, replicating the four disclosure pillars and all 11 TCFD recommended disclosures, which have now been incorporated into the ISSB Standards and thus its global sustainability reporting baseline;",
+      "ja": "気候関連財務情報開示タスクフォース（TCFD）と国際サステナビリティ基準審議会（ISSB）の両方の文言、構成、アプローチに従い、気候と自然に関連する統合化された報告を可能にする。これにより、現在、ISSBの基準、ひいてはそのグローバルなサステナビリティ報告のベースラインに取り込まれている、TCFDの開示の4つの柱および11項目の開示提言すべてが再現される。"
+    },
+    {
+      "page": 8,
+      "type": "li",
+      "en": "Accommodate the different approaches to materiality now being applied in jurisdictions around the world, through two materiality lenses – meeting the material information needs of capital providers, consistent with the ISSB’s IFRS Standards and TCFD recommendations, and meeting the material information needs of stakeholders focused on impacts, aligned with a broader materiality approach, consistent with the GRI Standards;",
+      "ja": "2つのマテリアリティの判断基準により、世界各地の法域で現在採用されているマテリアリティへの異なるアプローチに対応する。1つはISSBのIFRS基準とTCFD提言に準拠した資本提供者の重大な情報に対するニーズを満たすこと、もう1つはGRI基準に準拠し、より幅広いマテリアリティ・アプローチと整合的である、インパクトに重点を置いたステークホルダーの重大な情報に対するニーズを満たすことである。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "Be aligned with the global policy goals and targets in the GBF, including Target 15 on corporate reporting of nature-related risks, dependencies and impacts; and",
+      "ja": "自然関連のリスク、依存、インパクトの企業報告に関するターゲット15を含め、GBFの世界的な政策目標およびターゲットとの整合性を取る。"
+    },
+    {
+      "page": 9,
+      "type": "li",
+      "en": "Leverage the best available science, including assessments of the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES) and the climate science from the Intergovernmental Panel on Climate Change (IPCC).",
+      "ja": "生物多様性及び生態系サービスに関する政府間プラットフォーム（IPBES）の評価や、気候変動に関する政府間パネル（IPCC）の気候科学など、入手可能な最善の科学を活用する。"
+    },
+    {
+      "page": 9,
+      "type": "quote",
+      "en": "Nature is no longer a corporate social responsibility issue, but a core and strategic risk management issue alongside climate change.",
+      "ja": "自然はもはや企業の社会的責任の問題ではなく、気候変動と並ぶ中核的かつ戦略的なリスク管理の問題である。"
+    },
+    {
+      "page": 9,
+      "type": "quote",
+      "en": "“An entity’s ability to generate cash flows over the short, medium and long term is inextricably linked to the interactions between the entity and its stakeholders, society, the economy and the natural environment throughout the entity’s value chain.” IFRS S1 General Requirements for Disclosure of Sustainability-related Financial Information",
+      "ja": "「企業が短期、中期、長期にわたってキャッシュフローを生み出す能力は、企業のバリューチェーン全体を通じ、企業とそのステークホルダー、社会、経済、自然環境との相互作用と密接に関連する」。IFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」"
+    },
+    {
+      "page": 9,
+      "type": "p",
+      "en": "The TNFD recommendations are structured to allow companies and financial institutions to get started, building on their climate reporting capabilities over the past decade, and to provide a path to increase their disclosure ambition over time consistent with Target 15 of the GBF.",
+      "ja": "TNFDの提言は、企業や金融機関が過去10年間の気候変動報告の経験を土台として、開示に着手することを可能にするように構成されている。また、GBFのターゲット15に沿い、時間をかけて情報開示の目標を高めていく道筋を示すものである。"
+    },
+    {
+      "page": 9,
+      "type": "caption",
+      "en": "Figure 1: TNFD’s recommended disclosures",
+      "ja": "図1：TNFDの開示提言"
+    },
+    {
+      "page": 9,
+      "type": "figure",
+      "en": "TNFD recommended disclosures – Governance: Disclose the organisation’s governance of nature-related dependencies, impacts, risks and opportunities. Recommended disclosures: A. Describe the board’s oversight of nature-related dependencies, impacts, risks and opportunities. B. Describe management’s role in assessing and managing nature-related dependencies, impacts, risks and opportunities. C. Describe the organisation’s human rights policies and engagement activities, and oversight by the board and management, with respect to Indigenous Peoples, Local Communities, affected and other stakeholders, in the organisation’s assessment of, and response to, nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "TNFD開示提言 – ガバナンス：自然関連の依存、インパクト、リスクと機会の組織によるガバナンスの開示。開示提言：A. 自然関連の依存、インパクト、リスクと機会に関する取締役会の監督について説明する。B. 自然関連の依存、インパクト、リスクと機会の評価と管理における経営者の役割について説明する。C. 自然関連の依存、インパクト、リスクと機会に対する組織の評価と対応において、先住民族、地域社会、影響を受けるステークホルダー、その他のステークホルダーに関する組織の人権方針とエンゲージメント活動、および取締役会と経営陣による監督について説明する。"
+    },
+    {
+      "page": 9,
+      "type": "figure",
+      "en": "Strategy: Disclose the effects of nature-related dependencies, impacts, risks and opportunities on the organisation’s business model, strategy and financial planning where such information is material. Recommended disclosures: A. Describe the nature-related dependencies, impacts, risks and opportunities the organisation has identified over the short, medium and long term. B. Describe the effect nature-related dependencies, impacts, risks and opportunities have had on the organisation’s business model, value chain, strategy and financial planning, as well as any transition plans or analysis in place. C. Describe the resilience of the organisation’s strategy to nature-related risks and opportunities, taking into consideration different scenarios. D. Disclose the locations of assets and/or activities in the organisation’s direct operations and, where possible, upstream and downstream value chain(s) that meet the criteria for priority locations.",
+      "ja": "戦略：自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、戦略、財務計画に与えるインパクトについて、そのような情報が重要である場合は開示する。開示提言：A. 組織が特定した自然関連の依存、インパクト、リスクと機会を短期、中期、長期ごとに説明する。B. 自然関連の依存、インパクト、リスクと機会が、組織のビジネスモデル、バリューチェーン、戦略、財務計画に与えたインパクト、および移行計画や分析について説明する。C. 自然関連のリスクと機会に対する組織の戦略のレジリエンスについて、さまざまなシナリオを考慮して説明する。D. 組織の直接操業において、および可能な場合は上流と下流のバリューチェーンにおいて、優先地域に関する基準を満たす資産および／または活動がある地域を開示する。"
+    },
+    {
+      "page": 9,
+      "type": "figure",
+      "en": "Risk & impact management: Describe the processes used by the organisation to identify, assess, prioritise and monitor nature-related dependencies, impacts, risks and opportunities. Recommended disclosures: A(i) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its direct operations. A(ii) Describe the organisation’s processes for identifying, assessing and prioritising nature-related dependencies, impacts, risks and opportunities in its upstream and downstream value chain(s). B. Describe the organisation’s processes for managing nature-related dependencies, impacts, risks and opportunities. C. Describe how processes for identifying, assessing, prioritising and monitoring nature-related risks are integrated into and inform the organisation’s overall risk management processes.",
+      "ja": "リスクとインパクトの管理：組織が自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けし、監視するために使用しているプロセスを説明する。開示提言：A(i) 直接操業における自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスを説明する。A(ii) 上流と下流のバリューチェーンにおける自然関連の依存、インパクト、リスクと機会を特定し、評価し、優先順位付けするための組織のプロセスを説明する。B. 自然関連の依存、インパクト、リスクと機会を管理するための組織のプロセスを説明する。C. 自然関連リスクの特定、評価、管理のプロセスが、組織全体のリスク管理にどのように組み込まれているかについて説明する。"
+    },
+    {
+      "page": 9,
+      "type": "figure",
+      "en": "Metrics & targets: Disclose the metrics and targets used to assess and manage material nature-related dependencies, impacts, risks and opportunities. Recommended disclosures: A. Disclose the metrics used by the organisation to assess and manage material nature-related risks and opportunities in line with its strategy and risk management process. B. Disclose the metrics used by the organisation to assess and manage dependencies and impacts on nature. C. Describe the targets and goals used by the organisation to manage nature-related dependencies, impacts, risks and opportunities and its performance against these.",
+      "ja": "測定指標とターゲット：マテリアルな自然関連の依存、インパクト、リスクと機会を評価し、管理するために使用している測定指標とターゲットを開示する。開示提言：A. 組織が戦略およびリスク管理プロセスに沿って、マテリアルな自然関連リスクと機会を評価し、管理するために使用している測定指標を開示する。B. 自然に対する依存とインパクトを評価し、管理するために組織が使用している測定指標を開示する。C. 組織が自然関連の依存、インパクト、リスクと機会を管理するために使用しているターゲットと目標、それらと照合した組織のパフォーマンスを記載する。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "To support adoption and the provision of consistent, comparable and decision-useful information for report users, the Taskforce has developed:",
+      "ja": "報告書利用者のために、一貫性があり、比較可能で、意思決定に有用な情報を提供するために、タスクフォースは以下のものを開発した。"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "A set of recommended indicators and metrics for assessment and to support disclosure; and",
+      "ja": "評価のため、および開示報告書を裏付けるための推奨される指標と測定指標一式"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "A suite of additional guidance covering:",
+      "ja": "以下の内容の追加ガイダンス一式："
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "How to get started with TNFD, with practical steps, considerations and insights from pilot testing;",
+      "ja": "TNFDを始めるにはでは、実践的な手順、考慮事項、パイロットテストから得た知見を紹介する。"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "The identification and assessment of nature-related issues (the LEAP approach), building on, and integrating the use of, existing market-leading frameworks, tools and datasets;",
+      "ja": "自然関連課題の特定と評価（LEAPアプローチ）では、既存の市場を導く枠組み、ツール、データセットを土台とし、それらの利用を統合する。"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "Specific sectors and types of ecosystem (biomes);",
+      "ja": "特定のセクターおよび生態系（バイオーム）の種類"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "Scenario analysis; and",
+      "ja": "シナリオ分析"
+    },
+    {
+      "page": 10,
+      "type": "li",
+      "en": "Engagement of Indigenous Peoples, Local Communities and affected stakeholders.",
+      "ja": "先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "As with mainstream financial reporting and national economic reporting, the TNFD proposes a leading indicators approach to measurement, leveraging the best available science and cross-referencing metrics already in use by market participants through organisations such as SASB (which is now part of the IFRS Foundation), GRI, CDP and EFRAG. They incorporate both cross-sector and sector-specific metrics to provide a flexible approach for report preparers and a basis for comparative analysis by report users.",
+      "ja": "主要な財務報告や国家経済報告と同様に、TNFDは入手可能な最善の科学を活用し、SASB（サステナビリティ会計基準審議会：現在はIFRS財団の一部）、GRI、CDP、EFRAG（欧州財務報告諮問グループ）などの組織を通じて市場参加者が既に使用している測定指標を相互参照する、先行指標アプローチを提案している。それらは報告書作成者に柔軟なアプローチを提供し、報告利用者に比較分析の基礎を提供するためにセクター横断的な測定指標とセクター固有の測定指標の両方を取り入れている。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "The recommendations and accompanying additional guidance are built on extensive market feedback and pilot testing. They are consistent with the recommendations of the TCFD, the ISSB and GRI Standards and the global policy goals and targets in the GBF. Throughout this process, the Taskforce has worked closely with leading global scientific and conservation organisations to ensure the TNFD’s recommendations draw on authoritative and consensus-based definitions as the foundation of a market-accessible language system for understanding nature and managing nature-related issues.",
+      "ja": "提言とそれに付随する追加ガイダンスは、市場からの広範なフィードバックとパイロットテストに基づいている。これらは、TCFDの提言、ISSBとGRIの基準、GBFのグローバルな政策目標およびターゲットと一致している。このプロセス全体を通じ、タスクフォースは世界中の先進的な科学および自然保護組織と緊密に連携し、TNFDの提言が、自然を理解し、自然関連課題を管理するための市場アクセス可能な言語システムの基礎として、権威あるコンセンサスベースの定義を活用できるようにしてきた。"
+    },
+    {
+      "page": 10,
+      "type": "p",
+      "en": "The time for action is now and the TNFD recommendations are ready for adoption. To address the declining productivity and resilience of nature and, by extension, the declining prosperity and resilience of our societies, economies, financial systems and business models, nature-related issues must now be incorporated into enterprise and portfolio risk management processes. Failure to do so leaves business, finance, financial systems and the whole of society with a major risk management blind spot in the face of accelerating nature loss.",
+      "ja": "今こそ行動を起こす時であり、TNFDの提言を採用する準備は整っている。自然の生産性とレジリエンスの低下、ひいては社会、経済、金融システム、ビジネスモデルの繁栄とレジリエンスの低下に対処するためには、自然関連課題を企業やポートフォリオのリスク管理プロセスに組み込む必要がある。これを怠れば、ビジネス、財務、金融システム、そして社会全体が、加速する自然の損失に直面する中、大きなリスク管理の盲点を残すことになる。"
+    },
+    {
+      "page": 11,
+      "type": "h3",
+      "en": "The TNFD Recommendations & Additional Guidance",
+      "ja": "TNFDの提言と追加ガイダンス"
+    },
+    {
+      "page": 11,
+      "type": "caption",
+      "en": "Figure 2: TNFD recommendations and additional guidance",
+      "ja": "図2：TNFDの提言と追加ガイダンス"
+    },
+    {
+      "page": 11,
+      "type": "figure",
+      "en": "The TNFD recommendations: Use of which constitutes adoption of the TNFD recommendations / Additional guidance: Suggested by the TNFD and not required to prepare or make disclosure statements",
+      "ja": "TNFDの提言：それを使用すると、TNFDの提言を採用したものとみなされる / 追加ガイダンス：TNFDで提案されているが、開示書の作成と公表は義務付けられていない"
+    },
+    {
+      "page": 11,
+      "type": "figure",
+      "en": "Getting started with TNFD / Identifying and assessing nature-related issues: The LEAP approach / Sector guidance / Biome guidance / Scenario analysis / Target setting / Engagement with Indigenous Peoples, Local Communities and affected stakeholders",
+      "ja": "TNFDを始めるには / 自然関連課題の特定と評価LEAPアプローチ / セクター別ガイダンス / バイオーム別ガイダンス / シナリオ分析 / ターゲット設定 / 先住民族、地域社会と影響を受けるステークホルダーとのエンゲージメント"
+    },
+    {
+      "page": 12,
+      "type": "h1",
+      "en": "1. Introduction",
+      "ja": "1. はじめに"
+    },
+    {
+      "page": 12,
+      "type": "h2",
+      "en": "1.1. Background",
+      "ja": "1.1. 背景"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "Our society, economies and financial systems are embedded in nature, not external to it.1 The prosperity and resilience of our societies and economies depend on the health and resilience of nature and its biodiversity. Healthy ecosystems are a prerequisite for the sustained flow of ecosystem services that communities need to survive and flourish, and that business and finance depend on to generate cashflows and returns.",
+      "ja": "私たちの社会、経済、金融システムは、自然の中に組み込まれている、自然の外側にあるのではない1。社会と経済の繁栄とレジリエンスは、自然と生物多様性の健全性とレジリエンスにかかっている。健全な生態系は、コミュニティが存続し、繁栄するために不可欠な生態系サービスの持続的な提供を保証するものであり、ビジネスや金融がキャッシュフローとリターンを生む上での基盤としても機能している。"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "The science is clear. Nature is deteriorating globally and biodiversity is declining faster than at any time in human history. The majority of the vital ecosystem services on which business and society depend, and which provide the foundation for every economy, are in decline.2 The global economy is already operating outside the safe zone for six of the nine planetary boundaries – processes that are critical for maintaining the Earth’s stability (Figure 3).3 Ecosystem services are not being appropriately priced by business and financial markets today.",
+      "ja": "科学は明確な事実を提供している。自然は世界的に悪化しており、生物多様性は人類史上かつてない速さで減少している。ビジネスや社会が依存し、あらゆる経済の基盤となっている重要な生態系サービスの大半が減少している2。世界経済は、地球の安定を維持するために不可欠な9つのプラネタリーバウンダリーのうち6つの領域についてすでに安全圏を超えた状態で動いている（図3）3。今日のビジネスや金融市場では、生態系サービスに適切な価格がつけられていない。"
+    },
+    {
+      "page": 12,
+      "type": "p",
+      "en": "There is growing evidence that this poses risks for businesses, capital providers, financial systems and economies, and that these risks are increasing in severity and frequency. Critical global supply chains, from agribusiness to semiconductors, are facing disruptions from water shortages and stress. Degradation of forests is threatening the availability and long-term security of valuable commodities on which some sectors rely, such as cosmetics.4 The degradation of land and soil has been found to adversely impact the market value of companies and increase credit risk to associated lenders.5 The loss of pollinators is adversely impacting agricultural production, with the growing demand for pollination services becoming increasingly difficult to meet in some countries.6 Companies in a range of sectors, from agrochemicals to mining, which have not managed their nature-related impacts, have experienced permit refusals and lawsuits, with associated deteriorations in credit ratings and market valuations.7",
+      "ja": "このことが企業、資本提供者、金融システム、経済にリスクをもたらし、さらにこれらのリスクの深刻さと頻度が増していることを示す証拠が増加している。農業から半導体まで、重要なグローバル・サプライチェーンは、水不足や水ストレスによる混乱に直面している。森林の劣化は、化粧品など一部のセクターが依存する貴重な一次産品の入手可能性と長期的な安全性を脅かしている4。土地や土壌の劣化は、企業の市場価値に悪影響を及ぼし、資金の貸し手における信用リスクを高めることがわかっている5。花粉媒介者の喪失は農業生産に悪影響を及ぼし、一部の国では、花粉媒介サービスに対する需要の高まりへの対応が困難になっている6。農薬から鉱業までさまざまなセクターにおいて、自然関連のインパクトを適切に管理していない企業は許可申請の却下や訴訟を経験しており、これにより信用格付けや市場評価が悪化している7。"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "1 Dasgupta, P. (2021) The economics of biodiversity: The Dasgupta Review",
+      "ja": "1 Dasgupta, P. (2021) 生物多様性の経済学：ダスグプタ・レビュー"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "2 Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (2019) Summary for policymakers of the IPBES global assessment report on biodiversity and ecosystem services",
+      "ja": "2生物多様性及び生態系サービスに関する政府間プラットオーム（IPBES）（2019）IPBES生物多様性と生態系サービスに関する地球規模評価報告書の政策決定者向け要約"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "3 Rockström et al. (2009) A safe operating space for humanity, Wang-Erlandsson, L. et al. (2022) A planetary boundary for green water, Persson, L. et al. (2022) Outside the safe operating space of the planetary boundary for novel entities",
+      "ja": "3 Rockström et al. (2009) A safe operating space for humanity, Wang-Erlandsson, L. et al. (2022) A planetary boundary for green water, Persson, L. et al. (2022) Outside the safe operating space of the planetary boundary for novel entities"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "4 Dasgupta, P. (2021) The economics of biodiversity: The Dasgupta Review",
+      "ja": "4 Dasgupta, P. (2021) 生物多様性の経済学 : ダスグプタ・レビュー"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "5 CISL (2022) Integrating Nature: The case for action on nature-related financial risks",
+      "ja": "5ケンブリッジ大学サステナビリティ・リーダーシップ研究所（CISL）(2022) Integrating Nature: The case for action on nature-related financial risks"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "6 Inside Climate News (2021) California’s almond trees rely on honey bees and wild pollinators, but a lack of good habitat is making their job harder",
+      "ja": "6 Inside Climate News (2021) California’s almond trees rely on honey bees and wild pollinators, but a lack of good habitat is making their job harder"
+    },
+    {
+      "page": 12,
+      "type": "footnote",
+      "en": "7 Dasgupta, P. (2021) The economics of biodiversity: The Dasgupta Review",
+      "ja": "7 Dasgupta, P. (2021) 生物多様性の経済学 : ダスグプタ・レビュー"
+    },
+    {
+      "page": 13,
+      "type": "caption",
+      "en": "Figure 3: The declining health and resilience of the earth’s systems is clearly reflected in risk perceptions",
+      "ja": "図3：地球のシステムの健全性とレジリエンスの低下は、リスク認識にも明確に反映されている"
+    },
+    {
+      "page": 13,
+      "type": "figure",
+      "en": "The declining health and resilience of the earth’s systems... / ...is clearly reflected in risk perceptions / 10 Years: 1 Failure to mitigate climate change 2 Failure of climate-change adaption 3 Natural disasters and extreme weather events 4 Biodiversity loss and ecosystem collapse 5 Large-scale involuntary migration 6 Natural resources crises 7 Erosion of social cohesion and societal polarisation 8 Widespread cybercrime and cyber insecurity 9 Geoeconomic confrontation 10 Large-scale environmental damage incidents",
+      "ja": "地球のシステムの健全性とレジリエンスの低下が… / …リスク認知に明確に反映されている / 10年：1気候変動の緩和の失敗2気候変動への適応の失敗3自然災害と異常気象4生物多様性の損失と生態系の崩壊5大規模な非自発的移住6自然資源危機7社会的結束の低下と社会の二極化8広まるサイバー犯罪とサイバーインセキュリティ9地政学的対立10大規模な環境破壊事故"
+    },
+    {
+      "page": 13,
+      "type": "figure",
+      "en": "Source: Azote for Stockholm Resilience Centre, based on analysis in Wang-Erlandsson et al 2022 / Source: World Economic Forum, 2023 / Source: Azote for Stockholm Resilience Centre, based on analysis in Richardson et al. (2023) and WEF Global Risks Report (2023).",
+      "ja": "参照：Wang-Erlandsson et al 2022の分析に基づきストックホルム・レジリエンス・センターのためにAzoteが作成 / 参照：世界経済フォーラム、2023 / 出典：Richardson他（2023）および世界経済フォーラム（WEF）グローバルリスク報告書2023年版の分析に基づきストックホルム・レジリエンス・センターのためにAzoteが作成"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Central banks and financial supervisors are increasingly recognising nature loss as a source of systemic risk to financial systems and economies. In March 2022, the Network for Greening the Financial System (NGFS), a network of over 125 central banks and financial supervisors, concluded that nature-related risks could have significant macroeconomic implications, and that failure to account for, mitigate and adapt to these implications is a source of risks for individual financial institutions as well as for financial stability.8 In September 2023, the NGFS encouraged all central banks and supervisors to assess and act on economic and financial risks stemming from nature loss.9",
+      "ja": "中央銀行や金融監督当局は、自然の損失が金融システムや経済のシステミックリスクの原因であるという認識を強めている。2022年3月、125を超える中央銀行と金融監督当局のネットワークである「気候変動リスク等に係る金融当局ネットワーク（NGFS）」は、「自然関連リスクはマクロ経済に重大な影響を及ぼす可能性があり、これらの影響を考慮し、緩和し、適応することができないことは、個々の金融機関だけでなく、金融全体の安定性にとってもリスクの源泉となる」と結論づけた8。2023年9月、NGFSはすべての中央銀行と監督当局に対し、自然の損失に起因する経済・金融リスクを評価し、対処するよう促した9。"
+    },
+    {
+      "page": 13,
+      "type": "p",
+      "en": "Governments are also mobilising through policy and fiscal action. In December 2022, almost 200 governments committed to ambitious goals and targets under the Kunming-Montreal Global Biodiversity Framework (GBF) to halt and reverse nature loss by 2030. Target 15 of the GBF calls for businesses to monitor, assess and transparently disclose their risks, dependencies and impacts on biodiversity, to ensure business, society and nature exist in harmony. Governments from Australia, Brazil, China, the European Union, the United States and elsewhere are providing substantial new funding and incentives to mobilise private sector innovation and financial capital behind green transition plans, nature markets and bioeconomy investment strategies.",
+      "ja": "政府もまた、政策や財政措置を通じて動員をかけている。2022年12月、約200の政府が、2030年までに自然の損失を食い止め、反転させるという、昆明・モントリオール生物多様性枠組（GBF）の野心的な目標とターゲットにコミットした。GBFのターゲット15は、ビジネス、社会、自然が調和して存在するために、企業が生物多様性に対するリスク、依存、インパクトをモニタリングし、評価し、透明性をもって開示することを求めている。オーストラリア、ブラジル、中国、欧州連合（EU）、米国などの政府は、グリーン・トランジション計画、自然市場、バイオエコノミー投資戦略を支える民間部門の技術革新と金融資本を動員するために、多額の新たな資金とインセンティブを提供している。"
+    },
+    {
+      "page": 13,
+      "type": "footnote",
+      "en": "8 Network for Greening the Financial System (2022) Statement on nature-related financial risks",
+      "ja": "8気候変動リスク等に係る金融当局ネットワーク（NGFS）(2022) Statement on nature-related financial risks"
+    },
+    {
+      "page": 13,
+      "type": "footnote",
+      "en": "9 Network for Greening the Financial System (2023) Nature-related financial risks: A conceptual framework to guide action by central banks and supervisors",
+      "ja": "9気候変動リスク等に係る金融当局ネットワーク（NGFS）(2023) Nature-related financial risks: A conceptual framework to guide action by central banks and supervisors"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "Despite the risks and opportunities, most companies and capital providers remain unprepared. According to the World Economic Forum’s Global Risk Perceptions Survey, climate and environmental risks are not the most significant risks for the next decade. They are also the risks for which we are seen to be the least prepared. Most companies, investors and lenders today do not understand their nature-related dependencies, impacts, risks and opportunities and are inadequately accounting for nature in their strategies and capital allocation decisions.",
+      "ja": "リスクと機会が存在しているにもかかわらず、ほとんどの企業や資本提供者の準備は不足しているままである。世界経済フォーラムのグローバルリスク意識調査によれば、気候・環境リスクは今後10年間で最も深刻なリスクである。それはまた、最も備えが整っていないと見られているリスクでもある。今日、ほとんどの企業、投資家、金融機関は、自然関連の依存、インパクト、リスクと機会を理解しておらず、戦略や資本配分の決定において自然を考慮できていない。",
+      "flag": "en-source-says-not-most-significant"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "Nature is no longer a corporate social responsibility issue, but a core and strategic risk management issue alongside climate change. It needs to be brought into the strategy, risk management and capital allocation decisions of business and finance, fully integrating climate and nature considerations. Investing in the health and resilience of nature is good business practice both as sound risk mitigation but also as a source of business opportunities. Corporate and investor stewardship of, and investment in, nature is a transformational opportunity for companies who innovate and financial institutions who finance the solutions needed at scale.",
+      "ja": "自然はもはや企業の社会的責任（CSR）の課題ではなく、気候変動と並ぶ中核的かつ戦略的なリスク管理の課題である。気候と自然を全面的に統合し、自然をビジネスや金融の戦略、リスク管理、資本配分の意思決定に取り込む必要がある。自然の健全性とレジリエンスに投資することは、リスク緩和の良策であるだけでなく、ビジネス機会の源泉としても優れたビジネスの取り組みである。自然に対する企業や投資家のスチュワードシップと投資は、イノベーションを進める企業や、大規模な解決策に対する資金供給を行う金融機関にとって、変革の機会となる。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "The GBF highlights that businesses and financial institutions have a critical role to play. Specifically, Target 15 of the GBF calls on parties of the Convention on Biological Diversity (CBD) to:",
+      "ja": "GBFは企業や金融機関が重要な役割を担っていることを強調している。具体的には、GBFのターゲット15は、生物多様性条約（CBD）の締約国に対し、以下のことを求めている。"
+    },
+    {
+      "page": 14,
+      "type": "quote",
+      "en": "‘Take legal, administrative or policy measures to encourage and enable business, and in particular to ensure that large and transnational companies and financial institutions, regularly monitor, assess, and transparently disclose their risks, dependencies and impacts on biodiversity, including with requirements for all large as well as transnational companies and financial institutions along their operations, supply and value chains and portfolios.’",
+      "ja": "「特に、大企業や多国籍企業、金融機関が、その事業、サプライチェーン、バリューチェーン、ポートフォリオにわたってすべての大企業や多国籍企業、金融機関に対する要求事項を含め、生物多様性に対するリスク、依存、インパクトを定期的にモニタリングし、評価し、透明性をもって開示することを確保するための法的、行政的、政策的措置を講じること」。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "Making nature-related reporting a reality is challenging, but feasible, building on work already done in response to climate-related risks. While a nature corporate reporting target now exists in the GBF, significant work must be done to build the understanding and capacity of businesses and financial institutions of all sizes and across all sectors and geographies to enable them to take action. The fact that many organisations – both with public disclosure requirements and small and medium sized enterprises across supply chains – have increased their awareness and capacity to assess the implications of climate change provides a strong platform on which to build. Climate change is one of five drivers of nature change and is inextricably linked in cause and effect to the other four drivers. Companies and financial institutions need to take an integrated approach to identifying, assessing and responding to climate and nature-related dependencies, impacts, risks and opportunities. In a global survey of 240 report preparers, 86% of respondents thought that they would be able to start disclosures aligned with the TNFD recommendations by the financial year 2026.",
+      "ja": "自然関連の報告を実現することは挑戦的な課題ではあるが、気候関連のリスク対応としてすでに行われている作業を基礎とすれば、可能である。現在、GBFには自然についての企業報告に関するターゲットが存在するが、あらゆる規模の、またあらゆるセクターや地域にわたる企業や金融機関が行動を起こせるように、理解と能力を構築するための多大な努力が必要である。多くの組織（開示を義務付けられる組織やサプライチェーン全体の中小企業を含む）が、気候変動の影響を評価するための意識と能力を高めているという事実は、この構築のための強固な基盤を提供する。気候変動は自然の変化の5つの要因のひとつであり、他の4つの要因とも密接な因果関係を有する。企業や金融機関は、気候や自然関連の依存、インパクト、リスクと機会を特定し、評価し、対応するために、統合的なアプローチをとる必要がある。240の報告書作成者を対象としたグローバル調査では、回答者の86%が、2026会計年度までにTNFDの提言と整合した開示を開始できると考えている。"
+    },
+    {
+      "page": 14,
+      "type": "p",
+      "en": "However, it is important to recognise that the identification, assessment and management of nature-related issues is necessarily different to climate. Climate change is a global process within one shared atmosphere. That essential character has led to the concept of a global carbon budget, which is central to the global policy and business response to address climate change. Nature-related impacts and dependencies, by contrast, are location specific, and therefore require local, context-specific assessment and responses. Understanding where interactions with nature occur is of paramount importance to the identification, assessment and management of nature-related issues.",
+      "ja": "しかし、自然関連課題の特定、評価、管理は、気候に対する対応とは必然的に異なるものであることを認識することが重要である。気候変動は共有された一つの大気圏で起きる地球規模のプロセスである。この本質的な特徴が、気候変動に対処するための世界的な政策とビジネスへの対応の中心となる世界炭素予算という概念につながった。これとは対照的に、自然関連のインパクトと依存は、地域固有であるため、地域や状況に応じた評価や対応が必要となる。自然との相互作用がどこで起きているかを理解することは、自然関連課題を特定し、評価し、管理する上で最も重要である。"
+    },
+    {
+      "page": 15,
+      "type": "h2",
+      "en": "1.2. The Taskforce and its design and development approach",
+      "ja": "1.2. タスクフォースとその設計・開発アプローチ"
+    },
+    {
+      "page": 15,
+      "type": "p",
+      "en": "Launched in 2021, the Taskforce on Nature-related Financial Disclosures (TNFD) is a global, market-led, science-based and government-supported initiative with the mission to develop and deliver a risk management and disclosure framework for organisations to report and act on evolving nature-related issues.",
+      "ja": "2021年に発足した自然関連財務情報開示タスクフォース（TNFD）は、市場が主導し、科学に基づき、政府が支援するグローバルなイニシアティブであり、進展する自然関連課題について組織が報告し、行動するためのリスク管理と開示の枠組みを開発し、提供することを使命としている。"
+    },
+    {
+      "page": 15,
+      "type": "p",
+      "en": "The launch of the Taskforce was preceded by a preparatory phase from September 2020 until June 2021. An Informal Working Group – comprising 75 members, including 49 financial institutions and corporates, eight governments and regulatory and supervisory bodies, and 18 think tanks and market consortia – prepared a technical scope and workplan for the TNFD and established seven principles for the design and development of its recommendations:",
+      "ja": "タスクフォースの発足に先立ち、2020年9月から2021年6月まで準備期間が設けられた。49の金融機関と企業、8つの政府と規制・監督機関、18のシンクタンクと市場コンソーシアムを含む75の組織のメンバーで構成される非公式作業部会は、TNFDの技術的スコープと作業計画を作成し、その提言の設計と開発のための7つの原則を確立した。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Ensure market usability;",
+      "ja": "市場のユーザビリティを確保する。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Take a science-based approach;",
+      "ja": "科学に基づくアプローチをとる。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Focus on impacts and dependencies on nature as well as risks and opportunities to organisations across business and finance;",
+      "ja": "自然に対するインパクトと依存、およびビジネスと金融全体にわたる組織のリスクと機会に重点を置く。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Be purpose-driven with a bias towards enabling organisations to take action sooner rather than later;",
+      "ja": "組織が早く行動を起こすことに重点を置き、目的主導型である。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Provide an integrative and adaptive design to work with existing risk management processes in business and finance;",
+      "ja": "ビジネスと金融における既存のリスク管理プロセスと連携し、統合的かつ適応的な設計を提供する。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Reflect the inherent connectedness of climate and nature challenges and the importance of nature-based solutions; and",
+      "ja": "気候変動と自然が抱える課題の本質的な関連性と、自然に根ざした解決策の重要性を反映させる。"
+    },
+    {
+      "page": 15,
+      "type": "li",
+      "en": "Ensure the framework and approach is relevant, just, valuable, accessible and affordable worldwide, including in emerging and developed markets.",
+      "ja": "枠組みとアプローチが、新興市場や先進市場を含め、世界的に適切、公正かつ価値があり、アクセスしやすく、経済的な負担にならないことを確実にする。"
+    },
+    {
+      "page": 15,
+      "type": "p",
+      "en": "The Informal Working Group was supported by an Informal Technical Expert Group and a Founding Partner Group consisting of Global Canopy, the United Nations Development Programme (UNDP), the United Nations Environment Programme Finance Initiative (UNEP-FI) and WWF.",
+      "ja": "非公式作業部会は、非公式テクニカル専門家グループに加え、グローバル・キャノピー、国連開発計画（UNDP）、国連環境計画金融イニシアティブ（UNEPFI）、WWFからなる設立パートナーグループの支援を受けた。"
+    },
+    {
+      "page": 15,
+      "type": "p",
+      "en": "Reflecting the importance of the initiative, the TNFD was included in the Sustainable Finance Roadmap of the G20 in 2021, with a request to deliver the recommendations within two years. The TNFD has been funded by a group of government and philanthropic funding partners represented in the TNFD Stewardship Council, alongside other organisations that founded the TNFD initiative. They are the Australian, Dutch, French, German, Norwegian, Swiss and UK governments, UNDP, UNEP FI, the Global Environment Facility (GEF), the Childrens’ Investment Fund Foundation (CIFF), Global Canopy, the Macdoch Foundation and WWF International.",
+      "ja": "このイニシアティブの重要性を反映して、TNFDは2021年のG20の持続可能な金融ロードマップに盛り込まれ、2年以内の提言の実現が求められた。TNFDはTNFDスチュワードシップ・カウンシルに代表される政府および慈善団体の資金提供パートナーグループに加え、TNFDイニシアティブを設立した他の組織から資金提供を受けてきた。オーストラリア政府、オランダ政府、フランス政府、ドイツ政府、ノルウェー政府、スイス政府、英国政府、UNDP、UNEP FI、地球環境ファシリティ（GEF）、チルドレンズ・インベストメント・ファンド財団（CIFF）、グローバル・キャノピー、マクドック財団、WWFインターナショナルからである。"
+    },
+    {
+      "page": 15,
+      "type": "quote",
+      "en": "“We look forward to the publication of the Taskforce on Nature-related Financial Disclosure’s (TNFD’s) market framework and urge market participants, governments and regulators to support its development.” G7 Hiroshima Leaders’ Communiqué, 20 May 2023",
+      "ja": "「我々は、自然関連財務情報開示タスクフォース（TNFD）の市場枠組みの公表を心待ちにしており、市場参加者、政府、規制当局に対し、その開発を支援するよう強く要請する」。G7広島首脳コミュニケ、2023年5月20日"
+    },
+    {
+      "page": 15,
+      "type": "quote",
+      "en": "“We recognise the important work of the Taskforce on Nature-related Financial Disclosures (TNFD) in developing a framework for businesses and organizations to report and act on evolving nature-related financial risks, and for the investors to better evaluate nature-related financial risks. We invite market participants to engage in the TNFD’s framework and commit to support its development. We continue working with Finance Ministers in this area.” G20 Bali Declaration, 15-16 November 2022",
+      "ja": "「我々は、自然関連財務情報開示タスクフォース（TNFD）が、進展する自然関連財務リスクについて企業や組織が報告し行動するためのフレームワーク、および投資家が自然関連の金融リスクをより良く診断するためのフレームワークを開発する上で、重要な活動を行っていると認識している。我々は市場参加者がTNFDのフレームワークに関与し、その開発を支援することを約束するよう呼びかけている。そして、この分野で財務大臣と協力し続ける」。G20バリ宣言、2022年11月15～16日"
+    },
+    {
+      "page": 16,
+      "type": "h3",
+      "en": "The target audiences for the TNFD recommendations",
+      "ja": "TNFDの提言の利用対象者"
+    },
+    {
+      "page": 16,
+      "type": "p",
+      "en": "The TNFD recommendations and guidance are useful both for report preparers developing their internal understanding of nature-related issues and putting in place plans to manage them, and report users, including capital providers and other stakeholders.",
+      "ja": "TNFDの提言とガイダンスは、自然関連課題の組織内部の理解を深め、管理計画を開発する報告書作成者、そして資本提供者やその他のステークホルダーを含む報告書利用者にとっても有用である。"
+    },
+    {
+      "page": 16,
+      "type": "p",
+      "en": "The TNFD recommendations are designed for organisations of all sizes, across all sectors and along value chains. The Taskforce aims, over time, to help all organisations to identify and assess their nature-related issues and provides recommendations on what to disclose on these issues to capital providers, regulators and other stakeholders, where organisations have such disclosure requirements. The recommendations and guidance are relevant to a wide range of market participants and market enablers:",
+      "ja": "TNFDの提言は、あらゆる規模、あらゆるセクター、バリューチェーンの組織向けに作成されている。タスクフォースの目的は、時間をかけて、すべての組織の自然関連課題の特定と評価を支援し、資本提供者、規制当局、その他のステークホルダー（組織がそのような開示義務を負う場合）に対して、これらの課題について何を開示すべきかについての提言を提供することである。本提言とガイダンスは、広範な市場参加者と市場支援者に関連する。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "1. Corporates: Applying the recommendations can help inform better corporate strategy, governance and risk management decision-making, and the incorporation of nature-related risk assessments alongside, and ideally integrated with, climate-related risk reporting.",
+      "ja": "1. 企業：本提言を適用することで、より良い企業戦略、ガバナンス、リスク管理の意思決定、気候変動関連のリスク報告と並列された形で、理想的にはそれと統合された形で、自然関連のリスク評価を取り入れることができる。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "2. Investors and financial institutions: The information disclosed can support more informed and robust capital allocation decisions and stewardship activities based on clarity, confidence and trust in data relating to nature-related issues. Large asset owners, asset managers, lenders and development finance institutions can play a significant role in driving nature-related financial disclosures and strengthening the management of nature-related issues in the organisations they finance. Corporates are more than twice as likely to disclose across climate, forests and water themes when financial institutions request them to do so.10",
+      "ja": "2. 投資家と金融機関：開示された情報は、自然関連課題に関するデータの明確性、信頼性、信用に基づき、より詳細な情報に基づく堅実な資本配分の決定とスチュワードシップ活動を支援することができる。大規模な資産所有者、資産運用会社、金融機関、開発金融機関は、自然関連の財務情報開示を推進し、融資先組織における自然関連課題の管理を強化する上で、重要な役割を果たすことができる。金融機関から気候、森林、水に関する開示の要請がある場合、企業がそれらを開示する可能性は2倍以上に上昇する10。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "3. Regulators: The recommendations and guidance can support existing and new disclosure mechanisms, standards and other jurisdiction-specific regulatory requirements.",
+      "ja": "3. 規制当局：本提言とガイダンスは、既存および新規の開示メカニズム、開示基準、その他の法域固有の開示規制要件を支えることができる。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "4. Stock exchanges: The recommendations can inform consideration of new voluntary and mandatory listing requirements linked to nature-related risks, as well as nature-related opportunities for new listed equity offerings.",
+      "ja": "4. 証券取引所：本提言は、自然関連リスクに関連する新たな自主的および義務的な上場要件の検討や、新規上場株式の募集における自然関連の機会の検討に役立てることができる。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "5. Assurance and accounting firms: The disclosure guidance can inform audit and assurance of nature-related corporate reporting and help to enhance the internal risk management functions of client organisations.",
+      "ja": "5. 保証（アシュアランス）および会計事務所：本開示ガイダンスは、自然関連企業報告の監査・保証（アシュアランス）に情報を提供し、顧客組織の内部におけるリスク管理機能の強化に役立つ。"
+    },
+    {
+      "page": 16,
+      "type": "li",
+      "en": "6. Data providers, credit rating agencies and financial service providers: The recommendations and guidance can provide data providers, credit rating agencies and financial service providers with criteria for consistent and robust data and insights on an organisation’s nature-related issues and how they are managed.",
+      "ja": "6. データプロバイダー、信用格付け機関、金融サービスプロバイダー：本提言とガイダンスは、データプロバイダー、信用格付け機関、金融サービスプロバイダーに、組織の自然関連課題とその管理方法に関する一貫性のある強固なデータと知見の基準を提供することができる。"
+    },
+    {
+      "page": 16,
+      "type": "p",
+      "en": "The TNFD guidance and recommendations are also relevant for small and medium-sized enterprises (SMEs). In many cases, SMEs are closer to the source of nature-related dependencies, impacts, risks and opportunities and may have fewer options to diversify their exposure or shift sourcing. Their assessment of nature-related issues will also enable them to respond to nature-related information requests from their suppliers and downstream customers. Nevertheless, the TNFD recognises that some SMEs may need further support in applying the recommendations in a proportionate way to the size of their activities and the resources they have available. In recognition of this, the Taskforce intends to work on additional guidance for SMEs.",
+      "ja": "TNFDのガイダンスと提言は中小企業（SME）にも関連する。多くの場合、中小企業は自然関連の依存、インパクト、リスクと機会の発生源に近接していることが多く、またエクスポージャーを分散させ、調達先をシフトする際の選択肢が少ない場合がある。また、中小企業が自然関連課題の評価を行うことで、サプライヤーやバリューチェーン下流の顧客からの自然関連の情報要求に対応することもできる。とはいえ、一部の中小企業が組織の活動の規模や利用可能な資源に見合った形で本提言を適用するには、さらなる支援が必要な場合があることをTNFDは認識している。この認識のもと、タスクフォースは中小企業向けの追加ガイダンスに取り組む意向である。"
+    },
+    {
+      "page": 16,
+      "type": "footnote",
+      "en": "10 CDP (2022) CDP Non-Disclosure Campaign 2022",
+      "ja": "10 CDP（2022）2022 CDPノン・ディスクロージャー・キャンペーン"
+    },
+    {
+      "page": 17,
+      "type": "h3",
+      "en": "Developing the framework – An open innovation approach",
+      "ja": "フレームワークの開発 - オープン・イノベーション・アプローチ"
+    },
+    {
+      "page": 17,
+      "type": "p",
+      "en": "The Taskforce started work in October 2021. It consists of 40 senior executives from corporates, financial institutions and market intermediaries across sectors and geographies, with over $20 trillion in assets under management and a footprint across 180 countries. It is led by co-chairs Elizabeth Mrema and David Craig, and supported by over 1,200 TNFD Forum member organisations, representing all 24 business sectors identified by the World Economic Forum (WEF) as having the highest nature-related risks, impacts or dependencies. A network of 19 knowledge partners, including leading global scientific and conservation organisations and standards development bodies, actively contributed.",
+      "ja": "タスクフォースは2021年10月に活動を開始した。様々なセクターや地域の企業、金融機関、市場仲介者から集められた40人の幹部職員で構成され、その運用資産総額は20兆米ドルを超え、世界180カ国に及んでいる。タスクフォースはエリザベス・ムレマとデビッド・クレイグが共同議長として主導し、1,200を超えるTNFDフォーラム会員組織が支援している。そこには、世界経済フォーラム（WEF）が自然関連のリスク、インパクト、依存が最も高いと認定した24のビジネスセクターすべてからの代表が含まれている。世界中の先進的な科学・自然保護団体や基準開発機関を含む19のナレッジ・パートナーのネットワークが積極的に貢献した。"
+    },
+    {
+      "page": 17,
+      "type": "p",
+      "en": "From the outset, the Taskforce sought to develop the framework with maximum transparency and participation from scientific, standards and corporate reporting organisations, market participants, NGOs and civil society organisations, and representatives of Indigenous Peoples. Over two years, the TNFD followed an open innovation approach, which involved the release of four ‘beta’ releases of a prototype framework for feedback and pilot testing (see Figure 4). The open innovation approach is described in full in Annex 4. In summary, it included:",
+      "ja": "タスクフォースには当初から、科学、基準設定、企業報告に関する組織、市場参加者、NGOや市民社会組織、先住民族の代表者が参加し、最大限の透明性をもってフレームワークを開発することを目指した。TNFDはオープン・イノベーション・アプローチを採用し、2年間にわたってプロトタイプのフレームワークを「ベータ版」として4回リリースし、フィードバックを受け、パイロットテストを行った（図4を参照）。オープン・イノベーション・アプローチについては、別紙4で詳しく説明する。要約すると、以下のような内容である。"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "Pilot testing by over 200 institutions ranging from global multinational corporates and financial institutions to Indigenous-led enterprises, across sectors and biomes;",
+      "ja": "世界的な多国籍企業や金融機関から先住民族主導の企業まで、あらゆるセクターとバイオームにわたる200以上の機関によるパイロットテスト"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "Over 750,000 page views of the beta versions on the online platform from over 45 countries and territories;",
+      "ja": "オンライン・プラットフォーム上のベータ版に対して45以上の国・地域から75万回を超える閲覧"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "Over 150 presentations, webinars and focus group meetings globally with a wide range of stakeholders;",
+      "ja": "幅広いステークホルダーを対象としたプレゼンテーション、ウェビナー、フォーカスグループミーティングを世界各地で150回以上開催"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "A year-long process of dialogue with the International Indigenous Forum on Biodiversity (IIFB) and consultations with a wide range of civil society organisations;",
+      "ja": "生物多様性国際先住民フォーラム（IIFB）との1年にわたる対話と、幅広い市民社会組織との協議"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "Consultation groups in eight countries and three regions; and",
+      "ja": "8カ国、3地域で実施された協議会"
+    },
+    {
+      "page": 17,
+      "type": "li",
+      "en": "A community of over 130 data providers who formed the Nature-related Data Catalyst to help identify data solutions, following the publication of the TNFD data landscape assessment in March 2022.",
+      "ja": "2022年3月に発表されたTNFDデータランドスケープ評価を受けて、データソリューションの特定を支援するために自然関連データカタリストを発足させた130を超えるデータプロバイダーのコミュニティ"
+    },
+    {
+      "page": 17,
+      "type": "caption",
+      "en": "Figure 4: Timeline for development of the TNFD’s recommendations",
+      "ja": "図4：TNFDの提言の開発スケジュール"
+    },
+    {
+      "page": 17,
+      "type": "figure",
+      "en": "Phase 1: Design and development – Taskforce launch, October 2021 / Beta release (v0.1), March 2022 / Beta release (v0.2), June 2022 / Beta release (v0.3), November 2022 / Beta release (v0.4), March 2023 / Recommendations of the TNFD, September 2023",
+      "ja": "フェーズ1：設計と開発 – タスクフォース発足、2021年10月 / ベータ版リリース（v0.1）、2022年3月 / ベータ版リリース（v0.2）、2022年6月 / ベータ版リリース（v0.3）、2022年11月 / ベータ版リリース（v0.4）、2023年3月 / TNFDの提言、2023年9月"
+    },
+    {
+      "page": 18,
+      "type": "h3",
+      "en": "Alignment with global policy goals and the global sustainability reporting baseline",
+      "ja": "グローバルな政策目標やグローバルなサステナビリティ報告のベースラインとの整合性"
+    },
+    {
+      "page": 18,
+      "type": "p",
+      "en": "The TNFD takes its inspiration and approach from the Task Force on Climate-Related Financial Disclosures (TCFD) and builds on the significant developments in sustainability corporate reporting since the release of the TCFD’s recommendations in 2017. The International Sustainability Standards Board (ISSB), the GRI and other standards and reporting organisations have worked closely with the Taskforce as knowledge partners. The TNFD has worked to draw from, and feed into, these relevant standards that are already established and emerging as the new global baseline for sustainability reporting.",
+      "ja": "TNFDは気候関連財務情報開示タスクフォース（TCFD）からインスピレーションとアプローチを得ており、2017年に公表されたTCFDの提言以降のサステナビリティに関する企業報告の重要な進展の土台の上に構築されている。国際サステナビリティ基準審議会（ISSB）、GRI、その他の基準・報告組織は、ナレッジ・パートナーとしてタスクフォースと緊密に協力してきた。TNFDは、すでに確立されサステナビリティ報告の新たなグローバル・ベースラインになりつつあるこれらの関連基準を活用し、また、それらの基準に情報を提供するよう取り組んできた。"
+    },
+    {
+      "page": 18,
+      "type": "p",
+      "en": "Most notably, the TNFD recommendations have been designed to align and support the nature-related policy and disclosure landscape (Figure 5). In particular, they are designed to:",
+      "ja": "最も注目すべき点として、TNFDの提言は自然関連の政策と開示の状況を整合し調整し、それらを支援するように設計されている（図5）。具体的には、以下の通りである。"
+    },
+    {
+      "page": 18,
+      "type": "li",
+      "en": "Be consistent with the language and structure of both the TCFD and ISSB. The TNFD recommendations retain all four pillars of the TCFD, as do the ISSB’s IFRS Standards’ and the jurisdictional regulations of the EU’s Corporate Sustainability Reporting Directive (CSRD). The TNFD replicates all 11 TCFD recommended disclosures for nature-related issues, only adding additional recommended disclosures where there is a clear rationale to do so.",
+      "ja": "TCFDとISSB双方の文言、構造と整合する。TNFDの提言は、ISSBのIFRS基準およびEUの企業サステナビリティ報告指令（CSRD）の法域の規則と同様に、TCFDの4つの柱をすべて踏襲している。TNFDは自然関連課題に関してTCFDの11の開示提言をすべて踏襲し、明確な根拠がある場合、開示提言を追加している。"
+    },
+    {
+      "page": 18,
+      "type": "li",
+      "en": "Accommodate the different approaches to materiality now being applied in jurisdictions around the world. The TNFD recommendations can be interpreted through two materiality lenses:",
+      "ja": "現在、世界各地の法域で適用されているマテリアリティへの異なるアプローチに対応すること。TNFDの提言はマテリアリティに関する2つの判断基準に基づき解釈することができる。"
+    },
+    {
+      "page": 18,
+      "type": "li",
+      "en": "Meeting the material information needs of capital providers consistent with the ISSB’s IFRS Standards’ and the TCFD recommendations, with a focus on risk management and how dependencies and impacts on nature create risks and opportunities for an organisation’s financial position and prospects; and",
+      "ja": "ISSBのIFRS基準とTCFDの提言に整合した資本提供者のマテリアルな情報に対するニーズを満たすこと。リスク管理、および自然に対する依存とインパクトが組織の財務状況と見通しにどのようなリスクと機会をもたらすかに注目する。"
+    },
+    {
+      "page": 18,
+      "type": "li",
+      "en": "Meeting the material information needs of stakeholders focused on impacts, aligned with a broader materiality approach, reporting against both the ISSB and the GRI standards.11",
+      "ja": "より広範囲なマテリアリティ・アプローチと整合し、インパクトに焦点を当てたステークホルダーのマテリアルな情報ニーズを満たし、ISSBとGRIの両基準を参照して報告する11。"
+    },
+    {
+      "page": 18,
+      "type": "li",
+      "en": "Align with the global policy goals and targets of the GBF, agreed by almost 200 countries in December 2022, and enable corporate reporting as required by Target 15 of the GBF.",
+      "ja": "2022年12月に200カ国近くが合意したGBFのグローバル政策目標およびターゲットと整合させ、GBFのターゲット15が求める企業報告を可能にする。"
+    },
+    {
+      "page": 18,
+      "type": "footnote",
+      "en": "11 With respect to impact materiality, the TNFD has aligned its recommendations (and supporting additional guidance) with the language and approach of the GRI Sustainability Reporting Standards.",
+      "ja": "11インパクト・マテリアリティに関して、TNFDの提言（および、それを支援する追加ガイダンス）はGRIのサステナビリティ報告基準の文言およびアプローチと整合している。"
+    },
+    {
+      "page": 19,
+      "type": "caption",
+      "en": "Figure 5: Alignment with global goals and the global reporting baseline",
+      "ja": "図5：グローバル目標およびグローバル報告ベースラインとの整合"
+    },
+    {
+      "page": 19,
+      "type": "figure",
+      "en": "Rows: Global policy goals and targets / Nature-related assessment and reporting / Nature-related disclosures",
+      "ja": "行：グローバルな政策目標とターゲット / 自然関連の評価と報告 / 自然関連の開示"
+    },
+    {
+      "page": 19,
+      "type": "figure",
+      "en": "Financial materiality approach: Kunming–Montreal Global Biodiversity Framework / TNFD Recommendations / ISSB global sustainability disclosure standards",
+      "ja": "財務的マテリアリティ・アプローチ：昆明・モントリオール生物多様性枠組 / TNFDの提言 / ISSBグローバルサステナビリティ開示基準"
+    },
+    {
+      "page": 19,
+      "type": "figure",
+      "en": "Double materiality approach: Kunming–Montreal Global Biodiversity Framework / TNFD Recommendations / Impact materiality (GRI / ESRS) / ISSB global sustainability disclosure standards",
+      "ja": "ダブルマテリアリティ・アプローチ：昆明・モントリオール生物多様性枠組 / TNFDの提言 / インパクトのマテリアリティ（GRI/ESRS） / ISSBグローバルサステナビリティ開示基準"
+    },
+    {
+      "page": 19,
+      "type": "p",
+      "en": "The outcome of the TNFD’s approach to alignment is as follows:",
+      "ja": "TNFDによる、整合性をとるためのアプローチの成果は以下の通りである。"
+    },
+    {
+      "page": 19,
+      "type": "li",
+      "en": "While building on the TCFD structure, the TNFD goes beyond the TCFD in incorporating nature-related issues across the realms of nature – ocean, freshwater, land and atmosphere – and drivers of nature change beyond climate change, as identified by the IPBES. This provides a comprehensive approach to environmental corporate reporting aligned to both the Paris Agreement and the GBF.",
+      "ja": "TNFDはTCFDの構造を土台としながらも、TCFDの枠を超えて、海洋、淡水、陸、大気といった自然の領域にわたる自然関連課題や、IPBESによって特定された気候変動以外の自然の変化の要因を組み込んでいる。これはパリ協定とGBFの両方と整合した環境企業報告に対する包括的なアプローチを提供するものである。"
+    },
+    {
+      "page": 19,
+      "type": "li",
+      "en": "Like the TCFD and ISSB, the TNFD enables the disclosure of decision-useful material information from companies (report preparers) to investors and other capital providers (the primary users of sustainability reporting) to enhance the resilience of organisations to climate and nature-related risks.",
+      "ja": "TNFDは、TCFDやISSBと同様に、企業（報告書作成者）が投資家やその他の資本提供者（サステナビリティ報告の主要な利用者）に対し、意思決定に役立つマテリアルな情報を開示し、気候や自然関連のリスクに対する組織のレジリエンスを高めることを可能にする。"
+    },
+    {
+      "page": 19,
+      "type": "li",
+      "en": "Like GRI and the ESRS in the European Union, the TNFD also enables the disclosure of decision-useful impact-related information.",
+      "ja": "また、GRIや欧州連合の欧州サステナビリティ報告基準（ESRS）と同様にTNFDも意思決定に役立つインパクト関連情報の開示を可能にしている。"
+    },
+    {
+      "page": 19,
+      "type": "h3",
+      "en": "Adoption pathway",
+      "ja": "本提言の採用経路"
+    },
+    {
+      "page": 19,
+      "type": "p",
+      "en": "Based on the experience of the TCFD, the TNFD anticipates its recommendations being used along three related pathways to shift the corporate reporting landscape:",
+      "ja": "TCFDの経験に基づき、TNFDは企業報告の状況を変化させるために、本提言が3つの経路に沿って利用されることを期待している。"
+    },
+    {
+      "page": 19,
+      "type": "li",
+      "en": "1. Influence the voluntary standards landscape: Both the ISSB and the GRI have been knowledge partners of the TNFD over the two-year design and development phase of these recommendations. Their existing standards and market guidance have played an instrumental role in shaping the TNFD’s recommendations. In turn, the TNFD hopes its recommendations will shape the further development of specific nature-related disclosure standards. The ISSB signalled in December 2022 that it intends to draw on the work of the TNFD as and when it develops specific nature-related disclosure standards following the release of its IFRS S1 General Requirements and S2 Climate-related Disclosure Standards in June 2023. The Taskforce stands ready to support the ISSB in its future efforts on nature-related disclosure standards.",
+      "ja": "1. 自主基準の状況に影響を与える：ISSBとGRIはともに、本提言の2年間の設計・開発フェーズにおいてTNFDのナレッジ・パートナーであった。TNFDの提言を形成する上で、これらの既存の基準や市場ガイダンスが重要な役割を果たした。今後は、TNFDの提言が特定の自然関連の開示基準のさらなる開発につながることを期待している。2022年12月にISSBは、2023年6月にIFRS S1号「サステナビリティ関連財務情報の開示に関する全般的要求事項」とIFRS S2号「気候関連開示」基準を公表した後、具体的な自然関連の開示基準を開発する際には、TNFDの作業を参考にする意向を示した。タスクフォースは、自然関連の開示基準に関するISSBの今後の取り組みを支援する意向である。"
+    },
+    {
+      "page": 20,
+      "type": "li",
+      "en": "2. Shape the emergence of government corporate reporting regulation: As with the adoption of TCFD’s recommendations, a number of governments have signalled their support for the TNFD and their intention to consider the recommendations of the Taskforce. The GBF’s Target 15 calls on governments to put in place requirements for corporate reporting of nature-related risks, dependencies and impacts by 2030. The intentional alignment of the TNFD recommendations with the four goals and 23 targets of the GBF should assist governments around the world in delivering on Target 15.",
+      "ja": "2. 政府による企業報告規則の施行を促進する：TCFDの提言の採用と同様、多くの政府がTNFDを支持し、タスクフォースの提言を検討する意向を示している。GBFのターゲット15は、2030年までに自然関連のリスク、依存、インパクトに関する企業報告の要件を整備するよう各国政府に求めている。TNFDの提言をGBFの4つの目標および23のターゲットと意図的に整合させることは、世界各国政府におけるGBFのターゲット15達成を支援することに繋がるはずである。"
+    },
+    {
+      "page": 20,
+      "type": "li",
+      "en": "3. Direct voluntary adoption by companies: While the voluntary and regulatory reporting landscape continues to evolve, companies and financial institutions are already signalling their intention to begin adopting the TNFD recommendations, in line with their mission and values as an organisation, in readiness for regulatory requirements and to respond to growing demands from their investors and lenders for more nature-related information. With the publication of these recommendations, the Taskforce will encourage and support voluntary adoption of its recommendations by companies and financial institutions around the world, in coordination with a range of partner organisations.",
+      "ja": "3. 企業による直接的かつ自主的な採用：自主的な報告と規制に基づく報告が発展を続ける状況の中、企業や金融機関はすでに、規制上の要件に備え、また投資家や融資先からの自然関連情報に対する要求の高まりに応えるために、組織としての使命や行動基準に沿ってTNFDの提言を採用し始める意向を示している。タスクフォースは本提言の発表に伴い、さまざまなパートナー組織と連携しながら、世界中の企業や金融機関による自主的な提言の採用を奨励・支援する。"
+    },
+    {
+      "page": 20,
+      "type": "p",
+      "en": "Figure 6 shows the emerging global architecture for nature-related corporate reporting, in parallel with what has emerged for climate-related reporting.",
+      "ja": "図6は、気候変動関連報告に関して構築されたアーキテクチャと並行して発展しつつある、自然関連企業報告のための新たなグローバル・アーキテクチャを示している。"
+    },
+    {
+      "page": 20,
+      "type": "caption",
+      "en": "Figure 6: Where the TNFD fits in the emerging reporting architecture",
+      "ja": "図6：新たな報告アーキテクチャにおけるTNFDの位置づけ",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 20,
+      "type": "figure",
+      "en": "International and domestic policy goals: Paris Agreement (2°C/1.5°C targets) / Global Biodiversity Framework (Portfolio of targets)",
+      "ja": "国際・国内政策目標：パリ協定（2°C/1.5°C目標） / 昆明・モントリオール生物多様性枠組（ターゲットのポートフォリオ）"
+    },
+    {
+      "page": 20,
+      "type": "figure",
+      "en": "International frameworks for corporate and financial institution action / Corporate reporting standards / Market regulation: United States / European Union / Japan / Australia / Others… / Corporate and financial institution reporting activity / Report preparers and users",
+      "ja": "企業および金融機関の活動に関する国際枠組み / 企業報告基準 / 市場規制：米国 / 欧州連合 / 日本 / オーストラリア / その他… / 企業および金融機関の報告活動 / 報告書の作成者と利用者"
+    }
+  ]
+}

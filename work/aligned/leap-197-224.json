@@ -1,0 +1,1174 @@
+{
+  "doc": "leap",
+  "pages": [
+    197,
+    224
+  ],
+  "segments": [
+    {
+      "page": 197,
+      "type": "h4",
+      "en": "Scale of metrics",
+      "ja": "測定指標の規模"
+    },
+    {
+      "page": 197,
+      "type": "p",
+      "en": "Obtaining good data on the current state of ecosystem condition can require time, expertise and resources. For example, a granular and valid assessment may require site- and ecosystem-specific data on community composition and the presence of indicator species, vegetation structure and ecosystem processes. This can be costly and time consuming to collect.",
+      "ja": "生態系の状態の現状に関して有効なデータを得るには時間、専門知識そして資源が必要となる。例えば粒度の細かい有効な評価を行うには、群集構成や指標種の存在、植生構造、生態系プロセスに関する現地／生態系固有のデータが必要になる場合もある。このようなデータを集めるには費用も時間もかかる。"
+    },
+    {
+      "page": 197,
+      "type": "p",
+      "en": "The ecosystem condition metrics that are currently available can apply at three broad spatial scales. In relation to the IUCN Global Ecosystem Typology (GET), these are:",
+      "ja": "生態系の状態に関して現在利用できる測定指標は大まかに3つの空間規模で適用できる。IUCNグローバル生態系タイポロジー（GET）に関しては以下のようになっている。"
+    },
+    {
+      "page": 197,
+      "type": "li",
+      "en": "Individual ecosystem – Metrics providing fine scale measures of ecosystem condition (levels 4-6 in the GET), often based on measurement of direct state, and specific to particular ecosystems. They can be supplemented by additional data on impacts. Often these metrics combine measurements of multiple components of ecosystem condition that are most relevant to the ecosystems of interest. Examples include the Accounting for Nature (AfN) Econd® metric framework142 and the UK Biodiversity metric;143",
+      "ja": "個別生態系－生態系の状態について細かい規模の計測を提供する測定指標で（GETのレベル4–6）、直接的な状態の測定に基づく場合が多く、特定の生態系に固有となる。インパクトに関する追加データで補足することができる。この測定指標においては関心対象の生態系に最も適した、生態系状況の複数の構成要素の測定を組み合わせる場合が多い。例えばAccounting for Nature（AfN）のEcond®測定指標フレームワーク142や、英国生物多様性メトリッなどがある143。"
+    },
+    {
+      "page": 197,
+      "type": "li",
+      "en": "Biome – Metrics providing information applicable across multiple ecosystem types within a biome (levels 2 and 3 in the GET). They are often based on some limited information on state of ecosystem condition and combined with information on impacts. Examples include the Forest Landscape Integrity Index and Forest Structural Condition Index; and",
+      "ja": "バイオーム－バイオーム内の複数の生態系種類にわたって適用できる情報を提供する測定指標（GETのレベル2、3）。生態系状況の状態に関する限定的な情報に基づく場合が多く、インパクトに関する情報と組み合わされる。例えば森林景観完全性指標（Forest Landscape Integrity Index）や森林構造状態指標（Forest Structural Condition Index）等がある。"
+    },
+    {
+      "page": 197,
+      "type": "li",
+      "en": "Realm – Metrics applicable to an entire realm (level 1 in the GET) are not usually specific to individual ecosystems and do not rely on primary data collection. Rather, they often apply information on impacts to model estimates of ecosystem condition across multiple biomes and ecosystems. In some cases, they can be supplemented by remotely sensed state measurements. Examples include the Ecoregion Intactness Index,144 Mean Species Abundance (MSA) and Potentially Disappeared Fraction (PDF).",
+      "ja": "領域－領域全体に適用できる測定指標（GETのレベル1）は通常、個別生態系に固有のものではなく、一次データ収集に依存しない。それよりもむしろ、複数のバイオームや生態系にまたがってインパクトに関する情報を生態系状況にモデル計算に適用する場合が多い。場合によっては遠隔で識別した状態測定で補完がしうる。例えば生態地域保全性指数（Ecoregion Intactness Index）144平均生物種豊富度（Mean Species Abundance：MSA）、種の潜在的消失割合（Potentially Disappeared Fraction：PDF）などがある。"
+    },
+    {
+      "page": 197,
+      "type": "p",
+      "en": "Inferred or modelled relationships between pressure and state can be a practical way to scale up measures of ecosystem condition. For example, the Human Footprint Index combines scores for a range of pressures including agricultural land, population density, night-time lights, railways, roads and waterways145 to provide a pressure-based index of condition. The GLOBIO model146 extrapolates condition estimates globally based on studies of how particular pressures affect a condition measure (Mean Species Abundance) locally. Pressures are generally easier to measure and track, and to compare across ecosystems, than the components of ecosystem condition.",
+      "ja": "圧力と状態の関係の推測ないしモデル化は生態系状況についての測定規模拡大の実用的な方法となり得る。例えば人類フットプリント指標（Human Footprint Index）等は農地、人口密度、夜間光、鉄道、道路、水路を含む一連の圧力に関するスコアを組み合わせて145圧力に基づく状況指標を提供している。GLOBIOモデルは146特定の圧力が局所的に状況計測（平均生物種豊富度）にどのように影響するかについての研究に基づいて、グローバルに状態を推定する。概して圧力は、生態系状況の構成要素よりも測定や追跡が簡単であり、生態系全体にわたって比較するのも簡単である。"
+    },
+    {
+      "page": 197,
+      "type": "h4",
+      "en": "Typology of metrics",
+      "ja": "測定指標の類型"
+    },
+    {
+      "page": 197,
+      "type": "p",
+      "en": "Available metrics vary in what aspects of ecosystem condition they are measuring, the type and quality of input data, the geographical and ecological scope, and how well they capture important ecosystem characteristics. They also vary depending on whether they are measuring the state of ecosystem characteristics directly, or whether they are inferring ecosystem condition by measuring pressures.",
+      "ja": "利用可能な測定指標は、生態系状況のどの側面を測定するか、入力データの種類と質、地理的生態学的範囲、生態系の重要な特性をどの程度捉えることができるかによって異なってくる。また生態系の特性の状態を直接測定するのか、あるいは圧力の測定によって生態系状況を推測するのかによっても異なる。"
+    },
+    {
+      "page": 197,
+      "type": "p",
+      "en": "For each of the scales identified, Table 31 gives an illustrative example of a metric that can be used to measure ecosystem condition, and how it could be applied within the LEAP approach.",
+      "ja": "前記の規模それぞれについて、生態系状況測定のために使用できる測定指標事例を表31で紹介し、LEAPアプローチにおいてどのように適用できるか説明する。"
+    },
+    {
+      "page": 197,
+      "type": "footnote",
+      "en": "142 Accounting for Nature (2022) Accounting for Nature Certification Standard Version 3.1.",
+      "ja": "142 Accounting for Nature（2022）『Accounting for Nature Certification Standard Version 3.1』"
+    },
+    {
+      "page": 197,
+      "type": "footnote",
+      "en": "143 Natural England (2023) Biodiversity metric: calculate the biodiversity net gain of a project or development.",
+      "ja": "143 ナチュラルイングランド（2023）『生物多様性メトリック：プロジェクト又は開発の生物多様性ネットゲイン計算』"
+    },
+    {
+      "page": 197,
+      "type": "footnote",
+      "en": "144 Beyer H.L. et al. (2020) Substantial losses in ecoregion intactness highlight urgency of globally coordinated action.",
+      "ja": "144 Beyer, H.L. et al.（2020）『Substantial losses in ecoregion intactness highlight urgency of globally coordinated action』"
+    },
+    {
+      "page": 197,
+      "type": "footnote",
+      "en": "145 Venter, O. et al. (2016) Sixteen years of change in the global terrestrial human footprint and implications for biodiversity conservation.",
+      "ja": "145 Venter, O. et al.（2016）『Sixteen years of change in the global terrestrial human footprint and implications for biodiversity conservation』"
+    },
+    {
+      "page": 197,
+      "type": "footnote",
+      "en": "146 Schipper, A. M. et al. (2020) Projecting terrestrial biodiversity intactness with GLOBIO 4.",
+      "ja": "146 Schipper, A.M. et al.（2020）『Projecting terrestrial biodiversity intactness with GLOBIO 4』"
+    },
+    {
+      "page": 198,
+      "type": "caption",
+      "en": "Figure 34: The broad characteristics of different ecosystem condition metrics at the ecosystem, biome and realm scale",
+      "ja": "図34：生態系、バイオーム、領域規模での生態系状況各種測定指標の大まかな特徴"
+    },
+    {
+      "page": 198,
+      "type": "figure",
+      "en": "Composition / Structure / Function / State / Pressure / Condition metrics",
+      "ja": "構成／構造／機能／状態／圧力／状態測定指標"
+    },
+    {
+      "page": 198,
+      "type": "figure",
+      "en": "Based on direct measures of state / Related to specific ecosystems / Potentially highly responsive to action / Combines multiple dimensions / Often reliant on primary data collection",
+      "ja": "状態の直接計測に基づく／特定の生態系に関係する／作用に対して潜在的に高い反応性／複数の次元の組み合わせ／しばしば一次データ収集に依存"
+    },
+    {
+      "page": 198,
+      "type": "figure",
+      "en": "Ecosystem-scale: e.g. AfN Econd, UK Biodiversity Metric / Biome-scale: e.g. Forest Structural Condition Index / Realm-scale: e.g. MSA, PDF, Ecoregion intactness Index",
+      "ja": "生態系スケール：例：AfN Econd、英国生物多様性メトリック／バイオームスケール：例：森林構造状態指標／領域スケール：例：MSA、PDF、生態地域保全性指数"
+    },
+    {
+      "page": 198,
+      "type": "figure",
+      "en": "Geographic Scope / Responsiveness / Components of condition / Data requirements",
+      "ja": "反応性／状態構成要素／データ要件",
+      "flag": "ja-label-missing"
+    },
+    {
+      "page": 198,
+      "type": "figure",
+      "en": "Based on modelled pressure state relationships / Not related to specific ecosystems / Limited responsiveness to action / Often focussed on composition / Limited need for primary data collection",
+      "ja": "圧力状態関係性モデルに基づく／特定の生態系に関係せず／作用に対する限定的反応性／しばしば構成に焦点／一次データ収集の限定的必要性"
+    },
+    {
+      "page": 199,
+      "type": "caption",
+      "en": "Table 31: Illustrative examples of ecosystem condition metrics at biome, realm and ecosystem scales",
+      "ja": "表31：バイオーム、領域、生態系規模での生態系状況測定指標事例"
+    },
+    {
+      "page": 199,
+      "type": "table",
+      "en": "| Metric | Level | What does it do? | Coverage | Example of use within LEAP |\n|---|---|---|---|---|\n| MSA | Realm | Measures species composition by the average abundance of selected species groups compared to a reference state. Available as modelled estimates based on pressure information. | Global, land and freshwater | Identifying impact hotspots across a value chain (indirect control) or investment portfolio (LOCATE).<br>Providing an initial assessment of impacts (EVALUATE).<br>If calibrated with field data, and combined with additional data on ecosystem extent, can inform responses (PREPARE). |\n| Forest Structural Condition Index | Biome | Integrates broad datasets of canopy height, tree cover and time since disturbance to create an index of forest ecosystem condition. This is combined with data on pressures to calculate the related Forest Structural Integrity Index. | Land, for tropical forests only | Identify directly owned assets in forested ecosystems of high condition, or areas within direct control in value chains (LOCATE). |\n| Accounting for Nature Econd® | Ecosystem | Provides a system for measuring, verifying, certifying and publicly reporting Environmental Condition Accounts (‘Environmental Accounts’) at a local, regional or landscape scale in Accounting for Nature® accredited Method.<br>Methods use indicators specific to an Environmental Asset or ecosystem type to create a score that can be used to track ecosystem condition and compare different areas. | Land, freshwater & ocean | Detailed assessments of ecosystem condition in areas of direct operational control to calculate potential negative impacts (EVALUATE).<br>Together with ecosystem extent data (included in Environmental Accounts) can be used to inform responses in areas of direct or significant operational control (PREPARE). |",
+      "ja": "| 測定指標 | レベル | 何をするものか | 適用範囲 | LEAPでの使用例 |\n|---|---|---|---|---|\n| MSA | 領域 | 選択した種群の平均個体数を参照状態と比較して種の構成を測定する。圧力情報に基づくモデル化した推計値として利用可能。 | 地球規模、陸、淡水 | バリューチェーン全体（間接管理）又は投資ポートフォリオにわたるインパクトのホットスポットの特定（発見）。<br>インパクトの初期評価提供（診断）。<br>フィールドデータで調整し、生態系面積に関する追加データと組み合わせれば、対応のための情報とすることができる（準備）。 |\n| 森林構造状態指標 | バイオーム | 樹冠高、樹冠率、攪乱後経過時間についての広範なデータセットを統合して森林生態系の状況の指標を作成。圧力に関するデータと組み合わせて関連する森林構造完全性指標（Forest Structural Integrity Index）を計算する。 | 陸、熱帯雨林に関してのみ | 高状況の森林生態系にある直接所有資産又はバリューチェーンにおける直接管理地域を特定する（発見）。 |\n| Accounting for Nature Econd® | 生態系 | Accounting for Nature®認定方法で現地、地域又はランドスケープ規模での環境状態勘定（「環境勘定」）を測定し、検証し、認証し、公に報告するためのシステムを提供する。<br>この方法では環境資産又は生態系種類に固有の指標を用いて、生態系状況を追跡して様々な地域を比較するのに使用できるスコアを作成する。 | 陸、淡水、海洋 | 潜在的なマイナスのインパクトを計算するための、直接操業管理地域の生態系状況についての詳細評価（診断）。<br>生態系面積に関するデータ（環境勘定に含まれる）と共に、直接又は重要操業管理地域での対応のための情報とするために使用できる（準備）。 |"
+    },
+    {
+      "page": 200,
+      "type": "p",
+      "en": "There is no single best, universally applicable ecosystem condition metric. Each metric can provide valuable information for specific purposes and in specific contexts.",
+      "ja": "唯一最良の、普遍的に適用できる生態系状況測定指標というものはない。それぞれの測定指標は個々の目的のために、個々の文脈において、貴重な情報を提供してくれる。"
+    },
+    {
+      "page": 200,
+      "type": "p",
+      "en": "Where appropriate, using multiple metrics that complement each other can help to address the limitations of individual metrics. For example, a metric that only uses modelled estimates of ecosystem composition (e.g. MSA) could be complemented with a metric that includes measures of ecosystem structure (e.g. Forest Structural Condition Index).",
+      "ja": "適切であれば、相互に補完する複数の測定指標を使用することが個別の測定指標の限界に対処するのに役立つ。例えば生態系の構成の推定モデルだけを使用する測定指標（MSA等）は、生態系の構造についての尺度を含む測定指標（森林構造状態指標等）で補完できるだろう。"
+    },
+    {
+      "page": 200,
+      "type": "p",
+      "en": "Different types of metrics are better suited at different stages of the LEAP approach. At the earlier stages of the LEAP approach, realm-level metrics (based on modelled data and not linked to specific ecosystems) can be used to identify broad areas of risk and opportunity through a high-level impact screening across the value chain. As an organisation starts to look at impacts, risks, opportunities and potential management actions in greater detail, there is greater need for metrics based on direct measurement and connected to specific ecosystems. At this stage, biome- and ecosystem-level metrics start to become more appropriate. For example, these could be used to generate accurate and ecosystem-specific measurements of impacts from direct operations.",
+      "ja": "LEAPアプローチの段階が異なれば適切な測定指標の種類も異なる。LEAPアプローチの初期段階では領域レベルの測定指標（モデル化データに基づき、特定の生態系とは結び付かない）を使用して、バリューチェーン全体にわたる概観レベルのインパクトスクリーニングによってリスクと機会の大まかな分野を特定することができる。組織がインパクトやリスク、機会、潜在的な経営行動について詳細な検討を始めると、直接測定に基づいた、特定の生態系と関係のある測定指標の必要性が高まる。この段階で、バイオーム及び生態系レベルの測定指標がより適切なものになり始める。例えば直接操業によるインパクトについての正確かつ生態系固有の測定を行うために使用できるだろう。"
+    },
+    {
+      "page": 200,
+      "type": "p",
+      "en": "Ideally, detailed ecosystem-level metrics would be available and applicable across the LEAP approach so that ecosystem-specific data at fine spatial scale could guide all stages of the process. Using such metrics reduces the risk of overlooking important ecosystem characteristics, areas of high value or appropriate actions to be taken. However, this is often unfeasible at present due to the limited availability of appropriate data. As both metrics and data collection technologies advance, more granular metrics should become available.",
+      "ja": "理想的には、詳細な生態系レベルの測定指標が用意され、LEAPアプローチ全体で適用されて、細かな空間規模での生態系固有のデータがプロセスの全段階を導いてくれるだろう。このような測定指標を使用すれば、生態系の重要な特性、価値の高い地域、とるべき適切な行動等を見落とすリスクが減る。だが現時点では、適切なデータが入手困難であることからこれは実現不可能である場合が多い。測定指標とデータ収集技術が進化すれば、より粒度の細かい測定指標が利用できるようになるはずである。"
+    },
+    {
+      "page": 200,
+      "type": "h4",
+      "en": "Key criteria for metrics selection",
+      "ja": "測定指標選択の重要基準"
+    },
+    {
+      "page": 200,
+      "type": "p",
+      "en": "The key criteria that make ecosystem condition metrics reliable and relevant to organisations are outlined in Table 32.147 These criteria are categorised into those deemed essential, important and desirable, but the weight put on each criterion will depend on the individual organisation’s circumstances.",
+      "ja": "生態系状況測定指標の信頼性を高め、組織にとって関連性のあるものにする重要な基準を表32に示す147。これらの基準は必須、重要、望ましいとされるものに分類しているが、どの基準を重視するかは個々の組織の状況に依存する。"
+    },
+    {
+      "page": 200,
+      "type": "footnote",
+      "en": "147 These criteria and their classification reflect the perspectives of an expert group involving scientists engaged in ecosystem condition assessment on the key attributes for ecosystem condition metrics in TNFD and can help guide business in the selection of metrics.",
+      "ja": "147 これらの基準とその分類は、生態系状況評価に携わった科学者が参加する、TNFDの生態系状況測定指標のための重要な属性についての専門家グループの視点を反映しており、企業が測定指標を選択するときに役立つだろう。"
+    },
+    {
+      "page": 201,
+      "type": "caption",
+      "en": "Table 32: Essential, important and desirable criteria for metrics used to assess ecosystem condition",
+      "ja": "表32：生態系状況評価に用いる測定指標の必須／重要／望ましい基準"
+    },
+    {
+      "page": 201,
+      "type": "table",
+      "en": "| Criterion | Sub-criteria | Rationale | Importance |\n|---|---|---|---|\n| 1. Credible and science-based | • Based in ecological theory<br>• Derived from empirical data, such as pressure-state relationships<br>• Has undergone extensive empirical and scenario testing<br>• The underlying logic of the model, and how the metric is calculated and what it shows, are fully documented<br>• Methodology and results are explicit about uncertainties and caveats about interpretation<br>• Preferably published in reputable peer-reviewed scientific publications | Help ensure that data guide business actions that address key risks and deliver biodiversity gains. | Essential |\n| 2. Ecologically connected | • Clear relationship between values of the metric and ecosystem integrity, with ecologically meaningful thresholds, where relevant<br>• Sufficiently granular in scale to capture the local realities of ecosystem condition | Ecosystem condition can be measured in a variety of ways, more or less connected to which ecosystem condition components are key to the integrity of different ecosystem types. A strong connection between the values measured and these important components of ecosystem condition is therefore important. | Essential |",
+      "ja": "| 基準 | 下位基準 | 論拠 | 重要性 |\n|---|---|---|---|\n| 1. 信頼できて科学に基づく | • 生態学理論に基づく。<br>• 圧力と状態の関係等、経験的データから導かれる。<br>• 広範囲にわたる実験及びシナリオテストにかけている。<br>• モデルの基礎となる論理、ならびに測定指標はどのように計算され、それが何を示しているのかが十分に文書化されている。<br>• 不確実性や解釈上の注意点について、方法や結果が明白である。<br>• 望ましくは評価を得ている査読付き科学出版物に発表されている。 | 重要なリスクに対処し、生物多様性獲得をもたらす事業活動が、データによって導かれる。 | 必須 |\n| 2. 生態学的関連性 | • 測定指標の値と生態系の十全性との明確な関係、該当する場合には生態学的意味のある閾値付き。<br>• 生態系状況の現地の実情を把握できる、規模の点で十分な粒度。 | 生態系状況は様々な方法で測定できるが、様々な生態系タイプの十全性にとってどの生態系状況構成要素がカギとなるかに多かれ少なかれ結びついている。したがって測定された値とこうした生態系状況の重要構成要素との強い関連性が重要である。 | 必須 |"
+    },
+    {
+      "page": 202,
+      "type": "table",
+      "en": "| Criterion | Sub-criteria | Rationale | Importance |\n|---|---|---|---|\n| 3. Responsive | • Responds measurably, reliably and predictably to change<br>• Responds to changes that are meaningful to key structuring characteristics of the ecosystem<br>• Responds to realistic changes in pressures<br>• Is responsive both to increases and decreases in ecosystem condition | Allows impacts of businesses (both positive and negative) to be tracked. | Essential |\n| 4. Relevant | • Can inform decisions at spatial/ temporal scale relevant to company or investor actions<br>• Responds to all relevant IPBES pressures<br>• There are clear and well-documented relationships between impact drivers and values of the metric | The metric must meaningfully inform business strategy and actions, preferably across the full suite of potential pressures related to business activity. | Essential |\n| 5. Verifiable | • The results can be empirically verified in the field | The ability to audit is important to ensure effective reporting and action across businesses. Some metrics rely on complex modelling and varied assumptions, making them difficult to verify externally. | Essential |\n| 6. Accessible | • Packaged such that end users can use it without undue effort | Easily accessible information is important to promote widespread use of metrics and allow comparisons between organisations. | Important |",
+      "ja": "| 基準 | 下位基準 | 論拠 | 重要性 |\n|---|---|---|---|\n| 3. 反応性 | • 変化に対して目に見える形で、確かに、予想通りの反応をする。<br>• 生態系の重要な構造特性にとって意味のある変化に反応する。<br>• 圧力の現実的な変化に反応する。<br>• 生態系状況における増減に対して敏感に反応する。 | 企業のインパクト（ポジティブ／ネガティブ）を追跡可能にする。 | 必須 |\n| 4. 関連性 | • 会社又は投資家の活動に関係のある空間／時間的規模での決定に情報をもたらす。<br>• 関連するIPBESのすべての圧力に反応する。<br>• インパクト要因と測定指標の値との間に明確な十分に裏付けされた関係がある。 | 測定指標は企業の戦略や活動にとって有意義な情報を提供するものでなければならず、事業活動に関係する潜在的な圧力全体にまたがるものが好ましい。 | 必須 |\n| 5. 検証可能 | • 結果を現場で経験的に検証できる。 | 監査能力はビジネス全体にわたる効果的な報告や活動を確保するために重要である。測定指標の中には複雑なモデリングや様々に異なる仮定に依拠するものもあり、外部検証を難しくしている。 | 必須 |\n| 6. 利用可能 | • 最終利用者が苦労なく使用できるようにパッケージ化されている。 | 簡単に利用できる情報は、測定指標の使用を広く普及させ、組織間で比較できるようにするために重要である。 | 重要 |"
+    },
+    {
+      "page": 203,
+      "type": "table",
+      "en": "| Criterion | Sub-criteria | Rationale | Importance |\n|---|---|---|---|\n| 7. Flexible | • Relationships between impact drivers and values of the metric can be applied at varying levels of spatial resolution<br>• Can be adapted to different scales and methods of data collection<br>• Within the metric’s scope, applicability to any location, either through an existing data layer or as a potential derivation | Often there will be varying qualities of company data and/or data on ecosystem condition in different regions. A metric that can be used flexibly with data of differing quality can be widely applied and enable a broader range of comparisons within and between businesses. | Important |\n| 8. Forward-looking | • Methodological framework is sufficiently adaptable to incorporate improved datasets and/or models and/or methods in future | Substantial improvements in the availability and accuracy of data relevant to ecosystem condition are likely in the future. It is important that metrics are able to accommodate these advances. | Important |\n| 9. Timely | • Input data collected recently enough for current data layers to be meaningful<br>• Can readily be recomputed to track change over time<br>• Has institutional support to be regularly updated with new data | As well as up-to-date current information on ecosystem condition, time-series information is needed to enable change to be tracked in the future. | Important |\n| 10. Ecosystem-explicit | • Can be related to a particular ecosystem at a particular location, at minimum, the biome type within an ecoregion or a country | Allows information to be related to a specific location and its characteristics, enabling identification of ecologically relevant risks and opportunities. | Important |",
+      "ja": "| 基準 | 下位基準 | 論拠 | 重要性 |\n|---|---|---|---|\n| 7. 柔軟 | • インパクト要因と測定指標の値との関係を空間分析解像度の様々なレベルで適用できる。<br>• データ収集の各種規模及び方法に適応できる。<br>• 測定指標の対象範囲において、既存のデータレイヤーを通じて、もしくは潜在的導出として、あらゆる場所に適用可能。 | たいていの場合、会社のデータ及び／又は様々な地域の生態系状況に関するデータの質にはばらつきがある。データの質が異なっていても柔軟に使用できる測定指標は幅広く適用でき、企業内や企業間の広範囲の比較を可能にする。 | 重要 |\n| 8. フォワードルッキング | • 方法論的枠組みは、将来、改良されたデータセット及び／若しくはモデル並びに／又は方法を組み入れるのに十分な適応性がある | 生態系状況に関連するデータの入手可能性やデータの正確さは将来、大幅に向上する可能性がある。測定指標がこうした進化に適応できることが重要である。 | 重要 |\n| 9. 適時性 | • 現在のデータレイヤーを意味のあるものにできるように十分に新しいデータを集めて入力する。<br>• 簡単に再計算して経時的な変化を追跡できる。<br>• 定期的に新しいデータで更新するための組織的な支援が得られる。 | 生態系の状態に関する最新の情報に加えて、将来、変化の追跡を可能にするために時系列情報も必要である。 | 重要 |\n| 10. 生態系の明示性 | • 特定の地域の特定の生態系、最低でも生態地域内又は国内のバイオームタイプに関連付けることができる。 | 情報を特定の場所とその特性に関連付けて、生態学的関連のあるリスクと機会の特定を可能にする。 | 重要 |"
+    },
+    {
+      "page": 204,
+      "type": "table",
+      "en": "| Criterion | Sub-criteria | Rationale | Importance |\n|---|---|---|---|\n| 11. Socially connected | • Tracks levels of ecosystem service provision, directly or via highly correlated component(s) of ecosystem condition | Tracking components of ecosystem condition that are linked to the provision of ecosystem services is desirable to help track ecosystem function and associated dependencies. | Desirable |\n| 12. Understandable | • Represents an intuitive concept that can easily be communicated to users | In order to usefully inform biodiversity strategy, support target setting and catalyse action, a metric should be communicable and easily understood by a range of users. | Desirable |\n| 13. Aligned | • Has broad acceptance by a wide range of users, as demonstrated by inclusion in relevant frameworks, regulation or targets | Use of metrics that are already adopted and implemented for other purposes helps to reduce potential duplication of effort and to improve communication and comparability. | Desirable |",
+      "ja": "| 基準 | 下位基準 | 論拠 | 重要性 |\n|---|---|---|---|\n| 11. 社会的関連性 | • 直接、又は生態系状況の相関性の高い構成要素を通じて、生態系サービス供給の水準を追跡する。 | 生態系サービスの供給と関係のある、生態系状況の構成要素の追跡は、生態系の機能とそれに伴う依存の追跡に役立てるのが望ましい。 | 望ましい |\n| 12. 理解可能 | • 利用者に簡単に伝えることのできる直感的概念を表す。 | 生物多様性に関する戦略のための役立つ情報となり、ターゲット設定を支援し、行動を促進するためには、測定指標は伝えやすく、様々な利用者に簡単に理解してもらえるものにすべきである。 | 望ましい |\n| 13. 整合性 | • 関連する枠組み、規制、ターゲットに含まれていることから、広範囲の利用者に幅広く受け入れられている。 | 他の目的ですでに採用され、実現されている測定指標の使用は、作業の重複の可能性を減らし、コミュニケーションや比較可能性を向上させてくれる。 | 望ましい |"
+    },
+    {
+      "page": 205,
+      "type": "h4",
+      "en": "Guiding principles for use of ecosystem condition metrics",
+      "ja": "生態系状況測定指標利用のための指針"
+    },
+    {
+      "page": 205,
+      "type": "p",
+      "en": "Guiding principles for the appropriate use of ecosystem condition metrics within both internal assessments and disclosures are shown in Table 33. Applying these should promote consistency of application across users, make it clear which approaches have been taken, and help users to understand assumptions and interpret information.",
+      "ja": "内部評価及び開示における、生態系状況測定指標の適切な使用のための指針を表33に示す。これらを適用することで利用者の間で適用の一貫性が促進され、どのアプローチをとったのかが明確になり、利用者は仮定について理解し、情報を解釈しやすくなるはずである。"
+    },
+    {
+      "page": 205,
+      "type": "p",
+      "en": "Assessing ecosystem condition at the ecosystem level, where metrics exist or are feasible to develop (especially for direct operations and areas of significant control), will provide the greatest granularity and confidence in the assessment of nature-related risks and opportunities. If realm-level metrics are used, the good practice principles set out here can support appropriate interpretation and communication.",
+      "ja": "測定指標が存在するか開発可能である（特に直接操業や重要な監督権のある地域について）場合、生態系レベルで生態系状況を評価することで、自然関連のリスクと機会の評価の精度や信頼度が最大となる。領域レベルの測定指標を使用する場合、ここに記載するグッドプラクティス原則が適切な解釈とコミュニケーションを支えるものとなる。"
+    },
+    {
+      "page": 205,
+      "type": "p",
+      "en": "Over time, organisations should seek to increase the proportion of their positive and negative impacts assessed using ecosystem- or biome-level metrics.",
+      "ja": "組織は、生態系又はバイオームレベルの測定指標を用いて評価するプラス／マイナスのインパクトの割合を、徐々に増やすことを目指すべきである。"
+    },
+    {
+      "page": 205,
+      "type": "p",
+      "en": "Transparently documenting how ecosystem condition metrics have been used is particularly important because of the wide range of different approaches, which are sometimes unfamiliar to many actors, and where key assumptions and information can be obscured. Some metrics, for example, combine information on different impact drivers and across sites, making interpretation of results complex. Clear reporting can also help prepare an organisation for verification and audit processes.",
+      "ja": "生態系状況測定指標がどのように使用されたか、透明性を高めて文書化することは特に重要である。なぜなら広範囲にわたる様々なアプローチがあるからで、時には多くの主体にとって馴染みのない場合もあり、重要な仮定や情報が曖昧になる可能性がある。例えば様々なインパクト要因に関して様々な事業拠点にわたる情報を組み合わせる測定指標もあり、結果の解釈を複雑にしている。明快な報告は組織が検証や監査に備えるのにも役立つ。"
+    },
+    {
+      "page": 205,
+      "type": "caption",
+      "en": "Table 33: Guiding principles for selecting, applying and reporting ecosystem condition metrics",
+      "ja": "表33：生態系状況測定指標の選択、適用、報告のための指針"
+    },
+    {
+      "page": 205,
+      "type": "table",
+      "en": "| No. | Guiding principle | Rationale |\n|---|---|---|\n| 1 | Consider the type of metric appropriate to the LEAP phase and the business and ecological contexts. | Different metrics are differently suited for particular applications. Using a metric that is appropriate for the context will produce more meaningful results. |\n| 2 | Consider complementarity between different metrics in the components measured. | Combining complementary metrics can give a more complete and useful picture of ecosystem condition. However, there is limited value in combining metrics that use similar approaches to assess the same component of condition. |\n| 3 | Choose indicators evidenced to be reliable, relevant and measurable indicators of condition for the biome or ecosystem type in question. | Different potential state or pressure indicators have different relevance and measurability for different kinds of ecosystems. It is important to consider the ecological context (and for pressures, the causal connection with condition). |",
+      "ja": "| 番号 | 指針 | 論拠 |\n|---|---|---|\n| 1 | LEAPフェーズ及びビジネスや生態学的文脈にとって適切な測定指標の種類を検討する。 | それぞれの用途に適した測定指標には種々様々なものがある。文脈に合った測定指標を使用すれば、より意味のある結果が生まれる。 |\n| 2 | 構成要素を測定するときに種々の測定指標の相補性を検討する。 | 相補的な測定指標を組み合わせると、生態系状況のより完全度が高く有益な全体像を示すことができる。ただし、同一の状況構成要素を評価するときに同様のアプローチを用いる測定指標を組み合わせても価値は限定的となる。 |\n| 3 | 当該のバイオーム又は生態系種類に関して信頼できる、関連性のある、測定可能な指標であることが証明されている指標を選択する。 | 状態ないし圧力に関する様々な指標が、様々な種類の生態系に対し異なる関連性や測定可能性を有する。生態学的文脈（圧力に関しては状況との因果関係）を検討することが重要である。 |"
+    },
+    {
+      "page": 206,
+      "type": "table",
+      "en": "| No. | Guiding principle | Rationale |\n|---|---|---|\n| 4 | Document and justify any interpolation or customisation of the metric and steps taken to validate or ground-truth. | It is often necessary to interpolate or customise metric calculations as data (e.g. land use intensity categories) used by models may not map to real life scenarios. Interpolation may not be standardised and can significantly change the results. |\n| 5 | State assumptions and ecological rationale for estimates of how impacts may change owing to specific actions to manage risks and opportunities. | Allows verification of whether estimates are ecologically plausible. |\n| 6 | Specify the time period over which periodic impacts are assessed (e.g. annual). | Allows an understanding of the rate of accumulation of impacts. |\n| 7 | Demonstrate that assumptions are conservative (i.e. more likely to overstate negative impacts and understate positive impacts). | Application of the precautionary principle is important to avoid underestimating negative impacts or overestimating positive gains. |\n| 8 | Ensure direct measurements are made in standardised, repeatable ways and across the full range of ecosystem condition present. | When making direct measurements (including via remote sensing), a standardised approach, stratified across different levels of ecosystem condition, if relevant, is essential to minimise observational ‘noise’ and allow detection of change over time. |\n| 9 | Report the ecosystem condition metric(s) used. | Different metrics will represent nature in different ways. |\n| 10 | Where possible, report separately on both extent and condition, as well as combined, for extent x condition ecosystem impact measures. | A decrease in condition of 10% over 10 ha is ecologically different from a complete loss (decrease of 100%) of 1 ha, even if the overall quantity of calculated biodiversity loss is the same. Reporting only on the combined measure can mask important aspects of biodiversity impact. |\n| 11 | Where relevant, report the different condition components measured separately as well as combined. | Transparent reporting for the different components of condition will avoid masking of high or low condition scores for some components and allow clearer identification of risks and opportunities. |",
+      "ja": "| 番号 | 指針 | 論拠 |\n|---|---|---|\n| 4 | 測定指標と検証や実地調査のためにとられた手順の補間やカスタマイズを文書化し、正当化する。 | モデルで使用するデータ（例えば土地利用強度カテゴリー）は現実のシナリオに対応付けられないこともあるため、測定指標の計算において補間ないしはカスタマイズがしばしば必要になる。補間は標準化することができず、結果を大きく変える可能性もある。 |\n| 5 | リスクと機会を管理する特定の行動によりインパクトがどのように変化するかという推定についての仮定と生態学的論拠を示す。 | 推定が生態学的に妥当と思われるかどうかの検証を可能にする。 |\n| 6 | 周期的なインパクトの評価時期を指定する（例：毎年）。 | インパクトの蓄積率についての理解を可能にする。 |\n| 7 | 仮定が保守的であることを証明する（すなわちマイナスのインパクトは誇張し、プラスのインパクトは控えめに示す傾向にある）。 | マイナスのインパクトの過小評価／プラスの成果の過大評価を避けるために、予防原則の適用が重要である。 |\n| 8 | 直接測定は標準化された、再現可能な方法で、存在するすべての生態系の状態に関して確実に行われるようにする。 | 直接測定を行う場合（遠隔測定を含む）、該当する場合には生態系状況の様々なレベルにまたがって階層化された、標準化されたアプローチが、観測「雑音」を最小化して経時的な変化を発見できるようにするために必須である。 |\n| 9 | 使用した生態系状況測定指標を報告する。 | 様々な測定指標が様々な方法で自然を表現する。 |\n| 10 | 範囲×状況の生態系インパクト計測に関して、可能であれば、まとめたものだけでなく範囲と状況を個々に報告もする。 | 10 haにおける10%の状況の減少は、計算された生物多様性の損失の全体量がたとえ同じであっても1 haの完全損失（100%の減少）とは生態学的に異なる。測定結果をまとめたものだけを報告すると生物多様性インパクトの重要な側面を隠してしまう。 |\n| 11 | 該当する場合、測定した様々な状況構成要素をまとめたものだけでなく個別にも報告する。 | 状況の様々な構成要素に関する透明性の高い報告によって、スコアの高い／低い一部の構成要素が隠れるということが回避され、リスクと機会のより明確な特定が可能になる。 |"
+    },
+    {
+      "page": 207,
+      "type": "table",
+      "en": "| No. | Guiding principle | Rationale |\n|---|---|---|\n| 12 | Report the impact drivers included in the assessment and disaggregate impacts by impact driver where possible. | Some metrics can only be linked to certain impact drivers, so it is important to state which drivers are included. Both the form and robustness of pressure-impact relationships may differ by impact driver. Understanding this breakdown can help prioritise management actions to address impacts. |\n| 13 | Report enough information to identify input data layers (e.g. reference to the specific version of the metric used), including dates of assessment. | For some metrics, different vintages of the data layers exist, sometimes with considerable differences in methodology and dates. These differing data inputs may influence results. |\n| 14 | Report impacts disaggregated at the finest geographical level available, preferably at: i) ecosystem level for direct operations (GET level 5 or 6), ii) biogeographic ecotype for upstream and downstream value chain (GET level 4); and iii) at least at biome level for all scopes. | Biodiversity is place-specific and so information on specific geographies is important for understanding risks and opportunities and designing appropriate mitigation strategies. |\n| 15 | As well as organisational positive and negative impacts, report contextual baseline ecosystem condition and its rate of change and Red List of Ecosystem threat status where available. | Understanding the baseline and its rate of change is important to interpret the materiality of impacts. |\n| 16 | Report thresholds used (e.g. to identify areas of high integrity or high rates of integrity change) and any sensitivity analysis conducted around thresholds. | Choice of thresholds may significantly change results. |\n| 17 | Where possible, report distinct estimates of each of the following: 1) residual state of nature, 2) accumulated company impacts (existing impacts), 3) periodic negative ongoing and new impacts, 4) periodic positive ongoing and new impacts, 5) projections of future impacts. | While it is possible to combine these types of information, they have very different biodiversity impacts. If combined, much of the information is lost and difficult to interpret. |",
+      "ja": "| 番号 | 指針 | 論拠 |\n|---|---|---|\n| 12 | 評価に含まれるインパクト要因を報告し、可能であればインパクト要因別にインパクトを分解する。 | あるインパクト要因しか関係のない測定指標もあるため、どの要因が含まれているのか示すことは重要である。圧力－インパクトの関係性の形態も強さもインパクト要因によって異なることがある。この分解を理解することがインパクトに対処するための管理行動の優先順位付けに役立つ。 |\n| 13 | 評価の期日も含め、入力データレイヤーを特定できる十分な情報（例えば使用された測定指標の具体的なバージョンへの言及）を報告する。 | 一部の測定指標については様々な年代のデータレイヤーが存在し、方法や期日がかなり異なる場合もある。入力データの違いが結果に影響を及ぼすこともある。 |\n| 14 | 可能な限り詳細な地理的レベルで分解されたインパクトを報告する。できれば以下のレベルで行うのが望ましい：i）直接操業については生態系レベル（GETレベル5または6）、ii）上流／下流バリューチェーンについては生物地理学的生態型（GETレベル4）、iii）すべてのスコープについて少なくともバイオームレベル。 | 生物多様性は場所固有のものであるので、リスクと機会について理解し、適切な緩和戦略を策定するためには特定の地理に関する情報が重要である。 |\n| 15 | 組織によるプラス／マイナスのインパクトだけでなく、背景となる生態系状況ベースラインとその変化率、ならびに生態系レッドリストの脅威状態も可能であれば報告する。 | ベースラインとその変化率を理解することはインパクトのマテリアリティを解釈するのに重要である。 |\n| 16 | 使用された閾値（例えば十全性の高い地域や十全性の変化率の高い地域を特定するため等）と、閾値に関して実施された感度解析を報告する。 | 閾値の選択は結果を大きく変える可能性がある。 |\n| 17 | 可能な場合、以下のそれぞれについて別々に推定を報告する：1）自然の残留状態　2）企業の累積インパクト（既存インパクト）　3）現在継続している周期的なマイナスインパクトと新規のマイナスインパクト　4）現在継続している周期的なプラスインパクトと新規のプラスインパクト　5）将来のインパクトの予測 | この種の情報をまとめることは可能であるが、それぞれの生物多様性インパクトは非常に異なる。まとめた場合、情報の大半は失われ、解釈が難しくなる。 |"
+    },
+    {
+      "page": 207,
+      "type": "p",
+      "en": "Developed using the following sources: UN SEEA-EA methodology (UNSEEA 2021), ALIGN Guidance (UNEP-WCMC et al. 2022), Biological Diversity Protocol (BDP 2021) and associated publications, BBOP Guidance (BBOP 2012), Accounting for Nature standard (Accounting for Nature 2022), GHG Protocol Land sector guidance (World Resources Institute & World Business Council for Sustainable Development 2022), guidance from ecosystem metric expert group.",
+      "ja": "以下を参考にして策定した。UN SEEA-EA方法論（UN SEEA 2021），ALIGNガイダンス（UNEP-WCMC et al. 2022），生物多様性プロトコル（BDP 2021）及び関係出版物，BBOPガイダンス（BBOP 2012），Accounting for Nature standard（Accounting for Nature 2022），GHGプロトコル土地セクターガイダンス（世界資源研究所及び持続可能な開発のための世界経済人会議2022），生態系測定指標専門家グループからのガイダンス．"
+    },
+    {
+      "page": 208,
+      "type": "h4",
+      "en": "Illustrative ecosystem condition metrics",
+      "ja": "生態系状況測定指標例"
+    },
+    {
+      "page": 208,
+      "type": "p",
+      "en": "The following table contains further illustrative examples of metrics that can be used to measure changes to ecosystem condition.",
+      "ja": "下表で生態系状況の変化を測定するために使用できる測定指標の事例について詳しく説明する。"
+    },
+    {
+      "page": 208,
+      "type": "caption",
+      "en": "Table 34: Illustrative ecosystem condition metrics",
+      "ja": "表34：生態系状況測定指標例"
+    },
+    {
+      "page": 208,
+      "type": "table",
+      "en": "| Metric | Description |\n|---|---|\n| Accounting for Nature® Econd® | The Accounting for Nature® Framework provides a system for measuring verifying, certifying and publicly reporting Environmental Condition Accounts.<br>AfN is not a metric in itself, but a framework for developing Environmental Accounts that summarise the condition of an environmental asset into a single metric that describes the condition of an individual Environmental Asset based on site-level data. – the Econd®.<br>Under the Framework, Environmental Accounts are comprised of individual Environmental Asset Accounts, each of which must be developed in accordance with an Accounting for Nature® accredited Method148 (see example149). An Environmental Asset Account describes the condition and change in condition of a specific Environmental Asset over time.<br>The Framework can be applied at local, regional or landscape scales to measure the condition of environmental assets (including ecosystem assets) based on a series of indicators and data collection techniques. |\n| Forest Landscape Integrity Index | The Forest Landscape Integrity Index (FLII) provides a global layer of ecosystem condition in forested ecosystems. The index creates a measure of forest integrity based on data layers of forest extent; threatening processes that influence ecosystem condition, including infrastructure presence, agriculture and habitat loss; and reductions in forest connectivity.150<br>This metric is a biome-level metric for forested ecosystems globally. It incorporates information on several types of human pressure that impact ecosystem condition and a direct estimate of ecosystem structure at the landscape level, measured as change in connectivity in forested ecosystems. |",
+      "ja": "| 測定指標 | 説明 |\n|---|---|\n| Accounting for Nature® Econd® | Accounting for Nature®フレームワーク（AfN）は環境状況勘定を測定し、検証し、認証し、公に報告するためのシステムを提供する。<br>AfN自体は測定指標ではなく、環境資産の状況を単一の測定指標に要約した環境勘定を作るための枠組みで、この指標（Econd®）は現場レベルのデータに基づく個別の環境資産の状況を説明するものである。<br>このフレームワークの下で、環境勘定は個別の環境資産勘定で構成されるが、これらはそれぞれAccounting for Nature®認定方法に従って作成しなければならない148（例参照149）。環境資産勘定は特定の環境資産の状況と、状況の経時的な変化を説明するものである。<br>フレームワークは局所、地域、景観の規模で適用し、一連の指標やデータ収集手法に基づいて環境資産（生態系資産を含む）の状況を測定することができる。 |\n| 森林景観完全性指数 | 森林景観完全性指数（FLII）は森林生態系における全体的な生態系状況を示す。この指数は森林範囲のデータレイヤー、生態系状況に影響する脅威プロセス（インフラの存在、農業、生息地の損失を含む）、及び森林連結性の減少に基づいた、森林の完全性の尺度となる150。<br>この測定指標は森林生態系全体のバイオームレベルの測定指標である。生態系状況にインパクトをもたらすいくつかの種類の人間の圧力に関する情報や、森林生態系における連結性の変化として測定される景観レベルでの生態系の構造についての直接的な推定が組み込まれている。 |"
+    },
+    {
+      "page": 208,
+      "type": "footnote",
+      "en": "148 Accounting for Nature. Method Catalogue.",
+      "ja": "148 Accounting for Nature. Method Catalogue."
+    },
+    {
+      "page": 208,
+      "type": "footnote",
+      "en": "149 Rossini, R. et al. (2021) Koala Population and Habitat Method.",
+      "ja": "149 Rossini, R. et al.（2021）『Koala Population and Habitat Method』"
+    },
+    {
+      "page": 208,
+      "type": "footnote",
+      "en": "150 Grantham, H.S. et al. (2020) Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity.",
+      "ja": "150 Grantham, H.S. et al.（2020）『Anthropogenic modification of forests means only 40% of remaining forests have high ecosystem integrity』"
+    },
+    {
+      "page": 209,
+      "type": "table",
+      "en": "| Metric | Description |\n|---|---|\n| Forest Structural Condition Index/Forest Structural Integrity Index | Available for the humid tropics, the Forest Structural Condition Index (FSCI) provides an estimate of ecosystem condition in the forest biome based on newly available datasets of biodiversity state. The FSCI combines data on forest extent, with data on forest structure (canopy height), and measures of previous forest loss to estimate the structural condition of forests across the tropics. Building on this dataset, the Forest Structural Integrity Index (FSII) adds to this metric information on human pressures. This allows structurally complex habitats with low human pressure to be identified. The two metrics are presented in a scientific paper,151 with the dataset available on the UN Biodiversity lab.152 |\n| Potentially Disappeared Fraction | Potentially Disappeared Fraction (PDF) of species is a metric developed for life cycle impact assessments (LCA) as a measure of local loss of ecosystem condition caused by specific anthropogenic pressures. Variations of the PDF metric exist across different LCA tools, relying on differing datasets and methodologies. PDF is calculated based on a database of scientific studies demonstrating changes in local species richness with changes in anthropogenic pressures.<br>Note: While PDF is often considered an ecosystem metric, come applications of it are actually more closely related to measures of species extinction risk (e.g. the Verones et al. Global Extinction Probability153 is related to STAR – see guidance on species extinction risk metrics). |\n| Mean Species Abundance | The Mean Species Abundance (MSA) metric was developed for use in the GLOBIO model154 to estimate ecosystem condition as function of select anthropogenic pressures on terrestrial and freshwater ecosystems. It measures condition in terms of the average abundance of species in selected groups compared to a natural reference state.<br>MSA uses information on various pressures to model changes in ecosystem composition (the average proportion of remaining species abundance) as an estimate of changes in ecosystem condition. It is a realm-level metric, applicable across ecosystems, that incorporates many different pressures on biodiversity. |",
+      "ja": "| 測定指標 | 説明 |\n|---|---|\n| 森林構造状態指数／森林構造完全性指数 | 湿度の高い熱帯地方に関して利用できる森林構造状態指標（FSCI）は、新たに利用可能になった生物多様性状況についてのデータセットに基づいた、森林バイオームにおける生態系の状態についての推定を示す。FSCIでは森林範囲に関するデータを、森林構造（樹冠高）に関するデータ及び以前の森林損失の測定結果と組み合わせて、熱帯地方全体の森林の構造状態を推定する。このデータセットを基に、森林構造完全性指標（FSII）では人間の圧力に関する情報をこの指標に追加する。これにより構造的に複雑な、人間の圧力の少ない生息地が特定される。この2つの測定指標は科学論文で紹介されており151、データセットは国連生物多様性ラボで入手できる152。 |\n| 種の潜在的消失割合 | 種の潜在的消失割合（PDF）は、特定の人為的圧力に起因する生態系状況の局所的消失の尺度として開発された、ライフサイクル影響評価（LCA）のための測定指標である。異なるデータセットや方法論に依拠していることから、多種多様なLCAツールの間ではPDF測定指標のバリエーションが認められる。PDFは、人為的圧力の変化に伴う在来種の豊かさの変化を示す科学的研究のデータベースに基づいて計算される。<br>注：PDFは生態系の測定指標とみなされる場合が多いが、実際には種の絶滅リスクの尺度と密接に関係する使われ方もある（例えばVerones et al. Global Extinction Probabilityは153 STARと関係している－種の絶滅リスクの測定指標に関するガイダンス参照）。 |\n| 平均生物種豊富度 | 平均生物種豊富度（MSA）測定指標は、陸域および淡水生態系に対する選定された人為的圧力に応じた生態系状態の推計を目的とした、GLOBIOモデル154での使用のために開発された。自然の参照状態と比較した、選択した集団における種の平均豊富度で状況を測定する。<br>MSAでは様々な圧力に関する情報を使用して、生態系の構成における変化（残存種の豊富度の平均割合）を生態系状況の変化の推定としてモデル化する。生態系全体に適用できる領域レベルの測定指標であり、生物多様性に対する多くの様々な圧力が組み込まれている。 |"
+    },
+    {
+      "page": 209,
+      "type": "footnote",
+      "en": "151 Hansen, A. et al. (2019) Global humid tropics forest structural condition and forest structural integrity maps.",
+      "ja": "151 Hansen, A. et al.（2019）『Global humid tropics forest structural condition and forest structural integrity maps』"
+    },
+    {
+      "page": 209,
+      "type": "footnote",
+      "en": "152 The UN Biodiversity Lab, UN Biodiversity Lab.",
+      "ja": "152 国連生物多様性ラボ．国連生物多様性ラボ．"
+    },
+    {
+      "page": 209,
+      "type": "footnote",
+      "en": "153 Verones, F. et al. (2022) Global extinction probabilities of terrestrial, freshwater and marine species groups for use in Life Cycle Assessment.",
+      "ja": "153 Verones, F. et al.（2022）『Global extinction probabilities of terrestrial, freshwater and marine species groups for use in Life Cycle Assessment』"
+    },
+    {
+      "page": 209,
+      "type": "footnote",
+      "en": "154 Schipper, A.M. et al. (2020) Projecting terrestrial biodiversity intactness with GLOBIO 4.",
+      "ja": "154 Schipper, A.M. et al.（2020）『Projecting terrestrial biodiversity intactness with GLOBIO 4』"
+    },
+    {
+      "page": 210,
+      "type": "table",
+      "en": "| Metric | Description |\n|---|---|\n| Ecoregion Intactness Index | The Ecoregion Intactness Index (ErII) provides a global measure of ecosystem condition for terrestrial habitats. The index creates a measure of ecosystem intactness based on data layers of habitat extent, threatening processes that influence ecosystem condition (including infrastructure presence, agriculture and transportation networks) as a proxy for habitat quality, and habitat fragmentation, relative to a theoretical undisturbed reference state. |\n| Marine Cumulative Human Impacts | The Marine Cumulative Human Impacts (MCH) metric combines information on multiple anthropogenic stressors (including 17 global pressure datasets) in marine environments to create a spatial layer of cumulative impacts from human activities in different marine ecosystems, where the stressors are weighted by ecosystem vulnerability to each threat.155 Global assessments have been conducted in 2008,2015156 and 2019157., with the latter two assessments showing changes between these periods The metric is broadly equivalent to the Human Footprint Index applied in terrestrial ecosystems. |\n| Proportion of Land Degraded | The Proportion of land degraded (PLD) is a metric that measures the level of degradation of ecosystems, developed as an indicator for the Sustainable Development Goals.158 It is a composite metric of complementary, non-additive sub-indices: land cover class change, land productivity and carbon stocks. The output of the method produces a binary classification of degraded or not degraded. Degradation in one sub-index means that the area is classed as degraded. The metric is designed to be universal so that countries can use their own definition of degraded and their own datasets. It has been calculated globally and for a subset of regions and continents. |",
+      "ja": "| 測定指標 | 説明 |\n|---|---|\n| 生態地域保全性指数 | 生態地域保全性指数（ErII）は陸上生息地の生態系状況についての全体的な尺度を示す。この指標は生態系の保全性の尺度で、生息地の広がり、生息地環境のプロキシとしての生態系状況に影響する脅かしプロセス（インフラの存在、農業及び輸送網を含む）、及び生息地分断化のデータレイヤーに基づいており。理論的に攪乱されていない参照状態との比較となる。 |\n| 海洋に対する人間の累積影響 | 海洋に対する人間の累積影響（MCH）測定指標は、海洋環境における複数の人為的ストレス要因に関する情報（17の世界的圧力データセットを含む）の組み合わせにより、様々な海洋生態系における人間の活動による累積影響の空間レイヤーを作るものである。ここではストレス要因は各脅威に対する生態系の脆弱性によって重み付けされる155。世界的な評価が2008年、2015年156、2019年157に行われ、後の2年の評価ではこの期間の変化が示されている。この測定指標は陸域生態系で適用される人類フットプリント指標と同様のものである。 |\n| 土地劣化割合 | 土地劣化割合（PLD）は生態系の劣化レベルを計測する測定指標で、持続可能な開発目標の指標として開発された158。相補的な、非加算的副指標（土地被覆クラス変化、土地生産性、炭素貯蔵）の複合測定指標である。この方法で得られる結果は劣化と非劣化の2項分類となる。1つの副指標で劣化が示されると、当該区域は劣化として分類される。この測定指標は普遍的なものになるように設計されているので、各国は劣化についての独自の定義と独自のデータセットを使用できる。世界的に、また地域及び大陸のサブセットについて計算されている。 |"
+    },
+    {
+      "page": 210,
+      "type": "footnote",
+      "en": "155 Halpern, B. et al. (2008) A Global Map of Human Impact on Marine Ecosystems.",
+      "ja": "155 Halpern, B.S. et al.（2008）『A Global Map of Human Impact on Marine Ecosystems』"
+    },
+    {
+      "page": 210,
+      "type": "footnote",
+      "en": "156 Halpern, B. S. et al. (2015) Spatial and temporal changes in cumulative human impacts on the world‘s ocean.",
+      "ja": "156 Halpern, B.S. et al.（2015）『Spatial and temporal changes in cumulative human impacts on the world’s ocean』"
+    },
+    {
+      "page": 210,
+      "type": "footnote",
+      "en": "157 Halpern, B. S. et al. (2019) Recent pace of change in human impact on the world’s ocean.",
+      "ja": "157 Halpern, B.S. et al.（2019）『Recent pace of change in human impact on the world’s ocean』"
+    },
+    {
+      "page": 210,
+      "type": "footnote",
+      "en": "158 Sims, N.C. et al. (2021) Good practice guidance. SDG indicator 15.3.1, proportion of land that is degraded over total land area. Version 2.",
+      "ja": "158 Sims, N.C. et al.（2021）『Good practice guidance. SDG indicator 15.3.1, Proportion of land that is degraded over total land area. Version 2.0.』"
+    },
+    {
+      "page": 211,
+      "type": "table",
+      "en": "| Metric | Description |\n|---|---|\n| Ecosystem Health Index | The Ecosystem Health Index (EHI)159 uses data from the IUCN Red List of Ecosystems to measure changes in ecosystem health over standardised timeframes. It is applied at the level of an ecosystem to assess degradation compared to a baseline state, and towards a specified threshold beyond which it is predicted the ecosystem will collapse. The EHI uses information on the extent of ecosystems (as per the EAI) but incorporates information on ecosystem specific variables used to assess the condition of the biotic and abiotic environment in the Red Listing process for ecosystems. |\n| Ecosystem Area Index | The Ecosystem Area Index (EAI) uses data from the IUCN Red List of Ecosystems to measure changes in ecosystem area over standardised timeframes.160 It provides complementary information to other area-based metrics as it is used for all ecosystem types and explicitly incorporates progress towards ecosystem collapse.<br>The metric is an area-based metric, so looks at the extent of ecosystems, rather than their condition. However, it does integrate information on thresholds for ecosystem collapse, based on the IUCN Red List of Ecosystems methodology, so does integrate an aspect of ecosystem function. The EAI can be calculated for marine, terrestrial and freshwater ecosystems and is scalable from single ecosystem, to national to global. |\n| Ecosystem Integrity Index | The Ecosystem Integrity Index (EII) combines structural, compositional and functional information (all scaled 0-1 to a natural baseline) to provide a scalable metric of ecosystem integrity at 1km resolution for the global land realm. The structural component is derived from maps of anthropogenic pressure. The compositional component is the Biodiversity Intactness Index. The functional component is Net Primary Productivity. The value of the index is whichever one of the three components is lowest.<br>The methodology has been published online as a pre-print161 and is awaiting formal scientific peer review. |",
+      "ja": "| 測定指標 | 説明 |\n|---|---|\n| 生態系健全性指数 | 生態系健全性指数（EHI）159ではIUCN生態系レッドリストのデータを使用して、標準期間における生態系の健全性の変化を測定する。生態系のレベルで適用され、基準状態と比較して、またそれを超えると生態系が崩壊すると予測される指定の閾値に照らして、劣化を評価する。EHIは（EAIのように）生態系の広がりに関する情報を使用するが、生態系レッドリスト掲載プロセスにおける生物的／非生物的環境の状況を評価するときに使用される、生態系固有の変数に関する情報が盛り込まれる。 |\n| 生態系面積指数 | 生態系面積指数（EAI）ではIUCN生態系レッドリストのデータを使用して、標準期間における生態系面積の変化を測定する160。すべての生態系種類に対して使用され、生態系の崩壊までの進行状況が明確に分かるので、面積に基づく他の測定指標の補足情報を提供する。<br>面積に基づく測定指標であるため、生態系の状況ではなく広がりが対象となる。ただしIUCN生態系レッドリストの方法に基づいており、生態系の崩壊の閾値に関する情報が組み込まれるため、生態系の機能の側面も組み込まれる。EAIは海洋、陸域、淡水生態系に関して計算でき、単一生態系から拡大して国や世界規模にまで適用できる。 |\n| 生態系十全性指数 | 生態系十全性指数（EII）は、構造、構成、機能に関する情報を組み合わせて（すべて自然の基準状態に対して0–1のスケール）、陸域1 km分析能での生態系の十全性についての拡張可能な測定指標を提供する。構造に関する部分は人為的圧力のマップから得られる。構成に関する部分は生物多様性完全度指数である。機能に関する部分は正味一次生産力である。指数の値は3つのうちいずれか最も低いものになる。<br>この方法論はプレプリントとしてネット上で発表されており161正式な科学的査読を待っているところである。 |"
+    },
+    {
+      "page": 211,
+      "type": "footnote",
+      "en": "159 Rowland, J.A. (2019) Ecosystem indices to support global biodiversity conservation.",
+      "ja": "159 Rowland, J.A. et al.（2019）『Ecosystem indices to support global biodiversity conservation』"
+    },
+    {
+      "page": 211,
+      "type": "footnote",
+      "en": "160 Rowland, J.A. et al. (2019) Ecosystem indices to support global biodiversity conservation.",
+      "ja": "160 Rowland, J.A. et al.（2019）『Ecosystem indices to support global biodiversity conservation』"
+    },
+    {
+      "page": 211,
+      "type": "footnote",
+      "en": "161 Hill, S.L.L. et al. (2022) The Ecosystem Integrity Index: a novel measure of terrestrial ecosystem integrity with global coverage.",
+      "ja": "161 Hill, S.L.L. et al.（2022）『The Ecosystem Integrity Index: a novel measure of terrestrial ecosystem integrity with global coverage』"
+    },
+    {
+      "page": 212,
+      "type": "table",
+      "en": "| Metric | Description |\n|---|---|\n| Red List of Ecosystems | The Red List of Ecosystems162 is the global standard for assessing risk of ecosystem collapse and identifying threatened ecosystems, and is applicable to all marine, freshwater, and terrestrial ecosystem types. Red List of Ecosystems assessments collate and analyse standardised knowledge and data about ecosystems, and apply quantitative criteria to estimate relative risk of ecosystem collapse. The criteria address different symptoms of risk, including change in distribution and integrity. Integrity is assessed using ecosystem-specific indicators that are standardised to enable comparison across ecosystems. The criteria assign ecosystem types to ordinal risk categories denoting their threat status (e.g., Endangered, Vulnerable).<br>Through this process, a wealth of data and knowledge is collated, synthesised and analysed in a structured and standardised manner. These include ecosystem maps (typically past and current), ecosystem descriptions, and in most cases data (often spatial data) on integrity, depending on the scope of the assessment, and the resources and data available. The outcomes of Red list of Ecosystems assessments can be used in several ways, including to map threatened ecosystems, and to calculate several metrics, including the Ecosystem health index, which summarises trends in integrity across a set of ecosystems, the Ecosystem Area index, which summarised trends in distribution, and the Red List Index of Ecosystems. |",
+      "ja": "| 測定指標 | 説明 |\n|---|---|\n| 生態系レッドリスト | 生態系レッドリストは162生態系の崩壊リスクを評価し、脅かされた生態系を特定するための世界基準であり、すべての海洋、淡水、陸域生態系種類に適用できる。生態系レッドリスト評価では生態系に関する標準知識やデータを照合して分析し、定量的基準を適用して生態系の崩壊の相対的リスクを推定する。この基準は分布や完全度の変化を始めとして様々なリスクの兆候に対応する。十全性は生態系全体にわたる比較を可能にするために標準化された生態系固有の指標を用いて評価する。基準では生態系種類を、その脅威の状況を表すリスク順序分類（絶滅のおそれがある、脆弱等）に割り当てる。<br>このプロセスを通じて大量のデータや知識が体系的に標準化された方法で、照合され、合成され、分析される。生態系マップ（一般には過去と現在）、生態系の説明、そしてほとんどの場合、評価の範囲に応じた十全性に関するデータ（たいていは空間データ）等があり、入手可能な資源やデータが使用される。生態系レッドリスト評価による結果は脅かされた生態系のマップ作成を始めとして様々な方法で利用でき、様々な測定指標計算にも利用できる。一連の生態系全体にわたる十全性の傾向をまとめた生態系健全性指数、分布の傾向をまとめた生態系面積指数、生態系レッドリスト指数等である。 |"
+    },
+    {
+      "page": 212,
+      "type": "footnote",
+      "en": "162 Nicholson, E. et al. (2023) Beyond the headline: roles of the Red List of Ecosystems in implementing the Kunming-Montreal Global Biodiversity Framework.",
+      "ja": "162 Nicholson, E. et al.（2023）『Beyond the headline: roles of the Red List of Ecosystems in implementing the Kunming-Montreal Global Biodiversity Framework』"
+    },
+    {
+      "page": 213,
+      "type": "h3",
+      "en": "Future outlook for ecosystem measurement",
+      "ja": "生態系測定の今後の見通し"
+    },
+    {
+      "page": 213,
+      "type": "h4",
+      "en": "New, updated metrics and data layers",
+      "ja": "新たな、更新された測定指標とデータレイヤー"
+    },
+    {
+      "page": 213,
+      "type": "p",
+      "en": "The methods and datasets that can provide information on ecosystem condition are rapidly advancing. In the next few years, many existing metrics may be improved through the incorporation of new and updated datasets. Completely new metrics may also be developed using, for example, new technologies to collect data on community composition (see next section).",
+      "ja": "生態系状況に関する情報を提供できる手法やデータセットは急速に進化している。今後数年で、数多くの既存測定指標は新たなデータセットや更新されたものを組み入れることで改良されるだろう。まったく新しい測定指標も、例えば群集構成に関するデータを集める新たな技術を用いて、開発されるかもしれない（次セクション参照）。"
+    },
+    {
+      "page": 213,
+      "type": "p",
+      "en": "For example, the Accounting for Nature Econd® approach currently has a number of proponent-developed methods accredited for use, representing a limited number of ecosystem types globally. As new ecosystem-specific assessment methods are developed, this will become a more feasible approach for more organisations. Similarly, many current metrics use relatively out-of-date data layers on human impact drivers to estimate ecosystem condition. Incorporating updated information on impact drivers would improve the reliability and relevance of these metrics for use in the LEAP approach.",
+      "ja": "例えばAccounting for Nature Econd®アプローチには現在、使用が認定された提唱者開発型の手法が数多くあるが、世界的な生態系種類から見ると扱われる数は限られている。生態系固有の評価方法が新たに開発されていくにつれ、これはより多くの組織にとって実行可能なアプローチになるだろう。同様に現在の測定指標の多くは、生態系状況を推定するときに人間のインパクト要因に関する比較的時代遅れのデータレイヤーを使用している。インパクト要因に関する最新情報を組み入れることで、LEAPアプローチで使用するときのこれらの測定指標の信頼性と関連性が向上するだろう。"
+    },
+    {
+      "page": 213,
+      "type": "h4",
+      "en": "Technological developments",
+      "ja": "技術の発展"
+    },
+    {
+      "page": 213,
+      "type": "p",
+      "en": "New technologies are rapidly developing that can improve data collection for assessing ecosystem condition, including for business monitoring.163 Examples include satellite imagery, hyperspectral imaging, environmental DNA, machine learning and acoustic monitoring.164, 165 New technologies can support ecosystem condition measurement in a range of ways (Table 35).",
+      "ja": "ビジネスモニタリング目的を含め、生態系の状態を評価するためのデータ収集を改善できる新たな技術の開発が急速に進んでいる163。例えば衛星画像、ハイパースペクトルイメージング、環境DNA、機械学習、音響モニタリング等がある164, 165。新たな技術は生態系状況測定を様々な形でサポートできる（表35）。"
+    },
+    {
+      "page": 213,
+      "type": "footnote",
+      "en": "163 White, T.B. et al. (2021) Using technology to improve the management of development impacts on biodiversity.",
+      "ja": "163 White, T.B. et al.（2021）『Using technology to improve the management of development impacts on biodiversity』"
+    },
+    {
+      "page": 213,
+      "type": "footnote",
+      "en": "164 Berger-Tal, O. and Lahoz-Monfort, J.J. (2018) Conservation technology: the next generation. Conservation Letters 11: e12458.",
+      "ja": "164 Berger-Tal, O. and Lahoz-Monfort, J.J.（2018）「Conservation technology: the next generation」『Conservation Letters』11: e12458."
+    },
+    {
+      "page": 213,
+      "type": "footnote",
+      "en": "165 Speaker, T. et al, (2022) A global community‐sourced assessment of the state of conservation technology. Conservation Biology 36.",
+      "ja": "165 Speaker, T. et al.（2022）「A global community-sourced assessment of the state of conservation technology」『Conservation Biology』36."
+    },
+    {
+      "page": 214,
+      "type": "caption",
+      "en": "Table 35: Potential benefits of technological advances to measure ecosystem condition",
+      "ja": "表35：生態系状況を測定する技術的進化の潜在的便益"
+    },
+    {
+      "page": 214,
+      "type": "table",
+      "en": "| Benefits | Examples |\n|---|---|\n| Quality – Improved quality and accessibility of data from established approaches | Remote sensing data, including the resolution of satellite imagery, are rapidly improving, improving the availability and accuracy of maps of, for example, ecosystem extent, threatening processes (e.g. deforestation and infrastructure) and structure (e.g. biomass and vegetation height).166, 167 |\n| Types – Availability of new types of data that were previously difficult or impossible to collect | Advances in acoustic monitoring technology and data analysis approaches allow ecosystem condition indicators to be derived from the complexity, and species present, in the recordings.168 Similarly, advances in eDNA can provide information on the health and composition of communities.169 |\n| Scale – Large volumes of data available for extensive geographic areas | Biodiversity data platforms, such as eBird170 and GBIF171, are enabling compilation of large quantities of data on species’ presence and trends over time, for increasingly large parts of the globe, which could inform measures of ecosystem condition. |\n| Cost-effective – Efficiencies in data collection make new data collection and analyses feasible | New or enhanced existing technologies, including UAVs, remote sensing, camera trapping, acoustic monitoring and eDNA can obtain large amounts of data quickly and cost-effectively compared to traditional field methods. |\n| Analytical power – Advances in data processing analysis can generate new insights into ecosystem condition | Machine learning and computer vision are quickly advancing with high potential for improving conservation monitoring. For example, advances in data analysis are allowing the automated detection of species’ presence172, or near real-time monitoring of threatening processes and condition.173 |",
+      "ja": "| 便益 | 例 |\n|---|---|\n| 質－確立したアプローチからのデータ品質と利用可能性の向上 | 衛星画像の解像度を始めとして、リモートセンシングデータは急速に向上しており、例えば生態系の広がり、脅威となるプロセス（森林伐採、インフラ等）、構造（バイオマス、植生高等）などについてマップの入手可能性や正確性が高まる166, 167。 |\n| 種類－これまでは収集が難しいか不可能だった新たな種類のデータの入手可能性 | 音響モニタリング技術やデータ解析アプローチの進化により、音が入り混じった録音から生態系状況に関する指標を、そして存在する種を、引き出すことができる168。同様に、eDNAの進化は群集の健全性や構成に関する情報を提供してくれる169。 |\n| 規模－広範囲にわたる地理的地域に関して得られる大量のデータ | 生物多様性データプラットフォーム、例えばeBirdや170 GBIF等は171、生態系状況測定の情報となる、種の存在や経時的な傾向に関する大量のデータの集積を可能にしており、その範囲も地球の大半に広がりつつある。 |\n| 費用効果的－データ収集の効率性が新たなデータ収集と分析を実現可能にする | UAV、リモートセンシング、カメラトラップ、音響モニタリング、eDNA等の新技術や既存技術の向上により、現場で集める従来の方法と比べて大量のデータを迅速かつ費用効率よく得られるようになった。 |\n| 分析力－データ処理分析の進化は生態系の状態に関する新たな知見を生み出すことができる | 機械学習やコンピューター映像の進化は速く、自然保護モニタリングを向上させる高い可能性を秘めている。例えばデータ解析の進化は種の存在の自動検出172、また脅威となるプロセスや状況のリアルタイムに近いモニタリングも可能にする173。 |"
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "166 Curnick, D.J. et al. (2022) SmallSats: a new technological frontier in ecology and conservation? Remote Sensing in Ecology and Conservation 8: 139–150.",
+      "ja": "166 Curnick, D.J. et al.（2022）「SmallSats: a new technological frontier in ecology and conservation?」『Remote Sensing in Ecology and Conservation』8: 139–150."
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "167 LaRue, M. et al. (2022) High-resolution satellite imagery meets the challenge of monitoring remote marine protected areas in the Antarctic and beyond. Conservation Letters 15: e12884.",
+      "ja": "167 LaRue, M. et al.（2022）「High-resolution satellite imagery meets the challenge of monitoring remote marine protected areas in the Antarctic and beyond」『Conservation Letters』15: e12884."
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "168 Alcocer, I. et al. (2022) Acoustic indices as proxies for biodiversity: a meta-analysis. Biological Reviews 97: 2209–2236. Burivalova, Z., et al (2022) Loss of temporal structure of tropical soundscapes with intensifying land use in Borneo. Science of The Total Environment 852: 158268.",
+      "ja": "168 Alcocer, I. et al.（2022）「Acoustic indices as proxies for biodiversity: a meta-analysis」『Biological Reviews』97: 2209–2236，Burivalova, Z. et al.（2022）「Loss of temporal structure of tropical soundscapes with intensifying land use in Borneo」『Science of The Total Environment』852: 158268."
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "169 Beng, K.C. and Corlett, R.T. (2020) Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects. Biodiversity and Conservation 29: 2089–2121.",
+      "ja": "169 Beng, K.C. and Corlett, R.T.（2020）「Applications of environmental DNA (eDNA) in ecology and conservation: opportunities, challenges and prospects」『Biodiversity and Conservation』29: 2089–2121."
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "170 Available at: https://ebird.org/home.",
+      "ja": "170 https://ebird.org/home参照"
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "171 Available at: https://www.gbif.org/.",
+      "ja": "171 https://www.gbif.org/参照"
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "172 Stowell, D. et al. (2019) Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge. Methods in Ecology and Evolution 10: 368–380.",
+      "ja": "172 Stowell, D. et al.（2019）「Automatic acoustic detection of birds through deep learning: The first Bird Audio Detection challenge」『Methods in Ecology and Evolution』10: 368–380."
+    },
+    {
+      "page": 214,
+      "type": "footnote",
+      "en": "173 Drakopulos, L. et al. (2023) Making global oceans governance in/visible with Smart Earth: The case of Global Fishing Watch. Environment and Planning E: Nature and Space 6: 1098–1113.",
+      "ja": "173 Drakopulos, L. et al.（2023）「Making global oceans governance in/visible with Smart Earth: The case of Global Fishing Watch」『Environment and Planning E: Nature and Space』6: 1098–1113."
+    },
+    {
+      "page": 215,
+      "type": "h2",
+      "en": "Additional guidance on how to measure species extinction risk",
+      "ja": "種の絶滅リスクの測定方法に関する追加ガイダンス"
+    },
+    {
+      "page": 215,
+      "type": "h3",
+      "en": "Introduction",
+      "ja": "序文"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "This section provides an overview of current species metrics and their potential application to the TNFD LEAP approach. It focuses mainly on extinction risk in the context of Goal A and Target 4 of the Kunming-Montreal Global Biodiversity Framework (GBF), but also briefly outlines relevant species population metrics.",
+      "ja": "本セクションでは種に関する現在の測定指標とTNFD LEAPアプローチに適用する場合について概説する。主に昆明モントリオール生物多様性枠組（GBF）のゴールA及びターゲット4の文脈における絶滅リスクに焦点を絞るが、関連する種の個体数に関する測定指標についても簡単に説明する。"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "This section:",
+      "ja": "本セクションでは"
+    },
+    {
+      "page": 215,
+      "type": "li",
+      "en": "Outlines key concepts and frameworks referencing species;",
+      "ja": "種に言及している重要な概念と枠組みについて概説する。"
+    },
+    {
+      "page": 215,
+      "type": "li",
+      "en": "Provides an overview of the measurement of species at different scales; and",
+      "ja": "様々なスケールでの種の測定について概要を示す。"
+    },
+    {
+      "page": 215,
+      "type": "li",
+      "en": "Outlines future considerations.",
+      "ja": "今後の検討事項をまとめる。"
+    },
+    {
+      "page": 215,
+      "type": "h3",
+      "en": "Key concepts",
+      "ja": "重要概念"
+    },
+    {
+      "page": 215,
+      "type": "h4",
+      "en": "Overview of species",
+      "ja": "種についての概要"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "Species is a fundamental category for the classification and description of organisms defined in various ways but typically on the basis of reproductive capacity; i.e. the members of a species can reproduce with each other to produce fertile offspring but cannot do so with individuals outside the species.174",
+      "ja": "種とは、生物の分類と説明のための基本的なカテゴリーであり、さまざまな方法で定義されるが、典型としては生殖能力に基づく。すなわち、ある種の構成員は互いに繁殖して繁殖力のある子孫を残すことができるが、種外の個体とは繁殖できない174。"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "Approximately 1.6 million to 2 million species have been described, but this represents only a small fraction of the world’s total species diversity175, 176, 177, with estimates suggesting there may be around 10 million species on Earth.178 The world’s diversity of living organisms is dominated by insects in terms of number of species,179 by plants in terms of biomass, and by bacteria in terms of cumulative evolutionary history and metabolic innovations.180",
+      "ja": "約160万から200万の種が説明されているが、世界の多様な種の全体のうちごく一部でしかなく175, 176, 177地球上には1千万種ほどが存在すると推定されている178。世界の多様な生物のうち、種の数という点では昆虫が179、バイオマスという点では植物が、そして累積的な進化の歴史と代謝の刷新という点ではバクテリアが、優位を占める180。"
+    },
+    {
+      "page": 215,
+      "type": "h4",
+      "en": "Overview of species extinction risk",
+      "ja": "種の絶滅リスクについての概要"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "A species becomes globally extinct when it ceases to exist. For an individual species, extinction is usually a gradual process where threatening processes cause a species to decline over time in number and/or its area of occupancy. As a result, the species’ susceptibility to environmental shocks or demographic hazards increases. A species may reach a point where it is still present but can no longer replenish itself, which is often referred to as functional extinction.",
+      "ja": "種は存在しなくなると地球上から絶滅する。個別の種については、絶滅は通常、緩やかな過程をたどり、脅威となるプロセスによって種の数及び／又は占有区域が時とともに少なくなる。その結果、環境的衝撃や人口統計学的危険状況に対する種の感受性が高くなる。種は存在はするもののそれ以上は補充できないポイントに達する可能性があり、これは機能的絶滅と呼ばれることが多い。"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "Human pressures on the environment, through the five drivers on nature change, are placing species under threat and have greatly increased the extinction rate above the geological background rate. Presently, one million species are estimated to be threatened with extinction181 and current trends signal an imminent ‘sixth mass extinction’.182, 183",
+      "ja": "自然の変化に対する5つの要因を通じて、環境に対する人間の圧力が種を脅威にさらしており、絶滅率を地質学的背景率より大きく上回らせた。現在は100万種が絶滅の脅威にさらされていると推定され181、現在の傾向は「第六次大量絶滅」が迫っていることを示している182, 183。"
+    },
+    {
+      "page": 215,
+      "type": "p",
+      "en": "In terrestrial ecosystems, land-use change, leading to habitat loss and degradation, and resource use are the largest threats to species’ populations.184 In ocean environments, direct exploitation of species, such as resource use through fisheries and bycatch, pollution and climate change are the dominant threatening pathways. In freshwater ecosystems, pollution is a particularly significant threat, often driven by land-based activities such as agriculture and/or industrial waste and changing use of freshwater (e.g. for irrigation or hydropower) is also a key driver.185, 186",
+      "ja": "陸域生態系においては、生息地の損失や劣化につながる土地利用の変化と資源利用が種の個体群にとっての最大の脅威である184。海洋環境においては種の直接利用、例えば漁業や混獲による資源利用、汚染、気候変動等が主要な脅威経路である。淡水生態系の場合、汚染は特に重大な脅威であり、農業及び／又は産業廃棄物等陸上活動によってもたらされることが多いが、淡水の用途変更（灌漑、水力発電用等）もまた重要な要因である185, 186。"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "174 Levin, S. A. ed. (2009) The Princeton Guide to Ecology (Princeton, NJ: Princeton University Press).",
+      "ja": "174 Levin, S.A. ed.（2009）『The Princeton Guide to Ecology』（Princeton, NJ: Princeton University Press）"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "175 Díaz, S. and Malhi, Y. (2022) Biodiversity: Concepts, Patterns, Trends and Perspectives. Annual Review of Environment and Resources, 47(1), 31–63.",
+      "ja": "175 Díaz, S. and Malhi, Y.（2022）「Biodiversity: Concepts, Patterns, Trends and Perspectives」『Annual Review of Environment and Resources』47(1), 31–63."
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "176 Ruggiero, M. A. et al. (2015a) A Higher Level Classification of All Living Organisms. PLOS ONE, 10(4), e0119248.",
+      "ja": "176 Ruggiero, M.A. et al.（2015a）「A Higher Level Classification of All Living Organisms」『PLOS ONE』10(4), e0119248"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "177 Ruggiero, M. A. et al. (2015b) Correction: A Higher Level Classification of All Living Organisms. PLOS ONE, 10(6), e0130114.",
+      "ja": "177 Ruggiero, M.A. et al.（2015b）「Correction: A Higher Level Classification of All Living Organisms」『PLOS ONE』10(6), e0130114."
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "178 Curnick, D.J. et al. (2022) SmallSats: a new technological frontier in ecology and conservation?",
+      "ja": "178 Curnick, D.J. et al.（2022）『SmallSats: a new technological frontier in ecology and conservation?』"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "179 Stork, N. (2018) How Many Species of Insects and Other Terrestrial Arthropods Are There on Earth? Annual Review of Entomology, 63, 31-45.",
+      "ja": "179 Stork, N.（2018）「How Many Species of Insects and Other Terrestrial Arthropods Are There on Earth?」『Annual Review of Entomology』63, 31–45."
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "180 Díaz, S. and Malhi, Y. (2022) Biodiversity: Concepts, Patterns, Trends and Perspectives. Annual Review of Environment and Resources, 47(1), 31–63.",
+      "ja": "180 Díaz, S. and Malhi, Y.（2022）「Biodiversity: Concepts, Patterns, Trends and Perspectives」『Annual Review of Environment and Resources』47(1), 31–63."
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "181 Díaz, S. et al. (2019) Pervasive human-driven decline of life on Earth points to the need for transformative change.",
+      "ja": "181 Díaz, S. et al.（2019）『Pervasive human-driven decline of life on Earth points to the need for transformative change』"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "182 Barnosky, A. D. et al. (2011) Has the Earth’s sixth mass extinction already arrived?",
+      "ja": "182 Barnosky, A.D. et al.（2011）『Has the Earth’s sixth mass extinction already arrived?』"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "183 Curnick, D.J. et al. (2022) SmallSats: a new technological frontier in ecology and conservation?",
+      "ja": "183 Curnick, D.J. et al.（2022）『SmallSats: a new technological frontier in ecology and conservation?』"
+    },
+    {
+      "page": 215,
+      "type": "footnote",
+      "en": "184 Jaureguiberry, P. et al. (2022) The direct drivers of recent global anthropogenic biodiversity loss.",
+      "ja": "184 Jaureguiberry, P. et al.（2022）『The direct drivers of recent global anthropogenic biodiversity loss』"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "Global extinction of a species is irreversible. However, global extinctions are typically preceded by local extinction of species from sites, regions or countries.187, 188",
+      "ja": "一つの種が世界的に絶滅すれば取り返しはつかない。だが典型としては、世界的絶滅の前に、現地、地域又は国といった局所的絶滅が起こる。"
+    },
+    {
+      "page": 216,
+      "type": "h4",
+      "en": "The Red List: A global standard for assessing species’ extinction risk",
+      "ja": "レッドリスト：種の絶滅リスク評価のための世界基準"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "The IUCN Red List is the global standard for assessing species’ extinction risk. Species are assessed on a scale from Least Concern to Critically Endangered and can also be classified as Extinct in the Wild, Extinct or Data Deficient.",
+      "ja": "IUCNレッドリストは種の絶滅リスクを評価するための世界基準である。種は低懸念から深刻な危機までの判定基準で評価され、また野生絶滅、絶滅、あるいはデータ不足としても分類できる187, 188。"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "Red List assessment is based on a set of detailed criteria,189, 190 related to five categories that contribute to elevated extinction risk:",
+      "ja": "レッドリスト評価は189, 190、絶滅リスクの上昇に寄与する5つのカテゴリーに関連した、一連の詳細基準に基づいている。"
+    },
+    {
+      "page": 216,
+      "type": "li",
+      "en": "1. Population reduction;",
+      "ja": "1. 個体数減少"
+    },
+    {
+      "page": 216,
+      "type": "li",
+      "en": "2. Restricted geographic range;",
+      "ja": "2. 地理的範囲制限"
+    },
+    {
+      "page": 216,
+      "type": "li",
+      "en": "3. Small population size and decline;",
+      "ja": "3. 小さな個体群サイズ及び減少"
+    },
+    {
+      "page": 216,
+      "type": "li",
+      "en": "4. Very small or restricted population; and",
+      "ja": "4. 非常に小さい又は限定的個体群"
+    },
+    {
+      "page": 216,
+      "type": "li",
+      "en": "5. Quantitative analysis.",
+      "ja": "5. 定量的分析"
+    },
+    {
+      "page": 216,
+      "type": "h4",
+      "en": "Kunming-Montreal Global Biodiversity Framework",
+      "ja": "昆明モントリオール生物多様性枠組"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "The Convention on Biological Diversity recognises biodiversity as the variation within species, between species and of ecosystems.191 In line with this, the Kunming-Montreal Global Biodiversity Framework (GBF) sets goals for ecosystems, species and genetic diversity within species.192",
+      "ja": "生物多様性条約では生物多様性を、種内の、種間の、そして生態系の変異性として認識している191。これに沿って、昆明モントリオール生物多様性枠組（GBF）では生態系、種、及び種内の遺伝的多様性に関する目標を定めている192。"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "The species element of Goal A is that:",
+      "ja": "ゴールAの種についての要素"
+    },
+    {
+      "page": 216,
+      "type": "quote",
+      "en": "“Human induced extinction of known threatened species is halted, and, by 2050, the extinction rate and risk of all species are reduced tenfold and the abundance of native wild species is increased to healthy and resilient levels.”",
+      "ja": "「人間によって引き起こされる既知の絶滅危惧種の絶滅が阻止され、2050年までに、すべての種の絶滅率及びリスクが10分の1に削減され、在来の野生種の個体数が健全かつ強じん（レジリエント）な水準まで増加される」"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "Target 4 focuses on species and calls for “urgent management actions to halt human induced extinction of known threatened species and for the recovery and conservation of species, in particular threatened species, to significantly reduce extinction risk.”",
+      "ja": "ターゲット4は種に焦点を絞り、「人間によって引き起こされる既知の絶滅危惧種の絶滅を阻止し、また絶滅リスクを大幅に減らすための種、特に絶滅危惧種を回復及び保全するための緊急の管理行動」を呼び掛けている。"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "This target reflects the importance of focusing on species, and particularly reducing extinction risk, as a key component of halting and reversing biodiversity loss. Species form a part of ecosystems, and restoring and conserving ecosystems will benefit species. However, actions and measures focused only on ecosystems will be only partly effective in halting species extinctions and enabling species recovery. To meet Target 4, actions need to be directed at the most important places and pressures to reduce extinction risk and actions tailored to particular species’ circumstances will often be needed to deliver effective positive outcomes.",
+      "ja": "このターゲットは種に焦点を絞ることの重要性を反映しており、特に絶滅リスクを減らすことを生物多様性損失の阻止と逆転の重要な要素としている。種は生態系の一部を成し、生態系の復元と保全は種に恩恵をもたらす。だが生態系にのみ焦点を絞った行動や対策の効果は、種の絶滅阻止及び種の回復に対して部分的なものにしかならない。ターゲット4を達成するためには、絶滅リスクを減らすのに最も重要な場所と圧力を対象にした行動が必要であり、効果的なプラスの成果を出すには往々にして、特定の種の環境に合わせた行動が必要になる。"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "Targets 5 and 6 also focus on species, but in relation to addressing pressures from harvesting and invasive alien species, as well as reducing risks of pathogen spill over.",
+      "ja": "ターゲット5及び6も種に焦点を当てているが、採取や侵略的外来種による圧力への対処、ならびに病原体伝播のリスク低減に関するものである。"
+    },
+    {
+      "page": 216,
+      "type": "h4",
+      "en": "Relevance for business",
+      "ja": "ビジネスにとっての関連性"
+    },
+    {
+      "page": 216,
+      "type": "p",
+      "en": "An organisation’s dependencies and impacts on species can generate both transition and physical risks, as well as opportunities.",
+      "ja": "種に対する組織の依存とインパクトは移行リスクと物理的リスクの両方、また機会も生み出す。"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "185 Dudgeon, D. (2019) Multiple threats imperil freshwater biodiversity in the Anthropocene.",
+      "ja": "185 Dudgeon, D.（2019）『Multiple threats imperil freshwater biodiversity in the Anthropocene』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "186 Rosselló-Mora, R. and Amann, R. (2001) The species concept for prokaryotes.",
+      "ja": "186 Rosselló-Mora, R. and Amann, R.（2001）『The species concept for prokaryotes』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "187 Kempel, A. et al. (2020) Nationwide revisitation reveals thousands of local extinctions across the ranges of 713 threatened and rare plant species.",
+      "ja": "187 Kempel, A. et al.（2020）『Nationwide revisitation reveals thousands of local extinctions across the ranges of 713 threatened and rare plant species』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "188 Curnick, D.J. et al. (2022) SmallSats: a new technological frontier in ecology and conservation?",
+      "ja": "188 Curnick, D.J. et al.（2022）『SmallSats: a new technological frontier in ecology and conservation?』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "189 IUCN Red List (2012) IUCN Red List Categories and Criteria (version 3.1) (Second edition).",
+      "ja": "189 IUCNレッドリスト（2012）『IUCNレッドリストカテゴリーと基準3.1版改訂2版』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "190 Rodríguez, J. P. et al. (2015) A practical guide to the application of the IUCN Red List of Ecosystems criteria.",
+      "ja": "190 Rodríguez, J.P. et al.（2015）『A practical guide to the application of the IUCN Red List of Ecosystems criteria』"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "191 Convention on Biological Diversity (1992) Convention on Biological Diversity.",
+      "ja": "191 生物多様性条約（1992）生物多様性条約．"
+    },
+    {
+      "page": 216,
+      "type": "footnote",
+      "en": "192 Convention on Biological Diversity (CBD) (2022) Kunming-Montreal Global Biodiversity Framework.",
+      "ja": "192 生物多様性条約（CBD）（2022）昆明モントリオール生物多様性枠組．"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "Transition risks: Organisations have a responsibility to contribute towards the achievement of Target 4 and Goal A, as part of a whole society approach, by reducing business impacts on threatened species and pursuing opportunities to improve their status. Countries will be setting national targets for priority species in revised National Biodiversity Strategies and Action Plans. Targets and concern for species will be reflected, increasingly, in regulatory requirements for reporting and action.",
+      "ja": "移行リスク：組織は、社会一丸アプローチの一部として、絶滅のおそれのある種に対して事業がもたらすインパクトを減らし、その地位を改善する機会を追求することにより、ターゲット4及びゴールAの達成に向けて貢献する責任を有する。各国は改訂版生物多様性国家戦略行動計画において優先保護種の国家目標を設定する。報告や行動に関する規制要件においては、ますます、種に関する目標と懸念事項が反映されるようになるだろう。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "There is strong public interest in many wild species, particularly, but not only for, so-called charismatic species, and public expectations for species conservation are high in many parts of the world. This creates reputational, market, policy and liability risks for organisations that engage in activities that appear to be damaging particular species.",
+      "ja": "多くの野生種、特に（だがそれだけではないが）、いわゆるカリスマ種に対する世間の関心は高く、種の保全に対する人々の期待は世界各地で高まっている。これが特定の種に損害を与えると思われる活動に携わる組織に、評判、市場、政策、賠償責任に関するリスクをもたらす。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "Physical risks: Species extinctions increase the risks of ecosystem deterioration and collapse, creating physical risks for businesses. Certain species have important roles in ecosystem processes and the conservation of these species, which are often also threatened, is key to maintain functioning ecosystems and sustain the ecosystem services they supply. The contribution to ecosystem collapse also has the potential to create systemic risks.",
+      "ja": "物理的リスク：種の絶滅は生態系の劣化や崩壊のリスクを高め、企業にとっての物理的リスクをもたらす。種の中には生態系プロセスにおいて重要な役割を有するものがあり、絶滅のおそれがあることも多いこうした種の保全は、生態系機能を維持し、供給される生態系サービスを持続させるためのカギとなる。生態系の崩壊に寄与することはシステミックリスクを生み出す可能性もある。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "Opportunities: Organisations may have opportunities to make interventions that contribute to reducing species extinction risk, and to improving the status of particular species. These could be either through addressing their own impacts or as additional conservation actions. Such actions generate potential business benefits, e.g. through positive profile and publicity, staff engagement or operational cost savings.",
+      "ja": "機会：組織には、種の絶滅リスクを減らし、特定の種の地位を改善するのに役立つ介入を行う機会があるかもしれない。自らのインパクトに対処するという形で、あるいは追加的保全行動が考えられる。このような行動は潜在的なビジネス利益を生み出す。例えば肯定的な注目や広報、社員のエンゲージメント、業務費用削減等を通じて実現される。"
+    },
+    {
+      "page": 217,
+      "type": "h3",
+      "en": "Species metrics within the TNFD framework",
+      "ja": "TNFDの枠組みにおける種の測定指標"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "The TNFD identifies species metrics, for population size or extinction risk, as being complementary to ecosystem metrics for assessing changes to the state of nature. Since species form just one part of ecosystems, ecosystem metrics are often seen as more fully encompassing of the state of nature than species metrics. However, there are many situations where ecosystem metrics alone will be inadequate and the measurement of changes to species population size/ extinction risk will be necessary to identify and manage nature-related dependencies, impacts, risks and opportunities.",
+      "ja": "TNFDは、自然の状態の変化を評価するための生態系測定指標を補完するものとして、個体群サイズや絶滅リスクに関する種の測定指標を特定している。種は生態系の一部分にすぎないため、生態系測定指標は種の測定指標よりも自然の状態についてより網羅したものと考えられることが多い。だが生態系に関する測定指標だけでは不十分で、自然関連の依存、インパクト、リスクと機会を特定して管理するためには種の個体群サイズ／絶滅リスクの変化測定が必要になるというような状況が数多くある。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "Examples of industries where species metrics may be required as primary metrics include wind energy (fatalities and displacement to certain species caused by wind turbines), transmission and distribution lines (fatalities caused by collisions and electrocutions), hydropower (barriers to migration for fish populations), fisheries (harvesting of target fish and bycatch) and selective logging (harvesting of target tree species). In such cases, the primary impacts, and consequent risks and opportunities, relate to particular species, while ecosystem condition may or may not be affected.",
+      "ja": "第一義の測定指標として種の測定指標が必要になる産業の例として、風力エネルギー（風力タービンが原因となる所定の種の死亡数及び移動数）、送配電線（衝突及び感電死が原因の死亡数）、水力発電（魚群の回遊障壁）、漁業（対象魚の捕獲及び混獲）、選択伐採（対象樹種の伐採）等がある。このようなケースでは第一義インパクト及び結果的なリスクと機会は特定の種に関係するが、生態系状況は影響を受ける場合もあれば受けない場合もある。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "At present, global information on species’ status and threats is better developed than for ecosystems. The IUCN Red List of Species is long established, regularly updated, includes rich contextual datasets and covers an increasing number of taxonomic groups fully at a global level. The IUCN Red List of Ecosystems, though rapidly advancing, remains a work in progress. This means that it is practical for organisations to apply species metrics for elements in LEAP, such as screening locations for high biodiversity importance at a site level.",
+      "ja": "現時点で、種の地位や脅威に関する世界的な情報は生態系よりも多く集まっている。長い歴史をもち、定期的に更新されている、種についてのIUCNレッドリストには豊富な状況データセットが含まれ、増加する分類群を世界的規模で完全にカバーしている。生態系についてのIUCNレッドリストは急速に進化しているものの今なお未完成の状態である。このことは組織にとって、LEAPの各要素、例えば生物多様性の重要度の高い場所の現場レベルでのスクリーニング等においては、種に関する測定指標を適用するのが実用的であることを意味する。"
+    },
+    {
+      "page": 217,
+      "type": "p",
+      "en": "Examples of how species-focused metrics can support the LEAP approach are outlined in Table 36. Note that certain metrics based on species richness and abundance are used primarily to measure ecosystem composition as an indicator of ecosystem condition and therefore feature in both the ‘species’ and ‘ecosystem’ categories (e.g. Mean Species Abundance and the Biodiversity Intactness Index).",
+      "ja": "種に焦点を絞った測定指標がLEAPアプローチをどのようにサポートできるかの例を表36に示す。なお、種の多様性と豊富度に基づく所定の測定指標の中には、生態系状況の指標として生態系の構成を測定するのに主に使用され、それゆえに「種」と「生態系」どちらのカテゴリーにおいても取り上げているものがある（例：平均生物種豊富度と生物多様性完全度指数等）。"
+    },
+    {
+      "page": 218,
+      "type": "caption",
+      "en": "Table 36: Examples of potential application of species-focused metrics in phases of the LEAP approach.",
+      "ja": "表36：LEAPアプローチの各フェーズにおける種に焦点を絞った測定指標の適用例"
+    },
+    {
+      "page": 218,
+      "type": "table",
+      "en": "| Locate | Evaluate | Assess | Prepare |\n|---|---|---|---|\n| L4 – For our organisation’s activities in moderate and high dependency and impact value chains and sectors, which of these are in ecologically sensitive locations? And which of our direct operations are in these sensitive locations?<br>Use a range-rarity metric, such as STAR | E3: What is the scale and scope of our dependencies on nature? What is the severity of our negative impacts on nature? What is the scale and scope of our positive impacts on nature?<br>Use BICS for priority species or range-rarity metrics, such as STAR | A2 – What existing risk and opportunity management processes and elements are we already applying?<br>How can risk and opportunity management processes and associated elements (e.g. risk taxonomy, risk inventory, risk appetite) be adapted?<br>Understand whether additional management practices could reduce species-related risks or enhance opportunities (e.g. using STAR)<br>Understand which management practices are already reducing species-related risks (e.g. using Global Extinction Probabilities with Potentially Disappeared Fraction)<br>A3 – Which risks and opportunities should be prioritised?<br>Understand the significance of impacts and dependencies on species to risks and opportunities to the organisation using population metrics for priority species | P1 – What risk management, strategy and resource allocation decisions should be made as a result of this analysis?<br>Cost-benefit analysis of different strategic and resource allocation decisions (e.g. options for threat abatement or restoration based on STAR, or relative positive or negative impacts from land-use change using Persistence Score)<br>P2 – How will we set targets and define and measure progress?<br>Supported by calibrated and realised STAR<br>P3 – What will we disclose in line with the TNFD recommended disclosures?<br>Use population metrics or BICs for priority species |",
+      "ja": "| 発見 | 診断 | 評価 | 準備 |\n|---|---|---|---|\n| L4：中から高程度の依存とインパクトのバリューチェーン及びセクターにある組織の活動について、どれが生態学的な要注意地域にあるか？この要注意地域での直接操業はどれか？<br>STAR等、分布域希少性（range-rarity）測定指標を使用する。 | E3：自然に対する依存の規模と範囲はどのようなものか？自然に対するマイナスのインパクトの重大度はどの程度か？自然に対するプラスのインパクトの規模と範囲はどのようなものか？<br>優先保護種にはBICS、又はSTAR等の範囲を重視した希少性を測定する指標を使用する。 | A2：すでに適用しているリスクと機会の管理プロセス及び要素にはどのようなものがあるか？<br>リスクと機会の管理プロセス及び関係要素（リスク分類、リスクインベントリ、リスク選好等）はどのように適応できるか？<br>追加的管理慣行によって種関連のリスクを減らす、あるいは機会を強化できるかどうかを理解する（例えばSTARの使用等）。<br>どの管理慣行が種関連のリスクをすでに低減しているかを理解する（例えば世界的絶滅確率を種の潜在的消失割合と合わせて使用等）。<br>A3：どのリスクと機会を優先すべきか？<br>優先保護種の個体数測定指標を用いて、組織にとってのリスクと機会に対する種へのインパクトと依存の重大性を理解する。 | P1：この分析の結果として、どのようなリスク管理、戦略、資源配分決定を行うべきか？<br>様々な戦略及び資源配分決定についてのコスト便益分析（例えばSTARに基づく脅威の軽減と回復のためのオプション、持続性スコアを用いた土地利用変化による相対的なプラス／マイナスのインパクト等）。<br>P2：目標をどのように設定して進展状況を定義測定するか？<br>較正した実現STARにより支えられる。<br>P3：TNFD開示提言に従って何を開示するか？<br>優先保護種について個体数測定指標又はBICを使用する。 |"
+    },
+    {
+      "page": 219,
+      "type": "h3",
+      "en": "Species metrics within other frameworks",
+      "ja": "他の枠組みにおける種の測定指標"
+    },
+    {
+      "page": 219,
+      "type": "p",
+      "en": "Organisations complying with other frameworks, such as the European Union’s Corporate Sustainability Reporting Directive (CSRD), European Sustainability Reporting Standard (ESRS) E4 Biodiversity and Ecosystems, and the Science Based Targets Network (SBTN) will also need to use species metrics. An organisation following the ESRS E4193 standards will need to disclose whether it has operations that affect threatened species, and if it has material impacts on species, disclose the metrics considered relevant.",
+      "ja": "他の枠組み、例えば欧州連合の企業サステナビリティ報告指令（CSRD）、欧州サステナビリティ報告基準（ESRS）E4生物多様性及び生態系、科学に基づく目標ネットワーク（SBTN）等に従う組織は種の測定指標の使用も必要になる。ESRS E4基準に従う組織は193、絶滅のおそれのある種に影響を及ぼす操業を行っているかどうか開示し、種に対するマテリアルなインパクトがある場合には関連性を有するとみなされる測定指標を開示する必要がある。"
+    },
+    {
+      "page": 219,
+      "type": "p",
+      "en": "An organisation following the SBTN recommendations194 will need to include any species listed as threatened by IUCN or CITES threatened species in the scope of their assessment, and submit the species name, sourcing location and sourcing quantities of those species in Step 1. Organisations are required to use a metric on the state of biodiversity in their Step 2 prioritisation. In special cases, they may be required to use both an ecosystem and species biodiversity metric in their analysis. Organisations are always recommended to use complementary ecosystem and species-level biodiversity metrics to capture different aspects of nature.",
+      "ja": "SBTN提言に従う組織は194、IUCNにより絶滅のおそれがあるとしてリストされている種又はCITESの絶滅のおそれのある種を評価のスコープに含め、ステップ1でこれらの種の種名、調達場所、調達量を提示する必要がある。組織はステップ2の優先順位付けにおいて生物多様性の状態に関する測定指標を用いることが義務付けられている。特殊なケースでは、生態系と種の生物多様性測定指標を分析で使用することを要求される場合もある。組織は常に生態系と種レベルの生物多様性に関する補完的な測定指標を用いて自然の様々な側面を捉えることが推奨される。"
+    },
+    {
+      "page": 219,
+      "type": "h3",
+      "en": "Measurement of species extinction risk",
+      "ja": "種の絶滅リスクについての測定"
+    },
+    {
+      "page": 219,
+      "type": "p",
+      "en": "A Red List Index of extinction risk that shows changes over time can be calculated for taxonomic groups that are fully assessed on the Red List195, or through a sampled approach for other groups.196,197 It can be applied globally or to national or regional Red Lists.",
+      "ja": "経時的な変化を示すレッドリスト指数は十分に評価されている分類群について計算でき195、その他の群についてはサンプルアプローチによって可能である196, 197。この指数は世界的に、あるいは国ないし地域のレッドリストに適用することができる。"
+    },
+    {
+      "page": 219,
+      "type": "p",
+      "en": "However, shifts between Red List categories depend on a formal assessment process that takes time to process information. The Red List Index is therefore not sensitive to small shifts in species extinction risk. It also is only suitable to apply at the geographic scale of Red List assessments (usually national, regional or global) and on relatively long timescales (five years or more). This means that the Red List Index is not a practical metric for business application in isolation and organisations will also need to draw on other species extinction risk metrics.",
+      "ja": "ただしレッドリストのカテゴリー間の移動は、情報を処理するのに時間のかかる正式な評価プロセスに依存する。それゆえにレッドリスト指数は種の絶滅リスクの小さな変化には反応しない。またレッドリスト評価の地理的規模で（通常は国、地域、世界）、比較的長期間にわたって（5年以上）適用する場合にのみ適している。このことは、レッドリスト指数は単体でビジネスに適用するのに実用的な測定指標ではなく、組織は種の絶滅リスクに関する他の測定指標も利用する必要があることを意味する。"
+    },
+    {
+      "page": 219,
+      "type": "p",
+      "en": "These metrics differ in their detailed methodologies, accessibility and stage of maturity. However, they are all closely related conceptually and mathematically.198 Choosing which one to use will depend on requirements and practicalities. An overview of relevant metrics is provided in Table 37.",
+      "ja": "各種測定指標は詳細な方法論や利用可能性、成熟度の段階がそれぞれ異なっている。だがどれも概念的数学的に密接に関連している198。どれを使用するかの選択は要件や実用性による。関係する測定指標の概要を表37に示す。"
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "193 Commission Delegated Regulation supplementing Directive 2013/34/EU of the European Parliament and of the Council as regards sustainability reporting standards (2023).",
+      "ja": "193 欧州委員会．EU指令2013/34サステナビリティ報告規格に関する補完委任規則（2023）．"
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "194 SBTN (2023) SBTN Technical Guidance Step 1 and 2.",
+      "ja": "194 SBTN（2023）『SBTNテクニカルガイダンスステップ1 & 2』"
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "195 Butchart, S. H. M. et al. (2005) Using Red List Indices to measure progress towards the 2010 target and beyond; Butchart, S. H. M. et al. (2007) Improvements to the Red List Index. PLoS ONE, 2(1).",
+      "ja": "195 Butchart, S.H.M. et al.（2005）『Using Red List Indices to measure progress towards the 2010 target and beyond』，Butchart, S.H.M. et al.（2007）「Improvements to the Red List Index」『PLoS ONE』2(1)."
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "196 Henriques, S. et al. (2020) Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices. Conservation Letters, 13(3).",
+      "ja": "196 Henriques, S. et al.（2020）「Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices」『Conservation Letters』13(3)."
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "197 Henriques, S. et al. (2020) Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices. Conservation Letters, 13(3).",
+      "ja": "197 Henriques, S. et al.（2020）「Accelerating the monitoring of global biodiversity: Revisiting the sampled approach to generating Red List Indices」『Conservation Letters』13(3)."
+    },
+    {
+      "page": 219,
+      "type": "footnote",
+      "en": "198 Rossberg, A.G. (2022) Quantifying Biodiversity Impact. Relations amongst local and global metrics, why they matter, and how to offset impacts. Technical report, Queen Mary University of London; Goedkoop, M. et al. (2022) Bridging the Gap Between Biodiversity Footprint Metrics and Biodiversity State Indicator Metrics. Understanding the purposes and relationships between biodiversity metrics with a special focus on the Living Planet Index and PDF-based footprinting metrics. White paper, PRé Sustainability.",
+      "ja": "198 Rossberg, A.G.（2022）『Quantifying Biodiversity Impact. Relations amongst local and global metrics, why they matter, and how to offset impacts』Technical report, Queen Mary University of London，Goedkoop, M. et al.（2022）『Bridging the Gap Between Biodiversity Footprint Metrics and Biodiversity State Indicator Metrics. Understanding the purposes and relationships between biodiversity metrics with a special focus on the Living Planet Index and PDF-based footprinting metrics』White paper, PRé Sustainability."
+    },
+    {
+      "page": 220,
+      "type": "caption",
+      "en": "Table 37: Summary of extinction risk metrics potentially relevant for the LEAP approach",
+      "ja": "表37：LEAPアプローチと関係する可能性のある絶滅リスク測定指標の概要"
+    },
+    {
+      "page": 220,
+      "type": "table",
+      "en": "| Metric | What does it do? | Scope |\n|---|---|---|\n| Species Threat Abatement and Restoration (STAR) | Uses IUCN Red List data, estimates a location’s potential to contribute to reducing global species extinction risk through restoration or abating relevant threats. | Global data layer available for business use through the Integrated Biodiversity Assessment Tool (payment required), but restricted to amphibians, birds and mammals.<br>Marine and freshwater global layers, and inclusion of other terrestrial groups, in development, together with guidance for ground-truthing estimates and measuring outcomes. |\n| Potentially Disappeared Fraction (PDF) and Global Extinction Probability (GEP) | PDF is measure of local extinction, presented as the mean change in species richness, relative to a local reference site, within a known area and time frame.<br>GEP is a scaling factor that adjusts the PDF estimates of localised impacts to estimate global extinction risk. It uses species range sizes, global status on the Red List and species richness to indicate the extent that localised impacts may contribute to global species extinction risk. | PDF is widely used in Life Cycle Assessment (LCA) as an ecosystem condition metric.<br>GEP covers all realms and a wide range of taxa and is designed to interface with LCAs. |\n| Persistence Score (PS) | Uses species-specific habitat suitability models to link land-use changes with changes in the likelihood that species populations will persist (i.e. not become extinct), based on maps of current Area of Habitat compared to historical Area of Habitat, and summed across species. | Explicitly links land-use change to extinction risk (inferred from proportional Area of Habitat reduction).<br>Can be used to prioritise land to conserve and restore, or to assess the relative significance of impacts.<br>Currently limited to terrestrial realm, to land-use change, and to fully assessed species groups with mapped Areas of Habitat (amphibians, birds and mammals). |",
+      "ja": "| 測定指標 | 何をするものか | 範囲 |\n|---|---|---|\n| 種への脅威の弱化と復元（STAR） | IUCNレッドリストのデータを使用し、場所について、復元又は関係する脅威の弱化によって世界的な種の絶滅リスク低減に貢献する可能性を推定する。 | 生物多様性統合評価ツール（有料）によってビジネス用の世界的なデータレイヤーを利用できるが、両生類、鳥類、哺乳類に限定される。<br>海洋及び淡水の世界的レイヤー、ならびにその他の陸域グループの包含についても、実地調査による推定と測定結果のガイダンスと合わせ開発中である。 |\n| 種の潜在的消失割合（PDF）及び世界的絶滅確率（GEP） | PDFは既知の地域期間における、地域の参照サイトと比較した地域の絶滅尺度で、種の豊富さの平均的変化として表される。<br>GEPは地域的インパクトについてのPDF推定を調整して世界的な絶滅リスクを推定するために用いる倍率である。種分布域の大きさ、レッドリストに関する世界的な状況、種の豊富さによって、地域的なインパクトが世界的な種の絶滅リスクに寄与する程度を示す。 | PDFはライフサイクル評価（LCA）において生態系状況測定指標として幅広く使用されている。<br>GEPはすべての領域と広範囲の分類群をカバーし、LCAと連動するように設計されている。 |\n| 持続性スコア（PS） | 種固有の生息地適合性モデルを使用して、歴史的な生息域と比較した現在の生息域の地図に基づき、土地利用変化と種の個体群が持続する（すなわち絶滅しない）可能性の変化とを結び付け、種全体で合計する。 | 土地利用変化を絶滅リスクに明確に結び付ける（生息域の減少率から推測）。<br>保全し復元する土地の優先順位を決めたり、インパクトの相対的な重大さを評価するのに使用できる。<br>現在は陸域、土地利用変化、生息域地図とともに十分に評価された種群（両生類、鳥類、哺乳類）に限定される。 |"
+    },
+    {
+      "page": 221,
+      "type": "table",
+      "en": "| Metric | What does it do? | Scope |\n|---|---|---|\n| Biodiversity Impact Credits (BIC) | Based on an assessment of how changes in species population size affect long-term extinction risk in relation to environmental stochasticity (abiotic factors and changes in abundance of other species) that create population size fluctuations. | May be particularly applicable for small, well-documented populations. |",
+      "ja": "| 測定指標 | 何をするものか | 範囲 |\n|---|---|---|\n| 生物多様性インパクトクレジット（BIC） | 個体群サイズの変動をもたらす環境的確率性（非生物要因や他の種の個体数変化）に関し、種の個体群サイズの変化が長期的な絶滅リスクにどのように影響するかの評価に基づく。 | 小規模の文書で十分に裏付けられている個体群に特に適用できるだろう。 |"
+    },
+    {
+      "page": 221,
+      "type": "h3",
+      "en": "Going forward",
+      "ja": "今後について"
+    },
+    {
+      "page": 221,
+      "type": "p",
+      "en": "It is already feasible and practical for organisations to measure their contributions to increasing and/or decreasing species extinction risk.",
+      "ja": "組織が種の絶滅リスク上昇及び／又は低下に対する貢献度を測定することはすでに実行可能かつ現実的である。"
+    },
+    {
+      "page": 221,
+      "type": "p",
+      "en": "The key advantage of species extinction risk metrics is that they are directly tied to corresponding pressures on biodiversity, which makes it practical to link an organisation’s actions, both positive and negative, to changes in biodiversity. This makes them particularly suitable for assessing opportunities and response options.",
+      "ja": "種の絶滅リスク測定指標の重要な利点は、生物多様性に対して圧力になっているものと直接結び付くということであり、それにより組織のプラスとマイナス両方の行動を生物多様性の変化に結び付けることが現実的となる。この測定指標を機会や対応の選択肢を評価するのに特に適したものとしている。"
+    },
+    {
+      "page": 221,
+      "type": "p",
+      "en": "Over the next one to two years, existing species extinction metrics will cover an increasingly broad range of species groups and become more spatially refined and field-tested. The increased use of new technology for rapid biodiversity data collection, and better data on the climate impacts on species, will speed up the pace of Red List assessments and improve the accuracy of species extinction metrics. Metrics not yet ready for business use are likely to become so, and new metrics and tools may emerge. These anticipated developments are welcome, but the tools exist to start today.",
+      "ja": "今後1～2年の間に現在の種の絶滅測定指標がカバーする種群の範囲はますます広がり、空間的に改良され、実地試験が行われるだろう。迅速な生物多様性データ収集のための新技術の利用拡大や、種に対する気候のインパクトに関するデータの向上により、レッドリスト評価のペースが加速され、種の絶滅リスク測定指標の精度が高まるだろう。まだビジネス用にはなっていない測定指標はビジネス用として利用できるようになる可能性が高く、新たな測定指標やツールも登場するだろう。こうした展開予想は歓迎されるが、今日から始めるためのツールは存在している。"
+    },
+    {
+      "page": 222,
+      "type": "h1",
+      "en": "Annex 3: Valuation of dependencies and impacts",
+      "ja": "別紙3：依存とインパクトの価値評価"
+    },
+    {
+      "page": 222,
+      "type": "h2",
+      "en": "Valuation in the TNFD LEAP approach",
+      "ja": "TNFD LEAPアプローチでの価値評価"
+    },
+    {
+      "page": 222,
+      "type": "p",
+      "en": "This annex provides an overview of relevant guidance for corporates in the Natural Capital Protocol on valuation of dependencies and impacts on nature. There are signposts to the Natural Capital Protocol199 throughout for further details.",
+      "ja": "本別紙では、自然に対する依存及びインパクトの価値評価に関する自然資本プロトコルにある企業向けの関連手引きについて概説する。さらなる詳細について自然資本プロトコル199を参照できるように示している。"
+    },
+    {
+      "page": 222,
+      "type": "p",
+      "en": "Valuation is the process of determining the importance, worth or usefulness of something in a particular context. A valuation exercise can help corporates define the consequences of dependencies and impacts on nature for both business and society, determine the relative significance of associated costs and benefits, and determine the value of these costs and benefits in the given context. Understanding the social, environmental and/or economic context is essential to allow organisations to estimate value meaningfully and correctly interpret results.",
+      "ja": "価値評価とは特定の文脈における何ものかの重要性、価値又は有用性を判断するプロセスである。価値評価をすることで企業は、自然に対する依存とインパクトがビジネスと社会の両方にもたらす結果を定義し、付随するコスト／便益の相対的重大性を判定し、所定の文脈におけるこのコスト／便益の価値を判断することができる。社会、環境及び／又は経済状況についての理解は、組織が価値を有意義に推定し、結果を正確に解釈できるようにするのに欠かせない。"
+    },
+    {
+      "page": 222,
+      "type": "p",
+      "en": "Valuation of the costs and benefits arising from your organisation’s dependencies and impacts on nature can therefore help assess the relative importance of risks and opportunities to determine which are material for the business. This can help corporates apply risk and opportunity materiality assessment in the LEAP approach (component A4 of the Assess phase).",
+      "ja": "自然に対する組織の依存及びインパクトから生じるコスト／便益の価値評価はそれゆえに、リスクと機会の相対的重要性を評価して事業にとってマテリアルなものを判断するときに役立つ。これはLEAPアプローチにおいてリスクと機会のマテリアリティの評価を行うのに役立つ（評価フェーズの構成要素A4）。"
+    },
+    {
+      "page": 222,
+      "type": "p",
+      "en": "Table 38 shows the elements of the LEAP approach where valuation is relevant.",
+      "ja": "表38は価値評価が関係するLEAPアプローチの要素を示す。"
+    },
+    {
+      "page": 222,
+      "type": "caption",
+      "en": "Table 38: Incorporation of valuation within the LEAP approach",
+      "ja": "表38：LEAPアプローチへの価値評価の組み入れ"
+    },
+    {
+      "page": 222,
+      "type": "table",
+      "en": "| TNFD LEAP approach component | Relevance of valuation |\n|---|---|\n| E3: Measurement of dependencies and impacts | Can include valuation of costs and benefits to business and society (qualitative, quantitative or monetary). |\n| E4: Impact materiality assessment | Valuation can be used to identify and prioritise material impacts. |",
+      "ja": "| TNFD LEAPアプローチの構成要素 | 価値評価の関連性 |\n|---|---|\n| E3：依存とインパクトの測定 | ビジネスと社会にとってのコストと便益の価値評価を含めることができる（定性的、定量的、金銭的）。 |\n| E4：インパクトのマテリアリティの評価 | 価値評価を用いてマテリアルなインパクトを特定し、優先順位を付けることができる。 |"
+    },
+    {
+      "page": 222,
+      "type": "footnote",
+      "en": "199 Capitals Coalition (2016) Natural Capital Protocol.",
+      "ja": "199 キャピタルコアリション（2016）『自然資本プロトコル』"
+    },
+    {
+      "page": 223,
+      "type": "table",
+      "en": "| TNFD LEAP approach component | Relevance of valuation |\n|---|---|\n| A4: Risk and opportunity materiality assessment | Valuation can help determine the magnitude and prioritise nature-related risks and opportunities.<br>Valuation of impacts on society can be used to help identify and prioritise material financial risks and opportunities that result directly from the societal impacts created by business dependencies and impacts (e.g. through reputational damage or litigation fees). |\n| P3: Reporting | Organisations may report results of valuation exercises in disclosure recommendations Metrics and Targets A and B. |",
+      "ja": "| TNFD LEAPアプローチの構成要素 | 価値評価の関連性 |\n|---|---|\n| A4：リスクと機会のマテリアリティの評価 | 価値評価は大きさを判定し、自然関連のリスクと機会の優先順位を付けるのに役立つ。<br>社会に対するインパクトの価値評価を用いて、ビジネスの依存やインパクトが生み出した社会的インパクトに直接起因するマテリアルな金融リスクと機会を特定し、優先順位を付けることができる（評判の悪化や訴訟費用によるもの等）。 |\n| P3：報告 | 組織は開示提言の「測定指標とターゲット」A及びBにおいて価値評価演習の結果を報告してもよい。 |"
+    },
+    {
+      "page": 223,
+      "type": "p",
+      "en": "Where there is existing guidance, methods and standards, the TNFD integrates these instead of developing new approaches. For valuation of dependencies and impacts, the TNFD recommends that corporates use the Natural Capital Protocol and its guidance on valuation techniques.",
+      "ja": "既存のガイダンス、方法、基準がある場合、TNFDは新たなアプローチを開発するのではなく、これらを一つにまとめる。依存とインパクトの価値評価に関して、TNFDは、企業が自然資本プロトコル及びその価値評価手法ガイダンスを使用することを推奨する。"
+    },
+    {
+      "page": 223,
+      "type": "quote",
+      "en": "When corporates applying the TNFD framework undertake valuation of dependencies and impacts on nature, the TNFD recommends the use of the Natural Capital Protocol, developed by the Capitals Coalition.",
+      "ja": "TNFDの枠組みを適用する企業が自然に対する依存とインパクトの価値評価を行う場合、TNFDはキャピタルコアリションが開発した自然資本プロトコルの使用を推奨する。"
+    },
+    {
+      "page": 223,
+      "type": "h3",
+      "en": "Five steps for valuation of dependencies and impacts",
+      "ja": "依存とインパクトの価値評価のための5つのステップ"
+    },
+    {
+      "page": 223,
+      "type": "p",
+      "en": "If corporates undertake valuation when applying the TNFD’s LEAP approach, they are encouraged to follow five steps:",
+      "ja": "企業がTNFDのLEAPアプローチを適用しているときに価値評価を行う場合、以下の5つのステップに従うことが奨励される。"
+    },
+    {
+      "page": 223,
+      "type": "li",
+      "en": "Step 1: Specify the value perspective (i.e. to business or society). Be as specific as possible. This will affect the valuation method used and the final valuation.",
+      "ja": "ステップ1：価値の視点を決める（すなわちビジネスにとっての価値か、社会にとっての価値か）。できる限り具体的に明記する。これが使用する価値評価法と最終的な価値評価に影響する。"
+    },
+    {
+      "page": 223,
+      "type": "li",
+      "en": "Step 2: Define the consequences of dependencies and impacts on nature (for business and/or society), completed in the Evaluate phase of the LEAP approach.",
+      "ja": "ステップ2：自然に対する依存とインパクトの（ビジネス及び／又は社会にとっての）結果を定義し、これをLEAPアプローチの診断フェーズで完了させる。"
+    },
+    {
+      "page": 223,
+      "type": "li",
+      "en": "Step 3: Determine the relative significance of associated costs and/or benefits.",
+      "ja": "ステップ3：付随コスト／便益の相対的重大性を判定する。"
+    },
+    {
+      "page": 223,
+      "type": "li",
+      "en": "Step 4: Select appropriate valuation technique(s).",
+      "ja": "ステップ4：適切な価値評価手法を選択する。"
+    },
+    {
+      "page": 223,
+      "type": "li",
+      "en": "Step 5: Undertake or commission valuation to contribute to the prioritisation of risks and opportunities in the A4 component of the LEAP approach: Risk and opportunity materiality assessment.",
+      "ja": "ステップ5：LEAPアプローチのA4「リスクと機会のマテリアリティの評価」でのリスクと機会の優先順位付けに役立つ価値評価を行うか、これを委託する。"
+    },
+    {
+      "page": 224,
+      "type": "p",
+      "en": "Table 39 provides a summary of the key features (including objectives, outputs and data requirements) of each step of valuation.",
+      "ja": "表39は価値評価の各ステップの主な特徴（目的、アウトプット、データ要件）をまとめたものである。"
+    },
+    {
+      "page": 224,
+      "type": "caption",
+      "en": "Table 39: Key features of each of step of valuation",
+      "ja": "表39：価値評価のステップそれぞれの主な特徴"
+    },
+    {
+      "page": 224,
+      "type": "table",
+      "en": "| Valuation Steps | Objective | Output | Data requirements |\n|---|---|---|---|\n| Step 1 | Specifying the value perspective. | Value perspective (value to business/ value to society) selected. | No data requirements |\n| Step 2 | Defining consequences of dependencies and impacts for business and society. | List of dependencies and impacts to potentially value. | • Literature review<br>• Expert advice |\n| Step 3 | Determining the relative importance of costs and benefits. | List of dependencies and impacts to value. | • Literature review<br>• Expert advice |\n| Step 4 | Selecting valuation techniques. | Valuation technique selected. | • Natural Capital Protocol<br>• Expert advice |\n| Step 5 | Undertaking valuation. | Value of dependencies and impacts. | • Primary data:<br>• On impact drivers and dependencies<br>• On changes on nature<br>• Value factors |",
+      "ja": "| 価値評価ステップ | 目的 | アウトプット | データ要件 |\n|---|---|---|---|\n| ステップ1 | 価値の視点の特定 | 選定された価値の視点（ビジネスにとっての価値／社会にとっての価値） | データ要件なし |\n| ステップ2 | ビジネス及び社会にとっての依存とインパクトの結果の定義 | 価値評価をする可能性のある依存とインパクトのリスト | • 文献レビュー<br>• 専門家の助言 |\n| ステップ3 | コスト／便益の相対的重大性の判定 | 価値評価をする依存とインパクトのリスト | • 文献レビュー<br>• 専門家の助言 |\n| ステップ4 | 価値評価手法の選択 | 選定した価値評価手法 | • 自然資本プロトコル<br>• 専門家の助言 |\n| ステップ5 | 価値評価の実施 | 依存とインパクトの価値 | • 以下に関する一次データ：<br>• インパクト要因及び依存<br>• 自然に対する変化<br>• 価値係数 |"
+    },
+    {
+      "page": 224,
+      "type": "caption",
+      "en": "Figure 35: Five steps for valuation",
+      "ja": "図35：価値評価のための5つのステップ"
+    },
+    {
+      "page": 224,
+      "type": "figure",
+      "en": "Five steps for valuation / Step 1: Specify value perspective / Step 2: Define consequences of dependencies and impacts / Step 3: Determine relative importance of costs and benefits / Step 4: Select valuation techniques / Step 5: Undertake valuation",
+      "ja": "価値評価のための5つのステップ／ステップ1：価値の視点を決める／ステップ2：依存とインパクトの結果を定義する／ステップ3：コスト／便益の相対的重大性を判定する／ステップ4：価値評価手法を選択する／ステップ5：価値評価を行う"
+    }
+  ]
+}

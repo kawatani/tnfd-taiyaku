@@ -1,0 +1,512 @@
+{
+  "doc": "tc",
+  "pages": [
+    61,
+    80
+  ],
+  "segments": [
+    {
+      "page": 61,
+      "type": "h2",
+      "en": "2.4. Assess nature-related risks and opportunities",
+      "ja": "2.4. 自然関連のリスクと機会の評価"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "This section provides additional guidance to help technology and communications organisations with the Assess phase of the LEAP approach.",
+      "ja": "本節は、技術・通信セクターの組織がLEAPアプローチの評価フェーズに取り組む際に役立つ追加ガイダンスを提供する。"
+    },
+    {
+      "page": 61,
+      "type": "h3",
+      "en": "A1: Risk and opportunity identification",
+      "ja": "A1：リスクと機会の特定"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "Guiding question: What are the corresponding risks and opportunities for our organisation?",
+      "ja": "指針となる問い：当組織にとって、これに対応するリスクと機会は何か。"
+    },
+    {
+      "page": 61,
+      "type": "p",
+      "en": "In the Assess phase, an organisation identifies the nature-related risks and opportunities associated with the dependencies and impacts previously identified in the Evaluate phase. Tables 7 and 8 provide illustrative examples of nature-related risks and opportunities for the technology and communications sector. Unless otherwise specified, the risks and opportunities laid out in the tables below can apply to any of the sub-sectors within the scope of this guidance.",
+      "ja": "評価フェーズでは、組織は、先行する診断フェーズで特定した依存とインパクトに関連する自然関連リスクと機会を特定する。表7と表8は、技術・通信セクターにおける自然関連のリスクと機会の例示を示している。別段の定めがない限り、以下の表に示すリスクと機会は、本ガイダンスの対象範囲に含まれるいずれのサブセクターにも当てはまり得る。"
+    },
+    {
+      "page": 62,
+      "type": "caption",
+      "en": "Table 7: Illustrative nature-related risks in the technology and communications sector",
+      "ja": "表7：技術・通信セクターにおける自然関連リスクの例示"
+    },
+    {
+      "page": 62,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Land conversion | Transition – Market | Land developments require conservation measures as investor and community expectations change.55 | Costs associated with conservation initiatives. | Rehabilitation, conservation initiatives. |\n| Land conversion | Transition – Policy | Emerging requirements on planning, permitting on land use for construction or expansion of datacentre facilities (in USA, Ireland and UK e.g. England’s Biodiversity Net Gain policy). | Restrictions on new developments and obligations towards land use. | Implement land management strategy.<br>On-site monitoring of changes to biodiversity. |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 土地転換 | 移行 – 市場 | 投資家と地域社会の期待の変化に伴い、土地開発に保全措置が求められる55。 | 保全イニシアチブに関連するコスト。 | 修復、保全イニシアチブ。 |\n| 土地転換 | 移行 – 政策 | データセンター施設の建設または拡張のための土地利用に関する計画・許認可について、新たな要件が生じている（米国、アイルランド、英国。例：イングランドの生物多様性ネットゲイン政策）。 | 新規開発の制限および土地利用に関する義務。 | 土地管理戦略を実施する。<br>生物多様性の変化をオンサイトで監視する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 62,
+      "type": "footnote",
+      "en": "55 European Committee of the Regions (n.d.) Ecological compensation to offset environmental impact of new data centre.",
+      "ja": "55 European Committee of the Regions (n.d.) Ecological compensation to offset environmental impact of new data centre."
+    },
+    {
+      "page": 63,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Soil and water pollution | Transition – Liability | Long-term persistence and bioaccumulation of PFAS and other chemicals when not managed adequately.56<br>Retrospective litigation for toxification of water or soil because of poor pollutant management measures.57 | Increase in contingent liabilities as regulations become more stringent on PFAS and other chemicals.<br>Costs of litigation and fines.<br>Clean-up costs. | Use of less toxic alternative and substitution materials.<br>Implement stricter pollutant management strategies. |\n| Soil and water pollution | Transition – Technology | Lack of timely investments into treatment technology to meet increased regulatory requirements to manage novel substances of concern.58 | Increase in costs linked to fines/penalties due to pollution and to new waste treatment technologies. | Invest in new waste treatment technologies. |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 土壌と水の汚染 | 移行 – 賠償責任 | 適切に管理されない場合のPFASやその他の化学物質の長期残留性と生物蓄積56。<br>不十分な汚染物質管理措置による水または土壌の有害化に対する遡及的な訴訟57。 | PFASやその他の化学物質に関する規制の厳格化に伴う偶発債務の増加。<br>訴訟費用と罰金。<br>浄化費用。 | 毒性の低い代替材料・代替素材を使用する。<br>より厳格な汚染物質管理戦略を実施する。 |\n| 土壌と水の汚染 | 移行 – 技術 | 新たな懸念物質の管理に関する規制要件の強化に対応するための処理技術への投資が適時に行われない58。 | 汚染に起因する罰金／制裁金および新たな廃棄物処理技術に関連するコストの増加。 | 新たな廃棄物処理技術に投資する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 63,
+      "type": "footnote",
+      "en": "56 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "56 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 63,
+      "type": "footnote",
+      "en": "57 Tozzi, C. (2025) 4 Ways to Eliminating Data Center Water Pollution.",
+      "ja": "57 Tozzi, C. (2025) 4 Ways to Eliminating Data Center Water Pollution."
+    },
+    {
+      "page": 63,
+      "type": "footnote",
+      "en": "58 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "58 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 64,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Waste generation and disposal | Transition – Policy | Stricter waste disposal requirements.59<br>Stricter policies for waste circularity and e-waste management.60 | Costs associated with fixing inappropriate waste disposal.<br>Increased costs to transition to circular procurement and improved waste management practices. | Implement stricter waste management strategies.<br>Implement material efficiency and circular economy initiatives. |\n| Waste generation and disposal | Transition – Reputational | Informal or non-compliant e-waste recycling and landfill disposal. | Reduction in revenue due to reduced brand value. | Implement suppliers’ certification programmes. |\n| Non-GHG air pollution | Transition – Policy | Stricter national emission regulations.61 | Increase in cost of damage payouts (e.g. compensation) caused by non-compliance. | Implement stricter air pollution mitigation strategies. |\n| Non-GHG air pollution | Transition – Reputational | Association of the company with poor management of polluting substances increases regulatory and stakeholder scrutiny of applications for new sites.62 | Downward revisions to business growth forecasts due to inability to expand and gain access to new sites. | Implement improved pollution management policies.<br>Invest in rehabilitation, conservation initiatives. |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 廃棄物の発生と処理 | 移行 – 政策 | 廃棄物処理要件の厳格化59。<br>廃棄物の循環性と電子廃棄物（E-waste）管理に関する政策の厳格化60。 | 不適切な廃棄物処理の是正に関連するコスト。<br>循環型調達と廃棄物管理慣行の改善への移行に伴うコストの増加。 | より厳格な廃棄物管理戦略を実施する。<br>材料効率と循環経済のイニシアチブを実施する。 |\n| 廃棄物の発生と処理 | 移行 – 評判 | 非公式または法令に準拠しない電子廃棄物のリサイクルと埋め立て処分。 | ブランド価値の低下による収益の減少。 | サプライヤーの認証プログラムを実施する。 |\n| GHG以外の大気汚染 | 移行 – 政策 | 国の排出規制の厳格化61。 | 法令違反に起因する損害賠償支払い（例：補償金）のコストの増加。 | より厳格な大気汚染緩和戦略を実施する。 |\n| GHG以外の大気汚染 | 移行 – 評判 | 企業が汚染物質の管理が不十分であるとみなされることにより、新規拠点の申請に対する規制当局とステークホルダーの精査が厳しくなる62。 | 拡張や新規拠点へのアクセスができなくなることによる事業成長予測の下方修正。 | 改善された汚染管理方針を実施する。<br>修復、保全イニシアチブに投資する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 64,
+      "type": "footnote",
+      "en": "59 Tozzi, C. (2025) 4 Strategies for Eliminating Data Center Water Pollution.",
+      "ja": "59 Tozzi, C. (2025) 4 Strategies for Eliminating Data Center Water Pollution."
+    },
+    {
+      "page": 64,
+      "type": "footnote",
+      "en": "60 Gu, H. (2024) The Hidden Environmental Cost of Data Center Growth – Millions of Tons of E-Waste.",
+      "ja": "60 Gu, H. (2024) The Hidden Environmental Cost of Data Center Growth – Millions of Tons of E-Waste."
+    },
+    {
+      "page": 64,
+      "type": "footnote",
+      "en": "61 Lu, H.H. et al. (2023) Continuous Improvements and Future Challenges of Air Pollution Control at an Advanced Semiconductor Fab.",
+      "ja": "61 Lu, H.H. et al. (2023) Continuous Improvements and Future Challenges of Air Pollution Control at an Advanced Semiconductor Fab."
+    },
+    {
+      "page": 64,
+      "type": "footnote",
+      "en": "62 Chow, A.R. (2025) ’We are the Last of the Forgotten:’ Inside the Memphis Community Battling Elon Musk’s xAI.",
+      "ja": "62 Chow, A.R. (2025) ’We are the Last of the Forgotten:’ Inside the Memphis Community Battling Elon Musk’s xAI."
+    },
+    {
+      "page": 65,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Acute or chronic water stress | Physical – Acute and/or chronic | Overabstraction for business processes stressing water resources and freshwater ecosystems.63 | Cost of disruption to operations due to cooling and humidification disruptions and increase in the cost of water management and control.64<br>Decline in value of business assets due to lack of availability of natural resources. | Implement stricter water management policies.<br>Implement water catchment management schemes.<br>Develop water use efficiency strategy.<br>Adopt water efficient technologies (e.g. more efficient datacentre cooling systems). |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 急性または慢性の水ストレス | 物理的 – 急性および／または慢性 | 事業プロセスのための過剰取水により、水資源と淡水生態系に負荷がかかる63。 | 冷却と加湿の中断による操業中断のコスト、ならびに水の管理・制御のコストの増加64。<br>自然資源の利用可能性の不足による事業資産の価値の低下。 | より厳格な水管理方針を実施する。<br>集水域管理スキームを実施する。<br>水使用効率化戦略を策定する。<br>水効率の高い技術（例：より効率的なデータセンター冷却システム）を導入する。 |"
+    },
+    {
+      "page": 65,
+      "type": "footnote",
+      "en": "63 Zhang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry.",
+      "ja": "63 Zhang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry."
+    },
+    {
+      "page": 65,
+      "type": "footnote",
+      "en": "64 S&P Global (2025) Beneath the surface: Water stress in data centers.",
+      "ja": "64 S&P Global (2025) Beneath the surface: Water stress in data centers."
+    },
+    {
+      "page": 66,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Acute or chronic water stress | Transition – Policy | Stricter water quantity and/or quality regulation.65 | Increase in costs due to fines for failure to meet regulatory limits on water use or water quality requirements.<br>Increase in taxes leading to increase in expenditure.<br>Cost of operational interruptions due to permit denials linked to failure to meet legally binding targets to reduce water use. | Implement stricter water management policies.<br>Develop water use efficiency strategy. |\n| Acute or chronic water stress | Transition – Market | Conflict with other water users over limited water resources.66 | Increased costs of recycling or alternative sources of water to ensure supply in the face of increased competition over access. | Contribute to collaborative water catchment management schemes. |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 急性または慢性の水ストレス | 移行 – 政策 | 水量および／または水質に関する規制の厳格化65。 | 水使用の規制上限または水質要件を満たせないことによる罰金に起因するコストの増加。<br>増税による支出の増加。<br>水使用削減に関する法的拘束力のあるターゲットを達成できないことに関連した許認可の拒否による操業中断のコスト。 | より厳格な水管理方針を実施する。<br>水使用効率化戦略を策定する。 |\n| 急性または慢性の水ストレス | 移行 – 市場 | 限られた水資源をめぐる他の水利用者との対立66。 | 水へのアクセスをめぐる競争が激化するなかで供給を確保するための、リサイクル水または代替水源のコストの増加。 | 協働的な集水域管理スキームに貢献する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 66,
+      "type": "footnote",
+      "en": "65 S&P Global (2025) Beneath the surface: Water stress in data centers.",
+      "ja": "65 S&P Global (2025) Beneath the surface: Water stress in data centers."
+    },
+    {
+      "page": 66,
+      "type": "footnote",
+      "en": "66 Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in.",
+      "ja": "66 Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in."
+    },
+    {
+      "page": 67,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Risk category | Exposure pathway | Primary business effect options | Potential response options |\n|---|---|---|---|---|\n| Acute or chronic water stress | Transition – Reputational | Reputational damage caused by increasing water stress due to overabstraction from the catchment.67 | Cost of operational interruptions, delays or restrictions arising from unresolved concerns or grievances involving Indigenous Peoples, Local Communities and affected stakeholders. | Participate in integrated water basin management, with meaningful stakeholder engagement, and support collaborative action to reduce cumulative pressure on water resources. |\n| Land and water use, and pollutant releases | Transition – Liability | Legal claims, fines or remediation obligations arising from impacts on land, freshwater ecosystems or affected stakeholders. | Legal and remediation costs, operational delays and reputational damage. | Strengthen environmental due diligence, compliance and grievance mechanisms; engage affected stakeholders; prevent and remediate impacts. |\n| Raw materials scarcity/depletion | Physical – Acute or chronic | Disruption of operations due to reduced availability of raw materials.68 | Increased costs for procuring raw materials for manufacturing processes. | Use alternative or substitute materials with less negative impact on nature.<br>Invest in material efficiency and circularity. |\n| Raw materials scarcity/depletion | Transition – Reputational | Increased stakeholder concerns due to high demand for raw materials, including metals, minerals and rare earth elements used in manufacturing. | Reduction in revenue due to reduced brand value, leading to potential loss of contracts or market access and leads. | Implement suppliers’ certification programmes and schemes.<br>Implement responsible sourcing policies. |",
+      "ja": "| 自然関連の依存／インパクト | リスクのカテゴリー | エクスポージャー経路 | 主な事業への影響の選択肢 | 考えられる対応の選択肢 |\n|---|---|---|---|---|\n| 急性または慢性の水ストレス | 移行 – 評判 | 集水域からの過剰取水による水ストレスの増大に起因する評判の毀損67。 | 先住民族、地域社会と影響を受けるステークホルダーが関わる未解決の懸念または苦情から生じる操業の中断、遅延または制限のコスト。 | 意味のあるステークホルダーとのエンゲージメントを伴う統合的な流域管理に参加し、水資源に対する累積的な負荷を軽減するための協働的な行動を支援する。 |\n| 土地と水の利用、および汚染物質の排出 | 移行 – 賠償責任 | 土地、淡水生態系または影響を受けるステークホルダーに対するインパクトから生じる法的請求、罰金または是正義務。 | 法務費用と是正費用、操業の遅延、評判の毀損。 | 環境デューディリジェンス、コンプライアンスおよび苦情処理メカニズムを強化する。影響を受けるステークホルダーとエンゲージメントを行う。インパクトを防止し、是正する。 |\n| 原材料の不足／枯渇 | 物理的 – 急性または慢性 | 原材料の利用可能性の低下による操業の中断68。 | 製造プロセス用の原材料の調達コストの増加。 | 自然に対するマイナスのインパクトがより少ない代替材料または代用材料を使用する。<br>材料効率と循環性に投資する。 |\n| 原材料の不足／枯渇 | 移行 – 評判 | 製造に使用される金属、鉱物およびレアアース（希土類元素）を含む原材料への高い需要による、ステークホルダーの懸念の高まり。 | ブランド価値の低下による収益の減少。これにより、契約や市場アクセス、見込み顧客を失う可能性がある。 | サプライヤーの認証プログラムとスキームを実施する。<br>責任ある調達方針を実施する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 67,
+      "type": "footnote",
+      "en": "67 Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in.",
+      "ja": "67 Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in."
+    },
+    {
+      "page": 67,
+      "type": "footnote",
+      "en": "68 Morphy, E. (2024) Two mines in North Carolina are the world’s only producer of the quartz necessary for semiconductor manufacturing.",
+      "ja": "68 Morphy, E. (2024) Two mines in North Carolina are the world’s only producer of the quartz necessary for semiconductor manufacturing."
+    },
+    {
+      "page": 68,
+      "type": "caption",
+      "en": "Table 8: Illustrative opportunities in the technology and communications sector",
+      "ja": "表8：技術・通信セクターにおける機会の例示"
+    },
+    {
+      "page": 68,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Opportunity type | Illustrative opportunity in the technology and communications sector | Primary business benefit/magnitude indicators |\n|---|---|---|---|\n| Reduced land use | Operational efficiency and resilience | Adopting co-location models and/or sharing tower infrastructure reduces the need for single-tenant sites, lowering overall resource use for construction, operation and maintenance of datacentres and/or telecommunications infrastructure.69 | Cost reductions by reducing deployment, maintenance and material costs over the asset lifetime.70 |\n| Land restoration | Operational efficiency and resilience | Creating buffer zones around infrastructure to increase ecosystem condition and mitigate the impacts of natural hazards such as flooding, landslides and others.71 | Reduced revenue losses and costs associated with infrastructure resilience. |\n| Land restoration | Business model innovation | Selling biodiversity credits emerging from policy requirements on use of land (e.g. England’s Biodiversity Net Gain policy). | New revenue streams from biodiversity credits. |\n| Energy use and associated water and resource use | Resource efficiency | Datacentres can provide grid flexibility through demand response, workload shifting and energy storage, supporting grid stability and greater integration of variable renewable energy. This may reduce reliance on water- and resource-intensive electricity generation. | Reduced electricity costs; revenue from flexibility services; improved operational resilience; and reduced costs from indirect water and resource use associated with electricity supply. |\n| Energy and water use for datacentre cooling | Resource efficiency | Deploying liquid cooling systems to reduce cooling energy demand and, where closed-loop systems are used, operational water consumption, while enabling waste-heat recovery. | Lower energy and water costs, increased computing capacity and potential value from recovered heat. |",
+      "ja": "| 自然関連の依存／インパクト | 機会の種類 | 技術・通信セクターにおける機会の例示 | 主な事業上の便益／規模の指標 |\n|---|---|---|---|\n| 土地利用の削減 | 業務効率とレジリエンス | コロケーションモデルの導入および／または鉄塔インフラの共用により、単一テナント用の拠点の必要性が減り、データセンターおよび／または電気通信インフラの建設、運用、保守に要する資源使用全体が削減される69。 | 資産の耐用期間全体にわたる展開（設置）、保守、資材のコストの削減によるコスト削減70。 |\n| 土地の復元 | 業務効率とレジリエンス | インフラの周囲に緩衝地帯を設けることで、生態系の状態を向上させ、洪水や地すべりなどの自然災害のインパクトを緩和する71。 | インフラのレジリエンスに関連する収益損失とコストの削減。 |\n| 土地の復元 | ビジネスモデルのイノベーション | 土地利用に関する政策要件から生じる生物多様性クレジットの販売（例：イングランドの生物多様性ネットゲイン政策）。 | 生物多様性クレジットによる新たな収益源。 |\n| エネルギー使用とそれに伴う水と資源の使用 | 資源効率 | データセンターは、デマンドレスポンス、ワークロードシフト、エネルギー貯蔵を通じて電力系統（グリッド）に柔軟性を提供し、系統の安定性と変動性再生可能エネルギーのより大規模な統合を支えることができる。これにより、水と資源を大量に消費する発電への依存を低減できる可能性がある。 | 電力コストの削減、柔軟性サービスによる収益、操業上のレジリエンスの向上、および電力供給に伴う間接的な水と資源の使用によるコストの削減。 |\n| データセンター冷却のためのエネルギーと水の使用 | 資源効率 | 液冷システムを導入して冷却のエネルギー需要を削減するとともに、クローズドループ方式を用いる場合には操業上の水消費量を削減し、同時に廃熱回収を可能にする。 | エネルギーと水のコストの低減、計算能力の向上、および回収した熱から得られる潜在的価値。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 68,
+      "type": "footnote",
+      "en": "69 OECD (2025) The Environmental Sustainability of Communication Networks.",
+      "ja": "69 OECD (2025) The Environmental Sustainability of Communication Networks."
+    },
+    {
+      "page": 68,
+      "type": "footnote",
+      "en": "70 World Bank Group (2024) Resilient telecommunications infrastructure: A practitioner’s guide.",
+      "ja": "70 World Bank Group (2024) Resilient telecommunications infrastructure: A practitioner’s guide."
+    },
+    {
+      "page": 68,
+      "type": "footnote",
+      "en": "71 Bennett, G. and Mulongoy, K.J. (2006) Review of Experience with Ecological Networks, Corridors and Buffer Zones.",
+      "ja": "71 Bennett, G. and Mulongoy, K.J. (2006) Review of Experience with Ecological Networks, Corridors and Buffer Zones."
+    },
+    {
+      "page": 69,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Opportunity type | Illustrative opportunity in the technology and communications sector | Primary business benefit/magnitude indicators |\n|---|---|---|---|\n| Soil and water pollutants reduction | Operational efficiency and resilience | Use of efficient technology and management practices, including wastewater treatment and reuse, helping to maintain clean water supplies within watersheds.72 | Reduction in operational costs due to improved readiness and response to regulatory changes. |\n| Soil and water pollutants reduction | Operational efficiency and resilience | Advanced electrochemical wastewater treatment, such as electrocoagulation, of heavy metal and chemical discharges from electronics manufacturing and metal processing. | Reduced costs associated with wastewater management. |\n| Soil and water pollutants reduction | New product or service market | Investment in research and development to find alternatives for hazardous chemicals and gases released in manufacturing.73 | Increased resilience due to business diversification. |\n| Soil and water pollutants reduction | Operational efficiency and resilience | Enhanced sustainability performance, supporting a positive corporate reputation through reduced resource use and management of pollutants discharged. | Increased revenue from improved brand perception. |",
+      "ja": "| 自然関連の依存／インパクト | 機会の種類 | 技術・通信セクターにおける機会の例示 | 主な事業上の便益／規模の指標 |\n|---|---|---|---|\n| 土壌と水の汚染物質の削減 | 業務効率とレジリエンス | 廃水の処理と再利用を含む効率的な技術と管理慣行を活用し、流域内の清浄な水供給の維持に貢献する72。 | 規制変更への備えと対応の改善による操業コストの削減。 |\n| 土壌と水の汚染物質の削減 | 業務効率とレジリエンス | 電子機器製造や金属加工から排出される重金属や化学物質に対する、電気凝集などの高度な電気化学的廃水処理。 | 廃水管理に関連するコストの削減。 |\n| 土壌と水の汚染物質の削減 | 新たな製品またはサービスの市場 | 製造工程で放出される有害な化学物質やガスの代替品を見いだすための研究開発への投資73。 | 事業の多角化によるレジリエンスの向上。 |\n| 土壌と水の汚染物質の削減 | 業務効率とレジリエンス | 資源使用の削減と排出される汚染物質の管理を通じてサステナビリティ・パフォーマンスを向上させ、企業の良好な評判を支える。 | ブランドイメージの向上による収益の増加。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 69,
+      "type": "footnote",
+      "en": "72 WEF (2024) Why circular water solutions are key to sustainable data centers.",
+      "ja": "72 WEF (2024) Why circular water solutions are key to sustainable data centers."
+    },
+    {
+      "page": 69,
+      "type": "footnote",
+      "en": "73 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "73 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 70,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Opportunity type | Illustrative opportunity in the technology and communications sector | Primary business benefit/magnitude indicators |\n|---|---|---|---|\n| Waste minimised, reused or recycled | Supply chain resilience | Increased use of recycled, reused, refurbished equipment, such as the recycling of cable materials, reintroduces materials into supply chain.74 Take-back programmes, reverse logistics and collection systems facilitate the recovery of critical materials from end-of-life electronics and other products.75 | Cost reductions tied to depletion of natural resources (e.g. depleting critical materials).<br>Reduced exposure to raw material and natural resource price volatility. |\n| Waste minimised, reused or recycled | Business model innovation | Recycling or recovery of materials that can be repurposed by other industries.76 For example, cable recovery unlocks economic opportunities through new products and business models in the circular economy.77 | Reduced costs linked to reduced reliance on new materials.<br>New revenue streams from recovered and/or recycled materials. |\n| Non-GHG air pollutants | Operational efficiency and resilience | Utilising scrubbers. Implementing a comprehensive air pollution control strategy. | Avoided penalties from meeting national regulations. |",
+      "ja": "| 自然関連の依存／インパクト | 機会の種類 | 技術・通信セクターにおける機会の例示 | 主な事業上の便益／規模の指標 |\n|---|---|---|---|\n| 廃棄物の最小化、再利用またはリサイクル | サプライチェーンのレジリエンス | ケーブル材料のリサイクルなど、リサイクル、再利用、リファービッシュ（再整備）された機器の利用拡大により、材料がサプライチェーンに再投入される74。引き取り回収プログラム、リバースロジスティクスおよび回収システムは、使用済みの電子機器やその他の製品からの重要な材料の回収を促進する75。 | 自然資源の枯渇（例：重要な材料の枯渇）に関連するコストの削減。<br>原材料と自然資源の価格変動に対するエクスポージャーの低減。 |\n| 廃棄物の最小化、再利用またはリサイクル | ビジネスモデルのイノベーション | 他の産業で転用可能な材料のリサイクルまたは回収76。例えば、ケーブルの回収は、循環経済における新たな製品やビジネスモデルを通じて経済的機会を生み出す77。 | 新規材料への依存の低減に伴うコストの削減。<br>回収および／またはリサイクルされた材料による新たな収益源。 |\n| GHG以外の大気汚染物質 | 業務効率とレジリエンス | スクラバーを活用する。包括的な大気汚染防止戦略を実施する。 | 国の規制の遵守による罰則の回避。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 70,
+      "type": "footnote",
+      "en": "74 Swinhoe, D. (2022) Re-use, refurb, recycle: Circular economy thinking and data center IT assets.",
+      "ja": "74 Swinhoe, D. (2022) Re-use, refurb, recycle: Circular economy thinking and data center IT assets."
+    },
+    {
+      "page": 70,
+      "type": "footnote",
+      "en": "75 Gaustad, G. et al. (2018) Circular economy strategies for mitigating critical material supply issues.",
+      "ja": "75 Gaustad, G. et al. (2018) Circular economy strategies for mitigating critical material supply issues."
+    },
+    {
+      "page": 70,
+      "type": "footnote",
+      "en": "76 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact.",
+      "ja": "76 Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact."
+    },
+    {
+      "page": 70,
+      "type": "footnote",
+      "en": "77 UNEP-WCMC (2025) Keeping connected: submarine communications cables and ocean life.",
+      "ja": "77 UNEP-WCMC (2025) Keeping connected: submarine communications cables and ocean life."
+    },
+    {
+      "page": 71,
+      "type": "table",
+      "en": "| Nature-related dependency/impact | Opportunity type | Illustrative opportunity in the technology and communications sector | Primary business benefit/magnitude indicators |\n|---|---|---|---|\n| Water conservation | Operational efficiency and resilience | Use of efficient technology and management practices to maintain sustainable water supplies within a watershed.78 | Reduced operational costs due to improved readiness and response to regulatory changes. |\n| Water conservation | Operational efficiency and resilience | Investments in nature-based solutions in the watershed e.g. restoration of wetlands, forests and other ecosystems.79 | Reduced costs of water treatment and risk of water stress via restoration of water resources. |\n| Water conservation | Operational efficiency and resilience | Use of smart water management technologies to reduce water use e.g. more efficient cooling systems, reduced loss and leaks.80 This can be particularly relevant in sub-sectors with high water-related dependencies and impacts, such as semiconductor fabs and datacentres. | Operational cost savings associated with improved water management practices and reduced water use. |\n| Raw materials | Supply chain resilience | Recycling provides an in-house source (prompt or manufacturing scrap) or a domestic source (post-consumer scrap) of critical materials, reducing reliance on virgin extraction.81 | Cost reductions tied to depletion of natural resources (e.g. depleting critical materials).<br>Reduced exposure to raw material and natural resource price volatility. |\n| All | Operational efficiency and resilience | Using emerging technologies to improve monitoring of the state of nature and biodiversity such as: AI and machine learning; networked sensors and Internet of Things; spatial data analysis/modelling software (GPS & GIS); bioacoustics and eco acoustics; satellite remote sensing; camera traps; Unmanned Aerial Vehicles (UAVs)/drones; eDNA; and blockchain and mobile applications and digital platforms. | Reduced operational costs from improved monitoring and traceability systems. |",
+      "ja": "| 自然関連の依存／インパクト | 機会の種類 | 技術・通信セクターにおける機会の例示 | 主な事業上の便益／規模の指標 |\n|---|---|---|---|\n| 水の保全 | 業務効率とレジリエンス | 効率的な技術と管理慣行を活用し、流域内の持続可能な水供給を維持する78。 | 規制変更への備えと対応の改善による操業コストの削減。 |\n| 水の保全 | 業務効率とレジリエンス | 流域における自然に根ざした解決策への投資（例：湿地、森林、その他の生態系の復元）79。 | 水資源の復元を通じた水処理コストと水ストレスのリスクの低減。 |\n| 水の保全 | 業務効率とレジリエンス | 水使用を削減するためのスマート水管理技術の活用（例：より効率的な冷却システム、損失と漏水の削減）80。これは、ファブ（半導体製造工場）やデータセンターなど、水に関する依存とインパクトが大きいサブセクターにおいて特に関連性が高い。 | 水管理慣行の改善と水使用の削減に伴う操業コストの節減。 |\n| 原材料 | サプライチェーンのレジリエンス | リサイクルは、重要な材料の社内供給源（工程内スクラップまたは製造スクラップ）または国内供給源（使用済み製品由来のスクラップ）となり、新規採掘への依存を低減する81。 | 自然資源の枯渇（例：重要な材料の枯渇）に関連するコストの削減。<br>原材料と自然資源の価格変動に対するエクスポージャーの低減。 |\n| すべて | 業務効率とレジリエンス | 自然の状態と生物多様性のモニタリングを改善するための新興技術の活用。例えば、AIと機械学習、ネットワーク化されたセンサーとモノのインターネット（IoT）、空間データ分析／モデリングソフトウェア（GPSおよびGIS）、生物音響学とエコアコースティクス（生態音響学）、衛星リモートセンシング、カメラトラップ、無人航空機（UAV）／ドローン、環境DNA（eDNA）、ならびにブロックチェーン、モバイルアプリケーションおよびデジタルプラットフォームなど。 | モニタリングとトレーサビリティ（追跡可能性）システムの改善による操業コストの削減。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed; term-uncertain: prompt scrap"
+    },
+    {
+      "page": 71,
+      "type": "footnote",
+      "en": "78 BW Water (2025) Net water positive: Can semiconductor fabs get there?",
+      "ja": "78 BW Water (2025) Net water positive: Can semiconductor fabs get there?"
+    },
+    {
+      "page": 71,
+      "type": "footnote",
+      "en": "79 Craske, B. (2025) What Role Do NBSs Have In Sustainable Data Centre Strategy?",
+      "ja": "79 Craske, B. (2025) What Role Do NBSs Have In Sustainable Data Centre Strategy?"
+    },
+    {
+      "page": 71,
+      "type": "footnote",
+      "en": "80 Alert Labs (2025) How Water Leak Detection Systems for Data Centers Minimize Damage & Downtime.",
+      "ja": "80 Alert Labs (2025) How Water Leak Detection Systems for Data Centers Minimize Damage & Downtime."
+    },
+    {
+      "page": 71,
+      "type": "footnote",
+      "en": "81 Global Electronics Council (2021) State of Sustainability Research: Sustainable Use of Resources.",
+      "ja": "81 Global Electronics Council (2021) State of Sustainability Research: Sustainable Use of Resources."
+    },
+    {
+      "page": 72,
+      "type": "h3",
+      "en": "A2: Adjustment of existing risk mitigation and risk and opportunity management",
+      "ja": "A2：既存のリスク緩和およびリスクと機会の管理の調整"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "Guiding questions: What existing risk mitigation and risk and opportunity management processes and elements are we already applying? How can risk and opportunity management processes and associated elements (e.g. risk taxonomy, risk inventory, risk tolerance criteria) be adapted?",
+      "ja": "指針となる問い：当組織が既に適用している既存のリスク緩和およびリスクと機会の管理のプロセスと要素は何か。リスクと機会の管理プロセスと関連する要素（例：リスク分類体系、リスク一覧、リスク許容基準）をどのように適応させることができるか。"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "他のすべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照されたい。"
+    },
+    {
+      "page": 72,
+      "type": "h3",
+      "en": "A3: Risk and opportunity measurement and prioritisation",
+      "ja": "A3：リスクと機会の測定と優先順位付け"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "Guiding question: Which risks and opportunities should be prioritised?",
+      "ja": "指針となる問い：どのリスクと機会を優先すべきか。"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "他のすべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照されたい。"
+    },
+    {
+      "page": 72,
+      "type": "h3",
+      "en": "A4: Risk and opportunity materiality assessment",
+      "ja": "A4：リスクと機会のマテリアリティの評価"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "Guiding question: Which risks and opportunities are material and therefore should be disclosed in line with the TNFD recommended disclosures?",
+      "ja": "指針となる問い：どのリスクと機会がマテリアルであり、したがってTNFD開示提言に沿って開示すべきか。"
+    },
+    {
+      "page": 72,
+      "type": "p",
+      "en": "As for all components, refer to the Guidance on the identification and assessment of nature-related issues: The LEAP approach.",
+      "ja": "他のすべての構成要素と同様に、「自然関連課題の特定と評価に関するガイダンス：LEAPアプローチ」を参照されたい。"
+    },
+    {
+      "page": 73,
+      "type": "h2",
+      "en": "2.5. Prepare to respond and report",
+      "ja": "2.5. 対応と報告の準備"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "This section provides additional guidance to help technology and communications organisations with the Prepare phase of the LEAP approach.",
+      "ja": "本節は、技術・通信セクターの組織がLEAPアプローチの準備フェーズに取り組む際に役立つ追加ガイダンスを提供する。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The mission of the Kunming-Montreal Global Biodiversity Framework (GBF) is to “halt and reverse biodiversity loss” by 2030, with a 2050 vision of “a world living in harmony with nature”. Delivering the transition implied by the GBF will require significant changes to business practices across all sectors. The TNFD has published guidance on nature in transition plans. Transition planning offers a way to manage an organisation’s responses and contributions to this transition in a coherent, structured way. The LEAP Prepare phase provides initial guidance for addressing dependencies, impacts, risks and opportunities, laying the groundwork for a nature transition plan.",
+      "ja": "昆明・モントリオール生物多様性枠組（GBF）のミッションは、2030年までに「生物多様性の損失を止め、反転させる」ことであり、2050年ビジョンは「自然と共生する世界」である。GBFが示唆する移行を実現するには、あらゆるセクターにわたって事業慣行を大きく変える必要がある。TNFDは、移行計画における自然に関するガイダンスを公表している。移行計画の策定は、この移行に対する組織の対応と貢献を、一貫性のある体系的な方法で管理する手段となる。LEAPの準備フェーズは、依存、インパクト、リスクと機会に対処するための初期的なガイダンスを提供し、自然に関する移行計画の基盤を築くものである。"
+    },
+    {
+      "page": 73,
+      "type": "h3",
+      "en": "P1: Strategy and resource allocation plans",
+      "ja": "P1：戦略と資源配分計画"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Guiding question: What risk management, strategy and resource allocation decisions should be made as a result of this analysis?",
+      "ja": "指針となる問い：この分析の結果として、どのようなリスク管理、戦略、資源配分の意思決定を行うべきか。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Technology and communications organisations need to consider the most effective actions based on the dependencies, impacts, risks and opportunities identified in earlier phases of LEAP. This typically involves developing a multi-year action plan, prioritising actions over time as access to data improves and an organisation’s strategy is developed with relevant stakeholders across the value chain.",
+      "ja": "技術・通信セクターの組織は、LEAPの前段のフェーズで特定した依存、インパクト、リスクと機会に基づき、最も効果的な行動を検討する必要がある。これには通常、複数年にわたる行動計画を策定し、データへのアクセスが改善され、バリューチェーン全体の関連するステークホルダーとともに組織の戦略が策定されていくのに合わせて、時間をかけて行動に優先順位を付けていくことが含まれる。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The TNFD advises organisations to consider actions within the context of the Science Based Target Network’s (SBTN’s) AR3T framework (Figure 6). This includes four types of actions: avoid and reduce negative impacts; restore and regenerate; transformation of business models, products, services, markets and investments; and contribute to needed systemic change inside and outside value chains.",
+      "ja": "TNFDは、科学に基づく目標ネットワーク（SBTN）のAR3Tフレームワーク（図6）の文脈で行動を検討するよう組織に勧めている。これには4種類の行動が含まれる。すなわち、マイナスのインパクトの回避と軽減、復元と再生、ビジネスモデル、製品、サービス、市場および投資の変革、ならびにバリューチェーンの内外で必要とされるシステム的な変化への貢献である。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "Table 9 presents illustrative examples of actions that technology and communications organisations may want to consider, based on the material dependencies, impacts, risks and opportunities identified in the Locate, Evaluate and Assess phases of LEAP.",
+      "ja": "表9は、LEAPの発見、診断、評価の各フェーズで特定したマテリアルな依存、インパクト、リスクと機会に基づき、技術・通信セクターの組織が検討し得る行動の例示を示している。"
+    },
+    {
+      "page": 73,
+      "type": "p",
+      "en": "The actions are mapped using the TNFD’s interpretation of the AR3T framework and are intended to support organisations when planning and sequencing actions across their sphere of control and influence. Actions may vary significantly by business model and across industries within the sector.",
+      "ja": "これらの行動は、TNFDによるAR3Tフレームワークの解釈を用いて整理したものであり、組織が自らの管理範囲と影響範囲にわたって行動を計画し、その順序を決める際に支援することを意図している。行動は、ビジネスモデルによって、またセクター内の産業間で大きく異なる場合がある。"
+    },
+    {
+      "page": 74,
+      "type": "caption",
+      "en": "Figure 6: SBTN’s AR3T framework",
+      "ja": "図6：SBTNのAR3Tフレームワーク",
+      "flag": "layout-uncertain: figure content not extractable"
+    },
+    {
+      "page": 75,
+      "type": "caption",
+      "en": "Table 9: Illustrative actions for technology and communications sector mapped to AR3T",
+      "ja": "表9：AR3Tに対応付けた技術・通信セクターの行動の例示"
+    },
+    {
+      "page": 75,
+      "type": "figure",
+      "en": "SBTN Action Framework (AR3T): Avoid | Reduce | Restore | Regenerate | Transform",
+      "ja": "SBTN行動フレームワーク（AR3T）：回避｜軽減｜復元｜再生｜変革",
+      "flag": "layout-uncertain: AR3T column markers per row not extractable (repeated on pp.75-79)"
+    },
+    {
+      "page": 75,
+      "type": "table",
+      "en": "| Dependency/impact driver | Impacts/risks to be mitigated | Examples of actions/responses |\n|---|---|---|\n| Land/freshwater/ocean use change | Reduced access to freshwater, vulnerability to extreme weather events including droughts and floods putting infrastructure and operations at risk.<br>Extensive land conversion due to expansion and new infrastructure developments driven by demand for AI and/or technology and communications services. | Invest in watershed-based nature solutions, such as wetland restoration and conservation, to reduce flood and drought risks, strengthen climate resilience and deliver wider nature co-benefits.<br>Prioritise new developments in brownfield areas to avoid net new impact.<br>Adopt/implement co-location models for telecom infrastructure operators to avoid construction of new infrastructure and avoid and reduce associated impacts. |",
+      "ja": "| 依存／インパクト要因 | 緩和すべきインパクト／リスク | 行動／対応の例 |\n|---|---|---|\n| 陸／淡水／海洋利用の変化 | 淡水へのアクセスの低下、ならびに干ばつや洪水を含む異常気象事象に対する脆弱性により、インフラと操業がリスクにさらされる。<br>AIおよび／または技術・通信サービスに対する需要に起因する拡張と新たなインフラ開発による大規模な土地転換。 | 洪水と干ばつのリスクを低減し、気候レジリエンスを強化し、自然に対するより幅広いコベネフィットをもたらすため、湿地の復元と保全など、流域を基盤とする自然を活用した解決策に投資する。<br>正味で新たなインパクトを回避するため、ブラウンフィールドでの新規開発を優先する。<br>新たなインフラの建設を回避し、関連するインパクトを回避・軽減するため、通信インフラ事業者向けのコロケーションモデルを採用／実施する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 76,
+      "type": "table",
+      "en": "| Dependency/impact driver | Impacts/risks to be mitigated | Examples of actions/responses |\n|---|---|---|\n| Pollution/pollution removal | Contaminated wastewater or pollutants discharged to air, soil and/or local water bodies. | Avoid pollution and contaminants (e.g. wastewater, waste heat, solid waste) impacting the environment by using advanced waste control systems and setting zero-waste-to-landfill standards (e.g. UL2799). Rehabilitate areas damaged by pollutants and waste by investing in and supporting land and water restoration efforts. |\n|  | Pollution from hazardous substances and process chemicals/gases (including wastewater contaminants and air emissions), leading to impacts on freshwater and ecosystems and increased regulatory/reputational risks. | Implement substitution and controls to reduce the use and release of hazardous substances, including adopting lower-impact chemicals and gases and applying best available abatement and wastewater treatment systems. |\n|  | Increased e-waste generation, loss of valuable materials and upstream resource pressures from primary material demand. | Design products and equipment for circularity, including durability, modularity, repairability and reuse, supported by take-back programmes and recovery of materials through refurbishment and recycling pathways. |\n|  | Reduction of water withdrawal. | Invest in water recycling to reduce water withdrawal from natural water bodies. |",
+      "ja": "| 依存／インパクト要因 | 緩和すべきインパクト／リスク | 行動／対応の例 |\n|---|---|---|\n| 汚染／汚染除去 | 大気、土壌および／または地域の水域に排出される汚染された廃水または汚染物質。 | 高度な廃棄物管理システムを用い、埋め立て廃棄物ゼロの基準（例：UL2799）を設定することで、環境にインパクトを与える汚染や汚染物質（例：廃水、廃熱、固体廃棄物）を回避する。土地と水の復元の取り組みに投資し支援することで、汚染物質と廃棄物によって損なわれた地域を修復する。 |\n|  | 有害物質とプロセス用化学物質／ガス（廃水中の汚染物質と大気排出を含む）による汚染により、淡水と生態系にインパクトが生じ、規制／評判リスクが高まる。 | よりインパクトの低い化学物質とガスの採用、ならびに利用可能な最良の排出削減・廃水処理システムの適用を含め、有害物質の使用と放出を削減するための代替と管理を実施する。 |\n|  | 電子廃棄物の発生の増加、貴重な材料の損失、および一次材料の需要に起因する上流での資源への負荷。 | 引き取り回収プログラムと、リファービッシュおよびリサイクルの経路を通じた材料の回収に支えられた、耐久性、モジュール性、修理可能性、再利用を含む循環性を考慮して製品と機器を設計する。 |\n|  | 取水量の削減。 | 自然の水域からの取水量を削減するため、水のリサイクルに投資する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 77,
+      "type": "table",
+      "en": "| Dependency/impact driver | Impacts/risks to be mitigated | Examples of actions/responses |\n|---|---|---|\n| Water use/replenishment | Significant water volumes used towards cooling of datacentre facilities. | Engage with government, water utilities, communities and other landscape stakeholders to inform datacentre siting or expansion, considering cumulative and future water demands, impacts on other users and ecosystems, and opportunities for shared water-efficient or circular infrastructure.<br>Select and secure energy from non-water intensive power generation (e.g. solar, wind). Implement water use efficiency strategy.82<br>Invest in sustainable water basin management plans with other stakeholders in the landscape, including conservation and/or restoration of watersheds.<br>For new developments, avoid siting facilities in water-scarce areas or where cooling requirements would place additional pressure on water resources.<br>For new and existing facilities, incorporate vegetation to reduce cooling and heating needs.<br>Monitor and optimise cooling systems for efficiency and conditions (e.g. using AI to detect leaks within piping systems, climate monitoring to switch to free air cooling when conditions allow, raising operating temperatures).<br>Implement closed loop systems and water reuse practices e.g. ‘zero-water’ cooling in data centres, targeting Water usage Efficiency (WUE) that is close to zero by eliminating evaporative cooling losses and circulating cooling water in a sealed loop and/or prioritising non-potable water where feasible. |",
+      "ja": "| 依存／インパクト要因 | 緩和すべきインパクト／リスク | 行動／対応の例 |\n|---|---|---|\n| 水使用／補充 | データセンター施設の冷却に大量の水が使用される。 | 累積的および将来の水需要、他の利用者と生態系へのインパクト、ならびに水効率の高いインフラや循環型インフラを共用する機会を考慮し、データセンターの立地選定や拡張の判断に役立てるため、政府、水道事業者、地域社会、その他のランドスケープのステークホルダーとエンゲージメントを行う。<br>水を大量に使用しない発電（例：太陽光、風力）によるエネルギーを選択し確保する。水使用効率化戦略を実施する82。<br>流域の保全および／または復元を含め、ランドスケープ内の他のステークホルダーとともに持続可能な流域管理計画に投資する。<br>新規開発においては、水不足の地域や、冷却要件が水資源にさらなる負荷をかけることになる場所への施設の立地を回避する。<br>新規および既存の施設において、冷却需要と暖房需要を削減するため植生を取り入れる。<br>効率と条件に合わせて冷却システムを監視し最適化する（例：AIを用いた配管系統内の漏水検知、条件が許す場合に外気冷却へ切り替えるための気象モニタリング、運転温度の引き上げ）。<br>クローズドループシステムと水の再利用の慣行を導入する。例えば、データセンターにおける「ゼロウォーター」冷却により、蒸発冷却による損失をなくし、密閉ループ内で冷却水を循環させることおよび／または実行可能な場合には非飲料水を優先することで、ゼロに近い水使用効率（WUE）を目指す。 |",
+      "flag": "term-uncertain: landscape stakeholders"
+    },
+    {
+      "page": 77,
+      "type": "footnote",
+      "en": "82 Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers.",
+      "ja": "82 Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress; Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers."
+    },
+    {
+      "page": 78,
+      "type": "table",
+      "en": "| Dependency/impact driver | Impacts/risks to be mitigated | Examples of actions/responses |\n|---|---|---|\n| Resource use/replenishment | Reliance on raw commodities, including metals and mining, puts natural resources at risk of depletion creating risks for the organisation.<br>Supply disruption risks from impacts of upstream extraction and processing of materials (including metals and minerals), with potential exposure to regulatory, reputational and operational risks. | Utilise emerging technologies for improved supply chain transparency and transformation.83 Optimise hardware and process design with circularity in mind, e.g. utilise recycled materials, substitute high-risk commodities with lower impact alternatives, and design with a modular focus to support repairability. Engage suppliers and other value chain partners on traceability, responsible sourcing and supplier performance, supported by procurement policies, supplier due diligence and monitoring. |\n|  | High water use, increasing pressure on local water resources and exposure to water scarcity. | Monitor and optimise cooling systems for efficiency and local conditions, including liquid cooling and closed-loop systems where these reduce water use. |",
+      "ja": "| 依存／インパクト要因 | 緩和すべきインパクト／リスク | 行動／対応の例 |\n|---|---|---|\n| 資源使用／資源補充 | 金属や鉱業を含む一次産品への依存により、自然資源が枯渇のリスクにさらされ、組織にとってのリスクが生じる。<br>材料（金属と鉱物を含む）の上流での採掘と加工のインパクトに起因する供給途絶リスク。規制、評判および操業上のリスクにさらされる可能性がある。 | サプライチェーンの透明性の向上と変革のために新興技術を活用する83。循環性を念頭に置いてハードウェアとプロセスの設計を最適化する。例えば、リサイクル材料を活用し、高リスクの一次産品をよりインパクトの低い代替品に置き換え、修理可能性を支えるモジュール性を重視した設計を行う。調達方針、サプライヤーのデューディリジェンスとモニタリングに支えられた形で、トレーサビリティ、責任ある調達およびサプライヤーのパフォーマンスについて、サプライヤーやその他のバリューチェーンのパートナーとエンゲージメントを行う。 |\n|  | 大量の水使用により、地域の水資源への負荷が増し、水不足にさらされる。 | 水使用を削減できる場合には液冷やクローズドループシステムも含め、効率と地域の条件に合わせて冷却システムを監視し最適化する。 |",
+      "flag": "layout-uncertain: table cell mapping reconstructed"
+    },
+    {
+      "page": 78,
+      "type": "footnote",
+      "en": "83 Trade-offs should be carefully assessed to ensure the benefits outweigh potential adverse impacts of emerging technologies.",
+      "ja": "83 新興技術の便益がその潜在的な悪影響を上回ることを確保するため、トレードオフを慎重に評価すべきである。"
+    },
+    {
+      "page": 79,
+      "type": "table",
+      "en": "| Dependency/impact driver | Impacts/risks to be mitigated | Examples of actions/responses |\n|---|---|---|\n| All | Impacts associated with inefficient architectures, over-provisioning, excessive data movement or compute-intensive design patterns. | Develop product roadmaps, architecture standards, engineering practices and digital governance processes. |",
+      "ja": "| 依存／インパクト要因 | 緩和すべきインパクト／リスク | 行動／対応の例 |\n|---|---|---|\n| すべて | 非効率なアーキテクチャー、過剰なリソース配備、過度のデータ移動、または計算負荷の高い設計パターンに関連するインパクト。 | 製品ロードマップ、アーキテクチャー基準、エンジニアリング慣行およびデジタルガバナンスのプロセスを策定する。 |"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "For additional illustrative examples of corporate responses to mitigate and manage nature-related dependencies, impacts, risks and opportunities (DIROs) in the technology and communications sector, organisations may refer to the World Economic Forum report Nature Positive: Role of the Technology Sector (2025). The report includes examples of actions focused on semiconductors, hardware and electronics, and datacentres. Figure 7 provides a categorisation of selected actions, which WEF has categorised as ‘foundational’, ‘leading’ and ‘aspirational’ actions.",
+      "ja": "技術・通信セクターにおける自然関連の依存、インパクト、リスクと機会（DIROs）を緩和し管理するための企業の対応について、さらなる例示については、世界経済フォーラム（WEF）の報告書「Nature Positive: Role of the Technology Sector」（2025年）を参照することができる。同報告書には、半導体、ハードウェアと電子機器、およびデータセンターに焦点を当てた行動の例が含まれている。図7は、選定された行動の分類を示しており、WEFはこれらを「基礎的」「先導的」「志向的」な行動に分類している。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "While the scope of the WEF report is narrower than this TNFD technology and communications sector guidance (and does not cover all sector business models), the examples can be relevant for many organisations in the sector, including where material dependencies and impacts arise across value chains.",
+      "ja": "WEFの報告書の対象範囲は、本TNFD技術・通信セクターガイダンスよりも狭い（また、セクターのすべてのビジネスモデルを網羅していない）が、その例は、マテリアルな依存とインパクトがバリューチェーン全体にわたって生じる場合を含め、セクター内の多くの組織にとって関連性があり得る。"
+    },
+    {
+      "page": 79,
+      "type": "p",
+      "en": "Large technology and communications organisations that do not have direct operations where the most significant nature-related dependencies and impacts occur (including those in software and IT services, internet media and services and telecommunication services) can engage with suppliers and other value chain partners, via supplier engagement models, contractual levers and collaborative initiatives, to support and encourage implementation of such actions beyond their own direct operations.",
+      "ja": "最も重大な自然関連の依存とインパクトが生じる場所に直接操業を有していない大規模な技術・通信セクターの組織（ソフトウェアおよびITサービス、インターネット・メディアおよびサービス、ならびに電気通信サービスの組織を含む）は、自らの直接操業を超えてこうした行動の実施を支援し促すため、サプライヤー・エンゲージメントのモデル、契約上の手段および協働的なイニシアチブを通じて、サプライヤーやその他のバリューチェーンのパートナーとエンゲージメントを行うことができる。"
+    },
+    {
+      "page": 80,
+      "type": "caption",
+      "en": "Figure 7: Tiering actions based on nature leadership",
+      "ja": "図7：自然に関するリーダーシップに基づく行動の階層化"
+    },
+    {
+      "page": 80,
+      "type": "figure",
+      "en": "Foundational: Foundational, often incremental actions that are, or are becoming, common practice — 1.1 Review sites for water stress; 1.2 Design & operate for efficiency; 2.2 Extend equipment lifespan; 2.7 Adopt pollution & waste controls; 3.1 Monitor for direct GHG leaks; 4.6 Engage community stakeholders; 5.1 Low-carbon onsite energy or PPAs; 5.3 Design power-efficient buildings; 6.1 Suppliers with sustainability certificates; 7.2 Report nature impacts",
+      "ja": "基礎的：一般的な慣行である、または一般的な慣行となりつつある、基礎的で多くの場合漸進的な行動 — 1.1 拠点の水ストレスの確認、1.2 効率を重視した設計と運用、2.2 機器の寿命延長、2.7 汚染・廃棄物管理の導入、3.1 直接的なGHG漏洩の監視、4.6 地域社会のステークホルダーとのエンゲージメント、5.1 低炭素のオンサイトエネルギーまたはPPA、5.3 電力効率の高い建物の設計、6.1 サステナビリティ認証を有するサプライヤー、7.2 自然へのインパクトの報告"
+    },
+    {
+      "page": 80,
+      "type": "figure",
+      "en": "Leading: Actions adopted by several leaders that expand nature benefits and competitive advantage — 1.3 Assess complete water footprint; 1.4 Closed-loop & water reuse; 2.1 Design for circularity/repairability; 2.5 Establish collection programmes; 3.2 Utilise gas scrubbers; 3.4 Invest in carbon credits; 4.1 Prioritise brownfield development; 4.4 Green roofs, native vegetation; 5.2 Sponsor low-carbon capacity; 5.4 Optimise cooling systems; 5.5 Dynamic: process management; 6.3 Lower-impact chemicals, gasses; 6.4 Lower-carbon building materials; 6.6 Set supply chain commitments; 7.1 Proactively engage policy-makers",
+      "ja": "先導的：複数の先導的企業が採用している、自然への便益と競争優位性を拡大する行動 — 1.3 水フットプリント全体の評価、1.4 クローズドループと水の再利用、2.1 循環性／修理可能性を考慮した設計、2.5 回収プログラムの確立、3.2 ガススクラバーの活用、3.4 カーボンクレジットへの投資、4.1 ブラウンフィールド開発の優先、4.4 屋上緑化、在来植生、5.2 低炭素の発電容量への出資、5.4 冷却システムの最適化、5.5 動的なプロセス管理、6.3 よりインパクトの低い化学物質とガス、6.4 より低炭素な建築資材、6.6 サプライチェーンに関するコミットメントの設定、7.1 政策立案者への積極的な働きかけ",
+      "flag": "term-uncertain: Sponsor low-carbon capacity"
+    },
+    {
+      "page": 80,
+      "type": "figure",
+      "en": "Aspirational: Ambitious, often transformative and less common practices that shape the value chain — 1.5 Restore local watersheds; 2.3 Embed digital circularity practices; 2.4 Develop repair infrastructure; 2.6 E-waste recycling infrastructure; 2.8 Invest in pollution rehabilitation; 3.3 Design to lower embodied carbon; 4.2 Assess biodiversity risk in sites; 4.3 Establish biodiversity baseline; 4.5 Invest in biodiversity offsets; 6.2 Lower-impact metals, minerals; 6.5 R&D low impact chemicals, gasses; 7.3 Sector-level nature benchmarks",
+      "ja": "志向的：バリューチェーンを形づくる、野心的で多くの場合変革的であり、まだ一般的でない慣行 — 1.5 地域の流域の復元、2.3 デジタルの循環性慣行の組み込み、2.4 修理インフラの整備、2.6 電子廃棄物のリサイクルインフラ、2.8 汚染からの修復への投資、3.3 内包炭素を低減する設計、4.2 拠点における生物多様性リスクの評価、4.3 生物多様性のベースラインの確立、4.5 生物多様性オフセットへの投資、6.2 よりインパクトの低い金属と鉱物、6.5 低インパクトの化学物質とガスの研究開発、7.3 セクターレベルの自然に関するベンチマーク",
+      "flag": "term-uncertain: Aspirational"
+    },
+    {
+      "page": 80,
+      "type": "figure",
+      "en": "Legend: Water use; Pollution and waste; Greenhouse gas emissions; Land use; Electricity use; Supply chain engagement; Policy and external engagement",
+      "ja": "凡例：水使用、汚染と廃棄物、温室効果ガス排出、土地利用、電力使用、サプライチェーンとのエンゲージメント、政策と外部とのエンゲージメント"
+    },
+    {
+      "page": 80,
+      "type": "figure",
+      "en": "Source: WEF (2025) Nature Positive: The role of the technology sector.",
+      "ja": "出典：WEF (2025) Nature Positive: The role of the technology sector."
+    }
+  ]
+}

@@ -1,0 +1,1253 @@
+{
+  "doc": "tc",
+  "pages": [
+    121,
+    135
+  ],
+  "segments": [
+    {
+      "page": 121,
+      "type": "table",
+      "en": "| List | Type of source | Summary |\n| --- | --- | --- |\n| Appendix C of the EU Taxonomy Delegated Acts | Regulation | Sets the generic ‘Do No Significant Harm’ (DNSH) criteria for pollution prevention and control regarding the use and presence of chemicals. It restricts economic activities from manufacturing, placing on the market or using hazardous chemical groups like POPs, mercury and certain REACH-regulated substances. |\n| Toxic Substances Control Act (TCSA) | Regulation | TSCA addresses the production, importation, use and disposal of specific chemicals including polychlorinated biphenyls (PCBs), asbestos, radon and lead-based paint. It contains more than 83,000 chemicals. Certain substances are generally excluded including, among others, food, drugs, cosmetics and pesticides. |\n| Proposition 65 List | Regulation | Proposition 65 provides a list of naturally occurring and synthetic chemicals causing cancer and/or reproductive harm. |\n| PFAS Global Portal for harmonised classification | Scientific and policy guidance | OECD’s global portal provides a Harmonised Integrated Classification System for Human Health and Environmental Hazards of Chemical Substances and Mixtures. |\n| Environmental health and safety (EHS) guidelines for semiconductors and other electronics manufacturing | Scientific and policy guidance | The EHS guidelines contain the performance levels and measures that are generally considered to be achievable in new facilities by existing technology at reasonable costs. |\n| Chemicals Used in the Electronics Industry | Academic literature | Provides an overview of chemicals used in the electronics industry along with their hazards and toxicity concerns. It surveys regulatory and nonregulatory initiatives in place around the world that promote safer chemical selection and reutilisation of chemicals and materials and describes tools and practices that contribute to reduced consumption of chemicals of concern in this industry. |",
+      "ja": "| リスト | 情報源の種類 | 概要 |\n| --- | --- | --- |\n| EUタクソノミー委任法令の付録C | 規制 | 化学物質の使用および存在に関する汚染の防止と管理について、一般的な「重大な害を及ぼさない（DNSH）」基準を定めている。POPs、水銀、REACH規則で規制される特定の物質などの有害化学物質群を製造し、上市し、または使用する経済活動を制限している。 |\n| 有害物質規制法（TCSA） | 規制 | TSCAは、ポリ塩化ビフェニル（PCB）、アスベスト、ラドン、鉛含有塗料を含む特定の化学物質の製造、輸入、使用および廃棄を対象としている。83,000を超える化学物質を収載している。特に食品、医薬品、化粧品、農薬など、一部の物質は一般に対象外とされている。 |\n| プロポジション65リスト | 規制 | プロポジション65は、がんおよび／または生殖への害を引き起こす天然由来および合成の化学物質のリストを提供している。 |\n| 調和分類のためのPFASグローバルポータル | 科学・政策ガイダンス | OECDのグローバルポータルは、化学物質および混合物の人の健康および環境に対する有害性に関する調和統合分類システムを提供している。 |\n| 半導体およびその他の電子機器製造に関する環境・衛生・安全（EHS）ガイドライン | 科学・政策ガイダンス | EHSガイドラインには、一般に、新規施設において既存の技術により合理的なコストで達成可能と考えられるパフォーマンス水準と対策が含まれている。 |\n| Chemicals Used in the Electronics Industry（電子産業で使用される化学物質） | 学術文献 | 電子産業で使用される化学物質の概要を、その有害性と毒性に関する懸念とともに示している。より安全な化学物質の選択や化学物質・材料の再利用を促進する、世界各地で実施されている規制上および非規制上の取り組みを調査し、この産業における懸念化学物質の消費削減に寄与するツールと慣行を説明している。 |"
+    },
+    {
+      "page": 122,
+      "type": "table",
+      "en": "| List | Type of source | Summary |\n| --- | --- | --- |\n| Stockholm Convention on Persistent Organic Pollutants (POPs) | Regulation | List of POPs as listed in the Stockholm Convention for parties to take measures to eliminate production and use (Annex A), to restrict production and use (Annex B) and to reduce unintentional releases (Annex C). |\n| EU Environmental Quality Standards (EQS) Directive (2008/105/EC), Annex I, Part A | Regulation | Part A of Annex I lists priority substances and sets environmental quality standards (EQS) for surface waters. |\n| National Primary Drinking Water Regulation | Regulation | US EPA established legally enforceable levels, called Maximum Contaminant Levels (MCLs) for six PFAS in drinking water. |\n| ISO 14046 Water Footprint | Technical standards | ISO 14046 specifies principles, requirements and guidelines related to water footprint assessment of products, processes and organisations based on life cycle assessment (LCA). Only air and soil emissions that impact water quality are included in the assessment, and not all air and soil emissions are included. |\n| GRI 303: Water and effluents 2018 | Technical standards | GRI 303 provides reporting requirements on water withdrawal, consumption, discharge and related impacts caused or contributed to, or that are directly linked to its operations, products or services by its business relationship (e.g. runoff). |\n| The e-Stewards Standard | Technical standards | Certification standard for e-waste. |\n| Seri’s R2V3 Standards | Technical standards | Certification standard that ensures electronics recyclers and ITAD companies manage electronic waste responsibly, protecting the environment, ensuring data security and safeguarding worker health and safety. |",
+      "ja": "| リスト | 情報源の種類 | 概要 |\n| --- | --- | --- |\n| 残留性有機汚染物質（POPs）に関するストックホルム条約 | 規制 | ストックホルム条約に掲載されたPOPsのリストであり、締約国は、製造と使用の廃絶（附属書A）、製造と使用の制限（附属書B）、非意図的な放出の削減（附属書C）のための措置を講じる。 |\n| EU環境基準（EQS）指令（2008/105/EC）附属書I パートA | 規制 | 附属書IのパートAは、優先物質を列挙し、地表水に関する環境基準（EQS）を定めている。 |\n| 国家一次飲料水規則 | 規制 | 米国環境保護庁（EPA）は、飲料水中の6種類のPFASについて、最大汚染物質濃度（MCL）と呼ばれる法的強制力のある基準値を定めた。 |\n| ISO 14046 ウォーターフットプリント | 技術基準 | ISO 14046は、ライフサイクルアセスメント（LCA）に基づく製品、プロセスおよび組織のウォーターフットプリント評価に関する原則、要求事項および指針を規定している。評価には水質にインパクトを与える大気および土壌への排出のみが含まれ、大気および土壌への排出のすべてが含まれるわけではない。 |\n| GRI 303：水と廃水 2018 | 技術基準 | GRI 303は、取水、水消費、排水、ならびに組織が引き起こした、もしくは助長した、またはビジネス上の関係によって組織の事業、製品もしくはサービスに直接関連する、関連インパクト（例えば、流出水）に関する報告要求事項を定めている。 |\n| e-Stewards規格 | 技術基準 | 電子廃棄物（E-waste）に関する認証規格。 |\n| SERIのR2V3規格 | 技術基準 | 電子機器リサイクル事業者およびIT資産処分（ITAD）企業が、環境を保護し、データセキュリティを確保し、労働者の安全衛生を守りながら、電子廃棄物を責任をもって管理することを保証する認証規格。 |"
+    },
+    {
+      "page": 123,
+      "type": "table",
+      "en": "| List | Type of source | Summary |\n| --- | --- | --- |\n| IEC 62474 Material declaration for products of and for the electrotechnical industry | Technical standards | Specifies the procedure, content and form relating to material declarations for products of companies operating in and supplying the electrotechnical industry. It provides data to downstream manufacturers that allows them to assess products against substance restriction compliance requirements that they can use in their environmentally conscious design process and across all product life cycle phases. |\n| New Batteries Regulation | Regulation | EU regulation concerning batteries and waste batteries. |\n| OECD Due Diligence Guidance for Responsible Sourcing of Minerals from Conflict-Affected and High-Risk Areas | Scientific and policy guidance | Provides step-by-step management recommendations endorsed by governments for global responsible supply chains of all minerals, in order for companies to respect human rights and avoid contributing to conflict through their mineral or metal purchasing decisions and practices. |\n| EU Industrial Emissions Directive (2010/75/EU) | Regulation | EU regulation on industrial emissions (integrated pollution prevention and control). |\n| OECD Emission scenario document for chemicals used in the electronics industry | Scientific and policy guidance | Provides information on the sources, use patterns and release pathways of chemicals used in the electronics industry to assist in the estimation of releases of chemicals into the environment. |",
+      "ja": "| リスト | 情報源の種類 | 概要 |\n| --- | --- | --- |\n| IEC 62474 電気・電子業界の製品に関する材料宣言 | 技術基準 | 電気・電子業界で事業を行い、またはこれに供給する企業の製品に関する材料宣言の手順、内容および形式を規定している。下流の製造業者に対し、物質規制の遵守要件に照らして製品を評価できるデータを提供し、製造業者はこれを環境配慮設計プロセスおよび製品ライフサイクルの全段階において利用できる。 |\n| 新電池規則 | 規制 | 電池および廃電池に関するEU規則。 |\n| 紛争地域および高リスク地域からの鉱物の責任あるサプライチェーンのためのOECDデューディリジェンス・ガイダンス | 科学・政策ガイダンス | 企業が人権を尊重し、鉱物または金属の購買に関する意思決定と慣行を通じて紛争に加担することを回避するため、あらゆる鉱物のグローバルな責任あるサプライチェーンについて、各国政府が承認した段階的な管理上の推奨事項を提供している。 |\n| EU産業排出指令（2010/75/EU） | 規制 | 産業排出（統合的汚染防止管理）に関するEU規則。 |\n| 電子産業で使用される化学物質に関するOECD排出シナリオ文書 | 科学・政策ガイダンス | 環境への化学物質の放出量の推計に資するよう、電子産業で使用される化学物質の発生源、使用パターンおよび放出経路に関する情報を提供している。 |"
+    },
+    {
+      "page": 124,
+      "type": "h1",
+      "en": "References",
+      "ja": "参考文献"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "A&C Plastics (n.d.) Common Plastics for Electronic Enclosures.",
+      "ja": "A&C Plastics (n.d.) Common Plastics for Electronic Enclosures."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "American Bird Conservancy (n.d.) Bird Collisions and Communications Towers – American Bird Conservancy.",
+      "ja": "American Bird Conservancy (n.d.) Bird Collisions and Communications Towers – American Bird Conservancy."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Alert Labs (2025) How Water Leak Detection Systems for Data Centers Minimize Damage & Downtime.",
+      "ja": "Alert Labs (2025) How Water Leak Detection Systems for Data Centers Minimize Damage & Downtime."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Althaf, S. and Babbitt, C.W. (2020) Disruption risks to material supply chains in the electronics sector. Resources, Conservation and Recycling, vol. 167, p. 105248.",
+      "ja": "Althaf, S. and Babbitt, C.W. (2020) Disruption risks to material supply chains in the electronics sector. Resources, Conservation and Recycling, vol. 167, p. 105248."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Ainvest (2025) AI Data Centers to Boost Global Water Consumption 11-Fold by 2028: Morgan Stanley Report.",
+      "ja": "Ainvest (2025) AI Data Centers to Boost Global Water Consumption 11-Fold by 2028: Morgan Stanley Report."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "APLD (n d.) The Environmental Impact of Legionnaires’ Disease Outbreaks. The Alliance to Prevent Legionnaires’ Disease.",
+      "ja": "APLD (n d.) The Environmental Impact of Legionnaires’ Disease Outbreaks. The Alliance to Prevent Legionnaires’ Disease."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Audu, A.J. et al. (2024) The role of digital tools in enhancing environmental monitoring and business efficiency. International Journal of Multidisciplinary Research Updates 8(2): 039–048.",
+      "ja": "Audu, A.J. et al. (2024) The role of digital tools in enhancing environmental monitoring and business efficiency. International Journal of Multidisciplinary Research Updates 8(2): 039–048."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "AXA (2023) Why Should Water Stewardship Go Beyond ESG Strategy?",
+      "ja": "AXA (2023) Why Should Water Stewardship Go Beyond ESG Strategy?"
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Barclays Investment Bank (2025). AI revolution: Meeting massive AI infrastructure demands.",
+      "ja": "Barclays Investment Bank (2025). AI revolution: Meeting massive AI infrastructure demands."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Barlett, S. et al. (2024) Data center facility sustainability metrics. Open Compute Project.",
+      "ja": "Barlett, S. et al. (2024) Data center facility sustainability metrics. Open Compute Project."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Bennett, G. and Mulongoy, K.J. (2006) Review of. Experience with Ecological Networks, Corridors and Buffer Zones. CBD Technical Series No.23. Secretariat of the Convention on Biological Diversity.",
+      "ja": "Bennett, G. and Mulongoy, K.J. (2006) Review of. Experience with Ecological Networks, Corridors and Buffer Zones. CBD Technical Series No.23. Secretariat of the Convention on Biological Diversity."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Boakes, L., Famularo, J. and Burki, T. (2025) Material circularity across the semiconductor value chain: Prioritising and mobilising action. Imec, SEMI, Subgeni LLC.",
+      "ja": "Boakes, L., Famularo, J. and Burki, T. (2025) Material circularity across the semiconductor value chain: Prioritising and mobilising action. Imec, SEMI, Subgeni LLC."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Bricheno, L. et al. (2024) The diversity, frequency and severity of natural hazard impacts on subsea telecommunications networks. Earth-Science Reviews, 259, 104972.",
+      "ja": "Bricheno, L. et al. (2024) The diversity, frequency and severity of natural hazard impacts on subsea telecommunications networks. Earth-Science Reviews, 259, 104972."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "Buechler, D. T. et al. (2020). Comprehensive elemental analysis of consumer electronic devices: rare earth, precious, and critical elements. Waste Management, 103, 67-75.",
+      "ja": "Buechler, D. T. et al. (2020). Comprehensive elemental analysis of consumer electronic devices: rare earth, precious, and critical elements. Waste Management, 103, 67-75."
+    },
+    {
+      "page": 124,
+      "type": "li",
+      "en": "BW Water (2025) Net water positive: Can semiconductor fabs get there?",
+      "ja": "BW Water (2025) Net water positive: Can semiconductor fabs get there?"
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "CDC (2025) Controlling Legionella in Cooling Towers. The U.S. Centers for Disease Control and Prevention.",
+      "ja": "CDC (2025) Controlling Legionella in Cooling Towers. The U.S. Centers for Disease Control and Prevention."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress.",
+      "ja": "Ceres (2025) Drained by Data: The Cumulative Impact of Data Centers on Regional Water Stress."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers.",
+      "ja": "Ceres (2026) Water Behind the Watts: The Hidden Risk of Powering Data Centers."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Chow, A.R. (2025) ’We are the Last of the Forgotten:’ Inside the Memphis Community Battling Eton Elon Musk’s xAI. Time.",
+      "ja": "Chow, A.R. (2025) ’We are the Last of the Forgotten:’ Inside the Memphis Community Battling Eton Elon Musk’s xAI. Time."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Chelsey, J. (2025) Data Center Water Treatment Systems: In Theory and in Practice. Ecologix Environmental Systems.",
+      "ja": "Chelsey, J. (2025) Data Center Water Treatment Systems: In Theory and in Practice. Ecologix Environmental Systems."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Cordelis, P. et al. (2024) The Global E-waste Monitor 2024. United Nations Institute for Training and Research – UNITAR.",
+      "ja": "Cordelis, P. et al. (2024) The Global E-waste Monitor 2024. United Nations Institute for Training and Research – UNITAR."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Craske, B. (2025) What Role Do NBSs Have In Sustainable Data Centre Strategy? Data Centre Magazine.",
+      "ja": "Craske, B. (2025) What Role Do NBSs Have In Sustainable Data Centre Strategy? Data Centre Magazine."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Data Centre Watch (2025) $ 64 billion of data center projects have been blocked or delayed amid local opposition.",
+      "ja": "Data Centre Watch (2025) $ 64 billion of data center projects have been blocked or delayed amid local opposition."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) Regulation on eco-design requirements for servers and data storage products. European Commission.",
+      "ja": "EC (n.d.) Regulation on eco-design requirements for servers and data storage products. European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) 2020 Strategic Foresight Report. European Commission.",
+      "ja": "EC (n.d.) 2020 Strategic Foresight Report. European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS). European Commission.",
+      "ja": "EC (n.d.) Restriction of Hazardous Substances in Electrical and Electronic Equipment (RoHS). European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) Waste from Electrical and Electronic Equipment (WEEE) Directive. European Commission.",
+      "ja": "EC (n.d.) Waste from Electrical and Electronic Equipment (WEEE) Directive. European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) Critical Raw Materials (CRM). European Commission.",
+      "ja": "EC (n.d.) Critical Raw Materials (CRM). European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) Energy Efficiency Directive. European Commission.",
+      "ja": "EC (n.d.) Energy Efficiency Directive. European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EC (n.d.) EU Code of Conduct for Datacentres. European Commission.",
+      "ja": "EC (n.d.) EU Code of Conduct for Datacentres. European Commission."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "Ellis, B. (2000) Environmental issues in electronics manufacturing: a review. Circuit World, 26(2), 17-21.",
+      "ja": "Ellis, B. (2000) Environmental issues in electronics manufacturing: a review. Circuit World, 26(2), 17-21."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "ENCORE Partners (Global Canopy, UNEP FI, and UNEP-WCMC) (2024). ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK.",
+      "ja": "ENCORE Partners (Global Canopy, UNEP FI, and UNEP-WCMC) (2024). ENCORE: Exploring Natural Capital Opportunities, Risks and Exposure. Cambridge, UK."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EnviroPass (n.d.) Plastics in Electronics: A Guide for Engineers.",
+      "ja": "EnviroPass (n.d.) Plastics in Electronics: A Guide for Engineers."
+    },
+    {
+      "page": 125,
+      "type": "li",
+      "en": "EPA (2025) Semiconductor Industry. US Environmental Protection Agency.",
+      "ja": "EPA (2025) Semiconductor Industry. US Environmental Protection Agency."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Esbenshade, R. (2025) Biodiversity and nature-based solutions for data centres: development and optional strategies. Ramboll.",
+      "ja": "Esbenshade, R. (2025) Biodiversity and nature-based solutions for data centres: development and optional strategies. Ramboll."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "ETSI (n.d.) Telecommunications standards. European Telecommunications Standards Institute.",
+      "ja": "ETSI (n.d.) Telecommunications standards. European Telecommunications Standards Institute."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "European Committee of the Regions (n.d.) Ecological compensation to offset environmental impact of new data centre.",
+      "ja": "European Committee of the Regions (n.d.) Ecological compensation to offset environmental impact of new data centre."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Federal Communications Commission (2026) Public Notice – Space Bureau Accepts for Filing Spacex’s Application for Orbital Data Centers.",
+      "ja": "Federal Communications Commission (2026) Public Notice – Space Bureau Accepts for Filing Spacex’s Application for Orbital Data Centers."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Gaustad, G. et al. (2018) Circular economy strategies for mitigating critical material supply issues. Resources, Conservation and Recycling, 13: 24-33.",
+      "ja": "Gaustad, G. et al. (2018) Circular economy strategies for mitigating critical material supply issues. Resources, Conservation and Recycling, 13: 24-33."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network.",
+      "ja": "Geneva Environment Network (2025) The Growing Environmental Risks of E-Waste – Geneva Environment Network."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Genesis Water Tech (2025) The Data Center Water Efficiency Paradox: Why Cooling Tower Blowdown Is Your Hidden Opportunity.",
+      "ja": "Genesis Water Tech (2025) The Data Center Water Efficiency Paradox: Why Cooling Tower Blowdown Is Your Hidden Opportunity."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Geric, M. et al. (2017) Environmental risk assessment of wastewaters from printed circuit board production: A multibiomarker approach using human cells. Chemosphere, 168, 1075–1081.",
+      "ja": "Geric, M. et al. (2017) Environmental risk assessment of wastewaters from printed circuit board production: A multibiomarker approach using human cells. Chemosphere, 168, 1075–1081."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Global Electronics Council (n.d.) Electronic Product Environmental Assessment Tool.",
+      "ja": "Global Electronics Council (n.d.) Electronic Product Environmental Assessment Tool."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Global Electronics Council (2021) State of Sustainability Research: Sustainable Use of Resources.",
+      "ja": "Global Electronics Council (2021) State of Sustainability Research: Sustainable Use of Resources."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Goswami, O. (2023) Chipping in: Critical minerals for semiconductor manufacturing in the US. MIT Sic. Policy Rev, 4, 118-126.",
+      "ja": "Goswami, O. (2023) Chipping in: Critical minerals for semiconductor manufacturing in the US. MIT Sic. Policy Rev, 4, 118-126."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "GRI (2016) GRI 305: Emissions. Global Reporting Initiative.",
+      "ja": "GRI (2016) GRI 305: Emissions. Global Reporting Initiative."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "GRI (2018) GRI 303: Water and Effluents. Global Reporting Initiative.",
+      "ja": "GRI (2018) GRI 303: Water and Effluents. Global Reporting Initiative."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "GRI (2024) GRI 101: Biodiversity 2024. Global Reporting Initiative.",
+      "ja": "GRI (2024) GRI 101: Biodiversity 2024. Global Reporting Initiative."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "GRI (2024) GRI Standards Glossary. Global Reporting Initiative.",
+      "ja": "GRI (2024) GRI Standards Glossary. Global Reporting Initiative."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Gu, H. (2024) The Hidden Environmental Cost of Data Center Growth – Millions of Tons of E-Waste. Medium.",
+      "ja": "Gu, H. (2024) The Hidden Environmental Cost of Data Center Growth – Millions of Tons of E-Waste. Medium."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Hajonides, J., McCarthy, J., Koulouri, K. and Camargo, R. (2025) Navigating AI’s Thirst in a World a Water-Scarce World: A Governance Agenda for AI and the Environment. Nature Alpha and Nature Finance.",
+      "ja": "Hajonides, J., McCarthy, J., Koulouri, K. and Camargo, R. (2025) Navigating AI’s Thirst in a World a Water-Scarce World: A Governance Agenda for AI and the Environment. Nature Alpha and Nature Finance."
+    },
+    {
+      "page": 126,
+      "type": "li",
+      "en": "Halland, Z. (2026) Emerging Technologies and Nature-based Solutions for Achieving Sustainable Development Goals.",
+      "ja": "Halland, Z. (2026) Emerging Technologies and Nature-based Solutions for Achieving Sustainable Development Goals."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact. Interface.",
+      "ja": "Hess, J.C. (2024) Chip Production’s Ecological Production: Mapping Climate and Environmental Impact. Interface."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "Hines Research (2025) Power Play: The Emerging Powered Land Opportunity.",
+      "ja": "Hines Research (2025) Power Play: The Emerging Powered Land Opportunity."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IEA (2024) Electricity 2024. International Energy Agency.",
+      "ja": "IEA (2024) Electricity 2024. International Energy Agency."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IEA (2025) Energy and AI. International Energy Agency.",
+      "ja": "IEA (2025) Energy and AI. International Energy Agency."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IEA (2025) Global Critical Minerals Outlook 2025. International Energy Agency.",
+      "ja": "IEA (2025) Global Critical Minerals Outlook 2025. International Energy Agency."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IEA (2026) Key Questions on Energy and AI. International Energy Agency.",
+      "ja": "IEA (2026) Key Questions on Energy and AI. International Energy Agency."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IEC (2018) IEC 62474:2018 Material declaration for products of and for the electrotechnical industry. International Electrotechnical Commission.",
+      "ja": "IEC (2018) IEC 62474:2018 Material declaration for products of and for the electrotechnical industry. International Electrotechnical Commission."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation.",
+      "ja": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IFC (2012) Performance Standard 1: Assessment and Management of Environmental and Social Risks and Impacts. International Finance Corporation, World Bank Group.",
+      "ja": "IFC (2012) Performance Standard 1: Assessment and Management of Environmental and Social Risks and Impacts. International Finance Corporation, World Bank Group."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IFC (2012) Performance Standard 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources. International Finance Corporation, World Bank Group.",
+      "ja": "IFC (2012) Performance Standard 6: Biodiversity Conservation and Sustainable Management of Living Natural Resources. International Finance Corporation, World Bank Group."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IFRS Foundation (n.d.) IFRS S2 Climate-related Disclosures: Appendix B – Industry-based disclosure requirements. The International Financial Reporting Standards.",
+      "ja": "IFRS Foundation (n.d.) IFRS S2 Climate-related Disclosures: Appendix B – Industry-based disclosure requirements. The International Financial Reporting Standards."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "ISO (2006) ISO 14040: Environmental management – Life cycle assessment – Principles and framework. International Organization for Standardization.",
+      "ja": "ISO (2006) ISO 14040: Environmental management – Life cycle assessment – Principles and framework. International Organization for Standardization."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "ISO (2006) ISO 14044: Environmental management – Life cycle assessment – Requirements and guidelines. International Organization for Standardization.",
+      "ja": "ISO (2006) ISO 14044: Environmental management – Life cycle assessment – Requirements and guidelines. International Organization for Standardization."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "ISO (2017) ISO 20400: Sustainable procurement – Guidelines. International Organization for Standardization.",
+      "ja": "ISO (2017) ISO 20400: Sustainable procurement – Guidelines. International Organization for Standardization."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "ISO (2012) ISO/IEC 30134-9: Information technology – Data centres key performance indicators – Part 9: Water Use Effectiveness (WUE). International Organization for Standardization.",
+      "ja": "ISO (2012) ISO/IEC 30134-9: Information technology – Data centres key performance indicators – Part 9: Water Use Effectiveness (WUE). International Organization for Standardization."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "IUCN (n.d.) A Global Typology for Earth’s Ecosystem. International Union for Conservation of Nature.",
+      "ja": "IUCN (n.d.) A Global Typology for Earth’s Ecosystem. International Union for Conservation of Nature."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "James, K. (2024) Manufacturing and value chains: The water challenge for semiconductor manufacturing: What needs to be done?. World Economic Forum, Ceres.",
+      "ja": "James, K. (2024) Manufacturing and value chains: The water challenge for semiconductor manufacturing: What needs to be done?. World Economic Forum, Ceres."
+    },
+    {
+      "page": 127,
+      "type": "li",
+      "en": "JLL (2026) 2026 Global Data Center Outlook. Jones Lang LaSalle.",
+      "ja": "JLL (2026) 2026 Global Data Center Outlook. Jones Lang LaSalle."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Jones, C. and Vacuum, E. (2022) Water Supply Challenges for the Semiconductor Industry.",
+      "ja": "Jones, C. and Vacuum, E. (2022) Water Supply Challenges for the Semiconductor Industry."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Lei, N. et al. (2025) The water use of data center workloads: A review and assessment of key determinants. Resources, Conservation and Recycling, 219, 108310.",
+      "ja": "Lei, N. et al. (2025) The water use of data center workloads: A review and assessment of key determinants. Resources, Conservation and Recycling, 219, 108310."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Kilpalnäinen, K. (2025) Unlocking economic growth through digital infrastructure.",
+      "ja": "Kilpalnäinen, K. (2025) Unlocking economic growth through digital infrastructure."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Lin, P., Avelar, V. and Bunger, R. (2023) Guide to environmental sustainability metrics for data centers. Schneider Electric.",
+      "ja": "Lin, P., Avelar, V. and Bunger, R. (2023) Guide to environmental sustainability metrics for data centers. Schneider Electric."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Lu, H.H. et al. (2023) Continuous Improvements and Future Challenges of Air Pollution Control at an Advanced Semiconductor Fab. Aerosol Air Quality Research 23, 230034.",
+      "ja": "Lu, H.H. et al. (2023) Continuous Improvements and Future Challenges of Air Pollution Control at an Advanced Semiconductor Fab. Aerosol Air Quality Research 23, 230034."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "McKinsey & Company (2025) The state of AI in 2025: Agents, innovation, and transformation.",
+      "ja": "McKinsey & Company (2025) The state of AI in 2025: Agents, innovation, and transformation."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Mordor Intelligence (2026) Electronics Manufacturing Services Market Size & Share Analysis – Growth Trends and Forecast (2026–2031).",
+      "ja": "Mordor Intelligence (2026) Electronics Manufacturing Services Market Size & Share Analysis – Growth Trends and Forecast (2026–2031)."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Morphy, E. (2024) Two mines in North Carolina are the world’s only producer of the quartz necessary for semiconductor manufacturing. TechSpot.",
+      "ja": "Morphy, E. (2024) Two mines in North Carolina are the world’s only producer of the quartz necessary for semiconductor manufacturing. TechSpot."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "NatureFinance (2025) Navigating AI’s Thirst in a Water-Scarce World: A Governance Agenda for AI and the Environment.",
+      "ja": "NatureFinance (2025) Navigating AI’s Thirst in a Water-Scarce World: A Governance Agenda for AI and the Environment."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Nguyen, M.T.N. and Lee, J.S. (2024) Development of a Chemical Sensor Device for Monitoring Hazardous Gases Generated in the Semiconductor Manufacturing Process. Chemosensors, 12(11).",
+      "ja": "Nguyen, M.T.N. and Lee, J.S. (2024) Development of a Chemical Sensor Device for Monitoring Hazardous Gases Generated in the Semiconductor Manufacturing Process. Chemosensors, 12(11)."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Nscale (n.d.) Glomfjord AI data center.",
+      "ja": "Nscale (n.d.) Glomfjord AI data center."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Nutt, D. (2025) ’Roadmap’ shows the environmental impact of AI data center boom.",
+      "ja": "Nutt, D. (2025) ’Roadmap’ shows the environmental impact of AI data center boom."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "OECD (n.d.) Digital transformation. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (n.d.) Digital transformation. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "OECD (2020) Responsible business conduct in public procurement. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2020) Responsible business conduct in public procurement. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "OECD (2025) The Environmental Sustainability of Communication Networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2025) The Environmental Sustainability of Communication Networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "OECD (2025) The chip landscape geographical distribution of wafer fabrication capacity. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2025) The chip landscape geographical distribution of wafer fabrication capacity. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "OECD (2026) AI use by individuals surges across the OECD as adoption by firms continues to expand. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2026) AI use by individuals surges across the OECD as adoption by firms continues to expand. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Open Compute Project (2024) Data Center Facility Sustainability Metrics.",
+      "ja": "Open Compute Project (2024) Data Center Facility Sustainability Metrics."
+    },
+    {
+      "page": 128,
+      "type": "li",
+      "en": "Ploy Ten, K. and Kim, C.R. (2011) Thai floods batter global electronics, auto supply chains.",
+      "ja": "Ploy Ten, K. and Kim, C.R. (2011) Thai floods batter global electronics, auto supply chains."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "PwC (2026) Semiconductor and beyond 2026 PricewaterhouseCoopers.",
+      "ja": "PwC (2026) Semiconductor and beyond 2026 PricewaterhouseCoopers."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "REIA (n.d.) Rare earth. The Global Rare Earth Industry Association.",
+      "ja": "REIA (n.d.) Rare earth. The Global Rare Earth Industry Association."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Ren, S. and Wierman, A. (2025) Mitigating the Public Health Impacts of AI Data Centers. Harvard Business Review.",
+      "ja": "Ren, S. and Wierman, A. (2025) Mitigating the Public Health Impacts of AI Data Centers. Harvard Business Review."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Roussilhe, G., Pirson, T., Xhonneux, M., and Bol, D. (2024) From silicon shield to carbon lock‐in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020). Journal of Industrial Ecology, 28(5), 1212-1226.",
+      "ja": "Roussilhe, G., Pirson, T., Xhonneux, M., and Bol, D. (2024) From silicon shield to carbon lock‐in? The environmental footprint of electronic components manufacturing in Taiwan (2015–2020). Journal of Industrial Ecology, 28(5), 1212-1226."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Sandhu, S. et al. (2025) Semiconductor manufacturing wastewater challenges and the potential solutions via printed electronics. I science, vol. 28, no 10.",
+      "ja": "Sandhu, S. et al. (2025) Semiconductor manufacturing wastewater challenges and the potential solutions via printed electronics. I science, vol. 28, no 10."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "SA Water (2021) Cooling Water Discharge.",
+      "ja": "SA Water (2021) Cooling Water Discharge."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "SBTN (2024) Freshwater targets. Freshwater targets – Science Based Targets Network.",
+      "ja": "SBTN (2024) Freshwater targets. Freshwater targets – Science Based Targets Network."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "SBTN (2025) Corporate water stewardship and science-based targets for freshwater targets. Science based Target Network.",
+      "ja": "SBTN (2025) Corporate water stewardship and science-based targets for freshwater targets. Science based Target Network."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "SERI (n.d.) R2v3 Standard. Sustainable Electronics Recycling International.",
+      "ja": "SERI (n.d.) R2v3 Standard. Sustainable Electronics Recycling International."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "SIA (2019) Global Semiconductor Sales Increase 13.7 Percent to $468.8 Billion in 2018. Semiconductor Industry Association.",
+      "ja": "SIA (2019) Global Semiconductor Sales Increase 13.7 Percent to $468.8 Billion in 2018. Semiconductor Industry Association."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in. The Guardian.",
+      "ja": "Starr, S. (2025) Water levels across the Great Lakes are falling – just as US data centers move in. The Guardian."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Stax Engineering (2025) The environmental impact of data centers.",
+      "ja": "Stax Engineering (2025) The environmental impact of data centers."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "S&P Global (2025) Beneath the surface: Water stress in data centers.",
+      "ja": "S&P Global (2025) Beneath the surface: Water stress in data centers."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Swinhoe, D. (2022) Re-use, refurb, recycle: Circular economy thinking and data center IT assets. Data Center Dynamics.",
+      "ja": "Swinhoe, D. (2022) Re-use, refurb, recycle: Circular economy thinking and data center IT assets. Data Center Dynamics."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Tang, L., and Werner, T. T. (2023) Global mining footprint mapped from high-resolution satellite imagery. Communications Earth & Environment, 4(1), 134.",
+      "ja": "Tang, L., and Werner, T. T. (2023) Global mining footprint mapped from high-resolution satellite imagery. Communications Earth & Environment, 4(1), 134."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "Ten Kate, P. and Kim, C.R. (2011) Thai floods batter global electronics, auto supply chains. Reuters.",
+      "ja": "Ten Kate, P. and Kim, C.R. (2011) Thai floods batter global electronics, auto supply chains. Reuters."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "The Green Grid (2011) WP #35 – Water Usage Effectiveness (WUE): A Green Grid Data Center Sustainability Metric.",
+      "ja": "The Green Grid (2011) WP #35 – Water Usage Effectiveness (WUE): A Green Grid Data Center Sustainability Metric."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "The Green Grid (2025) WP#95 Water Usage Impact (WUI) v1 Metric.",
+      "ja": "The Green Grid (2025) WP#95 Water Usage Impact (WUI) v1 Metric."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "TSMC (2020) Corporate Social Responsibility Report. Taiwan Semiconductor Manufacturing Company.",
+      "ja": "TSMC (2020) Corporate Social Responsibility Report. Taiwan Semiconductor Manufacturing Company."
+    },
+    {
+      "page": 129,
+      "type": "li",
+      "en": "TSMC (2024) Sustainability Report. Taiwan Semiconductor Manufacturing Company.",
+      "ja": "TSMC (2024) Sustainability Report. Taiwan Semiconductor Manufacturing Company."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Tozzi, C. (2025) 4 Ways to Eliminating Data Center Water Pollution. Data Center Knowledge.",
+      "ja": "Tozzi, C. (2025) 4 Ways to Eliminating Data Center Water Pollution. Data Center Knowledge."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UL Solutions (n.d.) UL 2799 Environmental Claim Validation Procedure.",
+      "ja": "UL Solutions (n.d.) UL 2799 Environmental Claim Validation Procedure."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UNDP (2025) Nature for Disaster Risk Register. Nature Pledge, Nature for Development Action Kits. United Nations Development Programme.",
+      "ja": "UNDP (2025) Nature for Disaster Risk Register. Nature Pledge, Nature for Development Action Kits. United Nations Development Programme."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UNEP (2025) Sustainable procurement guidelines for datacentres and servers. United Nations Environment Programme.",
+      "ja": "UNEP (2025) Sustainable procurement guidelines for datacentres and servers. United Nations Environment Programme."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UNCTAD (2025) AI market projected to hit $4.8 trillion by 2033, emerging as dominant frontier technology.",
+      "ja": "UNCTAD (2025) AI market projected to hit $4.8 trillion by 2033, emerging as dominant frontier technology."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UNEP-WCMC (2025) Keeping connected: submarine communications cables and ocean life. United Nations Environment Programme World Conservation Monitoring Centre.",
+      "ja": "UNEP-WCMC (2025) Keeping connected: submarine communications cables and ocean life. United Nations Environment Programme World Conservation Monitoring Centre."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "UNITAR (2018) E-Waste Statistics: Guidelines on Classification Reporting and Indicators. The United Nations Institute for Training and Research.",
+      "ja": "UNITAR (2018) E-Waste Statistics: Guidelines on Classification Reporting and Indicators. The United Nations Institute for Training and Research."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation.",
+      "ja": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Water Footprint Calculator (2022) The Hidden Water in Everyday Products.",
+      "ja": "Water Footprint Calculator (2022) The Hidden Water in Everyday Products."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "WEF (2024) Why circular water solutions are key to sustainable data centers. World Economic Forum.",
+      "ja": "WEF (2024) Why circular water solutions are key to sustainable data centers. World Economic Forum."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum.",
+      "ja": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "WEF (2025) Artificial Intelligence’s Energy Paradox: Balancing Challenges and Opportunities. World Economic Forum.",
+      "ja": "WEF (2025) Artificial Intelligence’s Energy Paradox: Balancing Challenges and Opportunities. World Economic Forum."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "WEF (2026) Data Centre Sustainability and Resilience: A Decision Playbook for AI Infrastructure. World Economic Forum.",
+      "ja": "WEF (2026) Data Centre Sustainability and Resilience: A Decision Playbook for AI Infrastructure. World Economic Forum."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "World Bank Group (2023) Green data centres: Towards a sustainable digital transformation – A practitioner’s guide.",
+      "ja": "World Bank Group (2023) Green data centres: Towards a sustainable digital transformation – A practitioner’s guide."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "World Bank Group (2024) Resilient telecommunications infrastructure: A practitioner’s guide.",
+      "ja": "World Bank Group (2024) Resilient telecommunications infrastructure: A practitioner’s guide."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Yadav, N. (n.d.) Electronic Industry Waste Water.",
+      "ja": "Yadav, N. (n.d.) Electronic Industry Waste Water."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Yin, Y., and Yang, Y. (2025). Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability, 17(7), 3160.",
+      "ja": "Yin, Y., and Yang, Y. (2025). Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability, 17(7), 3160."
+    },
+    {
+      "page": 130,
+      "type": "li",
+      "en": "Zhang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry. The Diplomat.",
+      "ja": "Zhang, K. (2024) How Water Scarcity Threatens Taiwan’s Semiconductor Industry. The Diplomat."
+    },
+    {
+      "page": 131,
+      "type": "h1",
+      "en": "References for tables 2 and 3 on materiality screening",
+      "ja": "マテリアリティ・スクリーニングに関する表2および表3の参考文献"
+    },
+    {
+      "page": 131,
+      "type": "h2",
+      "en": "Semiconductors",
+      "ja": "半導体"
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Emissions of GHG",
+      "ja": "GHGの排出"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface.",
+      "ja": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Emissions of non-GHG air pollutants",
+      "ja": "GHG以外の大気汚染物質の排出"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Yin, Y. and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability 17(7), 3160.",
+      "ja": "Yin, Y. and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability 17(7), 3160."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Emissions of toxic pollutants to water and soil",
+      "ja": "水と土壌への有害汚染物質の排出"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface.",
+      "ja": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Generation and release of solid waste",
+      "ja": "固形廃棄物の発生と放出"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation.",
+      "ja": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Other abiotic resource extraction",
+      "ja": "その他の非生物資源の採取"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Williams, E. D. et al. (2002) The 1.7 kilogram microchip: Energy and material use in the production of semiconductor devices. Environmental science & technology, 36(24), 5504–5510.",
+      "ja": "Williams, E. D. et al. (2002) The 1.7 kilogram microchip: Energy and material use in the production of semiconductor devices. Environmental science & technology, 36(24), 5504–5510."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Volume of water use",
+      "ja": "水使用量"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface.",
+      "ja": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Water supply",
+      "ja": "淡水供給"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface.",
+      "ja": "Hess, J.C. (2024) Chip Production’s Ecological Footprint: Mapping Climate and Environmental Impact. Interface."
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation.",
+      "ja": "Veolia (2022) The CHIPS Act: Balancing Manufacturing Capacity and Waste Generation."
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Yin, Y. and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability 17(7), 3160.",
+      "ja": "Yin, Y. and Yang, Y. (2025) Sustainable Transition of the Global Semiconductor Industry: Challenges, Strategies, and Future Directions. Sustainability 17(7), 3160."
+    },
+    {
+      "page": 131,
+      "type": "h3",
+      "en": "Water purification services",
+      "ja": "水質浄化サービス"
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum.",
+      "ja": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum."
+    },
+    {
+      "page": 131,
+      "type": "li",
+      "en": "Frost, K., and Hua, I. (2019). Quantifying spatiotemporal impacts of the interaction of water scarcity and water use by the global semiconductor manufacturing industry. Water Resources and Industry, 22, 100115.",
+      "ja": "Frost, K., and Hua, I. (2019). Quantifying spatiotemporal impacts of the interaction of water scarcity and water use by the global semiconductor manufacturing industry. Water Resources and Industry, 22, 100115."
+    },
+    {
+      "page": 132,
+      "type": "h2",
+      "en": "EMS & ODM and Hardware",
+      "ja": "EMS & ODMおよびハードウェア"
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Area of water use and volume of water use",
+      "ja": "水域利用面積と水使用量",
+      "flag": "term-uncertain: Area of water use"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134.",
+      "ja": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Disturbances",
+      "ja": "攪乱"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity.",
+      "ja": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Emissions of toxic pollutants to water and soil",
+      "ja": "水と土壌への有害汚染物質の排出"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134.",
+      "ja": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Generation and release of solid waste",
+      "ja": "固形廃棄物の発生と放出"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "MPE Electronics (2024) Environmental impact of electronics manufacturing.",
+      "ja": "MPE Electronics (2024) Environmental impact of electronics manufacturing."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "GHG emissions",
+      "ja": "GHG排出量"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134.",
+      "ja": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134."
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity.",
+      "ja": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Rainfall pattern regulation services",
+      "ja": "降雨パターン調整サービス"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity.",
+      "ja": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Solid waste remediation",
+      "ja": "固体廃棄物浄化"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134.",
+      "ja": "Annankra, J.A., and Sefa-Boateng, Y. (2025) Evaluating the environmental impact of electronics production and the advancement in sustainable manufacturing processes. World Journal of Advanced Research and Reviews, 28(01), 126-134."
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity.",
+      "ja": "Fairphone (2026) The impact of consumer electronics on nature and biodiversity."
+    },
+    {
+      "page": 132,
+      "type": "h2",
+      "en": "Datacentres",
+      "ja": "データセンター"
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Emission of GHG, Emissions of non-GHG air pollutants",
+      "ja": "GHGの排出、GHG以外の大気汚染物質の排出"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum.",
+      "ja": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum."
+    },
+    {
+      "page": 132,
+      "type": "h3",
+      "en": "Disturbances",
+      "ja": "攪乱"
+    },
+    {
+      "page": 132,
+      "type": "li",
+      "en": "Kandasamy, A. (2025) More data centers, more environmental problems? National Wildlife Federation.",
+      "ja": "Kandasamy, A. (2025) More data centers, more environmental problems? National Wildlife Federation."
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Generation and release of solid waste remediation, Emissions of toxic pollutants to water and soil",
+      "ja": "固形廃棄物の発生と放出・浄化、水と土壌への有害汚染物質の排出",
+      "flag": "term-uncertain: solid waste remediation (source wording garbled)"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Ankit, null, Saha, A. L., et al. (2021) Electronic waste and their leachates impact on human health and environment: Global ecological threat and management. Environmental Technology & Innovation, Vol. 24, 102049.",
+      "ja": "Ankit, null, Saha, A. L., et al. (2021) Electronic waste and their leachates impact on human health and environment: Global ecological threat and management. Environmental Technology & Innovation, Vol. 24, 102049."
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Land use change",
+      "ja": "土地利用変化"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Linklaters (2020) Powered Land: An emerging strategy – Part 1.",
+      "ja": "Linklaters (2020) Powered Land: An emerging strategy – Part 1."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum.",
+      "ja": "WEF (2025) Nature Positive: Role of the Technology Sector. World Economic Forum."
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Other regulating and maintenance service – Dilution by atmosphere and ecosystems, air filtration services",
+      "ja": "その他の調整・維持サービス－大気と生態系による希釈、大気浄化サービス"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Olaguer, E. P. et al. (2016) Microscale air quality impacts of distributed power generation facilities. Journal of the Air & Waste Management Association, 66(8), 795-806.",
+      "ja": "Olaguer, E. P. et al. (2016) Microscale air quality impacts of distributed power generation facilities. Journal of the Air & Waste Management Association, 66(8), 795-806."
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Water supply, Water purification services, Volume of water use",
+      "ja": "淡水供給、水質浄化サービス、水使用量"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "UNEP (2025) UNEP releases guidelines to curb the environmental impact of datacentres. United Nations Environment Programme.",
+      "ja": "UNEP (2025) UNEP releases guidelines to curb the environmental impact of datacentres. United Nations Environment Programme."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Lei, N. et al. (2025) The water use of data center workloads: A review and assessment of key determinants. Resources, Conservation and Recycling, 219, 108310.",
+      "ja": "Lei, N. et al. (2025) The water use of data center workloads: A review and assessment of key determinants. Resources, Conservation and Recycling, 219, 108310."
+    },
+    {
+      "page": 133,
+      "type": "h2",
+      "en": "Telecommunications infrastructure and services",
+      "ja": "電気通信インフラおよびサービス"
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Area of land use",
+      "ja": "土地利用面積"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group.",
+      "ja": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "OECD (2025) The environmental sustainability of communication networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2025) The environmental sustainability of communication networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Sandhu, H. S., and Raja, S. (2019). No Broken Link: The Vulnerability of Telecommunication Infrastructure to Natural Hazards. World Bank.",
+      "ja": "Sandhu, H. S., and Raja, S. (2019). No Broken Link: The Vulnerability of Telecommunication Infrastructure to Natural Hazards. World Bank."
+    },
+    {
+      "page": 133,
+      "type": "h3",
+      "en": "Disturbances",
+      "ja": "攪乱"
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "Clare, M. A. et al. (2023) Assessing the impact of the global subsea telecommunications network on sedimentary organic carbon stocks. Nature Communications, 14(1), 2080.",
+      "ja": "Clare, M. A. et al. (2023) Assessing the impact of the global subsea telecommunications network on sedimentary organic carbon stocks. Nature Communications, 14(1), 2080."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group.",
+      "ja": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group."
+    },
+    {
+      "page": 133,
+      "type": "li",
+      "en": "UNEP-WCMC (2025) Submarine cables and marine biodiversity.",
+      "ja": "UNEP-WCMC (2025) Submarine cables and marine biodiversity."
+    },
+    {
+      "page": 134,
+      "type": "h3",
+      "en": "Emission of GHG",
+      "ja": "GHGの排出"
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "Radonjič, G. and Tompa, S. (2018) Carbon footprint calculation in telecommunications companies – The importance and relevance of scope 3 greenhouse gases emissions. Renewable and Sustainable Energy Reviews, Vol. 98, 361-375.",
+      "ja": "Radonjič, G. and Tompa, S. (2018) Carbon footprint calculation in telecommunications companies – The importance and relevance of scope 3 greenhouse gases emissions. Renewable and Sustainable Energy Reviews, Vol. 98, 361-375."
+    },
+    {
+      "page": 134,
+      "type": "h3",
+      "en": "Emissions of toxic pollutants to water and soil",
+      "ja": "水と土壌への有害汚染物質の排出"
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group.",
+      "ja": "IFC (2007) Environmental, Health, and Safety Guidelines for Telecommunications. International Finance Corporation, World Bank Group."
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "Widmer, R. et al. (2005) Global perspectives on e-waste. Environmental impact assessment review, 25(5), 436-458.",
+      "ja": "Widmer, R. et al. (2005) Global perspectives on e-waste. Environmental impact assessment review, 25(5), 436-458."
+    },
+    {
+      "page": 134,
+      "type": "h3",
+      "en": "Global climate regulation services",
+      "ja": "世界的な気候の調整サービス"
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "GSMA (2026) Water Impacts of the Telecommunications Sector – External Affairs.",
+      "ja": "GSMA (2026) Water Impacts of the Telecommunications Sector – External Affairs."
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "OECD (2025) The environmental sustainability of communication networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development.",
+      "ja": "OECD (2025) The environmental sustainability of communication networks. OECD Digital Economy Papers. Organisation for Economic Co-operation and Development."
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "Radonjič, G. and Tompa, S. (2018) Carbon footprint calculation in telecommunications companies – The importance and relevance of scope 3 greenhouse gases emissions. Renewable and Sustainable Energy Reviews, Vol. 98, 361-375.",
+      "ja": "Radonjič, G. and Tompa, S. (2018) Carbon footprint calculation in telecommunications companies – The importance and relevance of scope 3 greenhouse gases emissions. Renewable and Sustainable Energy Reviews, Vol. 98, 361-375."
+    },
+    {
+      "page": 134,
+      "type": "h3",
+      "en": "Storm mitigation services, flood mitigation services, water flow regulation services and soil and sediment retention services",
+      "ja": "暴風雨の緩和サービス、洪水緩和サービス、水流調整サービス、土壌と土砂の保持サービス"
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "GSMA (2026) Water Impacts of the Telecommunications Sector – External Affairs.",
+      "ja": "GSMA (2026) Water Impacts of the Telecommunications Sector – External Affairs."
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "World Bank Group (2024) Resilient Telecommunications Infrastructure.",
+      "ja": "World Bank Group (2024) Resilient Telecommunications Infrastructure."
+    },
+    {
+      "page": 134,
+      "type": "h2",
+      "en": "Software & IT services and Internet & Media services",
+      "ja": "ソフトウェアおよびITサービスならびにインターネット・メディアおよびサービス"
+    },
+    {
+      "page": 134,
+      "type": "li",
+      "en": "Simon, T. et al. (2023) Uncovering the Environmental Impact of Software Life Cycle. International Conference on Information and Communications Technology for Sustainability, Rennes, France.",
+      "ja": "Simon, T. et al. (2023) Uncovering the Environmental Impact of Software Life Cycle. International Conference on Information and Communications Technology for Sustainability, Rennes, France."
+    }
+  ]
+}

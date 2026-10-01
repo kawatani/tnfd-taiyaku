@@ -1,0 +1,816 @@
+{
+  "doc": "leap",
+  "pages": [
+    169,
+    196
+  ],
+  "segments": [
+    {
+      "page": 169,
+      "type": "table",
+      "en": "| Metric category | Subcategory | Indicator | Metric | Disclosure inclusion |\n|---|---|---|---|---|\n| Regulating and maintenance services | Air filtration | Weight or volume of pollutant filtered/remediated | Tonnes of pollutants absorbed by type of pollutant (e.g. PM10; PM2.5). | N/A |\n|  | Soil and sediment retention | Soil retained | Tonnes of soil retained. | N/A |\n|  |  |  | Number of properties with reduced risk of landslide. | N/A |\n|  | Solid waste remediation | Weight or volume of waste remediated | Tonnes of solid waste remediated. | N/A |\n|  | Water purification | Weight or volume of pollutant filtered/remediated | Tonnes of pollutants remediated by type of pollutant (nutrients and other pollutants). | N/A |\n|  |  | Area of habitat providing services | Hectares of habitat providing water filtration. | N/A |\n|  |  | Volume of water filtered | Cubic metres of water filtered by vegetation. | N/A |\n|  | Pollination | Area of habitat pollinated | Area of crops pollinated, by type of crop. | N/A |\n|  | Nursery population and habitat maintenance | Biomass stocks dependent upon nursery and habitat maintenance services | Size of biomass stocks dependent upon nursery and habitat services. | N/A |",
+      "ja": "| 測定指標カテゴリー | サブカテゴリー | 指標 | 測定指標 | 開示への組み込み |\n|---|---|---|---|---|\n| 調整維持サービス | 大気浄化 | 浄化された汚染物質の重量又は体積 | 吸収された汚染物質の種類別総量（トン）（例：PM10、PM2.5） | 該当なし |\n|  | 土壌と土砂の保持 | 保持された土壌 | 保持された土壌の総量（トン） | 該当なし |\n|  |  |  | 地滑りのリスクが低下した不動産の数 | 該当なし |\n|  | 固体廃棄物浄化 | 浄化された廃棄物の重量又は体積 | 浄化された固体廃棄物の総量（トン） | 該当なし |\n|  | 水質浄化 | 浄化された汚染物質の重量又は体積 | 浄化された汚染物質（栄養素やその他の汚染物質）の種類別総量（トン） | 該当なし |\n|  |  | サービスを供給する生息地面積 | 水を濾過する生息地の面積（ヘクタール） | 該当なし |\n|  |  | 浄化水量 | 植物によって濾過される水の体積（立方メートル） | 該当なし |\n|  | 花粉媒介 | 授粉された生息地面積 | 授粉農作物の種類別面積 | 該当なし |\n|  | 生息地の個体数と生息環境の維持 | 生育地や生息環境サービスに依存するバイオマスストック | 生育地や生息環境サービスに依存するバイオマスストックのサイズ | 該当なし |"
+    },
+    {
+      "page": 170,
+      "type": "table",
+      "en": "| Metric category | Subcategory | Indicator | Metric | Disclosure inclusion |\n|---|---|---|---|---|\n| Provisioning services | Biomass provisioning | Weight or volume of provisioned assets | Gross tonnes of cultivated plants e.g. wheat (proxy measure). | N/A |\n|  |  | Weight or volume of provisioned assets | Gross tonnes of grazed biomass. | N/A |\n|  |  | Weight or volume of provisioned assets | Gross tonnes of wood (timber) biomass harvested. | N/A |\n|  |  | Weight or volume of provisioned assets | Gross tonnes of aquatic products harvested. | N/A |\n|  |  | Area of habitat providing services | Area and yield of area providing crops, by type of crop. | N/A |\n|  | Water supply | Weight or volume of water supply | Cubic metres of water, by type and quality. | N/A |\n| Cultural services | Recreation-related services | Visits for cultural purposes | Number and length (hours) of visits. | N/A |\n|  | Visual amenity services | Number of properties with visual amenity services | Number of properties with views of natural landscapes/located near green/blue areas. | N/A |\n|  | Education, scientific and research services | Number of visits for educational, scientific and research purposes | Number of visits for educational, scientific and research purposes. | N/A |\n|  | Spiritual, artistic and symbiotic services | Number of visits for spiritual, artistic and symbiotic purposes | Number of visits for spiritual, artistic and symbiotic purposes. | N/A |",
+      "ja": "| 測定指標カテゴリー | サブカテゴリー | 指標 | 測定指標 | 開示への組み込み |\n|---|---|---|---|---|\n| 供給サービス | バイオマスの供給 | 供給された資産の重量又は体積 | 栽培植物（小麦等）の総トン数（代用測定） | 該当なし |\n|  |  | 供給された資産の重量又は体積 | 牧草バイオマスの総トン数 | 該当なし |\n|  |  | 供給された資産の重量又は体積 | 伐採木（木材）バイオマスの総トン数 | 該当なし |\n|  |  | 供給された資産の重量又は体積 | 採捕水産物の総トン数 | 該当なし |\n|  |  | サービスを供給する生息地面積 | 農作物を供給する区域の面積及び収穫高（農作物別） | 該当なし |\n|  | 水供給 | 水供給の重量又は体積 | 種類及び水質別の水量（立方メートル） | 該当なし |\n| 文化的サービス | レクリエーション関連サービス | 文化的な目的での訪問 | 訪問回数及び滞在期間（時間） | 該当なし |\n|  | 視覚的アメニティーサービス | 視覚的アメニティーサービスを伴う不動産の数 | 自然の景観が見られるか、緑地／水辺エリアが近くにある不動産の数 | 該当なし |\n|  | 教育、科学、研究サービス | 教育、科学、研究目的での訪問回数 | 教育、科学、研究目的での訪問回数 | 該当なし |\n|  | 精神的、芸術的、象徴的サービス | 精神的、芸術的、象徴的な目的での訪問回数 | 精神的、芸術的、象徴的な目的での訪問回数 | 該当なし |"
+    },
+    {
+      "page": 171,
+      "type": "h2",
+      "en": "Annex 1.2: Assess – Risk and opportunity metrics",
+      "ja": "別紙1.2：評価－リスクと機会測定指標"
+    },
+    {
+      "page": 171,
+      "type": "caption",
+      "en": "Table 25: Risk and opportunity metrics categories",
+      "ja": "表25：リスクと機会測定指標カテゴリー"
+    },
+    {
+      "page": 171,
+      "type": "table",
+      "en": "| Metric category | Sub-category |\n|---|---|\n| Physical risk | General |\n| Transition risk | Policy |\n|  | Liability |\n|  | Technology |\n|  | Market |\n|  | Reputation |\n| Opportunity | Resource efficiency |\n|  | Products and services |\n|  | Market |\n|  | Capital flow and financing |\n|  | Reputational capital |\n|  | Ecosystem protection restoration and regeneration |\n|  | Sustainable use of natural resources |",
+      "ja": "| 測定指標カテゴリー | サブカテゴリー |\n|---|---|\n| 物理的リスク | 全般 |\n| 移行リスク | 政策 |\n|  | 賠償責任 |\n|  | テクノロジー |\n|  | 市場 |\n|  | 評判 |\n| 機会 | 資源効率 |\n|  | 製品とサービス |\n|  | 市場 |\n|  | 資本フローと資金調達 |\n|  | 評判資本 |\n|  | 生態系の保護、復元、再生 |\n|  | 自然資源の持続可能な利用 |"
+    },
+    {
+      "page": 172,
+      "type": "caption",
+      "en": "Table 26: TNFD global risk and opportunity assessment metrics",
+      "ja": "表26：リスクと機会に関するTNFDのグローバル評価測定指標"
+    },
+    {
+      "page": 172,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Risk | Transition | Value of assets, liabilities, revenue and expenses that are assessed as vulnerable to nature-related transition risks (total and proportion of total).130 | Core |\n|  | Physical | Value of assets, liabilities, revenue and expenses that are assessed as vulnerable to nature-related physical risks (total and proportion of total).131 | Core |\n|  | Transition | Value of assets, liabilities, revenue and expenses that are exposed to nature-related transition risks (total and proportion of total). | Additional |\n|  | Physical | Value of assets, liabilities, revenue and expenses that are exposed to nature-related physical risks (total and proportion of total). | Additional |\n|  | Multiple | Value of write-offs and early retirements of assets due to nature-related risks. | Additional |\n|  |  | Value of capital expenditure, financing or investment deployed towards nature-related risks. | Additional |\n|  | Physical | Description and value of assets/total annual revenue dependent on area affected by physical risk. | Additional |\n|  |  | Number of locations/business lines/facilities exposed to physical risk. | Additional |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| リスク | 移行 | 自然関連の移行リスクに対して脆弱であると評価される資産、負債、収益、費用の金額（合計及び合計に占める割合）130 | 中核 |\n|  | 物理的 | 自然関連の物理的リスクに対して脆弱であると評価される資産、負債、収益、費用の金額（合計及び合計に占める割合）131 | 中核 |\n|  | 移行 | 自然関連の移行リスクにさらされている資産、負債、収益、費用の金額（合計及び合計に占める割合） | 追加 |\n|  | 物理的 | 自然関連の物理的リスクにさらされている資産、負債、収益、費用の金額（合計及び合計に占める割合） | 追加 |\n|  | 複合的 | 自然関連リスクによる資産の償却と早期除却の金額 | 追加 |\n|  |  | 自然関連リスクに対して投じられた資本支出、資金調達、投資の金額 | 追加 |\n|  | 物理的 | 物理的リスクにより影響を受ける地域に依存する資産／年間総収益の説明や金額 | 追加 |\n|  |  | 物理的リスクにさらされている拠点数、事業部数、施設数 | 追加 |"
+    },
+    {
+      "page": 172,
+      "type": "footnote",
+      "en": "130 Refer to the TNFD Glossary for the definition of ‘vulnerable’. This metric is connected to the below metric asking for ‘exposure’ to nature-related risks. For organisations following the LEAP approach, ‘exposure’ is determined in the Evaluate phase and connected to exposure to nature-related dependencies and impacts, whilst ‘vulnerability’ is determined in the Assess phase, considering the likelihood of the risk arising and the organisation’s ability to mitigate the risk.",
+      "ja": "130 「脆弱」の定義についてはTNFD用語集を参照のこと。この測定指標は、自然関連リスクへの「エクスポージャー」の開示を求める測定指標と繋がっている。LEAPアプローチに従う組織の場合、「エクスポージャー」は診断フェーズで決定され、自然関連の依存とインパクトへのエクスポージャーに繋がる。一方、「脆弱性」は評価フェーズで決定され、リスク発生の可能性とリスクを緩和する組織の能力を考慮する。"
+    },
+    {
+      "page": 172,
+      "type": "footnote",
+      "en": "131 Refer to the TNFD Glossary for the definition of ‘vulnerable’. This metric is connected to the below metric asking for ‘exposure’ to nature-related risks. For organisations following the LEAP approach, ‘exposure’ is determined in the Evaluate phase and connected to exposure to nature-related dependencies and impacts, whilst ‘vulnerability’ is determined in the Assess phase, considering the likelihood of the risk arising and the organisation’s ability to mitigate the risk.",
+      "ja": "131 「脆弱」の定義についてはTNFD用語集を参照のこと。この測定指標は、自然関連リスクへの「エクスポージャー」の開示を求める測定指標と繋がっている。LEAPアプローチに従う組織の場合、「エクスポージャー」は診断フェーズで決定され、自然関連の依存とインパクトへのエクスポージャーに繋がる。一方、「脆弱性」は評価フェーズで決定され、リスク発生の可能性とリスクを緩和する組織の能力を考慮する。"
+    },
+    {
+      "page": 173,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Risk | Physical | Value of capital expenditure on infrastructure asset repair or replacement as a result of nature-related loss and damage. | Additional |\n|  |  | Percentage increase in insurance costs due to nature-related loss and damage in the previous year. | Additional |\n|  |  | Capital expenditure on adaption due to nature-related physical risks. | Additional |\n|  |  | Costs associated with the relocation of operations and suppliers due to physical nature-related risks. | Additional |\n|  |  | Reduction in revenue/increased costs due to interruption of operations/supply chain. | N/A |\n|  |  | Costs associated with restoration. | N/A |\n|  |  | Costs related to substituting existing products/services. | N/A |\n|  |  | Increased costs of natural inputs/reduced supply. | N/A |\n|  | Transition – Policy | Increased compliance costs. | N/A |\n|  |  | Description and costs related to loss of operating areas. | Additional |\n|  |  | Losses due to delays in operations/permit denials/loss of licence to operate/reduction in operating capacity. | N/A |\n|  |  | Write-offs and early retirement of existing assets. | N/A |\n|  |  | Costs related to increased reporting obligations. | N/A |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| リスク | 物理的 | 自然関連の損失と損害によるインフラ資産の改修又は交換のための資本支出額 | 追加 |\n|  |  | 前年度の自然関連の損失と損害による保険費用の増加率 | 追加 |\n|  |  | 自然関連の物理的リスクに適応するための資本支出 | 追加 |\n|  |  | 自然関連の物理的リスクによる事業拠点の移転とサプライヤーの変更に関連する費用 | 追加 |\n|  |  | 業務／サプライチェーンの中断による収益減／費用増 | 該当なし |\n|  |  | 復旧に関連する費用 | 該当なし |\n|  |  | 既存の製品／サービスの代用に関連する費用 | 該当なし |\n|  |  | 自然インプットの費用増加／供給低下 | 該当なし |\n|  | 移行－政策 | 法令遵守費用の増加 | 該当なし |\n|  |  | 事業区域の損失に関連する説明と費用 | 追加 |\n|  |  | 業務の遅滞／不許可／操業許可取り消し／稼働能力低下による損失 | 該当なし |\n|  |  | 既存の資産の償却及び早期除却 | 該当なし |\n|  |  | 報告義務増大に関連する費用 | 該当なし |",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 174,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Risk | Transition – Liability | Description and value of significant fines/penalties received/litigation action in the year due to negative nature-related impacts. | Core |\n|  |  | Description and value of clean-up costs due to nature-related impacts. | Additional |\n|  |  | Increased costs of personnel and monitoring of activities required. | N/A |\n|  | Transition – Market | Description of exposure to/costs related to loss of market access. | Additional |\n|  |  | Reduction in revenue due to lower demand for products and services. | N/A |\n|  |  | Reduction in asset value/value of stranded assets. | N/A |\n|  |  | Increased costs resulting from stakeholder conflicts. | N/A |\n|  |  | Loss of market share and investor goodwill. | N/A |\n|  |  | Description of exposure and costs related to raw material and natural resource price volatility. | Additional |\n|  | Transition – Reputation | Exposure to increased operational costs/loss of revenue due to reputational risks. | Additional |\n|  |  | Reduction in revenue due to lower demand for products and services. | N/A |\n|  |  | Increased costs due to increased employee turnover/strikes. | N/A |\n|  |  | Increased operational costs due to reduction in loyalty of suppliers or stakeholders. | N/A |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| リスク | 移行－賠償責任 | 自然関連のマイナスのインパクトにより当該年度に発生した多額の罰金、科料、訴訟の内容と金額 | 中核 |\n|  |  | 自然関連のインパクトに起因する浄化費用の説明と金額 | 追加 |\n|  |  | 活動に必要とされる要員とモニタリングのコストの増加 | 該当なし |\n|  | 移行－市場 | 市場アクセスの喪失へのエクスポージャーやこの喪失に関連する費用の説明 | 追加 |\n|  |  | 製品やサービスに対する需要低下による収益の減少 | 該当なし |\n|  |  | 資産価値／座礁資産価値の低下 | 該当なし |\n|  |  | ステークホルダーとの紛争に起因するコストの増加 | 該当なし |\n|  |  | 市場シェア及び投資家のグッドウィルの喪失 | 該当なし |\n|  |  | 原材料及び自然資源の価格の変動に関連するエクスポージャーと費用の説明 | 追加 |\n|  | 移行－評判 | 評判リスクによる運営費用の増加や収益損失へのエクスポージャー | 追加 |\n|  |  | 製品やサービスに対する需要低下による収益の減少 | 該当なし |\n|  |  | 従業員離職率の増大／ストライキによるコスト増加 | 該当なし |\n|  |  | 供給業者やステークホルダーの忠誠心低下による運営費用の増加 | 該当なし |"
+    },
+    {
+      "page": 175,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Risk | Transition – Technology | Expenditure on R&D for new and alternative technologies related to mitigation and adaptation of nature-related risks. | Additional |\n|  |  | Write-offs and early retirement of existing assets. | N/A |\n|  |  | Costs related to purchasing new monitoring technologies, including write-offs and early retirement of existing assets. | N/A |\n| Opportunity – business performance | N/A | Amount of capital expenditure, financing or investment deployed towards nature-related opportunities, by type of opportunity, with reference to a government or regulator green investment taxonomy or third-party industry or NGO taxonomy, where relevant. | Core |\n|  | Resource efficiency | Value of operational cost savings associated with nature-related management, such as improvements in efficiency of use of nature-related resources and adoption of circular economy practices. | Additional |\n|  |  | Reduced operational and compliance costs. | N/A |\n|  |  | Increased market valuation through resilience planning. | N/A |\n|  |  | Reduced exposure to raw material and natural resource price volatility. | N/A |\n|  |  | Increased resilience to reduction in availability of natural resources. | N/A |\n|  |  | Costs savings from technological innovations that increase resource efficiency and/or reduce risks related to nature dependencies. | N/A |\n|  |  | Reduced costs due to engagement of suppliers and stakeholders. | N/A |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| リスク | 移行－技術 | 自然関連リスクの緩和と適応に関連する新技術や代替技術に関する研究開発への支出 | 追加 |\n|  |  | 既存の資産の償却及び早期除却 | 該当なし |\n|  |  | 新モニタリング技術の購入に関する費用（既存資産の償却及び早期除却を含む。 | 該当なし |\n| 機会－企業のパフォーマンス | 該当なし | 機会の種類別の、自然関連の機会に向けて展開された資本支出、資金調達又は投資額。あてはまる場合は、政府又は規制当局のグリーン投資タクソノミー、あるいは第三者機関である産業界又はNGOのタクソノミーを参照のこと。 | 中核 |\n|  | 資源効率 | 自然関連資源の利用効率の改善や循環経済慣行の採用等、自然関連管理に関連する運営費用削減の金額 | 追加 |\n|  |  | 業務費用及び法規制遵守コストの削減 | 該当なし |\n|  |  | レジリエンス計画を通じての市場評価の上昇 | 該当なし |\n|  |  | 自然資源の入手可能性低下に対するレジリエンス増大 | 該当なし |\n|  |  | 自然資源の入手可能性低下に対するレジリエンス増大 | 該当なし |\n|  |  | 資源効率を高め、かつ／又は自然への依存に関連するリスクを減らしてくれる技術革新による費用節約 | 該当なし |\n|  |  | 供給業者やステークホルダーの巻き込みによるコスト削減 | 該当なし |",
+      "flag": "ja-official-row-duplicated"
+    },
+    {
+      "page": 176,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Opportunity – business performance | Resource efficiency | Increased resilience, e.g. to natural disasters. | N/A |\n|  |  | Reduced capital/infrastructure costs. | N/A |\n|  |  | Tax benefits for certifications (e.g. payments for ecosystem services). | N/A |\n|  | Products and services | Increase and proportion of revenue from products and services producing demonstrable positive impacts on nature with a description of impacts. | Core |\n|  |  | Increased resilience due to business diversification. | N/A |\n|  |  | Reduced costs of raw materials and production inputs. | N/A |\n|  | Products and services | Increase in revenue resulting from development of financial solutions for nature positive outcomes. | N/A |\n|  | Market | Year-on-year change in ESG rating scores for previous three years. | Additional |\n|  | Capital flow and financing | Value of green finance instruments used, such as green bonds and sustainability-linked bonds. | Additional |\n|  |  | Access to new sources of finance. | N/A |\n|  |  | Increase in cost savings resulting from financial incentives for suppliers to improve nature and ecosystem management. | N/A |\n|  |  | Tax benefits for certifications (e.g. payments for ecosystem services). | N/A |\n|  |  | Cost savings or revenue resulting from public-sector incentives (e.g. biodiversity credits, payments for ecosystem services). | N/A |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| 機会－企業のパフォーマンス | 資源効率 | 自然災害等に対するレジリエンス増大。 | 該当なし |\n|  |  | 資本／インフラコスト削減 | 該当なし |\n|  |  | 認証に関する税制優遇（例：生態系サービスへの支払い） | 該当なし |\n|  | 製品とサービス | 自然に対して実証可能なプラスのインパクトをもたらす製品及びサービスからの収益の増加とその割合、ならびにそのインパクトについての説明 | 中核 |\n|  |  | 事業多様化によるレジリエンス増大 | 該当なし |\n|  |  | 原材料及び生産投入物のコスト削減 | 該当なし |\n|  | 製品とサービス | ネイチャーポジティブの成果を出すための金融ソリューション開発による収益の増加 | 該当なし |\n|  | 市場 | 過去3年間のESG格付けスコアの前年比推移 | 追加 |\n|  | 資本フローと資金調達 | グリーンボンドやサステナビリティリンクボンド等、利用されたグリーン金融商品の金額 | 追加 |\n|  |  | 新規資金源へのアクセス | 該当なし |\n|  |  | 自然及び生態系管理を改善させるための供給業者向け金銭的インセンティブによる費用削減の増大 | 該当なし |\n|  |  | 認証に関する税制優遇（例：生態系サービスへの支払い） | 該当なし |\n|  |  | 公共セクターのインセンティブによる費用削減又は収益（例：生物多様性クレジット、生態系サービスへの支払い） | 該当なし |"
+    },
+    {
+      "page": 177,
+      "type": "table",
+      "en": "| Risk/opp | Category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Opportunity – business performance | Reputational capital | Change in revenue/brand value due to reputational impact of nature-related issues. | N/A |\n|  |  | Reduced costs due to decrease in employee turnover. | N/A |",
+      "ja": "| リスク／機会 | カテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| 機会－企業のパフォーマンス | 評判資本 | 自然関連課題の評判インパクトによる収益／ブランド価値の変化 | 該当なし |\n|  |  | 従業員離職率の低下によるコスト削減 | 該当なし |"
+    },
+    {
+      "page": 177,
+      "type": "h2",
+      "en": "Annex 1.3: Prepare – Response metrics",
+      "ja": "別紙1.3：準備－対応測定指標"
+    },
+    {
+      "page": 177,
+      "type": "caption",
+      "en": "Table 27: Response metrics categories",
+      "ja": "表27：対応に関する測定指標カテゴリー"
+    },
+    {
+      "page": 177,
+      "type": "table",
+      "en": "| Metric category | Subcategory 1 | Subcategory 2 |\n|---|---|---|\n| Response | Governance | General |\n|  | Strategy | General |\n|  |  | Policies, commitments and targets |\n|  |  | Engagement |\n|  |  | Capital allocation/investment |\n|  | Dependency, impact, risk and opportunity (DIRO) management and assessment | General |\n|  |  | Value chain |\n|  |  | Changes to nature (dependency and impact): mitigation hierarchy steps |\n|  |  | Voluntary conservation, restoration and regeneration |\n|  |  | Dependency, impact, risk and opportunity assessment |",
+      "ja": "| 測定指標カテゴリー | サブカテゴリー1 | サブカテゴリー2 |\n|---|---|---|\n| 対応 | ガバナンス | 全般 |\n|  | 戦略 | 全般 |\n|  |  | 方針、コミットメント、ターゲット |\n|  |  | エンゲージメント |\n|  |  | 資本配分／投資 |\n|  | 依存、インパクト、リスク、機会（DIRO）管理及び評価 | 全般 |\n|  |  | バリューチェーン |\n|  |  | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ |\n|  |  | 自主的な保全、復元、再生 |\n|  |  | 依存、インパクト、リスクと機会の評価 |"
+    },
+    {
+      "page": 178,
+      "type": "caption",
+      "en": "Table 28: Response assessment metrics",
+      "ja": "表28：対応評価測定指標"
+    },
+    {
+      "page": 178,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Governance | General | Highest level of responsibility and accountability for nature policies, commitments and targets. | N/A |\n|  |  | Frequency of communication of performance and progress in priority locations to management. | N/A |\n|  |  | Frequency that nature issues are discussed during board meetings. | N/A |\n|  |  | Number (absolute and proportion of total) of members of board with competence on nature-related issues. | N/A |\n|  |  | Incentives for employees to reward the effective delivery of nature strategies (value of incentives, levels applied to and performance indicators). | N/A |\n| Strategy | General | Level of integration of nature-related issues, including circular economy plans, into overall risk management and strategy. | N/A |\n|  | Policies, commitments and targets | Proportion of targets that are time-bound and quantifiable. | Additional |\n|  |  | Proportion of targets that address short-term, medium-term and long-term risks and opportunities. | Additional |\n|  |  | Proportion of geographical sites/priority locations that are covered by targets. | Additional |\n|  |  | Incorporation of lessons learned into organisation’s operational policies and procedures. | N/A |\n|  |  | Policies, commitments and targets in place for each significant impact driver identified (e.g. commitment for zero conversion across ecosystems). | N/A |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| ガバナンス | 全般 | 自然関連方針、コミットメント、ターゲットに対する最高レベルの責任と説明責任 | 該当なし |\n|  |  | 優先地域におけるパフォーマンス及び進捗についての経営陣に対する報告の頻度 | 該当なし |\n|  |  | 取締役会で自然課題が討議された頻度 | 該当なし |\n|  |  | 自然関連課題に関して権能を有する取締役会メンバーの人数（絶対数及び総数に占める割合） | 該当なし |\n|  |  | 自然戦略の効果的な実現に報いるための従業員へのインセンティブ（インセンティブの金額、適用されるレベル、パフォーマンス指標） | 該当なし |\n| 戦略 | 全般 | 循環経済計画も含め、自然関連課題を全体的なリスク管理戦略に組み入れる度合い | 該当なし |\n|  | 方針、コミットメント、ターゲット | 期限付きで定量化可能なターゲットの割合 | 追加 |\n|  |  | 短期中期長期のリスクと機会に対処するターゲットの割合 | 追加 |\n|  |  | ターゲットの対象となる地理的拠点や優先地域の割合 | 追加 |\n|  |  | 得られた教訓の、組織の運営方針／手続きへの組み入れ | 該当なし |\n|  |  | 特定された重大なインパクト要因それぞれについて用意されている方針、コミットメント、ターゲット（例：生態系全体にわたってゼロ転換のコミットメント） | 該当なし |"
+    },
+    {
+      "page": 179,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Strategy | Policies, commitments and targets | Embeddedness of mitigation hierarchy principles into management policies, commitments and targets. | N/A |\n|  |  | Where relevant, policies, commitments and targets in place for the following: Circular economy risks; Commodity-specific risks; Operations and sourcing; and Screening and engaging with suppliers. | N/A |\n|  |  | Proportion of production/consumption covered by nature commitments. | N/A |\n|  |  | Processes in place to ensure that business activities are consistent with nature policies, commitments and targets. | N/A |\n|  |  | Policies and commitments aligned to a pathway leading to nature’s full recovery by 2050. | N/A |\n|  |  | Targets connected to SDGs, the CBD Global Biodiversity Framework, and/or planetary boundaries or other system-wide initiatives. | N/A |\n|  |  | Targets informed by science and/or intergovernmental instruments such as the CBD. | N/A |\n|  |  | Strategies, policies and commitments are in place for each biome identified to be a priority (e.g. commitment to conversion free supply). | N/A |\n|  |  | Policies/commitments on the social consequences of nature-related impacts and dependencies. | N/A |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| 戦略 | 方針、コミットメント、ターゲット | ミティゲーションヒエラルキー原則の経営方針、コミットメント、ターゲットへの組み入れ | 該当なし |\n|  |  | 該当する場合、次のものに関して設けられている方針、コミットメント、ターゲット：循環経済リスク、一次産品固有リスク、操業と調達、供給業者のスクリーニングと巻き込み | 該当なし |\n|  |  | 自然関連コミットメントの対象となる生産／消費の割合 | 該当なし |\n|  |  | 事業活動を自然関連の方針、コミットメント、ターゲットと確実に整合させるためのプロセス | 該当なし |\n|  |  | 2050年までの自然の完全な回復へと向かう経路に沿った方針とコミットメント | 該当なし |\n|  |  | SDG、CBD生物多様性枠組、及び／又は地球の限界若しくはその他システムワイドのイニシアティブと結び付いたターゲット | 該当なし |\n|  |  | CBD等、科学及び／又は政府間文書を情報源とするターゲット | 該当なし |\n|  |  | 優先分野として特定されたそれぞれのバイオームに関して戦略、方針、コミットメントが設けられている（例：土地転換のない供給に対するコミットメント） | 該当なし |\n|  |  | 自然関連インパクト及び依存の社会的影響に関する方針／コミットメント | 該当なし |"
+    },
+    {
+      "page": 180,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Strategy | Engagement | Proportion of sites that have active engagement with local stakeholders on nature-related issues. | Additional |\n|  |  | Participation in sector-wide and/or multi-stakeholder agreements (number of agreements; number of stakeholders and stakeholder groups covered). | Additional |\n|  |  | Endorsement/engagement with key initiatives for priority nature issues identified. | N/A |\n|  |  | Collaboration/engagement with NGOs when: Forming and implementing nature-related policies and commitments; and Understanding nature trends. | N/A |\n|  |  | Engagement in activities that could directly or indirectly impact public policy on nature. | N/A |\n|  |  | Investment in staff training on nature-related issues. | N/A |\n|  |  | Extent to which customers/suppliers are engaged on circular economy topics. | N/A |\n|  |  | Indirect supplier engagement approaches used: Supply mapping tools; Supplier questionnaires; On-site meetings; Audits; Training and capacity building. | N/A |\n|  |  | Engagement with local and indigenous communities when forming nature-related management practices. | N/A |\n|  | Capital allocation/investment | Value of investment in projects that avoid or reduce negative nature impacts or conserve or restore ecosystems or species where impacts cannot be avoided. | Additional |\n|  |  | Investment in nature-related solutions as defined in relevant government or regulator green investment taxonomy. | Additional |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| 戦略 | エンゲージメント | 自然関連課題について地域のステークホルダーとの間で積極的なエンゲージメントを進めている事業拠点の割合 | 追加 |\n|  |  | セクター全体での合意および／または複数ステークホルダー間の合意への参加（合意の件数、ステークホルダーおよびステークホルダー・グループの数） | 追加 |\n|  |  | 特定された優先自然課題に関する主要イニシアティブへの賛同／参加 | 該当なし |\n|  |  | 自然関連の方針およびコミットメントの策定と実施や、自然の傾向についての理解に際しての、NGOとの協力／エンゲージメント | 該当なし |\n|  |  | 自然関連の公共政策に直接又は間接的にインパクトを及ぼす可能性のある活動への参加 | 該当なし |\n|  |  | 自然関連課題に関する従業員教育への投資 | 該当なし |\n|  |  | 顧客／供給業者が循環経済の課題に取り組む程度 | 該当なし |\n|  |  | 採用した間接的供給業者エンゲージメントアプローチ：供給マッピングツール、供給業者アンケート、現場会議、監査、研修および能力構築 | 該当なし |\n|  |  | 自然関連の管理慣行を策定する際の地域社会／先住民族コミュニティとのエンゲージメント | 該当なし |\n|  | 資本配分／投資 | 自然へのマイナスのインパクトを回避、軽減するプロジェクト、又はインパクトを回避できない場合には、生態系や生物種を保全又は復元するプロジェクトに投資した金額 | 追加 |\n|  |  | 関連する政府又は規制当局のグリーン投資タクソノミーで定義された自然関連ソリューションへの投資 | 追加 |"
+    },
+    {
+      "page": 181,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| Strategy | Capital allocation/investment | Development of nature-positive investment criteria. | N/A |\n|  |  | Investment in portfolio companies (by number and by portfolio exposure) that: Have committed to align with nature-positive initiatives; Have publicly available nature policies; Have set a time bound, science-based nature target. | N/A |\n|  |  | Investment in new locations/real estate associated with nature-related activities. | N/A |\n|  |  | Investment in nature-related product/service lines. | N/A |\n|  |  | Investment in nature-related technology development. | N/A |\n| DIRO management | Value chain | Proportion of suppliers screened on nature-related issues, by spend and/or volume. | Additional |\n|  |  | Proportion of suppliers engaged for priority nature issues identified and/or when assessing nature-related issues, by spend and/or volume. | Additional |\n|  |  | Credible and transparent third-party certification: percentage and/or value of production, consumption and sourcing of raw materials, per certification type. | Additional |\n|  |  | Proportion of production, consumption and sourcing of raw materials that is traceable to original location. | Additional |\n|  |  | Proportion of suppliers committed to and effectively implementing sustainable production. | Additional |\n|  |  | Proportion of suppliers engaged for priority nature issues identified/when assessing nature-related issue. | N/A |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| 戦略 | 資本配分／投資 | ネイチャーポジティブ投資基準の策定 | 該当なし |\n|  |  | 以下に該当するポートフォリオ企業への投資（数字別、ポートフォリオエクスポージャー別）：ネイチャーポジティブなイニシアティブと整合性をとることをコミットした／自然関連に関する方針を公表している／期限付きの科学に基づく自然保護目標を定めている | 該当なし |\n|  |  | 自然関連活動に関係する新規地域／不動産への投資 | 該当なし |\n|  |  | 自然関連製品／サービス種目への投資 | 該当なし |\n|  |  | 自然関連技術開発への投資 | 該当なし |\n| DIRO管理 | バリューチェーン | 取引金額及び／又は取引量別の、自然関連課題についてスクリーニングした供給業者の割合 | 追加 |\n|  |  | 取引金額及び／又は取引量別の、特定された優先自然課題、及び／又は自然関連課題の評価に関与している供給業者の割合 | 追加 |\n|  |  | 信頼性と透明性の高い第三者認証：認証種類別の原材料の生産、消費、調達の割合（%）及び／又は金額 | 追加 |\n|  |  | 原産地まで追跡可能な原材料の生産、消費、調達の割合 | 追加 |\n|  |  | 持続可能な生産にコミットし、効果的に実施している供給業者の割合 | 追加 |\n|  |  | 特定された優先自然課題／自然関連課題の評価に関与している供給業者の割合 | 該当なし |"
+    },
+    {
+      "page": 182,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| DIRO management | Changes to nature (dependency and impact): mitigation hierarchy steps | Proportion of sites producing and effectively implementing nature action plans. | Additional |\n|  |  | Rate of reuse and recycling of i) waste or ii) product/material outflows (%). | Additional |\n|  |  | Mandatory credit market schemes: Value of total biodiversity offsets purchased and sold by type and scope (geographies, activities). | Additional |\n|  |  | Restoration of negatively affected species and ecosystems (investment and extent (km2)) split into ecosystem/biome type and split into:<br>• Required by regulation;<br>• Required by certifier; and<br>• Voluntary. | Additional |\n|  |  | Extent (km2), duration (years) and monitoring frequency (count/year) of ecosystem restoration and/or species restoration projects. | Additional |\n|  |  | Circular material use rate (%). | Additional |\n|  |  | Value of operational/capital expenditure, categorised into mitigation hierarchy actions (avoid, reduce, restore and regenerate, transform) by value and/or proportions (%). | Additional |\n|  |  | Actions/action plans in place that contribute to system wide change (e.g. through technological, economic, institutional and social factors and changes in underlying values and behaviours). | N/A |\n|  |  | Management strategies/plans in place for each significant impact driver. | N/A |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| DIRO管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 自然行動計画を作成し、効果的に実施している事業拠点の割合 | 追加 |\n|  |  | i）廃棄物又はii）製品流出／材料流出の再利用リサイクル率（%） | 追加 |\n|  |  | クレジット義務市場制度：購入売却した生物多様性オフセットの種類別とスコープ（地理、活動）別の総額 | 追加 |\n|  |  | 悪影響を受けた種と生態系の復元（投資額と範囲［km2］）を生態系／バイオーム別に分類し、以下のように分ける。<br>• 規制で義務付けられている<br>• 認証機関により要求されている<br>• 自主的 | 追加 |\n|  |  | 生態系の復元及び／又は種の復元プロジェクトの広がり（km2）、期間（年）及びモニタリング頻度（回数／年） | 追加 |\n|  |  | 循環材料使用率（%） | 追加 |\n|  |  | 金額及び／又は割合（%）別のミティゲーションヒエラルキー活動（回避、軽減、復元再生、変革）に区分けした運営支出や資本支出の金額 | 追加 |\n|  |  | システムレベルの変化に寄与する行動／行動計画（例：技術経済組織社会的要因によるもの、潜在的価値や行動の変化によるもの） | 該当なし |\n|  |  | 重大なインパクト要因それぞれについて用意されている管理戦略／計画 | 該当なし |"
+    },
+    {
+      "page": 183,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| DIRO management | Changes to nature (dependency and impact): mitigation hierarchy steps | Workers trained in biodiversity conservation. | N/A |\n|  |  | Quality criteria and standards for biodiversity offsets. | N/A |\n|  |  | Processes and due diligence in place to prevent and manage impact drivers. | N/A |\n|  |  | Value of production, consumption and sourcing of raw materials from ecosystems that maintain or enhance conditions for nature. | N/A |\n|  |  | Number and efficacy of human wildlife coexistence measures. | N/A |\n|  | Voluntary conservation, restoration and regeneration | Value invested in voluntary ecosystem and/or species restoration. | Additional |\n|  |  | Extent (km2), duration (years) and monitoring frequency (count/year) of voluntary ecosystem and/or species restoration projects. | Additional |\n|  |  | Value of investment in additional conservation actions split into type of action and type of ecosystem/biome applied to. | Additional |\n|  |  | Value of investment in nature-related community development programs intended to enhance positive impacts for Indigenous Peoples and affected, Local Communities stakeholders. | Additional |\n|  |  | Voluntary credit market schemes: Value of total biodiversity offsets purchased and sold by type and scope (geographies, activities). | Additional |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| DIRO管理 | 自然への変化（依存とインパクト）：ミティゲーション・ヒエラルキーのステップ | 生物多様性の保全について研修を受けた労働者 | 該当なし |\n|  |  | 生物多様性オフセットにおける品質基準規格 | 該当なし |\n|  |  | インパクト要因を防止、管理するためのプロセス及びデューディリジェンス | 該当なし |\n|  |  | 自然のための状態を維持もしくは高める生態系からの原材料の生産、消費、調達の金額 | 該当なし |\n|  |  | 人と野生動物の共存策の数と有効性 | 該当なし |\n|  | 自主的な保全、復元、再生 | 自主的な生態系及び／又は種の復元に投資された金額 | 追加 |\n|  |  | 自主的な生態系及び／又は種の復元プロジェクトの広がり（km2）、期間（年）及びモニタリング頻度（回数／年） | 追加 |\n|  |  | 活動の種類別、適用される生態系／バイオームの種類別に分けた追加的な保全活動への投資額 | 追加 |\n|  |  | 先住民族と影響を受ける地域社会のステークホルダーへのプラスのインパクトを高めることを意図した、自然関連コミュニティ開発プログラムへの投資金額 | 追加 |\n|  |  | クレジット任意市場制度：購入売却した生物多様性オフセットの種類別とスコープ（地理、活動）別の総額 | 追加 |"
+    },
+    {
+      "page": 184,
+      "type": "table",
+      "en": "| Category | Sub-category | Metric | Disclosure inclusion |\n|---|---|---|---|\n| DIRO management | Dependency, impact, risk and opportunity assessment | The level(s) at which the assessment is taken (corporate, location-specific and/or project/service-line-specific). | Additional |\n|  |  | Percentage of direct operational locations assessed. | Additional |\n|  |  | Percentage of operational locations assessed upstream and downstream. | Additional |\n|  |  | Percentage of suppliers engaged on access to and availability of high-quality data. | Additional |\n|  |  | Timescale for assessing nature-related issues (e.g. consideration of past and future nature-related impacts, dependencies, risks and opportunities). | N/A |\n|  |  | Verification of data points. | N/A |\n|  |  | Frequency of assessment. | N/A |",
+      "ja": "| カテゴリー | サブカテゴリー | 測定指標 | 開示への組み込み |\n|---|---|---|---|\n| DIRO管理 | 依存、インパクト、リスクと機会の評価 | 評価を受けるレベル（企業、地域固有及び／又はプロジェクト／事業領域固有） | 追加 |\n|  |  | 評価された直接操業地域の割合 | 追加 |\n|  |  | 上流と下流で評価された操業地域割合 | 追加 |\n|  |  | 質の高いデータへのアクセスと入手可能性に関与している供給業者の割合 | 追加 |\n|  |  | 自然関連課題評価の時間尺度（例：過去と未来の自然関連のインパクト、依存、リスクと機会の考慮） | 該当なし |\n|  |  | データポイントの検証 | 該当なし |\n|  |  | 評価頻度 | 該当なし |"
+    },
+    {
+      "page": 185,
+      "type": "h1",
+      "en": "Annex 2: Guidance on how to measure changes in the state of nature",
+      "ja": "別紙2：自然の状態の変化を測定する方法についてのガイダンス"
+    },
+    {
+      "page": 185,
+      "type": "h2",
+      "en": "Introduction",
+      "ja": "序文"
+    },
+    {
+      "page": 185,
+      "type": "p",
+      "en": "This guidance annex has been prepared to:",
+      "ja": "別紙としての本ガイダンスは以下を目的として作成された。"
+    },
+    {
+      "page": 185,
+      "type": "li",
+      "en": "1. Provide further guidance on how to measure changes to the state of nature in the Evaluate phase of the LEAP approach; and",
+      "ja": "1. LEAPアプローチの診断フェーズにおける自然の状態の変化の測定方法について詳細なガイダンスを提供すること。"
+    },
+    {
+      "page": 185,
+      "type": "li",
+      "en": "2. Assist organisations with their disclosure of changes to the state of nature when reporting their material impacts and dependencies (Strategy A and Metrics and Targets B in the TNFD recommended disclosures).",
+      "ja": "2. 組織がマテリアルなインパクトと依存について報告する際の自然の状態の変化についての開示を支援すること。（TNFD開示提言における戦略A及び測定指標とターゲットB）"
+    },
+    {
+      "page": 185,
+      "type": "p",
+      "en": "This annex benefited from technical input by an expert group of scientists involved in ecosystem condition and species extinction risk assessment.",
+      "ja": "本別紙は生態系の状態や種の絶滅リスクの評価に携わる科学者たちの専門家グループによる専門的なインプットに負うところが大きい。"
+    },
+    {
+      "page": 185,
+      "type": "p",
+      "en": "The state of nature is defined by the TNFD to include the condition and extent of ecosystems and species population size and extinction risk.132 Changes to the state of nature can include both positive and negative changes. Following the impact and dependency pathway approach outlined in the Evaluate phase of LEAP, it is important for organisations to measure changes to the state of nature as part of any assessment of their impacts and dependencies.",
+      "ja": "自然の状態とは生態系の状態と広がり、種の個体数及び絶滅リスクを含むものとしてTNFDでは定義している132。自然の状態の変化にはプラスとマイナス両方の変化を入れることができる。LEAPの診断フェーズで説明しているインパクト／依存経路アプローチに従い、組織はインパクトと依存の評価の一環として自然の状態の変化を測定することが重要である。"
+    },
+    {
+      "page": 185,
+      "type": "p",
+      "en": "As illustrated in Figure 30, measuring changes to the state of nature requires the assessment of:",
+      "ja": "図30に示すように、自然の状態の変化を測定するには以下についての評価が必要である。"
+    },
+    {
+      "page": 185,
+      "type": "li",
+      "en": "1. Changes to ecosystem condition and the extent of ecosystem assets for which the organisation has an impact or dependency; and",
+      "ja": "1. 組織がインパクトを及ぼすか依存している生態系の状態と生態系資産の広がりの変化"
+    },
+    {
+      "page": 185,
+      "type": "li",
+      "en": "2. Changes to species population size and extinction risk within ecosystem assets for which the organisation has an impact or dependency.",
+      "ja": "2. 組織がインパクトを及ぼすか依存している生態系資産における種の個体数及び絶滅リスクの変化"
+    },
+    {
+      "page": 185,
+      "type": "footnote",
+      "en": "132 Adapted from United Nations et al. (2021) System of Environmental-Economic Accounting – Ecosystem Accounting; UNEP-WCMC, Capitals Coalition, Arcadis, ICF, WCMC Europe (2022) Recommendations for a standard on corporate biodiversity measurement and valuation, Aligning accounting approaches for nature.",
+      "ja": "132 国際連合他（2021）『環境経済勘定－生態系勘定（SEEA EA）』から抜粋。UNEP-WCMC、キャピタルコアリション、Arcadis、ICF、世界自然保全モニタリングセンター欧州（2022）『Recommendations for a standard on corporate biodiversity measurement and valuation, Aligning accounting approaches for nature』"
+    },
+    {
+      "page": 186,
+      "type": "caption",
+      "en": "Figure 30: Components of state of nature measurement",
+      "ja": "図30：自然の状態を測定する構成要素"
+    },
+    {
+      "page": 186,
+      "type": "figure",
+      "en": "State of nature / Ecosystems: Extent, Condition / Species: Population size, Extinction risk",
+      "ja": "自然の状態 / 生態系：広がり、状態 / 種：個体数、絶滅リスク"
+    },
+    {
+      "page": 186,
+      "type": "h2",
+      "en": "Guidance on how to measure ecosystem condition",
+      "ja": "生態系状況を測定する方法についてのガイダンス"
+    },
+    {
+      "page": 186,
+      "type": "h3",
+      "en": "Introduction",
+      "ja": "序文"
+    },
+    {
+      "page": 186,
+      "type": "p",
+      "en": "Ecosystem condition is the quality of an ecosystem measured by its abiotic and biotic characteristics. Ecosystem condition underpins the ecological integrity of an ecosystem and supports its capacity to supply ecosystem services on an ongoing basis.133",
+      "ja": "生態系状況とは、その非生物的及び生物的特性によって測定される生態系の質である。生態系状況は、生態系の生態学的十全性の基礎を成し、生態系サービスを継続的に供給する能力を支えている133。"
+    },
+    {
+      "page": 186,
+      "type": "p",
+      "en": "Negative impacts on ecosystem condition are a key source of nature-related risks, while positive impacts on ecosystem condition are important for both risk mitigation and the generation of nature-related opportunities.",
+      "ja": "生態系状況に対するマイナスのインパクトは自然関連リスクの主たる発生源となる一方、生態系状況に対するプラスのインパクトはリスク緩和と自然関連機会の創出の両方において重要である。"
+    },
+    {
+      "page": 186,
+      "type": "p",
+      "en": "Ecosystem condition metrics measure ecosystem quality compared to a reference state. They can be a useful way to simplify the complexity of the natural world and are therefore widely used in footprinting and impact assessment. However, ecosystem condition metrics vary considerably, particularly in which ecosystem characteristics they include and the type, geographic scope and precision of the underlying data. This means they also vary considerably in how they respond to positive and negative impacts.",
+      "ja": "生態系状況測定指標は、基準状態と比較した生態系の質を測定するものである。複雑な自然界を単純化するのに便利な方法となり、それゆえにフットプリンティングやインパクト評価において広く使用されている。ただし生態系状況測定指標には相当なばらつきがあり、特にどんな生態系特性が含まれているか、及び基礎となるデータの種類、地理的範囲、精度においてバラつきが見られる。このことはプラスやマイナスのインパクトへの対応においてもかなりばらつくことを意味する。"
+    },
+    {
+      "page": 186,
+      "type": "p",
+      "en": "This section:",
+      "ja": "本セクションでは"
+    },
+    {
+      "page": 186,
+      "type": "li",
+      "en": "Introduces key concepts underpinning ecosystem condition, including a discussion of measurement within the LEAP approach;",
+      "ja": "LEAPアプローチにおける測定の議論等、生態系状況の基礎を成す重要な概念について紹介する。"
+    },
+    {
+      "page": 186,
+      "type": "li",
+      "en": "Provides guidance on how to measure ecosystem condition, including scales of metrics and metrics typology;",
+      "ja": "測定指標の尺度や測定指標類型等、生態系状況を測定する方法についてのガイダンスを提供する。"
+    },
+    {
+      "page": 186,
+      "type": "li",
+      "en": "Provides an overview of how to determine reference condition;",
+      "ja": "参照条件を決定する方法について概説する。"
+    },
+    {
+      "page": 186,
+      "type": "li",
+      "en": "Outlines key criteria for selecting metrics;",
+      "ja": "測定指標選択のための主要な基準を説明する。"
+    },
+    {
+      "page": 186,
+      "type": "footnote",
+      "en": "133 Align Project (2023) Measuring ecosystem condition – a primer for business.",
+      "ja": "133 Alignプロジェクト（2023）『生態系状況計測－ビジネス向け入門書』"
+    },
+    {
+      "page": 187,
+      "type": "li",
+      "en": "Sets out guiding principles for the use of ecosystem condition metrics;",
+      "ja": "生態系状況測定指標利用のための指針を示す。"
+    },
+    {
+      "page": 187,
+      "type": "li",
+      "en": "Provides a table of illustrative ecosystem condition metrics; and",
+      "ja": "生態系状況測定指標を図表で説明する。"
+    },
+    {
+      "page": 187,
+      "type": "li",
+      "en": "Describes future developments that could improve ecosystem condition metrics.",
+      "ja": "生態系状況測定指標の改善につながる今後の展開について説明する。"
+    },
+    {
+      "page": 187,
+      "type": "h3",
+      "en": "Key concepts",
+      "ja": "重要概念"
+    },
+    {
+      "page": 187,
+      "type": "h4",
+      "en": "Defining ecosystems",
+      "ja": "生態系の定義"
+    },
+    {
+      "page": 187,
+      "type": "p",
+      "en": "Ecosystems comprise discrete assemblages of organisms and their interactions with their physical environment. Ecosystems can be differentiated from one another by their physical composition (i.e. the vegetation types and species present) and by ecological processes. Ecosystems are highly diverse, ranging in the land realm, for example, from tropical rainforests to grasslands and croplands. The biodiversity at any two locations will always be different, but ecosystems are a useful construct to help navigate the complexity of the natural world. Ecosystem types are differentiated from one another by a degree of uniqueness in composition, structure, and ecological processes and function.134, 135",
+      "ja": "生態系は個別の生物集団とそれぞれの物理的環境との相互作用から成る。生態系はその物理組成により（すなわち植生の型や存在する種ごとに）、また生態学的過程によっても区別することができる。生態系は陸地においては例えば熱帯雨林から草原や農地に至るまで、多様性に富んでいる。地域が異なれば生物多様性も必ず異なるのであるが、生態系は複雑な自然界を理解するのに役立つ構成概念である。生態系種類は構成の特異性の程度、構造、生態学的過程機能によって区別される134, 135。"
+    },
+    {
+      "page": 187,
+      "type": "p",
+      "en": "The IUCN Global Ecosystem Typology provides descriptive profiles and groups for major ecosystems globally. Ecosystems can be grouped at the highest level into realms, which represent different components of the biosphere that differ fundamentally in ecosystem organisation and function.136 The TNFD defines four realms: land, ocean, freshwater and atmosphere. Within each realm, biomes are groups of ecosystems that are united by broad features of structure and major ecological characteristics. Examples of biomes include deserts, tropical and subtropical forests, rivers and streams, lakes, and intensive land-use systems. Biomes are split into functional groups with characteristics related to major abiotic factors such as climate, geology or fire and specific ecosystems are then nested within these functional groups.137",
+      "ja": "IUCNグローバル生態系タイポロジーでは地球規模での主要な生態系を説明し、グループに分けている。生態系は最上位では、生態系の組織と機能が根本的に異なる生物圏の様々な構成要素を表す領域に分類することができる136。TNFDは陸、海洋、淡水、大気という4つの領域を定義している。それぞれの領域において、バイオームとは、構造という広範な特徴と主要な生態学的特性によって結合された生態系のグループである。バイオームの例として、砂漠、熱帯林、亜熱帯林、河川、湖、集約的土地利用システム等がある。バイオームは気候、地質ないし火災といった主要な非生物要因に関係する特性をもつ機能グループに分けられ、個々の生態系はこれらの機能グループの中で入れ子構造になる137。"
+    },
+    {
+      "page": 187,
+      "type": "h4",
+      "en": "What is ecosystem condition?",
+      "ja": "生態系状況とは何か"
+    },
+    {
+      "page": 187,
+      "type": "p",
+      "en": "Ecosystem condition is the quality of an ecosystem measured by its abiotic and biotic characteristics.138 It is a useful and important way of assessing the state of nature at a location, as condition underpins the ecological integrity of the ecosystem and supports its capacity to supply ecosystem services.",
+      "ja": "生態系状況とは、その非生物的及び生物的特性によって測定される生態系の質である138。この状況が生態系の生態学的十全性の基礎を成し、生態系サービスを供給する能力を支えているので、地域の自然の状態を評価する有益かつ重要な手段となる。"
+    },
+    {
+      "page": 187,
+      "type": "p",
+      "en": "Following the UN-SEEA’s definitions, the biotic characteristics of ecosystem condition are assessed with respect to an ecosystem’s composition, structure and function. The abiotic characteristics are assessed with respect to its physical state, chemical state and landscape/seascape. These six characteristics underpin the integrity of the ecosystem and support its capacity to supply ecosystem services on an ongoing basis.139",
+      "ja": "UN-SEEAの定義に従い、生態系状況の生物的特性については、生態系の構成、構造、機能に関して評価する。非生物的特性は、その物理的状態、化学的状態、ランドスケープ／シースケープに関して評価する。これら6つの特性が生態系の十全性の基礎を成し、生態系サービスを継続的に供給する能力を支えている139。"
+    },
+    {
+      "page": 187,
+      "type": "p",
+      "en": "Some typologies, such as that of the Align project, use a simpler classification with a focus on only the living components of the ecosystem:",
+      "ja": "Alignプロジェクト等、一部のタイポロジーでは生態系の生物構成要素だけに焦点を絞った単純な分類を用いている。"
+    },
+    {
+      "page": 187,
+      "type": "li",
+      "en": "Structure, both at a location (e.g. canopy height) and relating to the broader landscape or seascape (e.g. patch size and connectivity);",
+      "ja": "構、場所（例：樹冠高）及び広範囲のランドスケープ又はシースケープに関するもの（例：パッチサイズ、連結性）"
+    },
+    {
+      "page": 187,
+      "type": "li",
+      "en": "Composition (e.g. the species present and their abundance); and",
+      "ja": "構成（例：存在する種とその豊富度）"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "134 Keith, D. A. et al. (2013) Scientific foundations for an IUCN Red List of Ecosystems.",
+      "ja": "134 Keith, D.A. et al.（2013）『Scientific Foundations for an IUCN Red List of Ecosystems』"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "135 Nicholson, E. et al. (2021) Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework.",
+      "ja": "135 Nicholson, E. et al.（2021）『Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework』"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "136 Keith, D. A. et al. (eds.) (2020) IUCN Global Ecosystem Typology 2.0: descriptive profiles for biomes and ecosystem functional groups.",
+      "ja": "136 Keith, D.A. et al.（eds.）（2020）『IUCN Global Ecosystem Typology (GET) 2.0: descriptive profiles for biomes and ecosystem functional groups』"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "137 A detailed assessment of different ecosystem typologies can be found in Appendix 1 of Keith D.A. et al. (2022) A function-based typology of earth’s ecosystems.",
+      "ja": "137 様々な生態系類型についての詳細な評価はKeith D.A. et al.（2022）『A function-based typology for Earth’s ecosystems』の付属書1に掲載されている。"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "138 UN (2021) System of Environmental-Economic Accounting – Ecosystem Accounting.",
+      "ja": "138 国連（2021）『環境経済勘定－生態系勘定』"
+    },
+    {
+      "page": 187,
+      "type": "footnote",
+      "en": "139 UN (2021) System of Environmental-Economic Accounting – Ecosystem Accounting.",
+      "ja": "139 国連（2021）『環境経済勘定－生態系勘定』"
+    },
+    {
+      "page": 188,
+      "type": "li",
+      "en": "Function and physical, chemical and biological processes (e.g. primary productivity or detritus formation).",
+      "ja": "機能及び物理的、化学的、生物学的プロセス（例：基礎生産力又は有機堆積物形成）"
+    },
+    {
+      "page": 188,
+      "type": "p",
+      "en": "This additional guidance follows the Align typology but includes physical and chemical state within structure. It focuses on ecosystems as a living component of nature, but organisations following the TNFD’s LEAP approach should also measure non-living components, such as water quality, soil structure and air pollutant concentrations, where they are relevant to impacts and dependencies. The indicators in a component that should be measured will depend on the ecosystem in question.",
+      "ja": "本追加ガイダンスではAlignタイポロジーに従うが、構造内の物理的化学的状態を含める。自然の生物構成要素としての生態系に焦点を絞るが、TNFDのLEAPアプローチに従う組織は非生物構成要素、例えば水質、土壌構造、大気汚染物質濃度等についても、インパクトや依存に関係する場合には測定すべきである。測定すべき構成要素の指標は当該生態系による。"
+    },
+    {
+      "page": 188,
+      "type": "p",
+      "en": "Ecosystem integrity is the degree to which an ecosystem’s composition, structure and function resemble those characteristics of its natural range of variation. Ecosystem integrity and ecosystem condition are often used interchangeably, but for a LEAP assessment, it is useful to distinguish between them based on scale:",
+      "ja": "生態系の十全性とは、生態系の構成、構造、機能がその自然変動範囲にある特性に類似する度合いである。生態系の十全性と生態系状況は区別することなく使用される場合が多いが、LEAP評価においては規模に基づいて両者を区別するのがよい。"
+    },
+    {
+      "page": 188,
+      "type": "li",
+      "en": "Ecosystem integrity refers to an ecosystem type (that could be at any level within a hierarchical ecosystem typology);140",
+      "ja": "生態系の十全性は生態系種類に言及する（階層的な生態系タイポロジーにおけるどのレベルでもあり得る）140。"
+    },
+    {
+      "page": 188,
+      "type": "li",
+      "en": "Ecosystem condition refers to a defined spatial unit within an ecosystem type (equivalent to the SEEA’s ‘ecosystem asset’).",
+      "ja": "生態系状況はある生態系種類内の規定の空間単位に言及する（SEEAの「生態系資産」に相当）。"
+    },
+    {
+      "page": 188,
+      "type": "p",
+      "en": "Within the TNFD LEAP approach:",
+      "ja": "TNFD LEAPアプローチにおいては"
+    },
+    {
+      "page": 188,
+      "type": "li",
+      "en": "Ecosystem integrity (of broad ecosystem types) is most relevant in the Locate phase for determining the context of the nature interface (L3) and sensitive location identification (L3); and",
+      "ja": "（広範な生態系種類の）生態系の十全性は、自然との接点の文脈の決定（L3）と要注意地域特定（L3）のための発見フェーズで最も関連性が高く、"
+    },
+    {
+      "page": 188,
+      "type": "li",
+      "en": "Ecosystem condition (of defined spatial units) is most relevant for the Evaluate, Assess and Prepare phases, focused on particular assessment locations.",
+      "ja": "（規定の空間単位の）生態系状況は、特定の評価地域に焦点を絞る診断、評価、準備フェーズに最も適している。"
+    },
+    {
+      "page": 188,
+      "type": "p",
+      "en": "Ecosystem condition is an important complementary measure to ecosystem extent. While impact measures based on changes in ecosystem extent, such as the area of a vegetation type converted or restored, are relatively simple to assess, measuring ecosystem extent alone can give an incomplete picture that does not account for changes in the quality of ecosystems at different stages of degradation or restoration.",
+      "ja": "生態系状況は生態系の広がりの重要な補足的尺度である。生態系の広がりの変化、例えば植生タイプに転換又は復元された面積等に基づいて測定されたインパクトは評価が比較的簡単であるが、生態系の広がりだけの測定であれば、劣化や復元の様々な段階における生態系の質の変化が考慮されない不完全な絵姿になる可能性がある。"
+    },
+    {
+      "page": 188,
+      "type": "footnote",
+      "en": "140 Keith, D. A. et al. (eds.) (2020) IUCN Global Ecosystem Typology 2.0: descriptive profiles for biomes and ecosystem functional groups.",
+      "ja": "140 Keith, D.A. et al.（eds.）（2020）『IUCN Global Ecosystem Typology (GET) 2.0: descriptive profiles for biomes and ecosystem functional groups』"
+    },
+    {
+      "page": 189,
+      "type": "caption",
+      "en": "Figure 31: Ecosystem condition and its components in relation to state of nature",
+      "ja": "図31：自然の状態に関しての生態系状況とその構成要素"
+    },
+    {
+      "page": 189,
+      "type": "figure",
+      "en": "State of ecosystems / Extent / Condition: Structure, Composition, Function",
+      "ja": "生態系の状態 / 広がり / 状況：構造、構成、機能"
+    },
+    {
+      "page": 190,
+      "type": "caption",
+      "en": "Figure 32: Measurable biotic components of ecosystem condition",
+      "ja": "図32：生態系状況についての測定可能な生物的構成要素"
+    },
+    {
+      "page": 190,
+      "type": "figure",
+      "en": "Structure: Vegetation or physical structure / Physical and chemical characteristics / Connectivity",
+      "ja": "構造：植生または物理構造 / 物理的・化学的特性 / 連結性"
+    },
+    {
+      "page": 190,
+      "type": "figure",
+      "en": "Composition: Variety, identity and abundance of species",
+      "ja": "構成：種の種類、識別、豊富度"
+    },
+    {
+      "page": 190,
+      "type": "figure",
+      "en": "Function: Ecological processes and fluxes",
+      "ja": "機能：生態学的過程および流動"
+    },
+    {
+      "page": 190,
+      "type": "figure",
+      "en": "Pressures: e.g. invasive species, hunting, disturbance, land-use change",
+      "ja": "圧力：例：侵入種、狩猟、攪乱、土地利用の変化"
+    },
+    {
+      "page": 190,
+      "type": "p",
+      "en": "Note – Pressures are included as they are often used as a proxy measure for one or more components of ecosystem condition.",
+      "ja": "注：圧力は生態系状況の1ないし複数の構成要素の代用尺度として使用されることが多いために採用されている。"
+    },
+    {
+      "page": 191,
+      "type": "h4",
+      "en": "Box 25: Components of ecosystem condition",
+      "ja": "ボックス25：生態系状況の構成要素"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "The UN SEEA Ecosystem Accounting framework defines six classes of measurable characteristics of ecosystem assets:",
+      "ja": "国連SEEA生態系勘定の枠組みでは生態系資産について測定可能な6つのクラスの特性を定義している。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Physical state characteristics: physical descriptors of the abiotic components of the ecosystem (e.g. soil structure and water availability);",
+      "ja": "物理的状態の特性：生態系の非生物的構成要素の物理的説明となるもの（例：土壌構造、水の利用可能性）。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Chemical state characteristics: the chemical composition of abiotic ecosystem elements (e.g. water quality, soil nutrient levels and air pollutant concentrations);",
+      "ja": "化学的状態の特性：非生物的生態系要素の化学組成（例：水質、土壌養分水準、大気汚染物質濃度）。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Compositional state characteristics: the composition/diversity of ecological communities at a given time/location (e.g. species abundance and species richness);",
+      "ja": "構成状態の特性：所与の時間／場所における生態学的共同体の構成／多様性（例：種の豊富度、種の多様性）。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Structural state characteristics: the aggregate properties (e.g. mass, density) of the whole ecosystem or its main biotic components (e.g. total biomass, canopy coverage);",
+      "ja": "構造状態の特性：生態系全体又はその主要な生物的構成要素の集合体属性（質量、密度等）（例：バイオマス総量、樹冠範囲）。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Functional state characteristics: summarise the biological, chemical and physical interactions between ecosystem compartments (e.g. primary productivity and disturbance frequency); and",
+      "ja": "機能状態の特性：生態系区画の生物学的、化学的、物理的相互作用の概要（例：基礎生産力、攪乱頻度）。"
+    },
+    {
+      "page": 191,
+      "type": "quote",
+      "en": "Landscape and seascape characteristics: describe the spatial scales of ecosystems (e.g. landscape diversity, connectivity and fragmentation).",
+      "ja": "ランドスケープ／シースケープの特性：生態系の空間規模の説明（例：ランドスケープの多様性、連結性、分断化）。"
+    },
+    {
+      "page": 191,
+      "type": "h4",
+      "en": "Ecosystem condition metrics",
+      "ja": "生態系状況測定指標"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "Ecosystem condition metrics measure ecosystem quality compared to a reference condition. They are usually rescaled to be between 0 (entirely destroyed) and 1 (the reference level).",
+      "ja": "生態系状況測定指標は、参照条件と比較した生態系の質を測定するものである。通常は0（完全破壊）から1（参照レベル）までの尺度で表現される。"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "Metrics of ecosystem condition can measure ecosystem characteristics directly, indirectly through proxies, or a combination of both.",
+      "ja": "生態系の状態測定指標では、生態系の特性を直接測定する、代用指標によって間接的に測定する、あるいは両方を組み合わせることもできる。"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "Where pressure-condition relationships are well understood, pressures/impact drivers are often used as proxy measures of condition. Pressures/impact drivers are often relatively easy to measure, cost-effective and may provide a leading indicator that changes in advance of state indicators. Structure or composition indicators may sometimes also be used as easier-to-measure proxies for ecosystem function, e.g. structural connectivity as a proxy for dispersal, or the presence of certain species as a proxy for natural disturbance processes or recruitment.",
+      "ja": "圧力と状況の関係性が十分に理解されている場合には、圧力／インパクト要因が状況の代用測定指標として用いられることが多い。圧力／インパクト要因は測定が比較的簡単で、費用効率の高い場合が多く、状態の指標よりも前に変化する先行指標となり得る。構造ないし構成の指標は生態系機能を簡単に測定するための代用指標として使用される場合もある。例えば構造的連結性を分散に関する代用指標として、あるいはある特定の種の存在を自然の攪乱プロセス又は補充に関する代用指標とすること等がある。"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "The use of pressure metrics as proxies is usually best done in combination with one or more measures of state, and ideally would include ground-truthing to ensure that presumed relationships hold in a particular situation.",
+      "ja": "圧力測定指標を代用指標として使用する場合は通常、状態についての1ないし複数の尺度と組み合わせるのが最適で、推定される関係が特定の状況において有効であることの確証として実地調査を含めるのが理想的である。"
+    },
+    {
+      "page": 191,
+      "type": "h4",
+      "en": "Relevance for business",
+      "ja": "ビジネスにとっての関連性"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "Measuring ecosystem condition helps an organisation to understand its nature-related dependencies and impacts. Positive changes may create opportunities for the organisation or assist with risk mitigation, while negative changes can create both physical risks (e.g. in areas where there is a dependency on ecosystem services) and transition risks (e.g. where the organisation is creating a negative impact).",
+      "ja": "生態系状況を測定することは、組織が自然関連の依存やインパクトを理解するのに役立つ。プラスの変化は組織に機会をもたらすか、リスク緩和に役立つ可能性があるが、マイナスの変化は物理的リスク（例えば生態系サービスに依存する地域において）と移行リスク（例えば組織がマイナスのインパクトを生み出そうとしている場合）のいずれも生み出す可能性がある。"
+    },
+    {
+      "page": 191,
+      "type": "p",
+      "en": "Understanding ecosystem condition is therefore an important part of the Evaluate phase of LEAP, and helps organisations to plan and implement appropriate responses, including target setting in the Prepare phase of LEAP.",
+      "ja": "それゆえに生態系状況についての理解はLEAPの診断フェーズにおける重要な部分であり、LEAPの準備フェーズでのターゲット設定を始めとして、組織が適切な対処方法を計画、実施するのに役立つ。"
+    },
+    {
+      "page": 192,
+      "type": "p",
+      "en": "The TNFD recommends that organisations use a dashboard of state of nature metrics to assess impacts and dependencies, and whenever possible, measurements of ecosystem condition should be informed by location-specific ecological expertise, alongside summary condition measures. Understanding the processes underlying ecosystem condition and whether certain species/environmental features are particularly relevant a business can be crucial to inform assessment and planning (see Box 26).",
+      "ja": "組織は自然の状態測定指標のダッシュボードを使用してインパクトと依存を評価することをTNFDは推奨し、可能な場合には必ず、生態系状況について測定する時には状況集約尺度と共に、地域固有の生態学的専門知識を参考にすべきである。生態系の状態の基礎を成すプロセスと所定の種／環境特性がビジネスと特に関連性があるかどうかについての理解は、評価や計画の参考とする上で極めて重要となる（ボックス26参照）。"
+    },
+    {
+      "page": 192,
+      "type": "h4",
+      "en": "Box 26: Ecosystem-specific processes determining condition",
+      "ja": "ボックス26：状況を決定する生態系固有のプロセス"
+    },
+    {
+      "page": 192,
+      "type": "quote",
+      "en": "Understanding the processes underlying ecosystem condition, alongside summary condition measures, can be crucial to inform assessment and planning. In light of this understanding, it may be appropriate to prioritise the measurement of certain biophysical features. This could include particular species groups. For example:",
+      "ja": "状況集約尺度と並んで、生態系状況の基礎を成すプロセスについての理解は、評価や計画の情報源として極めて重要である。この理解を踏まえて、ある特定の生物物理学的特性の測定を優先するのが適切だろう。これには特定の種群が含まれることもある。例えば、"
+    },
+    {
+      "page": 192,
+      "type": "quote",
+      "en": "Coolibah-Black Box woodland ecosystems in Australia depend critically upon the water table. Ecosystem condition metrics based on species composition might not detect real risks;",
+      "ja": "オーストラリアのクーリバブラックボックス森林生態系は地下水面に大きく依存する。種の構成に基づく生態系状況測定指標では現実的なリスクは検出されないかもしれない。"
+    },
+    {
+      "page": 192,
+      "type": "quote",
+      "en": "Intertidal ecosystems in the Pacific Northwest, USA are regulated by a keystone predator, the starfish Pisaster ochraceus. Changes in abundance of this species have much greater implications for ecosystem collapse risk than other species;",
+      "ja": "米国の太平洋岸北西部の潮間帯生態系は、中枢捕食動物であるヒトデ（Pisaster ochraceus）によって調整されている。この種の個体数の変化は生態系の崩壊リスクに対して他の種よりもはるかに大きな意味をもつ。"
+    },
+    {
+      "page": 192,
+      "type": "quote",
+      "en": "In tropical rainforest ecosystems in Gabon, elephants are a keystone species important for many ecosystem processes, such as seed dispersal. The status of elephants is thus particularly important for ecosystem integrity; and",
+      "ja": "ガボンの熱帯雨林生態系において、象は、種子散布など多くの生態系プロセスにおいて重要な中枢種である。したがって象の状態は生態系の十全性にとって特に重要である。"
+    },
+    {
+      "page": 192,
+      "type": "quote",
+      "en": "In Dipterocarp forests in tropical Southeast Asia, large emergent Dipterocarp trees contribute disproportionately to seedling recruitment and hence forest structure and composition. The status of these large individual trees may not be captured in summary condition metrics.",
+      "ja": "熱帯の東南アジアのフタバガキ科林では高木であるフタバガキ科の成長中樹木が実生更新（seedling recruitment）に過度に寄与し、それゆえに森林構造構成にも過度に寄与する。これらの個々の高木の状態は、状況についての集約測定指標で補足されないこともある。"
+    },
+    {
+      "page": 193,
+      "type": "caption",
+      "en": "Table 29: Potential uses and desirable qualities of ecosystem condition metrics at each phase of the LEAP approach.",
+      "ja": "表29：LEAPアプローチの各フェーズにおける生態系状況測定指標の可能な使用法と望ましい質"
+    },
+    {
+      "page": 193,
+      "type": "table",
+      "en": "| Phase | Desirable qualities of ecosystem condition metrics for this phase (see also Table 32) |\n|---|---|\n| Locate | Flexible – can be used in different business contexts (e.g. for directly owned sites and in value chains) and comparable across a wide range of geographies.<br>Ecologically-connected – clear relationship between values of the metric and ecosystem integrity.<br>Accessible – packaged such that end users can use it without undue effort.<br>Timely – data are up to date.<br>Ecosystem-explicit – can be related to a specific ecosystem at a particular location. |\n| Evaluate | Relevant – can attribute change in the metric to company activities.<br>Ecologically-connected – clear relationship between values of the metric and ecosystem integrity.<br>Timely and responsive – to change in pressures over time (both negative and positive), particularly those relevant to the company.<br>Flexible – applicable at different scales from site to corporate level, and of impacts disaggregated by pressures. |\n| Assess | Relevant – informs materiality assessment, future scenarios and potential management actions.<br>Forward-looking – can be refined with more granular information.<br>Socially-connected – reflects capacity for ecosystem service provision.<br>Aligned – shows implications for global goals.<br>Ecologically-connected – clear relationship between values of the metric and ecosystem integrity.<br>Flexible – applicable at different scales from site to corporate level. |\n| Prepare | Relevant – helps explore strategy effectiveness (both risks and opportunities).<br>Aligned with target setting frameworks.<br>Responsive and timely – trackable over time to assess progress.<br>Understandable – easily communicated to stakeholders.<br>Verifiable – feasible to ground truth results.<br>Flexible – applicable at different scales from site to corporate level. |",
+      "ja": "| フェーズ | 当該フェーズにおける生態系状況測定指標の望ましい質（表32も参照のこと） |\n|---|---|\n| 発見 | 柔軟－様々なビジネス状況で使用でき（例えば直接所有地について、バリューチェーンにおいて等）、広範囲の地形にわたって比較できる。<br>生態学的関連性－測定指標の値と生態系の十全性との明確な関係。<br>利用しやすさ－最終利用者が苦労なく使用できるようにパッケージ化されている。<br>適時性－データは最新のものである。<br>生態系の明示性－ある一か所に特有の生態系に関連付けることができる。 |\n| 診断 | 関連性－測定指標の変化の原因として会社の活動を挙げることができる。<br>生態学的関連性－測定指標の値と生態系の十全性との明確な関係。<br>適時性と反応性－圧力の経時的な変化（プラス／マイナス）、特に会社に関連するものに対して。<br>柔軟－事業拠点から企業レベルまで様々な規模で適用でき、また圧力ごとにインパクトも分解できる。 |\n| 評価 | 関連性－マテリアリティ評価、将来のシナリオ、管理活動として可能性のあるものにおいて参考情報となる。<br>フォワードルッキング－より粒度の細かい情報により改良できる。<br>社会的関連性－生態系サービス供給能力を反映している。<br>整合性－グローバル目標にとっての意味合いを示す。<br>生態学的関連性－測定指標の値と生態系の十全性との明確な関係。<br>柔軟－事業拠点から企業レベルまで様々な規模で適用できる。 |\n| 準備 | 関連性－戦略の有効性を探ることができる（リスクと機会両方）。<br>整合性－ターゲット設定枠組みとの整合性。<br>反応性と適時性－経時的に追跡して進捗状況を評価できる。<br>理解可能－ステークホルダーに伝わりやすい。<br>検証可能－結果の実地調査が可能。<br>柔軟－事業拠点から企業レベルまで様々な規模で適用できる。 |",
+      "flag": "layout-uncertain"
+    },
+    {
+      "page": 194,
+      "type": "h3",
+      "en": "Determining reference condition",
+      "ja": "参照条件の決定"
+    },
+    {
+      "page": 194,
+      "type": "p",
+      "en": "For organisations evaluating ecosystem condition through direct measurement, the TNFD provides guidance drawn from the UN-SEEA Ecosystem Accounting (Table 30). For those entities using proxies/modelled data, reference conditions are usually set within those models.",
+      "ja": "直接測定によって生態系の状態を診断する組織のために、TNFDは国連SEEA生態系勘定から引用したガイダンスを提供している（表30）。プロキシ／モデル化データを使用する事業体の場合、参照条件は通常、これらのモデル内で設定される。"
+    },
+    {
+      "page": 194,
+      "type": "caption",
+      "en": "Table 30: Potential reference conditions for assessing change in nature",
+      "ja": "表30：自然の変化を評価するための参照条件となりうるもの"
+    },
+    {
+      "page": 194,
+      "type": "table",
+      "en": "| Ecosystem | Possible reference conditions |\n|---|---|\n| Natural ecosystems:<br>Ecosystems predominantly influenced by natural ecological processes characterised by a stable ecological state maintaining ecosystem integrity; ecosystem condition ranges within its natural variability. Examples: primary and old growth forests (T1, T2), natural grasslands and savannahs (T4), natural lakes (F2) and wetlands (TF1). | Undisturbed or minimally disturbed condition of an intact ecosystem: The condition of an ecosystem with maximal ecosystem integrity with no or minimal disturbance.<br>Historical condition: The condition of an ecosystem at some point or period in its history that is considered to represent the stable natural state (e.g., the pre-industrial period or pre-intensive agriculture).<br>Least-disturbed condition: The currently best available condition of an ecosystem.<br>Contemporary condition: The condition of an ecosystem at a certain point or period in its recent history for which comparable data are available. |\n| Anthropogenic ecosystems:<br>Ecosystems predominantly influenced by human activities, where a stable natural ecological state is unobtainable and future socioeconomic interventions are required to maintain a new stable state. Examples: urban green spaces and croplands (T4), artificial waterbodies (F3), anthropogenic marine systems (M4). | Historical condition: The condition of an ecosystem at some point or period in its history that is considered to represent the stable socioecological state (e.g. the preindustrial period or pre-intensive agriculture).<br>Least-disturbed condition: The currently best available condition of an ecosystem.<br>Contemporary condition: The condition of an ecosystem at a certain point or period in its recent history for which comparable data are available.<br>Best-attainable condition: The expected condition of an ecosystem under best possible management practices and attaining a stable socio-ecological state. |",
+      "ja": "| 生態系 | 参照条件として可能なもの |\n|---|---|\n| 自然生態系：<br>生態系の十全性を維持する安定した生態学的状態によって特徴づけられる、自然の生態学的過程によって主に影響を受ける生態系。生態系の状態はその自然のばらつきの範囲内にある。例：原生林や老齢林（T1、T2）、自然草地及びサバンナ（T4）、自然湖沼（F2）、湿地（TF1） | 手つかずの生態系の攪乱されていない又は最小限の攪乱状況：攪乱がないか、あっても最小限の、生態系の十全性が最高度の生態系の状態。<br>歴史的状状況：安定した自然の状態を表すとみなされる、生態系の歴史における一時点ないし期間の状態（例：産業革命前の期間、集約農業以前）。<br>最小攪乱状況：現在の生態系の最善の状態。<br>現代の状況：比較可能なデータを入手できる、生態系の最近の歴史におけるある特定の時点ないし期間の状態。 |\n| 人為生態系：<br>主に人間の活動の影響を受ける生態系で、安定した自然の生態学的状態は得られず、新たな安定状態を維持するために将来は社会経済的介入が必要となる。例：都市緑地及び農地（T4）、人工水域（F3）、人工海洋システム（M4） | 歴史的状状況：安定した社会生態学的状態を表すとみなされる、生態系の歴史における一時点ないし期間の状態（例：産業革命前の期間、集約農業以前）。<br>最小攪乱状況：現在の生態系の最善の状態。<br>現代の状況：比較可能なデータを入手できる、生態系の最近の歴史におけるある特定の時点ないし期間の状態。<br>最大限達成可能な状態：可能な限り最良の管理下にあり、安定した社会生態学的状態に達している、生態系の期待される状態。 |"
+    },
+    {
+      "page": 195,
+      "type": "p",
+      "en": "Reference conditions and levels can be estimated using one or a combination of the following methods:",
+      "ja": "参照条件とレベルは以下の方法のいずれかを用いて、あるいは組み合わせて推定することができる。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Reference sites: If pristine or minimally disturbed sites are available, they can be used to determine a reliable measure of the mean and statistical distribution of condition variables;",
+      "ja": "参照サイト：原生又は最小限の攪乱が見られるサイトが利用可能なら、状況変数の平均分布及び統計的分布の信頼できる尺度を決定するために使用できる。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Modelled reference conditions: These can be used to infer conditions in the absence of human disturbance, where representative reference sites are not available;",
+      "ja": "参照条件モデル：代表的な参照サイトがない場合、人間による攪乱のない状況を推測するために使用することができる。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Statistical approaches based on ambient distributions: Least-disturbed conditions or best attainable conditions can be estimated by observing the range of values from current ecosystem monitoring and by selecting a reference condition;",
+      "ja": "周囲分布に基づく統計的アプローチ：最小攪乱状況又は最大限達成可能な状況は、現在の生態系モニタリングによる値の範囲を観察し、参照条件を選択することにより推定できる。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Historical observations and paleo-environmental data: This method uses historical observations or paleontological data to describe a historical reference condition, typically before 1970 when routine environmental monitoring programmes started;",
+      "ja": "歴史的観測および古環境データ：この方法では歴史的観測又は古生物学データを用いて歴史的参照条件、一般には定期的な環境モニタリングプログラムがスタートした1970年よりも前の状態を説明する。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Contemporary data: This method uses contemporary data to describe a contemporary reference condition, typically after 1970 when routine environmental monitoring programmes started. For instance, The Living Planet Index uses species data collected in 1970 as a reference to assess changes;",
+      "ja": "現代のデータ：この方法では現代のデータを用いて現代の参照条件、一般には定期的な環境モニタリングプログラムがスタートした1970年よりも後の状態を説明する。例えば生きている地球指数（Living Planet Index）では1970年に収集された種のデータを基準にして変化を評価している。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Prescribed levels of a set of ecosystem condition variables: These can be used to construct a bottom-up reference condition. Examples of these reference levels include zero values for emissions or pollutants, a specific number of species, established sustainability or threshold levels such as critical loads for eutrophication and acidification, and target levels in terms of legislated quality measures (air and water quality); and/or",
+      "ja": "生態系状況変数の規定レベル：これらはボトムアップ型の参照条件を組み立てるのに使用できる。このようなレベルの例として、排出量ないし汚染物質のゼロ値、種の具体的な数字、富栄養化や酸性化に関する限界負荷のような確立した持続可能性水準ないし閾値、法制化された品質尺度（大気／水質）に関しての目標値等がある。"
+    },
+    {
+      "page": 195,
+      "type": "li",
+      "en": "Expert opinion.",
+      "ja": "専門家の意見。"
+    },
+    {
+      "page": 195,
+      "type": "p",
+      "en": "Data representing reference conditions for the ideal or target state of nature will depend on sector and on metric, but also whether an organisation is considering the materiality of impacts from a business perspective or a societal perspective. This may include a pristine natural state or may refer to some healthy stable or resilient state. In either case, reference conditions should be established by a credible third party and/or be subject to peer review or third-party verification and be transparent. The precautionary principle should be applied throughout.",
+      "ja": "自然の理想状態又は目標状態のための参照条件を表すデータはセクターや測定指標に依存するが、組織がインパクトのマテリアリティをビジネスの観点から考えるのか、それとも社会的観点から考えるのかによっても左右される。原生自然状態が含まれることもあれば、健全で安定した、又は回復力のある状態のことを指す場合もあるだろう。いずれにしても、参照条件は信頼できる第三者が設定する、かつ／又は、査読もしくは第三者検証を受けるべきであり、透明性の高いものとすべきである。最初から最後まで予防原則を適用すべきである。"
+    },
+    {
+      "page": 195,
+      "type": "h4",
+      "en": "Setting a reference condition (and metric selection)",
+      "ja": "参照条件の設定（及び測定指標選択）"
+    },
+    {
+      "page": 195,
+      "type": "p",
+      "en": "Data to construct and support the selection of a reference condition can include all ecosystem characteristics. For these indicators, preference should be given to primary observational data and/or context specific modelled data from secondary sources. Where a pristine or otherwise appropriate reference condition does not exist, or cannot be established, modelled data may be required. For example, fisheries will model the maximum allowable biomass harvest yield to maintain target fish populations but may also require measures to protect areas of high conservation value with an established reference condition, such as target benthic seascape topography. The appropriate reference condition metrics and datasets will need to be established by sector, and potentially by company, depending on their identified potential impacts and operating geographies.",
+      "ja": "参照条件選定を構築し支えるデータには生態系のすべての特性が含まれうる。こうした指標に関しては、一次観測データ及び／又は二次情報源からの文脈固有のモデル化データを優先すべきである。原生又はその他適切な参照条件が存在しないか設定できない場合、モデル化データが必要になることもある。例えば漁業ではターゲットとなる魚の個体数を維持するための最大許容バイオマス収穫高をモデルとするが、確立された参照条件でもって保存価値の高い地域を保護するための尺度、例えば目標海底地形等が必要になる場合もある。適切な参照条件の測定指標とデータセットをセクター別に、また特定された潜在的なインパクトや操業地域に応じて企業別にも、設定することが必要になる。"
+    },
+    {
+      "page": 195,
+      "type": "h3",
+      "en": "Measuring ecosystem condition",
+      "ja": "生態系状況の測定"
+    },
+    {
+      "page": 195,
+      "type": "h4",
+      "en": "Fundamental trade-offs",
+      "ja": "根本的トレードオフ"
+    },
+    {
+      "page": 195,
+      "type": "p",
+      "en": "There are an increasing number of metrics and approaches available to measure ecosystem condition.141 Despite this, practical challenges associated with measuring ecosystem condition remain and only limited data is available for some ecosystems and locations. The different components of ecosystem condition that are the most important or the most feasible to measure also vary between ecosystem types. This means that measuring ecosystem condition inevitably involves trade-offs between desirable characteristics, such as feasibility, validity, scalability and granularity (Figure 33).",
+      "ja": "生態系状況を測定するために利用できる測定指標やアプローチは増えつつある141。それにもかかわらず、生態系状況測定に伴う現実的課題は残っており、一部の生態系や地域については限られたデータしか入手できない。生態系状況を測定するのに最も重要、あるいは最も適した、その様々な構成要素は生態系種類によっても異なる。このことは、生態系状況測定においては望ましい特性、例えば実現可能性、有効性、拡張性、粒度等の間でトレードオフが避けられないことを意味する（図33）。"
+    },
+    {
+      "page": 195,
+      "type": "footnote",
+      "en": "141 Nicholson, E. et al. (2021) Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework.",
+      "ja": "141 Nicholson, E. et al.（2021）『Scientific foundations for an ecosystem goal, milestones and indicators for the post-2020 global biodiversity framework』"
+    },
+    {
+      "page": 196,
+      "type": "p",
+      "en": "The structure, composition and function elements of ecosystem condition are interrelated, but these relationships are often not straightforward nor well understood. In practice, metrics focus on a subset of components expected to indicate ecosystem condition, often within one element, such as an ecosystem’s structure or composition. To use ecosystem condition metrics appropriately, it is important to understand the elements and components included, and the trade-offs that a metric makes between desirable characteristics.",
+      "ja": "生態系状況の構造、構成、機能の各要素は相互に関連するが、この関係は単純でない場合が多く、また十分に理解されてもいない。現実には測定指標は生態系状況を示すと予想される構成要素のサブセットに焦点が絞られ、生態系の構造や構成等、1つの要素に集中する場合が多い。生態系状況測定指標を適切に使用するには、各要素とその構成要素について、及び測定指標が作り出す望ましい特性間のトレードオフについて、理解することが重要である。"
+    },
+    {
+      "page": 196,
+      "type": "caption",
+      "en": "Figure 33: Commonly observed trade-offs between metric characteristics",
+      "ja": "図33：測定指標の特性の間でよく見られるトレードオフ"
+    },
+    {
+      "page": 196,
+      "type": "figure",
+      "en": "Feasibility: Implemented easily and inexpensively / Scalability: Applicable in a standard additive way anywhere at any scale / Granularity: Fine-scale enough to support decision-making / Validity: Gives an unbiased representation of biodiversity",
+      "ja": "実現可能性：簡単に低コストで実現 / 拡張性：どこでもどのような規模でも標準的な追加法で適用可能 / 粒度：意思決定をサポートするのに十分な細度 / 妥当性：生物多様性についての偏りのない表示"
+    },
+    {
+      "page": 196,
+      "type": "figure",
+      "en": "Metrics that favour feasibility and scalability typically do so by extrapolating from pressure-state relationships / Metrics that prioritise granularity and validity typically focus on direct measurement of ecosystem characteristics",
+      "ja": "実現可能性と拡張性に優れる測定指標は圧力－状態関係性からの推定によりそうなっているのが典型 / 粒度と有効性を優先する測定指標は一般に生態系の特性の直接測定に重点を置く"
+    }
+  ]
+}
